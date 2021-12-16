@@ -1,0 +1,2373 @@
+HTTP/1.1 200 OK
+Date: Thu, 16 Dec 2021 22:55:26 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: D0BD0C4BE1A3511500005CCFD635E43D.1.1.m_5
+X-RateLimit-Remaining: 0
+NCBI-SID: B592B2105A9FC47A_9EC3SID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=B592B2105A9FC47A_9EC3SID; domain=.nih.gov; path=/; expires=Fri, 16 Dec 2022 22:55:26 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 25437408
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150312
+LR  - 20191210
+IS  - 1539-3704 (Electronic)
+IS  - 0003-4819 (Linking)
+VI  - 161
+IP  - 11
+DP  - 2014 Dec 2
+TI  - Usage and effect of health information exchange: a systematic review.
+PG  - 803-11
+LID - 10.7326/M14-0877 [doi]
+AB  - BACKGROUND: Health information exchange (HIE) is increasing in the United States,
+      and it is incentivized by government policies. PURPOSE: To systematically review 
+      and evaluate evidence of the use and effect of HIE on clinical care. DATA
+      SOURCES: Selected databases from 1 January 2003 to 31 May 2014. STUDY SELECTION: 
+      English-language hypothesis-testing or quantitative studies of several types of
+      data exchange among unaffiliated organizations for use in clinical care that
+      addressed health outcomes, efficiency, utilization, costs, satisfaction, HIE
+      usage, sustainability, and attitudes or barriers. DATA EXTRACTION: Data
+      extraction was done in duplicate. DATA SYNTHESIS: Low-quality evidence from 12
+      hypothesis-testing studies supports an effect of HIE use on reduced use or costs 
+      in the emergency department. Direct evidence that HIEs were used by providers was
+      reported in 21 studies involving 13 distinct HIE organizations, 6 of which were
+      located in New York, and generally showed usage in less than 10% of patient
+      encounters. Findings from 17 studies of sustainability suggest that approximately
+      one quarter of existing HIE organizations consider themselves financially stable.
+      Findings from 38 studies about attitudes and barriers showed that providers,
+      patients, and other stakeholders consider HIE to be valuable, but barriers
+      include technical and workflow issues, costs, and privacy concerns. LIMITATION:
+      Publication bias, possible selective reporting of outcomes, and a dearth of
+      reporting on context and implementation processes. CONCLUSION: Health information
+      exchange use probably reduces emergency department usage and costs in some cases.
+      Effects on other outcomes are unknown. All stakeholders claim to value HIE, but
+      many barriers to acceptance and sustainability exist. A small portion of
+      operational HIEs have been evaluated, and more research is needed to identify and
+      understand success factors. PRIMARY FUNDING SOURCE: U.S. Department of Veterans
+      Affairs. (PROSPERO registration number: CRD42014007469).
+FAU - Rudin, Robert S
+AU  - Rudin RS
+FAU - Motala, Aneesa
+AU  - Motala A
+FAU - Goldzweig, Caroline L
+AU  - Goldzweig CL
+FAU - Shekelle, Paul G
+AU  - Shekelle PG
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+PT  - Systematic Review
+PL  - United States
+TA  - Ann Intern Med
+JT  - Annals of internal medicine
+JID - 0372351
+SB  - IM
+MH  - Confidentiality
+MH  - Efficiency, Organizational
+MH  - Emergency Service, Hospital/economics/statistics & numerical data
+MH  - Health Care Costs
+MH  - Health Information Exchange/economics/*statistics & numerical data
+MH  - Humans
+MH  - Outcome Assessment, Health Care
+MH  - Patient Satisfaction
+MH  - United States
+EDAT- 2014/12/02 06:00
+MHDA- 2015/03/13 06:00
+CRDT- 2014/12/02 06:00
+PHST- 2014/12/02 06:00 [entrez]
+PHST- 2014/12/02 06:00 [pubmed]
+PHST- 2015/03/13 06:00 [medline]
+AID - 1983413 [pii]
+AID - 10.7326/M14-0877 [doi]
+PST - ppublish
+SO  - Ann Intern Med. 2014 Dec 2;161(11):803-11. doi: 10.7326/M14-0877.
+
+PMID- 29718258
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191216
+LR  - 20201201
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 25
+IP  - 9
+DP  - 2018 Sep 1
+TI  - The benefits of health information exchange: an updated systematic review.
+PG  - 1259-1265
+LID - 10.1093/jamia/ocy035 [doi]
+AB  - Objective: Widespread health information exchange (HIE) is a national objective
+      motivated by the promise of improved care and a reduction in costs. Previous
+      reviews have found little rigorous evidence that HIE positively affects these
+      anticipated benefits. However, early studies of HIE were methodologically
+      limited. The purpose of the current study is to review the recent literature on
+      the impact of HIE. Methods: We used the Preferred Reporting Items for Systematic 
+      Reviews and Meta-Analyses guidelines to conduct our systematic review. PubMed and
+      Scopus databases were used to identify empirical articles that evaluated HIE in
+      the context of a health care outcome. Results: Our search strategy identified 24 
+      articles that included 63 individual analyses. The majority of the studies were
+      from the United States representing 9 states; and about 40% of the included
+      analyses occurred in a handful of HIEs from the state of New York. Seven of the
+      24 studies used designs suitable for causal inference and all reported some
+      beneficial effect from HIE; none reported adverse effects. Conclusions: The
+      current systematic review found that studies with more rigorous designs all
+      reported benefits from HIE. Such benefits include fewer duplicated procedures,
+      reduced imaging, lower costs, and improved patient safety. We also found that
+      studies evaluating community HIEs were more likely to find benefits than studies 
+      that evaluated enterprise HIEs or vendor-mediated exchanges. Overall, these
+      finding bode well for the HIEs ability to deliver on anticipated improvements in 
+      care delivery and reduction in costs.
+FAU - Menachemi, Nir
+AU  - Menachemi N
+AD  - Department of Health Policy and Management, Indiana University (IU) Richard M.
+      Fairbanks School of Public Health, Indianapolis, IN, USA.
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN, USA.
+FAU - Rahurkar, Saurabh
+AU  - Rahurkar S
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN, USA.
+FAU - Harle, Christopher A
+AU  - Harle CA
+AD  - Department of Health Policy and Management, Indiana University (IU) Richard M.
+      Fairbanks School of Public Health, Indianapolis, IN, USA.
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN, USA.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Department of Health Policy and Management, Indiana University (IU) Richard M.
+      Fairbanks School of Public Health, Indianapolis, IN, USA.
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Costs and Cost Analysis
+MH  - *Health Care Costs
+MH  - *Health Information Exchange/economics
+MH  - Humans
+MH  - *Patient Acceptance of Health Care
+MH  - Patient Safety
+MH  - Population Surveillance
+PMC - PMC7646861
+EDAT- 2018/05/03 06:00
+MHDA- 2019/12/18 06:00
+CRDT- 2018/05/03 06:00
+PHST- 2018/01/08 00:00 [received]
+PHST- 2018/03/18 00:00 [accepted]
+PHST- 2018/05/03 06:00 [pubmed]
+PHST- 2019/12/18 06:00 [medline]
+PHST- 2018/05/03 06:00 [entrez]
+AID - 4990601 [pii]
+AID - 10.1093/jamia/ocy035 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2018 Sep 1;25(9):1259-1265. doi: 10.1093/jamia/ocy035.
+
+PMID- 25601332
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150917
+LR  - 20181202
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 84
+IP  - 3
+DP  - 2015 Mar
+TI  - The organizational and clinical impact of integrating bedside equipment to an
+      information system: a systematic literature review of patient data management
+      systems (PDMS).
+PG  - 155-65
+LID - 10.1016/j.ijmedinf.2014.12.002 [doi]
+LID - S1386-5056(14)00247-0 [pii]
+AB  - OBJECTIVE: The introduction of an information system integrated to bedside
+      equipment requires significant financial and resource investment; therefore
+      understanding the potential impact is beneficial for decision-makers. However, no
+      systematic literature reviews (SLRs) focus on this topic. This SLR aims to gather
+      evidence on the impact of the aforementioned system, also known as a patient data
+      management system (PDMS) on both organizational and clinical outcomes. MATERIALS 
+      AND METHODS: A literature search was performed using the databases Medline/PubMed
+      and CINHAL for English articles published between January 2000 and December 2012.
+      A quality assessment was performed on articles deemed relevant for the SLR.
+      RESULTS: Eighteen articles were included in the SLR. Sixteen articles
+      investigated the impact of a PDMS on the organizational outcomes, comprising
+      descriptive, quantitative and qualitative studies. A PDMS was found to reduce the
+      charting time, increase the time spent on direct patient care and reduce the
+      occurrence of errors. Only two articles investigated the clinical impact of a
+      PDMS. Both reported an improvement in clinical outcomes when a PDMS was
+      integrated with a clinical decision support system (CDSS). CONCLUSIONS: A PDMS
+      has shown to offer many advantages in both the efficiency and the quality of care
+      delivered to the patient. In addition, a PDMS integrated to a CDSS may improve
+      clinical outcomes, although further studies are required for validation.
+CI  - Copyright (c) 2015 Elsevier Ireland Ltd. All rights reserved.
+FAU - Cheung, Amy
+AU  - Cheung A
+AD  - Department of Information, Communication and Medical Technology (ICMT), Catharina
+      Hospital, PO Box 1350, 5602ZA Eindhoven, The Netherlands.
+FAU - van Velden, Floris H P
+AU  - van Velden FH
+AD  - Department of Information, Communication and Medical Technology (ICMT), Catharina
+      Hospital, PO Box 1350, 5602ZA Eindhoven, The Netherlands; Department of Radiology
+      & Nuclear Medicine, VU University Medical Center, PO Box 7057, 1007MB Amsterdam, 
+      The Netherlands. Electronic address: f.vvelden@vumc.nl.
+FAU - Lagerburg, Vera
+AU  - Lagerburg V
+AD  - Department of Information, Communication and Medical Technology (ICMT), Catharina
+      Hospital, PO Box 1350, 5602ZA Eindhoven, The Netherlands.
+FAU - Minderman, Niels
+AU  - Minderman N
+AD  - Department of, Medical Spectrum Twente, PO Box 50000, 7500 KA, Enschede, The
+      Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20150103
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Critical Care
+MH  - *Decision Support Systems, Clinical/statistics & numerical data
+MH  - Efficiency, Organizational
+MH  - Health Care Rationing
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Medical Errors
+MH  - *Point-of-Care Systems/statistics & numerical data
+MH  - Workflow
+OTO - NOTNLM
+OT  - Bedside equipment
+OT  - Clinical decision support systems (CDSS)
+OT  - Computer information system (CIS)
+OT  - Intensive care
+OT  - Patient data management system (PDMS)
+EDAT- 2015/01/21 06:00
+MHDA- 2015/09/18 06:00
+CRDT- 2015/01/21 06:00
+PHST- 2013/11/13 00:00 [received]
+PHST- 2014/09/30 00:00 [revised]
+PHST- 2014/12/28 00:00 [accepted]
+PHST- 2015/01/21 06:00 [entrez]
+PHST- 2015/01/21 06:00 [pubmed]
+PHST- 2015/09/18 06:00 [medline]
+AID - S1386-5056(14)00247-0 [pii]
+AID - 10.1016/j.ijmedinf.2014.12.002 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2015 Mar;84(3):155-65. doi: 10.1016/j.ijmedinf.2014.12.002.
+      Epub 2015 Jan 3.
+
+PMID- 27722981
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170710
+LR  - 20181202
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 40
+IP  - 12
+DP  - 2016 Dec
+TI  - Access control and privilege management in electronic health record: a systematic
+      literature review.
+PG  - 261
+AB  - This study presents a systematic literature review of access control for
+      electronic health record systems to protect patient's privacy. Articles from 2006
+      to 2016 were extracted from the ACM Digital Library, IEEE Xplore Digital Library,
+      Science Direct, MEDLINE, and MetaPress using broad eligibility criteria, and
+      chosen for inclusion based on analysis of ISO22600. Cryptographic standards and
+      methods were left outside the scope of this review. Three broad classes of models
+      are being actively investigated and developed: access control for electronic
+      health records, access control for interoperability, and access control for risk 
+      analysis. Traditional role-based access control models are extended with spatial,
+      temporal, probabilistic, dynamic, and semantic aspects to capture contextual
+      information and provide granular access control. Maintenance of audit trails and 
+      facilities for overriding normal roles to allow full access in emergency cases
+      are common features. Access privilege frameworks utilizing ontology-based
+      knowledge representation for defining the rules have attracted considerable
+      interest, due to the higher level of abstraction that makes it possible to model 
+      domain knowledge and validate access requests efficiently.
+FAU - Jayabalan, Manoj
+AU  - Jayabalan M
+AUID- ORCID: http://orcid.org/0000-0002-1599-965X
+AD  - Asia Pacific University of Technology and Innovation, Technology Park Malaysia,
+      Bukit Jalil, 57000, Kuala Lumpur, Malaysia. manoj@apu.edu.my.
+FAU - O'Daniel, Thomas
+AU  - O'Daniel T
+AD  - Asia Pacific University of Technology and Innovation, Technology Park Malaysia,
+      Bukit Jalil, 57000, Kuala Lumpur, Malaysia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20161008
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - *Computer Security
+MH  - Confidentiality
+MH  - Electronic Health Records/*organization & administration
+MH  - Emergencies
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Policy
+OTO - NOTNLM
+OT  - Access control
+OT  - Electronic health records
+OT  - IS022600
+OT  - Privacy
+OT  - Systematic review
+EDAT- 2016/10/11 06:00
+MHDA- 2017/07/14 06:00
+CRDT- 2016/10/11 06:00
+PHST- 2016/06/28 00:00 [received]
+PHST- 2016/09/04 00:00 [accepted]
+PHST- 2016/10/11 06:00 [entrez]
+PHST- 2016/10/11 06:00 [pubmed]
+PHST- 2017/07/14 06:00 [medline]
+AID - 10.1007/s10916-016-0589-z [doi]
+AID - 10.1007/s10916-016-0589-z [pii]
+PST - ppublish
+SO  - J Med Syst. 2016 Dec;40(12):261. doi: 10.1007/s10916-016-0589-z. Epub 2016 Oct 8.
+
+PMID- 29852963
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181022
+LR  - 20181202
+IS  - 1872-7565 (Electronic)
+IS  - 0169-2607 (Linking)
+VI  - 161
+DP  - 2018 Jul
+TI  - The impact of health information exchange on healthcare quality and
+      cost-effectiveness: A systematic literature review.
+PG  - 209-232
+LID - S0169-2607(18)30090-7 [pii]
+LID - 10.1016/j.cmpb.2018.04.023 [doi]
+AB  - BACKGROUND AND OBJECTIVE: Health Information Exchange (HIE) is known as a
+      technology that electronically shares all clinical and administrative data
+      throughout healthcare settings. Despite this technology has a great potential in 
+      the healthcare industry, there is a limited and sparse evidence of articles which
+      illustrated the impact of HIE on quality of care and cost-effectiveness. This
+      work presents a systematic review that evaluates the impact of HIE on quality and
+      cost-effectiveness, and the rates of HIE adoption and participation in healthcare
+      organizations. METHODS: We systematically searched all English papers that were
+      indexed in four major databases (Science Direct, PubMed, IEEE and Web of Science)
+      between 2005 and 2016. Consequently, 32 identified papers appeared in 21
+      international journals and conferences. Eligible studies independently were
+      critically appraised, collected within data extraction form and then thematically
+      analyzed by two reviewers and if necessary, the third author. The selected papers
+      have been classified based on 11 main categories including publication year,
+      journal and conference names, country and study design, types of data exchanged, 
+      healthcare levels, disease or disorder, participants in organizations and
+      individuals, settings characteristics and HIE types, the impact of HIE on quality
+      and cost-effectiveness, and the rates of HIE adoption and participation. RESULTS:
+      Of the 32 articles, 25 studies investigated the financial and clinical impact of 
+      HIE. Overwhelmingly, HIE studies have reported positive findings for quality and 
+      cost-effectiveness of care. 15 of HIE studies (60%) demonstrated positive
+      financial effects and 16 studies (64%) reported positive effects on quality
+      improvement of patient care. However, the overall quality of the evidences was
+      low. In this regard, cohort study (59.38%) was the most common used study design.
+      Nine studies presented the rates of HIE adoption and participation. The lowest
+      and highest participation rates were 15.7% and 79%, respectively. CONCLUSIONS:
+      HIE can be considered as a superior potential for healthcare information system, 
+      resulting to promote patient care quality and reduce costs related to resource
+      utilization. However, further researches are needed in order to provide a better 
+      understanding of this domain and accordingly attain new opportunities to increase
+      users' participation and motivation for successfully adopting this technology.
+CI  - Copyright (c) 2018 Elsevier B.V. All rights reserved.
+FAU - Sadoughi, Farahnaz
+AU  - Sadoughi F
+AD  - Health Management and Economics Research Center, Iran University of Medical
+      Sciences, Tehran, Iran. Electronic address: sadoughi.f@iums.ac.ir.
+FAU - Nasiri, Somayeh
+AU  - Nasiri S
+AD  - Department of Health Information Management, School of Health Management and
+      Information Sciences, Iran University of Medical Sciences, Tehran, Iran.
+      Electronic address: nasiri.him2015@gmail.com.
+FAU - Ahmadi, Hossein
+AU  - Ahmadi H
+AD  - Department of Health Information Management, School of Health Management and
+      Information Sciences, Iran University of Medical Sciences, Tehran, Iran.
+      Electronic address: hosseinis3007@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20180428
+PL  - Ireland
+TA  - Comput Methods Programs Biomed
+JT  - Computer methods and programs in biomedicine
+JID - 8506513
+SB  - IM
+MH  - Ambulatory Care/organization & administration
+MH  - *Cost-Benefit Analysis
+MH  - Emergency Service, Hospital/organization & administration
+MH  - Health Care Costs
+MH  - Health Information Exchange/*economics/*statistics & numerical data
+MH  - Humans
+MH  - *Quality of Health Care
+MH  - Research Design
+OTO - NOTNLM
+OT  - Cost-effectiveness
+OT  - Health information exchange
+OT  - Healthcare quality
+OT  - Systematic review
+EDAT- 2018/06/02 06:00
+MHDA- 2018/10/23 06:00
+CRDT- 2018/06/02 06:00
+PHST- 2018/01/17 00:00 [received]
+PHST- 2018/04/07 00:00 [revised]
+PHST- 2018/04/26 00:00 [accepted]
+PHST- 2018/06/02 06:00 [entrez]
+PHST- 2018/06/02 06:00 [pubmed]
+PHST- 2018/10/23 06:00 [medline]
+AID - S0169-2607(18)30090-7 [pii]
+AID - 10.1016/j.cmpb.2018.04.023 [doi]
+PST - ppublish
+SO  - Comput Methods Programs Biomed. 2018 Jul;161:209-232. doi:
+      10.1016/j.cmpb.2018.04.023. Epub 2018 Apr 28.
+
+PMID- 28630033
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180105
+LR  - 20181202
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 19
+IP  - 6
+DP  - 2017 Jun 19
+TI  - Trust and Credibility in Web-Based Health Information: A Review and Agenda for
+      Future Research.
+PG  - e218
+LID - 10.2196/jmir.7579 [doi]
+AB  - BACKGROUND: Internet sources are becoming increasingly important in seeking
+      health information, such that they may have a significant effect on health care
+      decisions and outcomes. Hence, given the wide range of different sources of
+      Web-based health information (WHI) from different organizations and individuals, 
+      it is important to understand how information seekers evaluate and select the
+      sources that they use, and more specifically, how they assess their credibility
+      and trustworthiness. OBJECTIVE: The aim of this study was to review empirical
+      studies on trust and credibility in the use of WHI. The article seeks to present 
+      a profile of the research conducted on trust and credibility in WHI seeking, to
+      identify the factors that impact judgments of trustworthiness and credibility,
+      and to explore the role of demographic factors affecting trust formation. On this
+      basis, it aimed to identify the gaps in current knowledge and to propose an
+      agenda for future research. METHODS: A systematic literature review was
+      conducted. Searches were conducted using a variety of combinations of the terms
+      WHI, trust, credibility, and their variants in four multi-disciplinary and four
+      health-oriented databases. Articles selected were published in English from 2000 
+      onwards; this process generated 3827 unique records. After the application of the
+      exclusion criteria, 73 were analyzed fully. RESULTS: Interest in this topic has
+      persisted over the last 15 years, with articles being published in medicine,
+      social science, and computer science and originating mostly from the United
+      States and the United Kingdom. Documents in the final dataset fell into 3
+      categories: (1) those using trust or credibility as a dependent variable, (2)
+      those using trust or credibility as an independent variable, and (3) studies of
+      the demographic factors that influence the role of trust or credibility in WHI
+      seeking. There is a consensus that website design, clear layout, interactive
+      features, and the authority of the owner have a positive effect on trust or
+      credibility, whereas advertising has a negative effect. With regard to content
+      features, authority of the author, ease of use, and content have a positive
+      effect on trust or credibility formation. Demographic factors influencing trust
+      formation are age, gender, and perceived health status. CONCLUSIONS: There is
+      considerable scope for further research. This includes increased clarity of the
+      interaction between the variables associated with health information seeking,
+      increased consistency on the measurement of trust and credibility, a greater
+      focus on specific WHI sources, and enhanced understanding of the impact of
+      demographic variables on trust and credibility judgments.
+CI  - (c)Laura Sbaffi, Jennifer Rowley. Originally published in the Journal of Medical 
+      Internet Research (http://www.jmir.org), 19.06.2017.
+FAU - Sbaffi, Laura
+AU  - Sbaffi L
+AUID- ORCID: 0000-0003-4920-893X
+AD  - Information School, Department of Social Sciences, University of Sheffield,
+      Sheffield, United Kingdom.
+FAU - Rowley, Jennifer
+AU  - Rowley J
+AUID- ORCID: 0000-0003-3437-6914
+AD  - Information Interaction Research Group, Department of Languages, Information and 
+      Communication, Manchester Metropolitan University, Manchester, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20170619
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Internet/*statistics & numerical data
+MH  - Male
+MH  - Research
+MH  - Trust
+MH  - United States
+PMC - PMC5495972
+OTO - NOTNLM
+OT  - *health information
+OT  - *information retrieval
+OT  - *literature review
+OT  - *trust
+OT  - *web
+EDAT- 2017/06/21 06:00
+MHDA- 2018/01/06 06:00
+CRDT- 2017/06/21 06:00
+PHST- 2017/02/24 00:00 [received]
+PHST- 2017/04/24 00:00 [accepted]
+PHST- 2017/04/21 00:00 [revised]
+PHST- 2017/06/21 06:00 [entrez]
+PHST- 2017/06/21 06:00 [pubmed]
+PHST- 2018/01/06 06:00 [medline]
+AID - v19i6e218 [pii]
+AID - 10.2196/jmir.7579 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2017 Jun 19;19(6):e218. doi: 10.2196/jmir.7579.
+
+PMID- 27185528
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170619
+LR  - 20181202
+IS  - 1460-2237 (Electronic)
+IS  - 0268-1080 (Linking)
+VI  - 31
+IP  - 9
+DP  - 2016 Nov
+TI  - Barriers and facilitators to health information exchange in low- and
+      middle-income country settings: a systematic review.
+PG  - 1310-25
+LID - 10.1093/heapol/czw056 [doi]
+AB  - The exchange and use of health information can help healthcare professionals and 
+      policymakers make informed decisions on ways of improving patient and population 
+      health. Many low- and middle-income countries (LMICs) have however failed to
+      embrace the approaches and technologies to facilitate health information exchange
+      (HIE). We sought to understand the barriers and facilitators to the
+      implementation and adoption of HIE in LMICs. Two reviewers independently searched
+      11 academic databases for published and on-going qualitative, quantitative and
+      mixed-method studies and searched for unpublished work through the Google search 
+      engine. The searches covered the period from January 1990 to July 2014 and were
+      not restricted by language. Eligible studies were independently, critically
+      appraised and then thematically analysed. The searches yielded 5461 citations
+      after de-duplication of results. Of these, 56 articles, three conference
+      abstracts and four technical reports met the inclusion criteria. The lack of
+      importance given to data in decision making, corruption and insecurity, lack of
+      training and poor infrastructure were considered to be major challenges to
+      implementing HIE, but strong leadership and clear policy direction coupled with
+      the financial support to acquire essential technology, improve the communication 
+      network, and provide training for staff all helped to promote implementation. The
+      body of work also highlighted how implementers of HIE needed to take into account
+      local needs to ensure that stakeholders saw HIE as relevant and advantageous. HIE
+      interventions implemented through leapfrog technologies such as
+      telehealth/telemedicine and mHealth in Brazil, Kenya, and South Africa, provided 
+      successful examples of exchanging health information in LMICs despite limited
+      resources and capability. It is important that implementation of HIE is aligned
+      with national priorities and local needs.
+CI  - (c) The Author 2016. Published by Oxford University Press in association with The
+      London School of Hygiene and Tropical Medicine. All rights reserved. For
+      permissions, please e-mail: journals.permissions@oup.com.
+FAU - Akhlaq, Ather
+AU  - Akhlaq A
+AD  - Centre for Medical Informatics, Usher Institute of Population Health Sciences and
+      Informatics, the Medical School, University of Edinburgh, Teviot Place,
+      Edinburgh, EH8 9AG, UK ather.akhlaq@ed.ac.uk.
+FAU - McKinstry, Brian
+AU  - McKinstry B
+AD  - Centre for Medical Informatics, Usher Institute of Population Health Sciences and
+      Informatics, the Medical School, University of Edinburgh, Teviot Place,
+      Edinburgh, EH8 9AG, UK.
+FAU - Muhammad, Khalid Bin
+AU  - Muhammad KB
+AD  - College of Computer Science and Information Systems, Institute of Business
+      Management, Korangi Creek, Karachi, Pakistan.
+FAU - Sheikh, Aziz
+AU  - Sheikh A
+AD  - Centre for Medical Informatics, Usher Institute of Population Health Sciences and
+      Informatics, the Medical School, University of Edinburgh, Teviot Place,
+      Edinburgh, EH8 9AG, UK.
+LA  - eng
+GR  - MC_PC_13040/Medical Research Council/United Kingdom
+GR  - MR/K007017/1/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20160516
+PL  - England
+TA  - Health Policy Plan
+JT  - Health policy and planning
+JID - 8610614
+MH  - Decision Making
+MH  - *Developing Countries
+MH  - *Financial Support
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - *Leadership
+MH  - Qualitative Research
+OTO - NOTNLM
+OT  - Barriers
+OT  - facilitators
+OT  - health information exchange
+OT  - low- and middle-income countries
+EDAT- 2016/05/18 06:00
+MHDA- 2017/06/20 06:00
+CRDT- 2016/05/18 06:00
+PHST- 2016/04/07 00:00 [accepted]
+PHST- 2016/05/18 06:00 [entrez]
+PHST- 2016/05/18 06:00 [pubmed]
+PHST- 2017/06/20 06:00 [medline]
+AID - czw056 [pii]
+AID - 10.1093/heapol/czw056 [doi]
+PST - ppublish
+SO  - Health Policy Plan. 2016 Nov;31(9):1310-25. doi: 10.1093/heapol/czw056. Epub 2016
+      May 16.
+
+PMID- 31862260
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210125
+LR  - 20210319
+IS  - 1876-7583 (Electronic)
+IS  - 1876-7583 (Linking)
+VI  - 13
+IP  - 2
+DP  - 2020 Apr
+TI  - A systematic search and technical review of online information pertaining to
+      medical care for people with disability.
+PG  - 100877
+LID - S1936-6574(19)30196-7 [pii]
+LID - 10.1016/j.dhjo.2019.100877 [doi]
+AB  - BACKGROUND: Little is known about the availability and technical quality of
+      online information related to the medical care of people with disability, despite
+      the potential of this information to alter clinical interactions and treatment
+      decisions. OBJECTIVES: This review examines the utility of internet search
+      engines for finding information related to medical care for people with
+      disability, identifies common sources of this online information, and assesses
+      the presence of technical attributes which allow for its critical evaluation.
+      METHODS: Exhaustive systematic searches were conducted on two popular search
+      engines (Google and Yahoo) using six search phrases. Resources were coded to
+      categorize presenting organization, format, and technical quality. RESULTS: Only 
+      8.9% of results included information related to medical care for people with
+      disability. Analyzed resources were most often from non-profit organizations
+      (31.7%) in website format (60.2%). The composite technical quality score for all 
+      included resources had a median and mode of three on a scale of six. CONCLUSIONS:
+      Online information related to medical care for people with disability is not only
+      difficult to locate, but has generally low technical quality. These findings have
+      implications for health information professionals, patients, care providers, and 
+      information developers.
+CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
+FAU - Goss, Katherine D
+AU  - Goss KD
+AD  - Department of Physical Medicine and Rehabilitation, SUNY Upstate Medical
+      University, Syracuse, NY, United States. Electronic address: gossk@upstate.edu.
+FAU - Ioerger, Michael
+AU  - Ioerger M
+AD  - College of Medicine, The Ohio State University, Columbus, OH, United States.
+FAU - Young, Virginia
+AU  - Young V
+AD  - Health Sciences Library, SUNY Upstate Medical University, Syracuse, NY, United
+      States.
+FAU - Flanders, Reed M
+AU  - Flanders RM
+AD  - College of Arts and Sciences, Syracuse University, Syracuse, NY, United States.
+FAU - Turk, Margaret A
+AU  - Turk MA
+AD  - Department of Physical Medicine and Rehabilitation, SUNY Upstate Medical
+      University, Syracuse, NY, United States.
+LA  - eng
+GR  - U19 DD001218/DD/NCBDD CDC HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Systematic Review
+DEP - 20191205
+PL  - United States
+TA  - Disabil Health J
+JT  - Disability and health journal
+JID - 101306633
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Disabled Persons/*rehabilitation/*statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Information Storage and Retrieval/*statistics & numerical data
+MH  - Internet/*statistics & numerical data
+MH  - Male
+MH  - Middle Aged
+OTO - NOTNLM
+OT  - *Disability
+OT  - *Medical information
+OT  - *Online information
+OT  - *Technical quality
+COIS- Declaration of competing interest The authors have no conflicts of interest to
+      report.
+EDAT- 2019/12/22 06:00
+MHDA- 2021/01/26 06:00
+CRDT- 2019/12/22 06:00
+PHST- 2019/07/05 00:00 [received]
+PHST- 2019/11/20 00:00 [revised]
+PHST- 2019/11/26 00:00 [accepted]
+PHST- 2019/12/22 06:00 [pubmed]
+PHST- 2021/01/26 06:00 [medline]
+PHST- 2019/12/22 06:00 [entrez]
+AID - S1936-6574(19)30196-7 [pii]
+AID - 10.1016/j.dhjo.2019.100877 [doi]
+PST - ppublish
+SO  - Disabil Health J. 2020 Apr;13(2):100877. doi: 10.1016/j.dhjo.2019.100877. Epub
+      2019 Dec 5.
+
+PMID- 26412010
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160811
+LR  - 20181202
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 84
+IP  - 12
+DP  - 2015 Dec
+TI  - Feasibility of 30-day hospital readmission prediction modeling based on health
+      information exchange data.
+PG  - 1048-56
+LID - 10.1016/j.ijmedinf.2015.09.003 [doi]
+LID - S1386-5056(15)30038-1 [pii]
+AB  - INTRODUCTION: Unplanned 30-day hospital readmission account for roughly $17
+      billion in annual Medicare spending. Many factors contribute to unplanned
+      hospital readmissions and multiple models have been developed over the years to
+      predict them. Most researchers have used insurance claims or administrative data 
+      to train and operationalize their Readmission Risk Prediction Models (RRPMs).
+      Some RRPM developers have also used electronic health records data; however,
+      using health informatics exchange data has been uncommon among such predictive
+      models and can be beneficial in its ability to provide real-time alerts to
+      providers at the point of care. METHODS: We conducted a semi-systematic review of
+      readmission predictive factors published prior to March 2013. Then, we extracted 
+      and merged all significant variables listed in those articles for RRPMs. Finally,
+      we matched these variables with common HL7 messages transmitted by a sample of
+      health information exchange organizations (HIO). RESULTS: The semi-systematic
+      review resulted in identification of 32 articles and 297 predictive variables.
+      The mapping of these variables with common HL7 segments resulted in an 89.2%
+      total coverage, with the DG1 (diagnosis) segment having the highest coverage of
+      39.4%. The PID (patient identification) and OBX (observation results) segments
+      cover 13.9% and 9.1% of the variables. Evaluating the same coverage in three
+      sample HIOs showed data incompleteness. DISCUSSION: HIOs can utilize HL7 messages
+      to develop unique RRPMs for their stakeholders; however, data completeness of
+      exchanged messages should meet certain thresholds. If data quality standards are 
+      met by stakeholders, HIOs would be able to provide real-time RRPMs that not only 
+      predict intra-hospital readmissions but also inter-hospital cases. CONCLUSION: A 
+      RRPM derived using HIO data exchanged through may prove to be a useful method to 
+      prevent unplanned hospital readmissions. In order for the RRPM derived from HIO
+      data to be effective, hospitals must actively exchange clinical information
+      through the HIO and develop actionable methods that integrate into the workflow
+      of providers to ensure that patients at high-risk for readmission receive the
+      care they need.
+CI  - Copyright (c) 2015. Published by Elsevier Ireland Ltd.
+FAU - Swain, Matthew J
+AU  - Swain MJ
+AD  - U.S. Department of Health and Human Services, United States. Electronic address: 
+      swain.matthew@gmail.com.
+FAU - Kharrazi, Hadi
+AU  - Kharrazi H
+AD  - Johns Hopkins Bloomberg School of Public Health, Center for Population Health
+      Information Technology, Baltimore, United States.
+LA  - eng
+GR  - 1R21HS022578/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Multicenter Study
+PT  - Research Support, N.I.H., Extramural
+PT  - Systematic Review
+DEP - 20150914
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Computer Simulation
+MH  - Data Mining/*methods
+MH  - Feasibility Studies
+MH  - Health Information Exchange/classification/*statistics & numerical data
+MH  - Humans
+MH  - *Models, Statistical
+MH  - *Natural Language Processing
+MH  - Patient Readmission/*statistics & numerical data
+MH  - Pattern Recognition, Automated/methods
+MH  - Prevalence
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Vocabulary, Controlled
+OTO - NOTNLM
+OT  - Health information exchange
+OT  - Health information organization
+OT  - Health information technology
+OT  - Hospital readmissions
+OT  - Risk prediction model
+EDAT- 2015/09/29 06:00
+MHDA- 2016/08/12 06:00
+CRDT- 2015/09/29 06:00
+PHST- 2015/04/28 00:00 [received]
+PHST- 2015/08/06 00:00 [revised]
+PHST- 2015/09/11 00:00 [accepted]
+PHST- 2015/09/29 06:00 [entrez]
+PHST- 2015/09/29 06:00 [pubmed]
+PHST- 2016/08/12 06:00 [medline]
+AID - S1386-5056(15)30038-1 [pii]
+AID - 10.1016/j.ijmedinf.2015.09.003 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2015 Dec;84(12):1048-56. doi: 10.1016/j.ijmedinf.2015.09.003.
+      Epub 2015 Sep 14.
+
+PMID- 29653503
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191206
+LR  - 20191217
+IS  - 1758-1060 (Electronic)
+IS  - 1355-8196 (Linking)
+VI  - 23
+IP  - 2
+DP  - 2018 Apr
+TI  - Systematic review of participants' attitudes towards data sharing: a thematic
+      synthesis.
+PG  - 123-133
+LID - 10.1177/1355819617751555 [doi]
+AB  - Objectives Data sharing is well established in biological research, but evidence 
+      on sharing of clinical trial or public health research study data remains
+      limited, in particular studies of research participants' perspectives of data
+      sharing. This study systematically reviewed international evidence of research
+      participants' attitudes towards the sharing of data for secondary research use.
+      Methods Systematic search of seven databases, and author-, citation- and
+      bibliography-follow up to identify studies examining research participants'
+      attitudes towards data sharing. Studies were thematically analysed using NVivo
+      v10 to identify recurring themes. Results Nine studies were eligible for
+      inclusion. Thematic analysis identified four key themes: (1) benefits of data
+      sharing, including benefit to participants or immediate community, benefits to
+      the public and benefits to science or research; (2) fears and harms, such as fear
+      of exploitation, stigmatization or repercussions, alongside concerns about
+      confidentiality and misuse of data; (3) data sharing processes, in particular the
+      role of consent in the process; and (4) the relationship between participants and
+      research such as trust in different types of research or organization and the
+      relationship with the original research team. Conclusions The available
+      literature on attitudes towards sharing data from clinical trials or public
+      health interventions remains scant. This study has identified four themes
+      regarding research participants' attitudes and preferences, which should be
+      considered by policy makers, and explored with further research.
+FAU - Howe, Nicola
+AU  - Howe N
+AD  - 1 Database Manager, Newcastle Clinical Trials Unit, 5994 Newcastle University ,
+      Newcastle University, UK.
+FAU - Giles, Emma
+AU  - Giles E
+AD  - 2 Senior Research Lecturer in Public Health, School of Health and Social Care,
+      Teesside University, UK.
+FAU - Newbury-Birch, Dorothy
+AU  - Newbury-Birch D
+AD  - 3 Professor of Alcohol and Public Health Research, School of Health and Social
+      Care, Teesside University, UK.
+FAU - McColl, Elaine
+AU  - McColl E
+AD  - 4 Professor of Health Service Research, Institute of Health and Society, 5994
+      Newcastle University , Newcastle University, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+PL  - England
+TA  - J Health Serv Res Policy
+JT  - Journal of health services research & policy
+JID - 9604936
+MH  - Attitude
+MH  - Biomedical Research/*organization & administration/standards
+MH  - Fear
+MH  - Health Information Exchange/*standards
+MH  - Humans
+MH  - Informed Consent/standards
+MH  - Research Subjects/*psychology
+MH  - Trust
+OTO - NOTNLM
+OT  - *attitude
+OT  - *data sharing
+OT  - *research participant
+EDAT- 2018/04/15 06:00
+MHDA- 2019/12/18 06:00
+CRDT- 2018/04/15 06:00
+PHST- 2018/04/15 06:00 [entrez]
+PHST- 2018/04/15 06:00 [pubmed]
+PHST- 2019/12/18 06:00 [medline]
+AID - 10.1177/1355819617751555 [doi]
+PST - ppublish
+SO  - J Health Serv Res Policy. 2018 Apr;23(2):123-133. doi: 10.1177/1355819617751555.
+
+PMID- 28599821
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180216
+LR  - 20181202
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 104
+DP  - 2017 Aug
+TI  - Review of successful hospital readmission reduction strategies and the role of
+      health information exchange.
+PG  - 97-104
+LID - S1386-5056(17)30161-2 [pii]
+LID - 10.1016/j.ijmedinf.2017.05.012 [doi]
+AB  - CONTEXT: The United States has invested substantially in technologies that enable
+      health information exchange (HIE), which in turn can be deployed to reduce
+      avoidable hospital readmission rates in many communities. With avoidable hospital
+      readmissions as the primary focus, this study profiles successful hospital
+      readmission rate reduction initiatives that integrate HIE as a strategy. We
+      hypothesized that the use of HIE is associated with decreased hospital
+      readmissions beyond other observed population health benefits. Results of this
+      systematic review are used to describe and profile successful readmission
+      reduction programs that integrate HIE as a tool. METHODS: A systematic review of 
+      literature provided an understanding of the use of HIE as a strategy to reduce
+      hospital readmission rates. We conducted a review of 4,862 citations written in
+      English about readmission reduction strategies from January 2006 to September
+      2016 in the MEDLINE-PubMed database. Of these, 106 studies reported 30-day
+      readmission rates as an outcome and only 13 articles reported using HIE. RESULTS:
+      Only a very small number (12%) of hospitals incorporated HIE as a primary tool
+      for evidence-based readmission reduction initiatives. Information exchange
+      between providers has been suggested to play a key role in reducing avoidable
+      readmission rates, yet there is not currently evidence supporting current
+      HIE-enabled readmission initiatives. Most successful readmission reduction
+      programs demonstrate collaboration with primary care providers to augment
+      transitions of care to existing care management functions without additional
+      staff while using effective information exchange capabilities. CONCLUSIONS: This 
+      research confirms there is very little integration of HIE into health systems
+      readmissions initiatives. There is a great opportunity to achieve population
+      health targets using the HIE infrastructure. Hospitals should consider partnering
+      with primary care clinics to implement multifaceted transitions of care programs 
+      to significantly reduce 30-day readmission rates.
+CI  - Copyright (c) 2017 Elsevier B.V. All rights reserved.
+FAU - Kash, Bita A
+AU  - Kash BA
+AD  - Texas A&M School of Public Health, College Station, TX, USA. Electronic address: 
+      bakash@sph.tamhsc.edu.
+FAU - Baek, Juha
+AU  - Baek J
+AD  - Texas A&M School of Public Health, College Station, TX, USA. Electronic address: 
+      jbaek@sph.tamhsc.edu.
+FAU - Davis, Elise
+AU  - Davis E
+AD  - Texas A&M School of Public Health, College Station, TX, USA. Electronic address: 
+      edavis1@sph.tamhsc.edu.
+FAU - Champagne-Langabeer, Tiffany
+AU  - Champagne-Langabeer T
+AD  - The University of Texas Health Science Center, Houston, TX, USA. Electronic
+      address: Tiffany.Champagne@uth.tmc.edu.
+FAU - Langabeer, James R 2nd
+AU  - Langabeer JR 2nd
+AD  - The University of Texas Health Science Center, Houston, TX, USA. Electronic
+      address: James.R.Langabeer@uth.tmc.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20170520
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - *Health Information Exchange
+MH  - Health Services Needs and Demand
+MH  - Hospitals/*standards
+MH  - Humans
+MH  - Patient Readmission/*statistics & numerical data
+MH  - United States
+OTO - NOTNLM
+OT  - *Health information exchange
+OT  - *Hospital readmission
+OT  - *Population health
+OT  - *Systematic review
+EDAT- 2017/06/11 06:00
+MHDA- 2018/02/17 06:00
+CRDT- 2017/06/11 06:00
+PHST- 2017/02/16 00:00 [received]
+PHST- 2017/05/17 00:00 [revised]
+PHST- 2017/05/19 00:00 [accepted]
+PHST- 2017/06/11 06:00 [entrez]
+PHST- 2017/06/11 06:00 [pubmed]
+PHST- 2018/02/17 06:00 [medline]
+AID - S1386-5056(17)30161-2 [pii]
+AID - 10.1016/j.ijmedinf.2017.05.012 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2017 Aug;104:97-104. doi: 10.1016/j.ijmedinf.2017.05.012. Epub 
+      2017 May 20.
+
+PMID- 25211570
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160728
+LR  - 20190517
+IS  - 1680-5348 (Electronic)
+IS  - 1020-4989 (Linking)
+VI  - 35
+IP  - 5-6
+DP  - 2014 May-Jun
+TI  - [Lessons learned in the implementation of interoperable National Health
+      Information Systems: a systematic review].
+PG  - 415-23
+LID - S1020-49892014000500015 [pii]
+AB  - OBJECTIVE: Identify shared criteria used throughout the world in the
+      implementation of interoperable National Health Information Systems (NHIS) and
+      provide validated scientific information on the dimensions affecting
+      interoperability. METHODS: This systematic review sought to identify primary
+      articles on the implementation of interoperable NHIS published in scientific
+      journals in English, Portuguese, or Spanish between 1990 and 2011 through a
+      search of eight databases of electronic journals in the health sciences and
+      informatics: MEDLINE (PubMed), Proquest, Ovid, EBSCO, MD Consult, Virtual Health 
+      Library, Metapress, and SciELO. The full texts of the articles were reviewed, and
+      those that focused on technical computer aspects or on normative issues were
+      excluded, as well as those that did not meet the quality criteria for systematic 
+      reviews of interventions. RESULTS: Of 291 studies found and reviewed, only five
+      met the inclusion criteria. These articles reported on the process of
+      implementing an interoperable NHIS in Brazil, China, the United States, Turkey,
+      and the Semiautonomous Region of Zanzibar, respectively. Five common basic
+      criteria affecting implementation of the NHIS were identified: standards in place
+      to govern the process, availability of trained human talent, financial and
+      structural constraints, definition of standards, and assurance that the
+      information is secure. Four dimensions affecting interoperability were defined:
+      technical, semantic, legal, and organizational. CONCLUSIONS: The criteria
+      identified have to be adapted to the actual situation in each country and a
+      proactive approach should be used to ensure that implementation of the
+      interoperable NHIS is strategic, simple, and reliable.
+FAU - Ovies-Bernal, Diana Paola
+AU  - Ovies-Bernal DP
+AD  - Laboratorio de Simulacion Hospitalaria y Biomedica, Universidad Manuela Beltran, 
+      Santa Fe de Bogota, Colombia.
+FAU - Agudelo-Londono, Sandra M
+AU  - Agudelo-Londono SM
+AD  - Pontificia Universidad Javeriana, Santa Fe de Bogota, Colombia.
+LA  - spa
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+TT  - Lecciones aprendidas en la implementacion de sistemas nacionales de informacion
+      de salud interoperables: una revision sistematica.
+PL  - United States
+TA  - Rev Panam Salud Publica
+JT  - Revista panamericana de salud publica = Pan American journal of public health
+JID - 9705400
+SB  - IM
+MH  - *Health Information Exchange
+MH  - Health Information Systems/*organization & administration
+MH  - Humans
+EDAT- 2014/09/12 06:00
+MHDA- 2016/07/29 06:00
+CRDT- 2014/09/12 06:00
+PHST- 2013/07/16 00:00 [received]
+PHST- 2014/05/19 00:00 [accepted]
+PHST- 2014/09/12 06:00 [entrez]
+PHST- 2014/09/12 06:00 [pubmed]
+PHST- 2016/07/29 06:00 [medline]
+AID - S1020-49892014000500015 [pii]
+PST - ppublish
+SO  - Rev Panam Salud Publica. 2014 May-Jun;35(5-6):415-23.
+
+PMID- 30168164
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190506
+LR  - 20211204
+IS  - 1365-2648 (Electronic)
+IS  - 0309-2402 (Linking)
+VI  - 75
+IP  - 2
+DP  - 2019 Feb
+TI  - Key components of knowledge transfer and exchange in health services research:
+      Findings from a systematic scoping review.
+PG  - 313-326
+LID - 10.1111/jan.13836 [doi]
+AB  - AIMS: To identify the key common components of knowledge transfer and exchange in
+      existing models to facilitate practice developments in health services research. 
+      BACKGROUND: There are over 60 models of knowledge transfer and exchange designed 
+      for various areas of health care. Many of them remain untested and lack
+      guidelines for scaling-up of successful implementation of research findings and
+      of proven models ensuring that patients have access to optimal health care,
+      guided by current research. DESIGN: A scoping review was conducted in line with
+      PRISMA guidelines. Key components of knowledge transfer and exchange were
+      identified using thematic analysis and frequency counts. DATA SOURCES: Six
+      electronic databases were searched for papers published before January 2015
+      containing four key terms/variants: knowledge, transfer, framework, health care. 
+      REVIEW METHODS: Double screening, extraction and coding of the data using
+      thematic analysis were employed to ensure rigour. As further validation
+      stakeholders' consultation of the findings was performed to ensure accessibility.
+      RESULTS: Of the 4,288 abstracts, 294 full-text articles were screened, with 79
+      articles analysed. Six key components emerged: knowledge transfer and exchange
+      message, Stakeholders and Process components often appeared together, while from 
+      two contextual components Inner Context and the wider Social, Cultural and
+      Economic Context, with the wider context less frequently considered. Finally,
+      there was little consideration of the Evaluation of knowledge transfer and
+      exchange activities. In addition, specific operational elements of each component
+      were identified. CONCLUSIONS: The six components offer the basis for knowledge
+      transfer and exchange activities, enabling researchers to more effectively share 
+      their work. Further research exploring the potential contribution of the
+      interactions of the components is recommended.
+CI  - (c) 2018 John Wiley & Sons Ltd.
+FAU - Prihodova, Lucia
+AU  - Prihodova L
+AUID- ORCID: http://orcid.org/0000-0002-0632-9582
+AD  - UCD School of Psychology, University College Dublin, Dublin, Ireland.
+AD  - Palliative Care Research Network, All Ireland Institute for Hospice and
+      Palliative Care, Dublin, Ireland.
+FAU - Guerin, Suzanne
+AU  - Guerin S
+AUID- ORCID: http://orcid.org/0000-0002-6744-7590
+AD  - UCD School of Psychology, University College Dublin, Dublin, Ireland.
+AD  - Palliative Care Research Network, All Ireland Institute for Hospice and
+      Palliative Care, Dublin, Ireland.
+AD  - UCD Centre for Disability Studies, University College Dublin, Dublin, Ireland.
+FAU - Tunney, Conall
+AU  - Tunney C
+AD  - UCD Centre for Disability Studies, University College Dublin, Dublin, Ireland.
+FAU - Kernohan, W George
+AU  - Kernohan WG
+AUID- ORCID: http://orcid.org/0000-0002-1309-446X
+AD  - Palliative Care Research Network, All Ireland Institute for Hospice and
+      Palliative Care, Dublin, Ireland.
+AD  - Institute of Nursing and Health Research, Ulster University, Belfast, Northern
+      Ireland.
+LA  - eng
+GR  - Ireland Institute of Hospice & Palliative Care
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20181007
+PL  - England
+TA  - J Adv Nurs
+JT  - Journal of advanced nursing
+JID - 7609811
+SB  - IM
+MH  - *Health Information Exchange
+MH  - Health Services
+MH  - Humans
+MH  - *Technology Transfer
+MH  - Translational Research, Biomedical/*methods
+PMC - PMC7379521
+OTO - NOTNLM
+OT  - evidence-based practice
+OT  - health services research
+OT  - nursing
+OT  - research implementation
+OT  - systematic scoping review
+EDAT- 2018/09/01 06:00
+MHDA- 2019/05/07 06:00
+CRDT- 2018/09/01 06:00
+PHST- 2018/03/24 00:00 [received]
+PHST- 2018/06/28 00:00 [revised]
+PHST- 2018/08/06 00:00 [accepted]
+PHST- 2018/09/01 06:00 [pubmed]
+PHST- 2019/05/07 06:00 [medline]
+PHST- 2018/09/01 06:00 [entrez]
+AID - 10.1111/jan.13836 [doi]
+PST - ppublish
+SO  - J Adv Nurs. 2019 Feb;75(2):313-326. doi: 10.1111/jan.13836. Epub 2018 Oct 7.
+
+PMID- 26878761
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161108
+LR  - 20181202
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 88
+DP  - 2016 Apr
+TI  - Barriers and facilitators to exchanging health information: a systematic review.
+PG  - 44-51
+LID - 10.1016/j.ijmedinf.2016.01.004 [doi]
+LID - S1386-5056(16)30004-1 [pii]
+AB  - OBJECTIVES: We conducted a systematic review of studies assessing facilitators
+      and barriers to use of health information exchange (HIE). METHODS: We searched
+      MEDLINE, PsycINFO, CINAHL, and the Cochrane Library databases between January
+      1990 and February 2015 using terms related to HIE. English-language studies that 
+      identified barriers and facilitators of actual HIE were included. Data on study
+      design, risk of bias, setting, geographic location, characteristics of the HIE,
+      perceived barriers and facilitators to use were extracted and confirmed. RESULTS:
+      Ten cross-sectional, seven multiple-site case studies, and two before-after
+      studies that included data from several sources (surveys, interviews, focus
+      groups, and observations of users) evaluated perceived barriers and facilitators 
+      to HIE use. The most commonly cited barriers to HIE use were incomplete
+      information, inefficient workflow, and reports that the exchanged information
+      that did not meet the needs of users. The review identified several facilitators 
+      to use. DISCUSSION: Incomplete patient information was consistently mentioned in 
+      the studies conducted in the US but not mentioned in the few studies conducted
+      outside of the US that take a collective approach toward healthcare. Individual
+      patients and practices in the US may exercise the right to participate (or not)
+      in HIE which effects the completeness of patient information available to be
+      exchanged. Workflow structure and user roles are key but understudied.
+      CONCLUSIONS: We identified several facilitators in the studies that showed
+      promise in promoting electronic health data exchange: obtaining more complete
+      patient information; thoughtful workflow that folds in HIE; and inclusion of
+      users early in implementation.
+CI  - Copyright (c) 2016 Elsevier Ireland Ltd. All rights reserved.
+FAU - Eden, Karen B
+AU  - Eden KB
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA. Electronic address:
+      edenk@ohsu.edu.
+FAU - Totten, Annette M
+AU  - Totten AM
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA.
+FAU - Kassakian, Steven Z
+AU  - Kassakian SZ
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA.
+FAU - Gorman, Paul N
+AU  - Gorman PN
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA; Department of Medicine, Oregon
+      Health & Science University, 3181 SW Sam Jackson Park Road, Portland, OR 97239,
+      USA.
+FAU - McDonagh, Marian S
+AU  - McDonagh MS
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA.
+FAU - Devine, Beth
+AU  - Devine B
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA; University of Washington,
+      Pharmaceutical Outcomes Research and Policy Program, Box 357630, Seattle, WA
+      98195-7630, USA.
+FAU - Pappas, Miranda
+AU  - Pappas M
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA.
+FAU - Daeges, Monica
+AU  - Daeges M
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA.
+FAU - Woods, Susan
+AU  - Woods S
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA; Veterans Affairs Maine
+      Healthcare System, 1 VA Center, Augusta, ME 04330, USA.
+FAU - Hersh, William R
+AU  - Hersh WR
+AD  - Pacific Northwest Evidence-Based Practice Center, Department of Medical
+      Informatics and Clinical Epidemiology, Oregon Health & Science University, 3181
+      SW Sam Jackson Park Road, Portland, OR 97239, USA; Department of Medicine, Oregon
+      Health & Science University, 3181 SW Sam Jackson Park Road, Portland, OR 97239,
+      USA.
+LA  - eng
+GR  - T15 LM007088/LM/NLM NIH HHS/United States
+GR  - 290-2012-00014-I/PHS HHS/United States
+GR  - T15LM007088/LM/NLM NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+PT  - Systematic Review
+DEP - 20160124
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Attitude of Health Personnel
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Workflow
+PMC - PMC4778080
+MID - NIHMS756415
+OTO - NOTNLM
+OT  - Attitude to computers
+OT  - Barriers
+OT  - Health information exchange
+OT  - Users perceptions
+EDAT- 2016/02/18 06:00
+MHDA- 2016/11/09 06:00
+CRDT- 2016/02/17 06:00
+PHST- 2015/07/10 00:00 [received]
+PHST- 2016/01/12 00:00 [revised]
+PHST- 2016/01/12 00:00 [accepted]
+PHST- 2016/02/17 06:00 [entrez]
+PHST- 2016/02/18 06:00 [pubmed]
+PHST- 2016/11/09 06:00 [medline]
+AID - S1386-5056(16)30004-1 [pii]
+AID - 10.1016/j.ijmedinf.2016.01.004 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2016 Apr;88:44-51. doi: 10.1016/j.ijmedinf.2016.01.004. Epub
+      2016 Jan 24.
+
+PMID- 30157507
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180910
+LR  - 20200225
+IS  - 2364-0502 (Electronic)
+IS  - 0943-4747 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2018 Aug
+TI  - Findings from 2017 on Health Information Management
+PG  - 67-73
+LID - 10.1055/s-0038-1667072 [doi]
+AB  - OBJECTIVE: To summarize the recent literature and research and present a
+      selection of the best papers published in 2017 in the field of Health Information
+      Management (HIM) and Health Informatics. METHODS: A systematic review of the
+      literature was performed by the two HIM section editors of the International
+      Medical Informatics Association (IMIA) Yearbook with the help of a medical
+      librarian. We searched bibliographic databases for HIM-related papers using both 
+      MeSH descriptors and keywords in titles and abstracts. A shortlist of 15
+      candidate best papers was first selected by section editors before being
+      peer-reviewed by independent external reviewers. RESULTS: Health Information
+      Exchange was a major theme within candidate best papers. The four papers
+      ultimately selected as 'Best Papers' represent themes that include health
+      information exchange, governance and policy issues, results of health information
+      exchange, and methods of integrating information from multiple sources. Other
+      articles within the candidate best papers include these themes as well as those
+      focusing on authentication and de-identification and usability of information
+      systems. CONCLUSIONS: The papers discussed in the HIM section of IMIA Yearbook
+      reflect the overall theme of the 2018 edition of the Yearbook, i.e., the tension 
+      between privacy and access to information. While most of the papers focused on
+      health information exchange, which reflects the "access" side of the equation,
+      most of the others addressed privacy issues. This synopsis discusses these key
+      issues at the intersection of HIM and informatics.
+CI  - Georg Thieme Verlag KG Stuttgart.
+FAU - Bloomrosen, Meryl
+AU  - Bloomrosen M
+AD  - Premier healthcare alliance, Washington, DC, USA.
+FAU - Berner, Eta S
+AU  - Berner ES
+AD  - Graduate Programs in Health Informatics, Department of Health Services
+      Administration, University of Alabama at Birmingham, Birmingham, AL, USA.
+CN  - Section Editors for the IMIA Yearbook Section on Health Information Management
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20180829
+PL  - Germany
+TA  - Yearb Med Inform
+JT  - Yearbook of medical informatics
+JID - 9312666
+SB  - IM
+MH  - Confidentiality
+MH  - Data Anonymization
+MH  - *Health Information Exchange
+MH  - *Health Information Management
+MH  - Health Policy
+MH  - Health Records, Personal
+MH  - Humans
+PMC - PMC6115240
+COIS- Disclosure The authors report no conflicts of interest in this work.
+EDAT- 2018/08/30 06:00
+MHDA- 2018/09/11 06:00
+CRDT- 2018/08/30 06:00
+PHST- 2018/08/30 06:00 [entrez]
+PHST- 2018/08/30 06:00 [pubmed]
+PHST- 2018/09/11 06:00 [medline]
+AID - 10.1055/s-0038-1667072 [doi]
+PST - ppublish
+SO  - Yearb Med Inform. 2018 Aug;27(1):67-73. doi: 10.1055/s-0038-1667072. Epub 2018
+      Aug 29.
+
+PMID- 27383239
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170731
+LR  - 20191210
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 7
+DP  - 2016
+TI  - The Effect of Perioperative E-Health Interventions on the Postoperative Course: A
+      Systematic Review of Randomised and Non-Randomised Controlled Trials.
+PG  - e0158612
+LID - 10.1371/journal.pone.0158612 [doi]
+AB  - BACKGROUND: E-health interventions have become increasingly popular, including in
+      perioperative care. The objective of this study was to evaluate the effect of
+      perioperative e-health interventions on the postoperative course. METHODS: We
+      conducted a systematic review and searched for relevant articles in the PUBMED,
+      EMBASE, CINAHL and COCHRANE databases. Controlled trials written in English, with
+      participants of 18 years and older who underwent any type of surgery and which
+      evaluated any type of e-health intervention by reporting patient-related outcome 
+      measures focusing on the period after surgery, were included. Data of all
+      included studies were extracted and study quality was assessed by using the Downs
+      and Black scoring system. FINDINGS: A total of 33 articles were included,
+      reporting on 27 unique studies. Most studies were judged as having a medium risk 
+      of bias (n = 13), 11 as a low risk of bias, and three as high risk of bias
+      studies. Most studies included patients undergoing cardiac (n = 9) or orthopedic 
+      surgery (n = 7). All studies focused on replacing (n = 11) or complementing (n = 
+      15) perioperative usual care with some form of care via ICT; one study evaluated 
+      both type of interventions. Interventions consisted of an educational or
+      supportive website, telemonitoring, telerehabilitation or teleconsultation. All
+      studies measured patient-related outcomes focusing on the physical, the mental or
+      the general component of recovery. 11 studies (40.7%) reported outcome measures
+      related to the effectiveness of the intervention in terms of health care usage
+      and costs. 25 studies (92.6%) reported at least an equal (n = 8) or positive (n =
+      17) effect of the e-health intervention compared to usual care. In two studies
+      (7.4%) a positive effect on any outcome was found in favour of the control group.
+      CONCLUSION: Based on this systematic review we conclude that in the majority of
+      the studies e-health leads to similar or improved clinical patient-related
+      outcomes compared to only face to face perioperative care for patients who have
+      undergone various forms of surgery. However, due to the low or moderate quality
+      of many studies, the results should be interpreted with caution.
+FAU - van der Meij, Eva
+AU  - van der Meij E
+AD  - Department of Obstetrics and Gynaecology, VU University Medical Center,
+      Amsterdam, The Netherlands.
+AD  - EMGO Institute for Health and Care Research, VU University Medical Center,
+      Amsterdam, The Netherlands.
+FAU - Anema, Johannes R
+AU  - Anema JR
+AD  - EMGO Institute for Health and Care Research, VU University Medical Center,
+      Amsterdam, The Netherlands.
+FAU - Otten, Rene H J
+AU  - Otten RH
+AD  - Medical Library, Vrije Universiteit, Amsterdam, The Netherlands.
+FAU - Huirne, Judith A F
+AU  - Huirne JA
+AD  - Department of Obstetrics and Gynaecology, VU University Medical Center,
+      Amsterdam, The Netherlands.
+FAU - Schaafsma, Frederieke G
+AU  - Schaafsma FG
+AD  - EMGO Institute for Health and Care Research, VU University Medical Center,
+      Amsterdam, The Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20160706
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Non-Randomized Controlled Trials as Topic
+MH  - Outcome Assessment, Health Care/methods/statistics & numerical data
+MH  - Patient Education as Topic/*methods
+MH  - Perioperative Care/*methods/*statistics & numerical data
+MH  - Postoperative Period
+MH  - Quality of Health Care
+MH  - Quality of Life
+MH  - Randomized Controlled Trials as Topic
+PMC - PMC4934874
+EDAT- 2016/07/08 06:00
+MHDA- 2017/08/02 06:00
+CRDT- 2016/07/08 06:00
+PHST- 2016/02/09 00:00 [received]
+PHST- 2016/06/17 00:00 [accepted]
+PHST- 2016/07/08 06:00 [entrez]
+PHST- 2016/07/08 06:00 [pubmed]
+PHST- 2017/08/02 06:00 [medline]
+AID - 10.1371/journal.pone.0158612 [doi]
+AID - PONE-D-16-03397 [pii]
+PST - epublish
+SO  - PLoS One. 2016 Jul 6;11(7):e0158612. doi: 10.1371/journal.pone.0158612.
+      eCollection 2016.
+
+PMID- 30914173
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190813
+LR  - 20190813
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 125
+DP  - 2019 May
+TI  - Understanding the patient privacy perspective on health information exchange: A
+      systematic review.
+PG  - 1-12
+LID - S1386-5056(18)30300-9 [pii]
+LID - 10.1016/j.ijmedinf.2019.01.014 [doi]
+AB  - BACKGROUND: Health information exchange (HIE), the ability for health information
+      technology (HIT) to share patient data, can improve the efficiency and
+      effectiveness of healthcare; however, this ability may cause patient concern
+      about their ability to control who can access their health records (i.e.,
+      privacy). These concerns may affect a patient's candor in their therapeutic
+      patient-provider relationships, thereby undermining their care. While patient
+      privacy concerns are often cited as a barrier to HIT implementation, the patient 
+      privacy perspective is not well understood. The purpose of this systematic review
+      is to provide an in-depth exploration of the patient privacy perspective toward
+      HIE, its antecedents, and its outcomes. MATERIALS AND METHODS: A systematic
+      review was conducted on seven health sciences and interdisciplinary databases.
+      Empirical studies that assessed the patient perception of privacy in context of
+      interoperable HIT were included. All included articles were independently
+      screened, extracted, and analyzed by two reviewers. The results were extracted
+      and categorized based on the dimensions outlined in the Antecedent Privacy
+      Concern Outcomes macro-model (APCO). RESULTS: Of the 1713 unique citations, 59
+      articles met the inclusion criteria which consisted of 39 (66.1%) quantitative
+      studies, 15 (25.4%) qualitative studies, and 5 (8.5%) mixed methods studies.
+      Fourteen articles (23.7%) were specifically focused on understanding privacy. The
+      patient privacy perspective was operationalized in different ways, with privacy
+      concern being the most common measure (25.4%). The percentage of participants
+      expressing privacy concern ranged from 15% to 74%, depending on the study.
+      Perceived quality of care was associated with lower privacy concerns. Privacy
+      concerns were associated with privacy protective behaviours; however, the
+      perceived benefit of HIE may mitigate the effects of privacy concern. CONCLUSION:
+      Using the APCO as a guide, this review found that the patient privacy perspective
+      is dynamic, complex, and still not well understood. There may be an
+      oversimplification of the patient privacy perspective and its impact given the
+      paucity of privacy-focused research. The evidence suggests patient perceptions of
+      healthcare and the value of HIE are important factors in mitigating privacy
+      concerns and its effects. More in-depth privacy studies are required to further
+      illuminate the nuances of the patient perspective and provide policy-makers with 
+      greater insights on the privacy barrier.
+CI  - Copyright (c) 2019 Elsevier B.V. All rights reserved.
+FAU - Shen, Nelson
+AU  - Shen N
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada; Centre for Addiction and Mental Health, Toronto, Canada.
+FAU - Bernier, Therese
+AU  - Bernier T
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada.
+FAU - Sequeira, Lydia
+AU  - Sequeira L
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada; Centre for Addiction and Mental Health, Toronto, Canada.
+FAU - Strauss, John
+AU  - Strauss J
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada; Centre for Addiction and Mental Health, Toronto, Canada;
+      Department of Psychiatry, Faculty of Medicine, University of Toronto, Toronto,
+      Canada.
+FAU - Silver, Michelle Pannor
+AU  - Silver MP
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada; Interdisciplinary Centre for Health and Society, University of
+      Toronto Scarborough, Scarborough, Canada.
+FAU - Carter-Langford, Abigail
+AU  - Carter-Langford A
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada; Canada Health Infoway, Toronto, Canada.
+FAU - Wiljer, David
+AU  - Wiljer D
+AD  - Institute of Health Policy, Management and Evaluation, University of Toronto,
+      Toronto, Canada; Centre for Addiction and Mental Health, Toronto, Canada;
+      Department of Psychiatry, Faculty of Medicine, University of Toronto, Toronto,
+      Canada; UHN Digital, University Health Network, Toronto, Canada. Electronic
+      address: david.wiljer@uhn.ca.
+LA  - eng
+GR  - TGF-53911/CIHR/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20190201
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Male
+MH  - Patients/*psychology
+MH  - *Perception
+MH  - *Privacy
+OTO - NOTNLM
+OT  - *Consumer behavior
+OT  - *Electronic health records
+OT  - *Health information exchange
+OT  - *Informatics
+OT  - *Patient
+OT  - *Privacy
+EDAT- 2019/03/28 06:00
+MHDA- 2019/08/14 06:00
+CRDT- 2019/03/28 06:00
+PHST- 2018/05/29 00:00 [received]
+PHST- 2018/10/01 00:00 [revised]
+PHST- 2019/01/31 00:00 [accepted]
+PHST- 2019/03/28 06:00 [entrez]
+PHST- 2019/03/28 06:00 [pubmed]
+PHST- 2019/08/14 06:00 [medline]
+AID - S1386-5056(18)30300-9 [pii]
+AID - 10.1016/j.ijmedinf.2019.01.014 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2019 May;125:1-12. doi: 10.1016/j.ijmedinf.2019.01.014. Epub
+      2019 Feb 1.
+
+PMID- 32691960
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210722
+LR  - 20210722
+IS  - 1471-1842 (Electronic)
+IS  - 1471-1834 (Linking)
+VI  - 37
+IP  - 4
+DP  - 2020 Dec
+TI  - How to keep up to date with medical information using web-based resources: a
+      systematised review and narrative synthesis.
+PG  - 254-292
+LID - 10.1111/hir.12318 [doi]
+AB  - BACKGROUND: Keeping up to date with the latest medical information using
+      Web-based resources has been sparsely described, and a comprehensive up-to-date
+      review is needed. OBJECTIVES: To summarise the Web-based 'channels' that may
+      assist the actors of the health care system (clinicians, medical researchers and 
+      students) to keep up to date with medical information. METHODS: We searched
+      PubMed and Scopus for English language articles published between January 1990
+      and February 2019 that investigated ways for keeping up with medical information.
+      We used the results from our search and relevant information from other sources
+      to conduct a narrative synthesis. RESULTS: We found that resources that push
+      information (e.g. web alerts, medical newsletters, listservs), resources that
+      rely on the active information seeking (e.g. access to health librarians and
+      electronic databases, podcasts, mobile apps), collaborative resources (e.g. web
+      conferences, online journal clubs, web social media) and resources that
+      synthesise information (e.g. bibliometrics, living systematic reviews) can
+      contribute in keeping up with new findings and can enhance evidence-based
+      medicine. Clinicians, medical researchers and students can benefit from the
+      proper use of such Internet-based technological innovations. CONCLUSION: Internet
+      provides many resources that can help the actors of the health care system stay
+      up to date with the latest scientific findings.
+CI  - (c) 2020 Health Libraries Group.
+FAU - Bougioukas, Konstantinos I
+AU  - Bougioukas KI
+AUID- ORCID: https://orcid.org/0000-0002-6533-1391
+AD  - Department of Hygiene, Social-Preventive Medicine and Medical Statistics, Medical
+      School, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+FAU - Bouras, Emmanouil C
+AU  - Bouras EC
+AUID- ORCID: https://orcid.org/0000-0003-1489-5506
+AD  - Department of Hygiene, Social-Preventive Medicine and Medical Statistics, Medical
+      School, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+FAU - Avgerinos, Konstantinos I
+AU  - Avgerinos KI
+AUID- ORCID: https://orcid.org/0000-0001-5335-8346
+AD  - Laboratory of Clinical Investigation, Intramural Research Program, NIA/NIH,
+      Baltimore, MD, USA.
+FAU - Dardavessis, Theodore
+AU  - Dardavessis T
+AD  - Department of Hygiene, Social-Preventive Medicine and Medical Statistics, Medical
+      School, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+FAU - Haidich, Anna-Bettina
+AU  - Haidich AB
+AUID- ORCID: https://orcid.org/0000-0001-5100-8799
+AD  - Department of Hygiene, Social-Preventive Medicine and Medical Statistics, Medical
+      School, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20200721
+PL  - England
+TA  - Health Info Libr J
+JT  - Health information and libraries journal
+JID - 100970070
+MH  - Bibliometrics
+MH  - Health Information Exchange/*trends
+MH  - Health Resources/*trends
+MH  - Humans
+MH  - *Internet
+OTO - NOTNLM
+OT  - Internet
+OT  - Web 2.0
+OT  - current awareness service
+OT  - health care
+OT  - information management
+OT  - literature searching
+OT  - review, literature
+OT  - review, systematised
+EDAT- 2020/07/22 06:00
+MHDA- 2021/07/23 06:00
+CRDT- 2020/07/22 06:00
+PHST- 2019/02/26 00:00 [received]
+PHST- 2020/05/20 00:00 [accepted]
+PHST- 2020/07/22 06:00 [pubmed]
+PHST- 2021/07/23 06:00 [medline]
+PHST- 2020/07/22 06:00 [entrez]
+AID - 10.1111/hir.12318 [doi]
+PST - ppublish
+SO  - Health Info Libr J. 2020 Dec;37(4):254-292. doi: 10.1111/hir.12318. Epub 2020 Jul
+      21.
+
+PMID- 30282094
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190920
+LR  - 20191001
+IS  - 1869-0327 (Electronic)
+IS  - 1869-0327 (Linking)
+VI  - 9
+IP  - 4
+DP  - 2018 Oct
+TI  - The Use of Health Information Exchange to Augment Patient Handoff in Long-Term
+      Care: A Systematic Review.
+PG  - 752-771
+LID - 10.1055/s-0038-1670651 [doi]
+AB  - BACKGROUND: Legislation aimed at increasing the use of a health information
+      exchange (HIE) in healthcare has excluded long-term care facilities, resulting in
+      a vulnerable patient population that can benefit from the improvement of
+      communication and reduction of waste. OBJECTIVE: The purpose of this review is to
+      provide a framework for future research by identifying themes in the long-term
+      care information technology sector that could function to enable the adoption and
+      use of HIE mechanisms for patient handoff between long-term care facilities and
+      other levels of care to increase communication between providers, shorten length 
+      of stay, reduce 60-day readmissions, and increase patient safety. METHODS: The
+      authors conducted a systematic search of literature through CINAHL, PubMed, and
+      Discovery Services for Texas A&M University Libraries. Search terms used were
+      ("health information exchange" OR "healthcare information exchange" OR "HIE") AND
+      ("long term care" OR "long-term care" OR "nursing home" OR "nursing facility" OR 
+      "skilled nursing facility" OR "SNF" OR "residential care" OR "assisted living"). 
+      Articles were eligible for selection if they were published between 2010 and
+      2017, published in English, and published in academic journals. All articles were
+      reviewed by all reviewers and literature not relevant to the research objective
+      was excluded. RESULTS: Researchers selected and reviewed 22 articles for common
+      themes. Results concluded that the largest facilitator and barrier to the
+      adoption of HIE mechanisms is workflow integration/augmentation and the
+      organizational structure/culture, respectively. Other identified facilitator
+      themes were enhanced communication, increased effectiveness of care, and patient 
+      safety. The additional barriers were missing/incomplete data, inefficiency, and
+      market conditions. CONCLUSION: The long-term care industry has been left out of
+      incentives from which the industry could have benefited tremendously.
+      Organizations that are not utilizing health information technology mechanisms,
+      such as electronic health records and HIEs, are at a disadvantage as insurers
+      switch to capitated forms of payment that rely on reduced waste to generate a
+      profit.
+CI  - Georg Thieme Verlag KG Stuttgart . New York.
+FAU - Kruse, Clemens Scott
+AU  - Kruse CS
+AD  - School of Health Administration, Texas State University, San Marcos, Texas,
+      United States.
+FAU - Marquez, Gabriella
+AU  - Marquez G
+AD  - School of Health Administration, Texas State University, San Marcos, Texas,
+      United States.
+FAU - Nelson, Daniel
+AU  - Nelson D
+AD  - School of Health Administration, Texas State University, San Marcos, Texas,
+      United States.
+FAU - Palomares, Olivia
+AU  - Palomares O
+AD  - School of Health Administration, Texas State University, San Marcos, Texas,
+      United States.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20181003
+PL  - Germany
+TA  - Appl Clin Inform
+JT  - Applied clinical informatics
+JID - 101537732
+SB  - IM
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - *Long-Term Care
+MH  - *Patient Handoff
+MH  - Publication Bias
+MH  - Risk
+PMC - PMC6170191
+COIS- None.
+EDAT- 2018/10/04 06:00
+MHDA- 2019/09/21 06:00
+CRDT- 2018/10/04 06:00
+PHST- 2018/10/04 06:00 [entrez]
+PHST- 2018/10/04 06:00 [pubmed]
+PHST- 2019/09/21 06:00 [medline]
+AID - 10.1055/s-0038-1670651 [doi]
+PST - ppublish
+SO  - Appl Clin Inform. 2018 Oct;9(4):752-771. doi: 10.1055/s-0038-1670651. Epub 2018
+      Oct 3.
+
+PMID- 31566472
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210723
+LR  - 20210723
+IS  - 1741-2811 (Electronic)
+IS  - 1460-4582 (Linking)
+VI  - 26
+IP  - 2
+DP  - 2020 Jun
+TI  - Electronic health records in a Blockchain: A systematic review.
+PG  - 1273-1288
+LID - 10.1177/1460458219866350 [doi]
+AB  - Blockchain could reinvent the way patient's electronic health records are shared 
+      and stored by providing safer mechanisms for health information exchange of
+      medical data in the healthcare industry, by securing it over a decentralized
+      peer-to-peer network. Intending to support and ease the understanding of this
+      distributed ledger technology, a solid Systematic Literature Review was
+      conducted, aiming to explore the recent literature on Blockchain and healthcare
+      domain and identify existing challenges and open questions, guided by the raise
+      of research questions regarding EHR in a Blockchain. More than 300 scientific
+      studies published in the last ten years were surveyed, resulting in an up-to-date
+      taxonomy creation, challenges and open questions identified, and the most
+      significant approaches, data types, standards and architectures regarding the use
+      of Blockchain for EHR were assessed and discussed.
+FAU - Mayer, Andre Henrique
+AU  - Mayer AH
+AD  - Universidade do Vale do Rio dos Sinos (UNISINOS), Brazil.
+FAU - da Costa, Cristiano Andre
+AU  - da Costa CA
+AUID- ORCID: 0000-0003-3859-6199
+AD  - Universidade do Vale do Rio dos Sinos (UNISINOS), Brazil.
+FAU - Righi, Rodrigo da Rosa
+AU  - Righi RDR
+AD  - Universidade do Vale do Rio dos Sinos (UNISINOS), Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20190930
+PL  - England
+TA  - Health Informatics J
+JT  - Health informatics journal
+JID - 100883604
+SB  - IM
+MH  - *Blockchain
+MH  - Delivery of Health Care
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Technology
+OTO - NOTNLM
+OT  - *Blockchain
+OT  - *distributed systems
+OT  - *electronic health records
+OT  - *medical informatics
+EDAT- 2019/10/01 06:00
+MHDA- 2021/07/24 06:00
+CRDT- 2019/10/01 06:00
+PHST- 2019/10/01 06:00 [pubmed]
+PHST- 2021/07/24 06:00 [medline]
+PHST- 2019/10/01 06:00 [entrez]
+AID - 10.1177/1460458219866350 [doi]
+PST - ppublish
+SO  - Health Informatics J. 2020 Jun;26(2):1273-1288. doi: 10.1177/1460458219866350.
+      Epub 2019 Sep 30.
+
+PMID- 34479381
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211001
+LR  - 20211001
+IS  - 2364-0502 (Electronic)
+IS  - 0943-4747 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2021 Aug
+TI  - Findings from the 2021 Yearbook Section on Health Information Management.
+PG  - 84-90
+LID - 10.1055/s-0041-1726501 [doi]
+AB  - OBJECTIVES: To summarize the recent literature and research and present a
+      selection of the best papers published in 2020 in the field of Health Information
+      Management (HIM) and Health Informatics. METHODS: A systematic review of the
+      literature for the IMIA Yearbook HIM section was performed by the two section
+      editors with the help of a medical librarian. We searched bibliographic databases
+      for HIM-related papers using both MeSH headings and keywords in titles and
+      abstracts. A shortlist of the fifteen best candidate papers was first selected by
+      section editors before being peer-reviewed by independent external reviewers.
+      RESULTS: The three major themes of Health Information Exchange (transmitting,
+      sharing, and accessing patient health-related data and information) (HIE), Data
+      Quality, and Privacy and Security make up 80% of the fifteen papers, with
+      individual papers on personal health records, information governance and the
+      professionalism of the HIM field. CONCLUSIONS: Traditional HIM concerns about HIM
+      practice and workforce as well as issues about the data in electronic health
+      records (EHRs) including data quality, coding, health information exchange among 
+      entities within the healthcare systems and privacy and confidentiality continue
+      to be a large part of the HIM research literature. Although there was little
+      research applying these themes to pandemic concerns, HIM professionals have the
+      expertise to make ccontributions to public health informatics research and this
+      research would benefit from their involvement.
+CI  - IMIA and Thieme. This is an open access article published by Thieme under the
+      terms of the Creative Commons Attribution-NonDerivative-NonCommercial License,
+      permitting copying and reproduction so long as the original work is given
+      appropriate credit. Contents may not be used for commercial purposes, or adapted,
+      remixed, transformed or built upon.
+      (https://creativecommons.org/licenses/by-nc-nd/4.0/).
+FAU - Bloomrosen, Meryl
+AU  - Bloomrosen M
+AD  - Premier healthcare alliance, Washington, DC, USA.
+FAU - Berner, Eta S
+AU  - Berner ES
+AD  - Graduate Programs in Health Informatics, Department of Health Services
+      Administration, University of Alabama at Birmingham, Birmingham, AL, USA.
+CN  - Section Editors for the IMIA Yearbook Section on Health Information Management
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20210903
+PL  - Germany
+TA  - Yearb Med Inform
+JT  - Yearbook of medical informatics
+JID - 9312666
+SB  - IM
+MH  - Bibliometrics
+MH  - *COVID-19
+MH  - Comorbidity
+MH  - Dementia/classification
+MH  - *Health Information Exchange
+MH  - *Health Information Management
+MH  - Humans
+MH  - Information Dissemination
+MH  - Medical Informatics
+PMC - PMC8416205
+COIS- Disclosure The authors report no conflicts of interest in this work.
+EDAT- 2021/09/04 06:00
+MHDA- 2021/10/02 06:00
+CRDT- 2021/09/03 20:31
+PHST- 2021/09/03 20:31 [entrez]
+PHST- 2021/09/04 06:00 [pubmed]
+PHST- 2021/10/02 06:00 [medline]
+AID - 10.1055/s-0041-1726501 [doi]
+PST - ppublish
+SO  - Yearb Med Inform. 2021 Aug;30(1):84-90. doi: 10.1055/s-0041-1726501. Epub 2021
+      Sep 3.
+
+PMID- 31094344
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200214
+LR  - 20200309
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 21
+IP  - 5
+DP  - 2019 May 10
+TI  - Design Choices and Trade-Offs in Health Care Blockchain Implementations:
+      Systematic Review.
+PG  - e12426
+LID - 10.2196/12426 [doi]
+AB  - BACKGROUND: A blockchain is a list of records that uses cryptography to make
+      stored data immutable; their use has recently been proposed for electronic
+      medical record (EMR) systems. This paper details a systematic review of
+      trade-offs in blockchain technologies that are relevant to EMRs. Trade-offs are
+      defined as "a compromise between two desirable but incompatible features."
+      OBJECTIVE: This review's primary research question was: "What are the trade-offs 
+      involved in different blockchain designs that are relevant to the creation of
+      blockchain-based electronic medical records systems?" METHODS: Seven databases
+      were systematically searched for relevant articles using the Preferred Reporting 
+      Items for Systematic Reviews and Meta-Analyses (PRISMA). Papers published from
+      January 1, 2017 to June 15, 2018 were selected. Quality assessments of papers
+      were performed using the Risk Of Bias In Non-randomized Studies-of Interventions 
+      (ROBINS-I) tool and the Critical Assessment Skills Programme (CASP) tool.
+      Database searches identified 2885 articles, of which 15 were ultimately included 
+      for analysis. RESULTS: A total of 17 trade-offs were identified impacting the
+      design, development, and implementation of blockchain systems; these trade-offs
+      are organized into themes, including business, application, data, and technology 
+      architecture. CONCLUSIONS: The key findings concluded the following: (1) multiple
+      trade-offs can be managed adaptively to improve EMR utility; (2) multiple
+      trade-offs involve improving the security of blockchain systems at the cost of
+      other features, meaning EMR efficacy highly depends on data protection standards;
+      and (3) multiple trade-offs result in improved blockchain scalability.
+      Consideration of these trade-offs will be important to the specific environment
+      in which electronic medical records are being developed. This review also uses
+      its findings to suggest useful design choices for a hypothetical National Health 
+      Service blockchain. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID):
+      RR2-10.2196/10994.
+CI  - (c)Odhran O'Donoghue, Anuraag A Vazirani, David Brindley, Edward Meinert.
+      Originally published in the Journal of Medical Internet Research
+      (http://www.jmir.org), 10.05.2019.
+FAU - O'Donoghue, Odhran
+AU  - O'Donoghue O
+AUID- ORCID: 0000-0001-6507-8990
+AD  - Medical School, Medical Sciences Division, University of Oxford, Oxford, United
+      Kingdom.
+FAU - Vazirani, Anuraag A
+AU  - Vazirani AA
+AUID- ORCID: 0000-0003-3642-3390
+AD  - Medical School, Medical Sciences Division, University of Oxford, Oxford, United
+      Kingdom.
+FAU - Brindley, David
+AU  - Brindley D
+AUID- ORCID: 0000-0002-5166-8583
+AD  - Healthcare Translation Research Group, Department of Paediatrics, University of
+      Oxford, Oxford, United Kingdom.
+FAU - Meinert, Edward
+AU  - Meinert E
+AUID- ORCID: 0000-0003-2484-3347
+AD  - Healthcare Translation Research Group, Department of Paediatrics, University of
+      Oxford, Oxford, United Kingdom.
+AD  - Global Digital Health Unit, Department of Primary Care and Public Health,
+      Imperial College London, London, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20190510
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Blockchain/*standards
+MH  - Computer Security/*standards
+MH  - Electronic Health Records/*standards
+MH  - Health Information Exchange/*standards
+MH  - Humans
+PMC - PMC6533871
+OTO - NOTNLM
+OT  - *blockchain
+OT  - *distributed ledger technology
+OT  - *health information exchange
+OT  - *interoperability
+OT  - *scalability
+EDAT- 2019/05/17 06:00
+MHDA- 2020/02/15 06:00
+CRDT- 2019/05/17 06:00
+PHST- 2018/10/05 00:00 [received]
+PHST- 2019/03/30 00:00 [accepted]
+PHST- 2019/03/23 00:00 [revised]
+PHST- 2019/05/17 06:00 [entrez]
+PHST- 2019/05/17 06:00 [pubmed]
+PHST- 2020/02/15 06:00 [medline]
+AID - v21i5e12426 [pii]
+AID - 10.2196/12426 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2019 May 10;21(5):e12426. doi: 10.2196/12426.
+
+PMID- 31068334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200824
+LR  - 20210109
+IS  - 2045-4368 (Electronic)
+IS  - 2045-435X (Linking)
+VI  - 10
+IP  - 1
+DP  - 2020 Mar
+TI  - Electronic palliative care coordination systems (EPaCCS): a systematic review.
+PG  - 68-78
+LID - 10.1136/bmjspcare-2018-001689 [doi]
+AB  - OBJECTIVES: To systematically search, evaluate and report the state of the
+      science of electronic palliative care coordination systems (EPaCCS). METHODS: We 
+      searched CINAHL, MEDLINE, Embase, the Cochrane Library and grey literature for
+      articles evaluating or discussing electronic systems to facilitate sharing of
+      information about advance care plans. Two independent review authors screened
+      full-text articles for inclusion, assessed quality and extracted data. RESULTS:
+      In total, 30 articles and reports were included. Of the 26 articles, 14 were
+      'expert opinion' articles (editorials, discussion papers or commentaries), 9 were
+      observational studies (cross-sectional, retrospective cohort studies or service
+      evaluations), 2 were qualitative studies and 1 a mixed-methods study. No study
+      had an experimental design. Quantitative studies described the proportion of
+      people with EPaCCS dying in their preferred place, and associations between
+      EPaCCS use and hospital utilisation. Qualitative, mixed-methods studies and
+      reports described the burden of inputting data and difficulties with IT systems
+      as main challenges of implementing EPaCCS. CONCLUSIONS: Much of the current
+      scientific literature on EPaCCS comprises expert opinion, and there is an absence
+      of experimental studies evaluating the impact of EPaCCS on end-of-life outcomes. 
+      Given the current drive for national roll-out of EPaCCS by 2020, it is essential 
+      that rigorous evaluation of EPaCCS is prioritised.
+CI  - (c) Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY.
+      Published by BMJ.
+FAU - Leniz, Javiera
+AU  - Leniz J
+AUID- ORCID: http://orcid.org/0000-0002-9315-4871
+AD  - Cicely Saunders Institute of Palliative Care, Policy and Rehabilitation, King's
+      College London, London, UK.
+FAU - Weil, Anna
+AU  - Weil A
+AD  - Cicely Saunders Institute of Palliative Care, Policy and Rehabilitation, King's
+      College London, London, UK.
+FAU - Higginson, Irene J
+AU  - Higginson IJ
+AD  - Cicely Saunders Institute of Palliative Care, Policy and Rehabilitation, King's
+      College London, London, UK.
+FAU - Sleeman, Katherine E
+AU  - Sleeman KE
+AD  - Cicely Saunders Institute of Palliative Care, Policy and Rehabilitation, King's
+      College London, London, UK Katherine.sleeman@kcl.ac.uk.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - SGL010\1023/AMS_/Academy of Medical Sciences/United Kingdom
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20190508
+PL  - England
+TA  - BMJ Support Palliat Care
+JT  - BMJ supportive & palliative care
+JID - 101565123
+SB  - IM
+MH  - Advance Care Planning/*organization & administration
+MH  - Cross-Sectional Studies
+MH  - Expert Testimony
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Information Dissemination/*methods
+MH  - Observational Studies as Topic
+MH  - Palliative Care/*organization & administration
+MH  - Qualitative Research
+MH  - Retrospective Studies
+PMC - PMC7030943
+MID - EMS83884
+OTO - NOTNLM
+OT  - EPaCCS
+OT  - advance care planning
+OT  - ePCS
+OT  - electronic health records
+OT  - electronic palliative care coordination systems
+OT  - palliative care
+COIS- Competing interests: None declared.
+EDAT- 2019/05/10 06:00
+MHDA- 2020/08/25 06:00
+CRDT- 2019/05/10 06:00
+PHST- 2018/10/18 00:00 [received]
+PHST- 2019/03/08 00:00 [revised]
+PHST- 2019/03/20 00:00 [accepted]
+PHST- 2019/05/10 06:00 [pubmed]
+PHST- 2020/08/25 06:00 [medline]
+PHST- 2019/05/10 06:00 [entrez]
+AID - bmjspcare-2018-001689 [pii]
+AID - 10.1136/bmjspcare-2018-001689 [doi]
+PST - ppublish
+SO  - BMJ Support Palliat Care. 2020 Mar;10(1):68-78. doi:
+      10.1136/bmjspcare-2018-001689. Epub 2019 May 8.
+
+PMID- 28292307
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171102
+LR  - 20181202
+IS  - 1748-5908 (Electronic)
+IS  - 1748-5908 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2017 Mar 14
+TI  - Describing knowledge encounters in healthcare: a mixed studies systematic review 
+      and development of a classification.
+PG  - 35
+LID - 10.1186/s13012-017-0564-1 [doi]
+AB  - BACKGROUND: Implementation science seeks to promote the uptake of research and
+      other evidence-based findings into practice, but for healthcare professionals,
+      this is complex as practice draws on, in addition to scientific principles, rules
+      of thumb and a store of practical wisdom acquired from a range of informational
+      and experiential sources. The aims of this review were to identify sources of
+      information and professional experiences encountered by healthcare workers and
+      from this to build a classification system, for use in future observational
+      studies, that describes influences on how healthcare professionals acquire and
+      use information in their clinical practice. METHODS: This was a mixed studies
+      systematic review of observational studies. DATA SOURCES: OVID MEDLINE and Embase
+      and Google Scholar were searched using terms around information, knowledge or
+      evidence and sharing, searching and utilisation combined with terms relating to
+      healthcare groups. ELIGIBILITY: Studies were eligible if one of the intentions
+      was to identify information or experiential encounters by healthcare workers.
+      DATA EXTRACTION: Data was extracted by one author after piloting with another.
+      STUDY APPRAISAL: Studies were assessed using the Mixed Methods Appraisal Tool
+      (MMAT). PRIMARY OUTCOME: The primary outcome extracted was the information source
+      or professional experience encounter. ANALYSIS: Similar encounters were grouped
+      together as single constructs. Our synthesis involved a mixed approach using the 
+      top-down logic of the Bliss Bibliographic Classification System (BC2) to generate
+      classification categories and a bottom-up approach to develop descriptive codes
+      (or "facets") for each category, from the data. The generic terms of BC2 were
+      customised by an iterative process of thematic content analysis. Facets were
+      developed by using available theory and keeping in mind the pragmatic end use of 
+      the classification. RESULTS: Eighty studies were included from which 178 discreet
+      knowledge encounters were extracted. Six classification categories were
+      developed: what information or experience was encountered; how was the
+      information or experience encountered; what was the mode of encounter; from whom 
+      did the information originate or with whom was the experience; how many
+      participants were there; and where did the encounter take place. For each of
+      these categories, relevant descriptive facets were identified. CONCLUSIONS: We
+      have sought to identify and classify all knowledge encounters, and we have
+      developed a faceted description of key categories which will support richer
+      descriptions and interrogations of knowledge encounters in healthcare research.
+FAU - Hurst, Dominic
+AU  - Hurst D
+AUID- ORCID: 0000-0002-4319-7486
+AD  - Barts and The London School of Medicine and Dentistry, Queen Mary University of
+      London, London, UK. r.d.hurst@qmul.ac.uk.
+AD  - Nuffield Department of Primary Care Health Sciences, University of Oxford,
+      Oxford, UK. r.d.hurst@qmul.ac.uk.
+FAU - Mickan, Sharon
+AU  - Mickan S
+AD  - Griffith University, Gold Coast, Queensland, Australia.
+AD  - Gold Coast Health, Gold Coast, Queensland, Australia.
+AD  - Nuffield Department of Primary Care Health Sciences, University of Oxford,
+      Oxford, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20170314
+PL  - England
+TA  - Implement Sci
+JT  - Implementation science : IS
+JID - 101258411
+SB  - IM
+MH  - Clinical Competence
+MH  - *Health Information Exchange
+MH  - *Health Personnel
+MH  - Humans
+MH  - Observational Studies as Topic
+PMC - PMC5351057
+OTO - NOTNLM
+OT  - *Evidence-based practice
+OT  - *Faceted classification
+OT  - *Healthcare workers
+OT  - *Information sources
+OT  - *Knowledge encounters
+OT  - *Mixed studies
+OT  - *Systematic review
+EDAT- 2017/03/16 06:00
+MHDA- 2017/11/03 06:00
+CRDT- 2017/03/16 06:00
+PHST- 2016/09/21 00:00 [received]
+PHST- 2017/03/01 00:00 [accepted]
+PHST- 2017/03/16 06:00 [entrez]
+PHST- 2017/03/16 06:00 [pubmed]
+PHST- 2017/11/03 06:00 [medline]
+AID - 10.1186/s13012-017-0564-1 [doi]
+AID - 10.1186/s13012-017-0564-1 [pii]
+PST - epublish
+SO  - Implement Sci. 2017 Mar 14;12(1):35. doi: 10.1186/s13012-017-0564-1.
+
+PMID- 30741183
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190829
+LR  - 20190829
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 257
+DP  - 2019
+TI  - eSource for Standardized Health Information Exchange in Clinical Research: A
+      Systematic Review.
+PG  - 115-124
+AB  - The availability of research and outcomes data is the primary limitation to
+      evidence-based practice. Today, only a fraction of clinical decisions are based
+      upon evidence derived from randomized control trials (RCTs), the gold-standard of
+      knowledge discovery. At the same time, clinical trial complexity has steadily
+      increased as has the effort required at clinical investigational sites. Direct
+      use of electronic health record (EHR) data for clinical trials has the potential 
+      to address some of these needs, improving data quality and reducing cost.
+FAU - Garza, Maryam
+AU  - Garza M
+AD  - University of Arkansas for Medical Sciences, Little Rock, Arkansas.
+FAU - Myneni, Sahiti
+AU  - Myneni S
+AD  - University of Texas Health Science Center at Houston, Houston, Texas.
+FAU - Nordo, Amy
+AU  - Nordo A
+AD  - Duke University, Durham, North Carolina.
+FAU - Eisenstein, Eric L
+AU  - Eisenstein EL
+AD  - Duke University, Durham, North Carolina.
+FAU - Hammond, W Ed
+AU  - Hammond WE
+AD  - Duke University, Durham, North Carolina.
+FAU - Walden, Anita
+AU  - Walden A
+AD  - University of Arkansas for Medical Sciences, Little Rock, Arkansas.
+FAU - Zozus, Meredith
+AU  - Zozus M
+AD  - University of Arkansas for Medical Sciences, Little Rock, Arkansas.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Cost Control
+MH  - Data Accuracy
+MH  - *Decision Support Systems, Clinical
+MH  - Electronic Health Records
+MH  - *Health Information Exchange/standards
+MH  - Humans
+MH  - Randomized Controlled Trials as Topic
+OTO - NOTNLM
+OT  - clinical research
+OT  - eSource
+OT  - electronic health records
+OT  - secondary data use
+EDAT- 2019/02/12 06:00
+MHDA- 2019/08/30 06:00
+CRDT- 2019/02/12 06:00
+PHST- 2019/02/12 06:00 [entrez]
+PHST- 2019/02/12 06:00 [pubmed]
+PHST- 2019/08/30 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2019;257:115-124.
+
+PMID- 29063540
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180302
+LR  - 20181207
+IS  - 2364-0502 (Electronic)
+IS  - 0943-4747 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2017 Aug
+TI  - Findings from the 2017 Yearbook Section on Health Information Management.
+PG  - 78-83
+LID - 10.15265/IY-2017-025 [doi]
+AB  - Objectives: To summarize the recent literature and research and present a
+      selection of the best papers published in 2016 in the field of Health Information
+      Management (HIM). Methods: A systematic review of the literature for the IMIA
+      Yearbook HIM section was performed by the two section editors with the help of a 
+      medical librarian. We searched bibliographic databases for HIM-related papers
+      were searched using both MeSH headings and key words in titles and abstracts. A
+      shortlist of candidate best papers was first selected by section editors before
+      being peer-reviewed by independent external reviewers. Results: The five papers
+      selected as 'Best Papers' illustrate a variety of themes, include authors from a 
+      variety of countries, and were published in some of the best journals in the
+      field. The themes of the five best papers include health information exchange,
+      personal health records, patient engagement, data quality, and e-quality
+      measures. Conclusions: The discipline of Health Information Management is
+      increasingly becoming allied with the field of Biomedical Informatics in that
+      both disciplines have interests in common. Traditional HIM areas of expertise (in
+      the pre-electronic health record world), such as coding and privacy and security 
+      of health information, are necessary for the electronic exchange and secondary
+      use of health information. With the changes in healthcare delivery brought by the
+      use of electronic health records, addressing issues of information governance is 
+      essential. This synopsis discusses these key issues at the intersection of HIM
+      and informatics, examines the potential challenges, and points the way for best
+      practices, future research, and public policy considerations and directions.
+CI  - Georg Thieme Verlag KG Stuttgart.
+FAU - Bloomrosen, M
+AU  - Bloomrosen M
+FAU - Berner, E S
+AU  - Berner ES
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20170911
+PL  - Germany
+TA  - Yearb Med Inform
+JT  - Yearbook of medical informatics
+JID - 9312666
+SB  - IM
+MH  - Electronic Health Records
+MH  - *Health Information Exchange/standards
+MH  - *Health Information Management
+MH  - Health Records, Personal
+MH  - Information Dissemination
+MH  - *Medical Informatics
+PMC - PMC6239241
+COIS- Disclosure The authors report no conflicts of interest in this work.
+EDAT- 2017/10/25 06:00
+MHDA- 2018/03/03 06:00
+CRDT- 2017/10/25 06:00
+PHST- 2017/10/25 06:00 [entrez]
+PHST- 2017/10/25 06:00 [pubmed]
+PHST- 2018/03/03 06:00 [medline]
+AID - 10.15265/IY-2017-025 [doi]
+PST - ppublish
+SO  - Yearb Med Inform. 2017 Aug;26(1):78-83. doi: 10.15265/IY-2017-025. Epub 2017 Sep 
+      11.

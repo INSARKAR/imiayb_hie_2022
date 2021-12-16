@@ -1,0 +1,19 @@
+3 | Information Dissemination
+3 | Health Information Management
+3 | Confidentiality
+3 | Health Care Costs
+2 | Quality of Health Care
+2 | Workflow
+2 | Computer Security
+2 | Randomized Controlled Trials as Topic
+2 | Emergency Service, Hospital
+2 | Outcome Assessment, Health Care
+2 | Bibliometrics
+2 | Efficiency, Organizational
+2 | Trust
+2 | Health Records, Personal
+2 | Blockchain
+2 | Patient Readmission
+2 | Hospitals
+2 | Decision Support Systems, Clinical
+2 | Observational Studies as Topic
