@@ -1,0 +1,1446 @@
+HTTP/1.1 200 OK
+Date: Sun, 19 Dec 2021 19:17:59 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: 939B661FC9AC3B85000060CF5A7F777C.1.1.m_5
+X-RateLimit-Remaining: 0
+NCBI-SID: 7405571CAB775564_3D21SID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=7405571CAB775564_3D21SID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:58 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 32388492
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210222
+LR  - 20210702
+IS  - 1879-0046 (Electronic)
+IS  - 0376-8716 (Linking)
+VI  - 212
+DP  - 2020 Jul 1
+TI  - Leveraging health information exchange for clinical research: Extreme
+      underreporting of hospital service utilization among patients with substance use 
+      disorders.
+PG  - 107992
+LID - S0376-8716(20)30157-5 [pii]
+LID - 10.1016/j.drugalcdep.2020.107992 [doi]
+AB  - BACKGROUND: Substance use disorders are associated with inefficient and
+      fragmented use of healthcare services. The Chesapeake Regional Information System
+      for Our Patients, Inc. (CRISP) is a Health Information Exchange (HIE) linking
+      disparate systems of care in the mid-Atlantic region. METHODS: This article
+      describes applications of HIE for tracking hospital service utilization in
+      substance use disorder clinical and services research, drawing upon data from one
+      of the first studies approved to access the CRISP HIE. Participants were 200
+      medical/surgical inpatients with comorbid opioid, cocaine, and/or alcohol use
+      disorder (45.5 % female; 56.5 % black; 77.5 % opioid use disorder; 42.0 %
+      homeless). This study compared HIE-identified hospital service utilization with
+      conventional methods of participant self-report during in-person research
+      follow-ups (3-, 6-, and 12-months post-discharge) and electronic health record
+      (EHR) review from the hospital system of the index admission. RESULTS: This
+      sample exhibited high levels of hospital utilization, which would have been
+      underestimated using conventional methods. Relying exclusively on self-report in 
+      the 12-month observation period would have identified only 33.8 % of 429
+      inpatient hospitalizations and 9.0 % of 1,287 ED visits, due to both
+      loss-to-follow-up and failure to report events. Even combining self-report with
+      single-system EHR review identified only 66.2 % of inpatient hospitalizations and
+      59.8 % of ED visits. CONCLUSIONS: CRISP HIE data were superior to conventional
+      methods for ascertaining hospital service utilization in this sample of patients 
+      exhibiting high-volume and fragmented care. The use of HIE holds implications for
+      improving rigor, safety, and efficiency in research studies.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Gryczynski, Jan
+AU  - Gryczynski J
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA. Electronic address: jgryczynski@friendsresearch.org.
+FAU - Nordeck, Courtney D
+AU  - Nordeck CD
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+FAU - Martin, Ross D
+AU  - Martin RD
+AD  - Chesapeake Regional Information System for Our Patients, Inc., 7160 Columbia
+      Gateway Drive, Suite 100, Columbia, MD 21046, USA.
+FAU - Welsh, Christopher
+AU  - Welsh C
+AD  - University of Maryland School of Medicine, 655 W. Baltimore St., Baltimore, MD
+      21201, USA.
+FAU - Schwartz, Robert P
+AU  - Schwartz RP
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+FAU - Mitchell, Shannon Gwin
+AU  - Mitchell SG
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+FAU - Jaffe, Jerome H
+AU  - Jaffe JH
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+LA  - eng
+GR  - R01 DA037942/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+DEP - 20200427
+PL  - Ireland
+TA  - Drug Alcohol Depend
+JT  - Drug and alcohol dependence
+JID - 7513587
+SB  - IM
+MH  - Adult
+MH  - Biomedical Research/methods/*trends
+MH  - Electronic Health Records/trends
+MH  - Emergency Service, Hospital/trends
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Health Information Exchange/*trends
+MH  - Hospitalization/*trends
+MH  - Humans
+MH  - Male
+MH  - Maryland/epidemiology
+MH  - Middle Aged
+MH  - *Patient Acceptance of Health Care
+MH  - Patient Discharge/trends
+MH  - Substance-Related Disorders/*epidemiology/*therapy
+PMC - PMC7299087
+MID - NIHMS1588600
+OTO - NOTNLM
+OT  - *Emergency department
+OT  - *Health information exchange
+OT  - *Hospitalization
+OT  - *Self-report
+OT  - *Substance use disorder
+COIS- Declaration of Competing Interest None.
+EDAT- 2020/05/11 06:00
+MHDA- 2021/02/23 06:00
+CRDT- 2020/05/11 06:00
+PHST- 2019/10/29 00:00 [received]
+PHST- 2020/03/22 00:00 [revised]
+PHST- 2020/03/24 00:00 [accepted]
+PHST- 2020/05/11 06:00 [pubmed]
+PHST- 2021/02/23 06:00 [medline]
+PHST- 2020/05/11 06:00 [entrez]
+AID - S0376-8716(20)30157-5 [pii]
+AID - 10.1016/j.drugalcdep.2020.107992 [doi]
+PST - ppublish
+SO  - Drug Alcohol Depend. 2020 Jul 1;212:107992. doi:
+      10.1016/j.drugalcdep.2020.107992. Epub 2020 Apr 27.
+
+PMID- 33067617
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210813
+LR  - 20211022
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2021 Mar 1
+TI  - Trends in user-initiated health information exchange in the inpatient,
+      outpatient, and emergency settings.
+PG  - 622-627
+LID - 10.1093/jamia/ocaa226 [doi]
+AB  - Prior research on health information exchange (HIE) typically measured provider
+      usage through surveys or they summarized the availability of HIE services in a
+      healthcare organization. Few studies utilized user log files. Using HIE access
+      log files, we measured HIE use in real-world clinical settings over a 7-year
+      period (2011-2017). Use of HIE increased in inpatient, outpatient, and emergency 
+      department (ED) settings. Further, while extant literature has generally viewed
+      the ED as the most relevant setting for HIE, the greatest change in HIE use was
+      observed in the inpatient setting, followed by the ED setting and then the
+      outpatient setting. Our findings suggest that in addition to federal incentives, 
+      the implementation of features that address barriers to access (eg, Single Sign
+      On), as well as value-added services (eg, interoperability with external data
+      sources), may be related to the growth in user-initiated HIE.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Rahurkar, Saurabh
+AU  - Rahurkar S
+AD  - Department of Biomedical Informatics, College of Medicine, The Ohio State
+      University, Columbus, Ohio, USA.
+AD  - Center for the Advancement of Team Science, Analytics, and Systems Thinking
+      (CATALYST), The Ohio State University, Columbus, Ohio, USA.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Department of Health Policy and Management, IU Richard M. Fairbanks School of
+      Public Health, Indiana University-Purdue University Indianapolis, Indianapolis,
+      Indiana, USA.
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, Indiana, 
+      USA.
+FAU - Finnell, John T
+AU  - Finnell JT
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, Indiana, 
+      USA.
+AD  - Department of Emergency Medicine, Indiana University School of Medicine,
+      Indianapolis, Indiana, USA.
+FAU - Dixon, Brian E
+AU  - Dixon BE
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, Indiana, 
+      USA.
+AD  - Department of Epidemiology, IU Richard M. Fairbanks School of Public Health,
+      Indiana University-Purdue University Indianapolis, Indianapolis, Indiana, USA.
+LA  - eng
+GR  - R21 HS025502/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Ambulatory Care Facilities/*trends
+MH  - Emergency Service, Hospital/*trends
+MH  - Health Information Exchange/*trends
+MH  - Health Information Interoperability
+MH  - Hospital Information Systems
+MH  - Hospitals/*trends
+MH  - Humans
+MH  - United States
+PMC - PMC7936525
+OTO - NOTNLM
+OT  - *HIE usage
+OT  - *Health information exchange
+OT  - *interoperability
+OT  - *log-file analysis
+EDAT- 2020/10/18 06:00
+MHDA- 2021/08/14 06:00
+CRDT- 2020/10/17 05:30
+PHST- 2020/06/01 00:00 [received]
+PHST- 2020/08/25 00:00 [revised]
+PHST- 2020/09/02 00:00 [accepted]
+PHST- 2020/10/18 06:00 [pubmed]
+PHST- 2021/08/14 06:00 [medline]
+PHST- 2020/10/17 05:30 [entrez]
+AID - 5927363 [pii]
+AID - 10.1093/jamia/ocaa226 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2021 Mar 1;28(3):622-627. doi: 10.1093/jamia/ocaa226.
+
+PMID- 29409028
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191115
+LR  - 20201201
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 25
+IP  - 6
+DP  - 2018 Jun 1
+TI  - A snapshot of health information exchange across five nations: an investigation
+      of frontline clinician experiences in emergency care.
+PG  - 686-693
+LID - 10.1093/jamia/ocx153 [doi]
+AB  - Objective: Ensuring the ability to exchange patient information among disparate
+      electronic health records systems is a top priority and a domain of substantial
+      public investment across countries. However, we know little about the extent to
+      which current capabilities meet the needs of frontline clinicians. Materials and 
+      Methods: We conducted in-person, semistructured interviews with emergency care
+      physicians and nurses in select hospitals in Canada, Denmark, Finland, Germany,
+      and the USA. We characterized the state of health information exchange (HIE) by
+      country and used thematic analysis to identify the perceived benefits of access
+      to complete past medical history (PMH), the conditions under which PMH is sought,
+      and the challenges to accessing and using HIE capabilities. Results: HIE
+      approaches, and the information electronically accessible to clinicians, differed
+      by country. Benefits of access to PMH included safer care, reduced patient length
+      of stay, and fewer lab and imaging orders. Conditions under which PMH was sought 
+      included moderate-acuity patients, patients with chronic conditions, and
+      instances where accessing PMH was convenient. Challenges to HIE access and use
+      included difficulty knowing where information is located, delay in receiving
+      information, and difficulty finding information within documents. Discussion:
+      Even with different HIE approaches across countries, all clinicians reported
+      shortcomings in their country's approach. Notably, challenges were similar and
+      shaped the conditions under which PMH was sought. Conclusion: As countries
+      continue to pursue broad-based HIE, they appear to be facing similar challenges
+      in realizing HIE value and therefore have an opportunity to learn from one
+      another.
+FAU - Klapman, Seth
+AU  - Klapman S
+AD  - Office of Medical Student Education, University of Michigan Medical School, Ann
+      Arbor, MI, USA.
+FAU - Sher, Emily
+AU  - Sher E
+AD  - Office of Medical Education, A.T. Still University of Osteopathic Medicine, Mesa,
+      AZ, USA.
+FAU - Adler-Milstein, Julia
+AU  - Adler-Milstein J
+AD  - Department of Medicine, University of California, San Francisco, CA, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+EIN - J Am Med Inform Assoc. 2018 Sep 1;25(9):1269. PMID: 29931318
+MH  - Attitude of Health Personnel
+MH  - *Electronic Health Records
+MH  - Emergency Medicine
+MH  - *Emergency Service, Hospital
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Internationality
+MH  - Interviews as Topic
+MH  - *Medical History Taking
+MH  - Nurses
+MH  - Physicians
+MH  - User-Computer Interface
+PMC - PMC7646866
+EDAT- 2018/02/07 06:00
+MHDA- 2019/11/16 06:00
+CRDT- 2018/02/07 06:00
+PHST- 2017/09/16 00:00 [received]
+PHST- 2017/12/17 00:00 [accepted]
+PHST- 2018/02/07 06:00 [pubmed]
+PHST- 2019/11/16 06:00 [medline]
+PHST- 2018/02/07 06:00 [entrez]
+AID - 4835586 [pii]
+AID - 10.1093/jamia/ocx153 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2018 Jun 1;25(6):686-693. doi: 10.1093/jamia/ocx153.
+
+PMID- 31747623
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210728
+LR  - 20210728
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Linking)
+VI  - 101
+DP  - 2020 Jan
+TI  - Data mining techniques utilizing latent class models to evaluate emergency
+      department revisits.
+PG  - 103341
+LID - S1532-0464(19)30260-6 [pii]
+LID - 10.1016/j.jbi.2019.103341 [doi]
+AB  - BACKGROUND: The use of machine learning techniques is especially pertinent to the
+      composite and challenging conditions of emergency departments (EDs). Repeat ED
+      visits (i.e. revisits) are an example of potentially inappropriate utilization of
+      resources that can be forecasted by these techniques. OBJECTIVE: To track the ED 
+      revisit risk over time using the hidden Markov model (HMM) as a major latent
+      class model. Given the HMM states, we carried out forecasting of future ED
+      revisits with various data mining models. METHODS: Information integrated from
+      four distributed sources (e.g. electronic health records and health information
+      exchange) was integrated into four HMMs which capture the relationships between
+      an observed and a hidden progression that shift over time through a series of
+      hidden states in an adult patient population. RESULTS: Assimilating a
+      pre-analysis of the various patients by applying latent class models and
+      directing them to well-known classifiers functioned well. The performance was
+      significantly better than without utilizing pre-analysis of HMM for all
+      prediction models (classifiers(. CONCLUSIONS: These findings suggest that one
+      prospective approach to advanced risk prediction is to leverage the longitudinal 
+      nature of health care data by exploiting patients' between state variation.
+CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
+FAU - Ben-Assuli, Ofir
+AU  - Ben-Assuli O
+AD  - Faculty of Business Administration, Ono Academic College, Kiryat Ono 55000,
+      Israel. Electronic address: Ofir.benassuli@gmail.com.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Fairbanks School of Public Health, Indiana University and Regenstrief Institute, 
+      IN 46202, USA. Electronic address: joshvest@iu.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191117
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+SB  - IM
+MH  - Adult
+MH  - Data Mining
+MH  - Electronic Health Records
+MH  - *Emergency Service, Hospital
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Latent Class Analysis
+OTO - NOTNLM
+OT  - *Electronic health records
+OT  - *Emergency department revisit
+OT  - *Health information exchange
+OT  - *Hidden Markov Models
+OT  - *Predictive analytics
+EDAT- 2019/11/21 06:00
+MHDA- 2021/07/29 06:00
+CRDT- 2019/11/21 06:00
+PHST- 2019/05/27 00:00 [received]
+PHST- 2019/11/13 00:00 [revised]
+PHST- 2019/11/14 00:00 [accepted]
+PHST- 2019/11/21 06:00 [pubmed]
+PHST- 2021/07/29 06:00 [medline]
+PHST- 2019/11/21 06:00 [entrez]
+AID - S1532-0464(19)30260-6 [pii]
+AID - 10.1016/j.jbi.2019.103341 [doi]
+PST - ppublish
+SO  - J Biomed Inform. 2020 Jan;101:103341. doi: 10.1016/j.jbi.2019.103341. Epub 2019
+      Nov 17.
+
+PMID- 31445257
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191127
+LR  - 20191127
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 129
+DP  - 2019 Sep
+TI  - Prediction of emergency department revisits using area-level social determinants 
+      of health measures and health information exchange information.
+PG  - 205-210
+LID - S1386-5056(19)30037-1 [pii]
+LID - 10.1016/j.ijmedinf.2019.06.013 [doi]
+AB  - INTRODUCTION: Interoperable health information technologies, like electronic
+      health records (EHR) and health information exchange (HIE), provide greater
+      access to patient information from across multiple organizations. Also, an
+      increasing number of public data sources exist to describe social determinant of 
+      health factors. These data may help better inform risk prediction models, but the
+      relative importance or value of these data has not been established. This study
+      assessed the performance of different classes of information individually, and in
+      combination, in predicting emergency department (ED) revisits. METHODS: In a
+      sample of 279,611 adult ED encounters. We compared the performance of Two-Class
+      Boosted Decision Trees machine learning algorithm using 5 classes of information:
+      1) social determinants of health measures only, 2) current visit EHR information 
+      only, 3) current and historical EHR information, 4) HIE information only, and 5) 
+      all available information combined. RESULTS: The social determinants of health
+      measure only model had the overall worst performance with an area under the curve
+      AUC of 0.61. The model using all information classes together had the best
+      performance (AUC=0.732). The model using HIE information only performed better
+      than all other single information class models. CONCLUSIONS: Broad information
+      sources, which are reflective of patients' reliance on multiple organizations for
+      care, better support risk prediction modeling in the emergency department.
+CI  - Copyright (c) 2019 Elsevier B.V. All rights reserved.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Indiana University, Richard M. Fairbanks School of Public Health, Indianapolis,
+      IN, United States; Center for Biomedical Informatics, Regenstrief Institute,
+      Indianapolis, IN, United States. Electronic address: joshvest@iu.edu.
+FAU - Ben-Assuli, Ofir
+AU  - Ben-Assuli O
+AD  - Ono Academic College, Faculty of Business Administration, Kiryat Ono, Israel.
+      Electronic address: ofir@ono.ac.il.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190619
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Electronic Health Records
+MH  - *Emergency Service, Hospital/statistics & numerical data
+MH  - Female
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Machine Learning
+MH  - Male
+MH  - Middle Aged
+MH  - *Social Determinants of Health
+OTO - NOTNLM
+OT  - *Emergency department
+OT  - *Emergency department revisits
+OT  - *Health information exchange
+OT  - *Machine learning
+OT  - *Risk prediction
+OT  - *Social determinants
+EDAT- 2019/08/25 06:00
+MHDA- 2019/11/28 06:00
+CRDT- 2019/08/25 06:00
+PHST- 2019/01/11 00:00 [received]
+PHST- 2019/04/17 00:00 [revised]
+PHST- 2019/06/17 00:00 [accepted]
+PHST- 2019/08/25 06:00 [pubmed]
+PHST- 2019/11/28 06:00 [medline]
+PHST- 2019/08/25 06:00 [entrez]
+AID - S1386-5056(19)30037-1 [pii]
+AID - 10.1016/j.ijmedinf.2019.06.013 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2019 Sep;129:205-210. doi: 10.1016/j.ijmedinf.2019.06.013. Epub
+      2019 Jun 19.
+
+PMID- 30236418
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191216
+LR  - 20191217
+IS  - 1097-6760 (Electronic)
+IS  - 0196-0644 (Linking)
+VI  - 73
+IP  - 2
+DP  - 2019 Feb
+TI  - Expanding Health Information Exchange Improves Identification of Frequent
+      Emergency Department Users.
+PG  - 172-179
+LID - S0196-0644(18)30656-5 [pii]
+LID - 10.1016/j.annemergmed.2018.07.024 [doi]
+AB  - STUDY OBJECTIVE: Frequent emergency department (ED) users are of interest to
+      policymakers and hospitals. The objective of this study is to examine the effect 
+      of health information exchange size on the identification of frequent ED users.
+      METHODS: We retrospectively analyzed data from Healthix, a health information
+      exchange in New York that previously included 10 hospitals and then grew to 31
+      hospitals. We divided patients into 3 cohorts: high-frequency ED users with 4 or 
+      more visits in any 30-day period, medium-frequency ED users with 4 or more visits
+      in any year, and infrequent ED users with fewer than 4 visits in any year. For
+      both the smaller (10-hospital) and larger (31-hospital) health information
+      exchanges, we compared the identification rate of frequent ED users that was
+      based on hospital-specific data with the corresponding rates that were based on
+      health information exchange data. RESULTS: The smaller health information
+      exchange (n=1,696,279 unique ED patients) identified 11.4% more high-frequency
+      users (33,467 versus 30,057) and 9.5% more medium-frequency users (109,497 versus
+      100,014) than the hospital-specific data. The larger health information exchange 
+      (n=3,684,999) identified 19.6% more high-frequency patients (52,727 versus
+      44,079) and 18.2% more medium-frequency patients (222,574 versus 192,541) than
+      the hospital-specific data. Expanding from the smaller health information
+      exchange to the larger one, we found an absolute increase of 8.2% and 8.7%
+      identified high- and medium-frequency users, respectively. CONCLUSION: Increasing
+      health information exchange size more accurately reflects how patients access EDs
+      and ultimately improves not only the total number of identified frequent ED users
+      but also their identification rate.
+CI  - Copyright (c) 2018 American College of Emergency Physicians. Published by
+      Elsevier Inc. All rights reserved.
+FAU - Han, Xiao
+AU  - Han X
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY. Electronic address:
+      xiao.j.han@gmail.com.
+FAU - Lowry, Tina Y
+AU  - Lowry TY
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY.
+FAU - Loo, George T
+AU  - Loo GT
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY.
+FAU - Rabin, Elaine J
+AU  - Rabin EJ
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY.
+FAU - Grinspan, Zachary M
+AU  - Grinspan ZM
+AD  - Weill Cornell Medical College, New York, NY.
+FAU - Kern, Lisa M
+AU  - Kern LM
+AD  - Weill Cornell Medical College, New York, NY.
+FAU - Kuperman, Gilad J
+AU  - Kuperman GJ
+AD  - New York-Presbyterian Hospital, New York, NY.
+FAU - Shapiro, Jason S
+AU  - Shapiro JS
+AD  - Icahn School of Medicine at Mount Sinai, New York, NY.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20180917
+PL  - United States
+TA  - Ann Emerg Med
+JT  - Annals of emergency medicine
+JID - 8002646
+SB  - IM
+MH  - Adult
+MH  - Continuity of Patient Care
+MH  - Emergency Service, Hospital/*statistics & numerical data
+MH  - Female
+MH  - *Health Information Exchange
+MH  - Health Services Misuse/*statistics & numerical data
+MH  - Health Services Needs and Demand
+MH  - *Hospital Information Systems
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Acceptance of Health Care/*statistics & numerical data
+MH  - Policy Making
+MH  - Quality Improvement
+MH  - Retrospective Studies
+EDAT- 2018/09/22 06:00
+MHDA- 2019/12/18 06:00
+CRDT- 2018/09/22 06:00
+PHST- 2018/04/05 00:00 [received]
+PHST- 2018/07/05 00:00 [revised]
+PHST- 2018/07/19 00:00 [accepted]
+PHST- 2018/09/22 06:00 [pubmed]
+PHST- 2019/12/18 06:00 [medline]
+PHST- 2018/09/22 06:00 [entrez]
+AID - S0196-0644(18)30656-5 [pii]
+AID - 10.1016/j.annemergmed.2018.07.024 [doi]
+PST - ppublish
+SO  - Ann Emerg Med. 2019 Feb;73(2):172-179. doi: 10.1016/j.annemergmed.2018.07.024.
+      Epub 2018 Sep 17.
+
+PMID- 33936500
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210616
+LR  - 20210616
+IS  - 1942-597X (Electronic)
+IS  - 1559-4076 (Linking)
+VI  - 2020
+DP  - 2020
+TI  - End user information needs for a SMART on FHIR-based automated transfer form to
+      support the care of nursing home patients during emergency department visits.
+PG  - 1239-1248
+AB  - Nursing home (NH) patients are extensive users of emergency department (ED)
+      services. Problematically, poor information sharing and incomplete access to
+      information complicates the delivery of care in EDs for NH patients. Paper-based 
+      transfer forms can support information sharing, but have significant limitations.
+      Standards-based automated transfer-forms that leverage health information
+      exchange data may address the limitations of paper-based forms and better support
+      care delivery. This study developed a prototype SMART on FHIR automated transfer 
+      form for NH patients using priority data elements identified through individual
+      interviews, a review of existing transfer forms, a targeted survey of end users, 
+      and a design workshop. Analyses were grounded in the 5 Rights of clinical
+      decision support framework. The most valuable data elements included: emergency
+      contact/healthcare proxy, current medication list, reason for transfer to the ED,
+      baseline neurological state, and relevant diagnoses / medical history. The
+      working prototype was successfully deployed within an Amazon Web Service
+      environment.
+CI  - (c)2020 AMIA - All rights reserved.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Indiana University Richard M. Fairbanks School of Public Health, Indianapolis,
+      IN, USA.
+AD  - Regenstrief Institute, Inc., Indianapolis, IN, USA.
+FAU - Unruh, Mark A
+AU  - Unruh MA
+AD  - Weill Cornell Medical College, New York, NY, USA.
+FAU - Hilts, Katy Ellis
+AU  - Hilts KE
+AD  - Indiana University Richard M. Fairbanks School of Public Health, Indianapolis,
+      IN, USA.
+FAU - Sanner, Lindsey
+AU  - Sanner L
+AD  - Indiana University Richard M. Fairbanks School of Public Health, Indianapolis,
+      IN, USA.
+FAU - Jones, Joshua
+AU  - Jones J
+AD  - Regenstrief Institute, Inc., Indianapolis, IN, USA.
+FAU - Khokhar, Shahid
+AU  - Khokhar S
+AD  - Regenstrief Institute, Inc., Indianapolis, IN, USA.
+FAU - Jung, Hye-Young
+AU  - Jung HY
+AD  - Weill Cornell Medical College, New York, NY, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210125
+PL  - United States
+TA  - AMIA Annu Symp Proc
+JT  - AMIA ... Annual Symposium proceedings. AMIA Symposium
+JID - 101209213
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Continuity of Patient Care
+MH  - *Decision Support Systems, Clinical
+MH  - Electronic Health Records/*organization & administration
+MH  - Emergency Service, Hospital/*statistics & numerical data
+MH  - *Health Information Exchange
+MH  - *Health Information Interoperability
+MH  - Humans
+MH  - Middle Aged
+MH  - Nursing Homes/statistics & numerical data
+MH  - Patient Transfer/*organization & administration
+PMC - PMC8075455
+EDAT- 2021/05/04 06:00
+MHDA- 2021/06/17 06:00
+CRDT- 2021/05/03 06:15
+PHST- 2021/05/03 06:15 [entrez]
+PHST- 2021/05/04 06:00 [pubmed]
+PHST- 2021/06/17 06:00 [medline]
+AID - 160_3410663 [pii]
+PST - epublish
+SO  - AMIA Annu Symp Proc. 2021 Jan 25;2020:1239-1248. eCollection 2020.
+
+PMID- 28967514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181121
+LR  - 20181202
+IS  - 1097-6760 (Electronic)
+IS  - 0196-0644 (Linking)
+VI  - 71
+IP  - 5
+DP  - 2018 May
+TI  - Bouncing Back Elsewhere: Multilevel Analysis of Return Visits to the Same or a
+      Different Hospital After Initial Emergency Department Presentation.
+PG  - 555-563.e1
+LID - S0196-0644(17)31488-9 [pii]
+LID - 10.1016/j.annemergmed.2017.08.023 [doi]
+AB  - STUDY OBJECTIVE: Analyses of 72-hour emergency department (ED) return visits are 
+      frequently used for quality assurance purposes and have been proposed as a means 
+      of measuring provider performance. These analyses have traditionally examined
+      only patients returning to the same hospital as the initial visit. We use a
+      health information exchange network to describe differences between ED visits
+      resulting in 72-hour revisits to the same hospital and those resulting in
+      revisits to a different site. METHODS: We examined data from a 31-hospital health
+      information exchange of all ED visits during a 5-year period to identify 72-hour 
+      return visits and collected available encounter, patient, and hospital variables.
+      Next, we used multilevel analysis of encounter-level, patient-level, and
+      hospital-level data to describe differences between initial ED visits resulting
+      in different-site and same-site return visits. RESULTS: We identified 12,621,159 
+      patient visits to the 31 study EDs, including 841,259 same-site and 107,713
+      different-site return visits within 72 hours of initial ED presentation. We
+      calculated odds ratios (ORs) and 95% confidence intervals (CIs) for the
+      initial-visit characteristics' predictive relationship that any return visit
+      would be at a different site: daytime visit (OR 1.10; 95% CI 1.07 to 1.12),
+      patient-hospital county concordance (OR 1.40; 95% CI 1.36 to 1.44), male sex (OR 
+      1.27; 95% CI 1.24 to 1.30), aged 65 years or older (OR 0.55; 95% CI 0.53 to
+      0.57), sites with an ED residency (OR 0.41; 95% CI 0.40 to 0.43), sites at an
+      academic hospital (OR 1.12; 95% CI 1.08 to 1.15), sites with high density of
+      surrounding EDs (OR 1.73; 95% CI 1.68 to 1.77), and sites with a high frequency
+      of same-site return visits (OR 0.10; 95% CI 0.10 to 0.11). CONCLUSION: This
+      analysis describes how ED encounters with early revisits to the same hospital
+      differ from those with revisits to a second hospital. These findings challenge
+      the use of single-site return-visit frequency as a quality measure, and, more
+      constructively, describe how hospitals can use health information exchange to
+      more accurately identify early ED return visits and to support programs related
+      to these revisits.
+CI  - Copyright (c) 2017 American College of Emergency Physicians. Published by
+      Elsevier Inc. All rights reserved.
+FAU - Shy, Bradley D
+AU  - Shy BD
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY. Electronic address: brad.shy@gmail.com.
+FAU - Loo, George T
+AU  - Loo GT
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY; Department of Population Health Science and Policy, Icahn School of
+      Medicine at Mount Sinai, New York, NY.
+FAU - Lowry, Tina
+AU  - Lowry T
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY.
+FAU - Kim, Eugene Y
+AU  - Kim EY
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY.
+FAU - Hwang, Ula
+AU  - Hwang U
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY; Brookdale Department of Geriatrics and Palliative Medicine, Icahn
+      School of Medicine at Mount Sinai, New York, NY.
+FAU - Richardson, Lynne D
+AU  - Richardson LD
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY; Department of Population Health Science and Policy, Icahn School of
+      Medicine at Mount Sinai, New York, NY.
+FAU - Shapiro, Jason S
+AU  - Shapiro JS
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mount Sinai, New
+      York, NY.
+LA  - eng
+GR  - R01 HS021261/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20170928
+PL  - United States
+TA  - Ann Emerg Med
+JT  - Annals of emergency medicine
+JID - 8002646
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Child
+MH  - Child, Preschool
+MH  - Emergency Service, Hospital/*statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Male
+MH  - Middle Aged
+MH  - Multilevel Analysis
+MH  - Odds Ratio
+MH  - Patient Readmission/*statistics & numerical data
+MH  - Quality Assurance, Health Care/*statistics & numerical data
+MH  - Quality Improvement/*statistics & numerical data
+MH  - Retrospective Studies
+MH  - Time Factors
+MH  - Young Adult
+EDAT- 2017/10/03 06:00
+MHDA- 2018/11/22 06:00
+CRDT- 2017/10/03 06:00
+PHST- 2017/02/17 00:00 [received]
+PHST- 2017/07/27 00:00 [revised]
+PHST- 2017/08/07 00:00 [accepted]
+PHST- 2017/10/03 06:00 [pubmed]
+PHST- 2018/11/22 06:00 [medline]
+PHST- 2017/10/03 06:00 [entrez]
+AID - S0196-0644(17)31488-9 [pii]
+AID - 10.1016/j.annemergmed.2017.08.023 [doi]
+PST - ppublish
+SO  - Ann Emerg Med. 2018 May;71(5):555-563.e1. doi: 10.1016/j.annemergmed.2017.08.023.
+      Epub 2017 Sep 28.
+
+PMID- 32483587
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210405
+LR  - 20211122
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 27
+IP  - 7
+DP  - 2020 Jul 1
+TI  - Enabling health information exchange at a US Poison Control Center.
+PG  - 1000-1006
+LID - 10.1093/jamia/ocaa055 [doi]
+AB  - OBJECTIVE: The objective of this project was to enable poison control center
+      (PCC) participation in standards-based health information exchange (HIE).
+      Previously, PCC participation was not possible due to software noncompliance with
+      HIE standards, lack of informatics infrastructure, and the need to integrate HIE 
+      processes into workflow. MATERIALS AND METHODS: We adapted the Health Level Seven
+      Consolidated Clinical Document Architecture (C-CDA) consultation note for the PCC
+      use case. We used rapid prototyping to determine requirements for an HIE
+      dashboard for use by PCCs and developed software called SNOWHITE that enables
+      poison center HIE in tandem with a poisoning information system. RESULTS: We
+      successfully implemented the process and software at the PCC and began sending
+      outbound C-CDAs from the Utah PCC on February 15, 2017; we began receiving
+      inbound C-CDAs on October 30, 2018. DISCUSSION: With the creation of SNOWHITE and
+      initiation of an HIE process for sending outgoing C-CDA consultation notes from
+      the Utah Poison Control Center, we accomplished the first participation of PCCs
+      in standards-based HIE in the US. We faced several challenges that are also
+      likely to be present at PCCs in other states, including the lack of a robust set 
+      of patient identifiers to support automated patient identity matching, challenges
+      in emergency department computerized workflow integration, and the need to build 
+      HIE software for PCCs. CONCLUSION: As a multi-disciplinary, multi-organizational 
+      team, we successfully developed both a process and the informatics tools
+      necessary to enable PCC participation in standards-based HIE and implemented the 
+      process at the Utah PCC.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association.
+FAU - Cummins, Mollie R
+AU  - Cummins MR
+AD  - University of Utah College of Nursing, Salt Lake City, Utah, USA.
+FAU - Del Fiol, Guilherme
+AU  - Del Fiol G
+AD  - Department of Biomedical Informatics, University of Utah, Salt Lake City, Utah,
+      USA.
+FAU - Crouch, Barbara I
+AU  - Crouch BI
+AD  - Utah Poison Control Center, University of Utah, Salt Lake City, Utah, USA.
+FAU - Ranade-Kharkar, Pallavi
+AU  - Ranade-Kharkar P
+AD  - Intermountain Healthcare, Salt Lake City, Utah, USA.
+FAU - Khalifa, Aly
+AU  - Khalifa A
+AD  - Department of Biomedical Informatics, University of Utah, Salt Lake City, Utah,
+      USA.
+FAU - Iskander, Andrew
+AU  - Iskander A
+AD  - Department of Biomedical Informatics, University of Utah, Salt Lake City, Utah,
+      USA.
+FAU - Mann, Darren
+AU  - Mann D
+AD  - Intermountain Healthcare, Salt Lake City, Utah, USA.
+FAU - Hoffman, Matt
+AU  - Hoffman M
+AD  - Medical Informatics, Utah Health Information Network, Murray, Utah, USA.
+FAU - Thornton, Sid
+AU  - Thornton S
+AD  - Intermountain Healthcare, Salt Lake City, Utah, USA.
+FAU - Allen, Todd L
+AU  - Allen TL
+AD  - Intermountain Healthcare, Salt Lake City, Utah, USA.
+FAU - Bennett, Heather
+AU  - Bennett H
+AD  - Utah Poison Control Center, University of Utah, Salt Lake City, Utah, USA.
+LA  - eng
+GR  - UL1 TR002538/TR/NCATS NIH HHS/United States
+GR  - UL1 TR001067/TR/NCATS NIH HHS/United States
+GR  - S10 OD021644/OD/NIH HHS/United States
+GR  - UL1 RR025764/RR/NCRR NIH HHS/United States
+GR  - R01 HS021472/HS/AHRQ HHS/United States
+GR  - UL1 TR000105/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Emergency Service, Hospital/*organization & administration
+MH  - *Health Information Exchange/standards
+MH  - Health Level Seven
+MH  - Humans
+MH  - Poison Control Centers/*organization & administration
+MH  - Referral and Consultation
+MH  - Utah
+MH  - Workflow
+PMC - PMC7647288
+OTO - NOTNLM
+OT  - *Health information exchange
+OT  - *health information interoperability
+OT  - *patient care
+OT  - *poison control centers
+OT  - *workflow
+EDAT- 2020/06/03 06:00
+MHDA- 2021/04/07 06:00
+CRDT- 2020/06/03 06:00
+PHST- 2019/09/23 00:00 [received]
+PHST- 2020/02/27 00:00 [revised]
+PHST- 2020/04/27 00:00 [accepted]
+PHST- 2020/06/03 06:00 [pubmed]
+PHST- 2021/04/07 06:00 [medline]
+PHST- 2020/06/03 06:00 [entrez]
+AID - 5850086 [pii]
+AID - 10.1093/jamia/ocaa055 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2020 Jul 1;27(7):1000-1006. doi: 10.1093/jamia/ocaa055.
+
+PMID- 28787376
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180102
+LR  - 20190610
+IS  - 2163-0763 (Electronic)
+IS  - 2163-0755 (Linking)
+VI  - 84
+IP  - 1
+DP  - 2018 Jan
+TI  - Long-term evaluation of a hospital-based violence intervention program using a
+      regional health information exchange.
+PG  - 175-182
+LID - 10.1097/TA.0000000000001671 [doi]
+AB  - BACKGROUND: Hospital-based violence intervention programs (HVIP) aim to reduce
+      violent-injury recidivism by providing intensive case management services to
+      high-risk patients who were violently injured. Although HVIP have been found
+      effective at reducing recidivism, few studies have sought to identity how long
+      their effects last. Additionally, prior studies have been limited by the fact
+      that HVIP typically rely on self-report or data within their own healthcare
+      system to identify new injuries. Our aim was to quantify the long-term recidivism
+      rate of participants in an HVIP program using more objective and comprehensive
+      data from a regional health information exchange. METHODS: The study included 328
+      patients enrolled in Prescription for Hope (RxH), an HVIP, between January 2009
+      and August 2016. We obtained RxH participants' emergency department (ED)
+      encounter data from a regional health information exchange database from the date
+      of hospital discharge to February 2017. Our primary outcome was violent-injury
+      recidivism rate of the RxH program. We also examined reasons for ED visits that
+      were unrelated to violent injury. RESULTS: We calculated a 4.4% recidivism rate
+      based on 8 years of statewide data, containing 1,575 unique encounters. More than
+      96% of participants were matched in the state database. Of the 15 patients who
+      recidivated, only five were admitted for their injury. More than half of new
+      violence-related injuries were treated outside of the HVIP-affiliated trauma
+      center. The most common reasons for ED visits were pain (718 encounters),
+      followed by suspected complications or needing additional postoperative care (181
+      encounters). Substance abuse, unintentional injuries, and suicidal ideation were 
+      also frequent reasons for ED visits. CONCLUSION: The low, long-term recidivism
+      rate for RxH indicates that HVIPs have enduring positive effects on the majority 
+      of participants. Our results suggest that HVIP may further benefit patients by
+      partnering with organizations that work to prevent suicide, substance use
+      disorders, and other unintentional injuries. LEVEL OF EVIDENCE: Therapeutic
+      study, level III.
+FAU - Bell, Teresa M
+AU  - Bell TM
+AD  - From the Department of Surgery (T.M.B., B.O., B.E.M., R.M., C.J.S., B.L.Z.),
+      Indiana University School of Medicine, Indianapolis, Indiana; Smith Level I Shock
+      Trauma Center (D.G., B.A.M., C.J.S., B.L.Z.), Eskenazi Hospital, Indianapolis,
+      Indiana; and Regenstrief Institute (J.M.), Indianapolis, Indiana.
+FAU - Gilyan, Dannielle
+AU  - Gilyan D
+FAU - Moore, Brian A
+AU  - Moore BA
+FAU - Martin, Joel
+AU  - Martin J
+FAU - Ogbemudia, Blessing
+AU  - Ogbemudia B
+FAU - McLaughlin, Briana E
+AU  - McLaughlin BE
+FAU - Moore, Reilin
+AU  - Moore R
+FAU - Simons, Clark J
+AU  - Simons CJ
+FAU - Zarzaur, Ben L
+AU  - Zarzaur BL
+LA  - eng
+GR  - R01 AG052493/AG/NIA NIH HHS/United States
+GR  - KL2 TR000163/TR/NCATS NIH HHS/United States
+GR  - UL1 TR001108/TR/NCATS NIH HHS/United States
+GR  - KL2 TR002530/TR/NCATS NIH HHS/United States
+GR  - KL2 TR001106/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - United States
+TA  - J Trauma Acute Care Surg
+JT  - The journal of trauma and acute care surgery
+JID - 101570622
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - *Emergency Service, Hospital
+MH  - Female
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Program Evaluation
+MH  - *Regional Medical Programs
+MH  - Retrospective Studies
+MH  - Violence/*prevention & control/statistics & numerical data
+MH  - Wounds and Injuries/epidemiology/*prevention & control
+MH  - Young Adult
+PMC - PMC5739956
+MID - NIHMS897537
+EDAT- 2017/08/09 06:00
+MHDA- 2018/01/03 06:00
+CRDT- 2017/08/09 06:00
+PHST- 2017/08/09 06:00 [pubmed]
+PHST- 2018/01/03 06:00 [medline]
+PHST- 2017/08/09 06:00 [entrez]
+AID - 10.1097/TA.0000000000001671 [doi]
+PST - ppublish
+SO  - J Trauma Acute Care Surg. 2018 Jan;84(1):175-182. doi:
+      10.1097/TA.0000000000001671.
+
+PMID- 31634163
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200504
+LR  - 20200505
+IS  - 1538-9774 (Electronic)
+IS  - 1538-2931 (Linking)
+VI  - 37
+IP  - 12
+DP  - 2019 Dec
+TI  - Impact of a Prescription Drug Monitoring Program on Health Information Exchange
+      Utilization, Prescribing Behaviors, and Care Coordination in an Emergency
+      Department.
+PG  - 647-654
+LID - 10.1097/CIN.0000000000000566 [doi]
+AB  - Timely access to patient data is critical in patient care. The utilization of
+      health information exchange and prescription drug monitoring programs can make
+      pertinent data readily accessible for emergency department providers to
+      coordinate care. A quasi-experimental preintervention-postintervention design,
+      with 62 providers and 53 554 emergency department visits linked to a health
+      information exchange and prescription drug monitoring program, was used to
+      evaluate rates for utilization, laboratory/imaging orders, narcotic prescribing
+      and readmission. Health information exchange utilization increased significantly 
+      after the drug monitoring program was implemented (mean = 119.33 to mean =
+      231.33, t2 = -15.79, P < .001). There was no significant effect postprescription 
+      drug monitoring program for laboratory/imaging orders or narcotics at discharge, 
+      although narcotic orders during emergency visits increased (F1,23 = 7.953, P =
+      .010), which may suggest the data confirmed the immediate need to control acute
+      or chronic conditions. In addition, readmission rates decreased from 14.64% to
+      12.58%. Through streamlining processes, health information exchange and
+      prescription drug monitoring program usage were increased, which can improve
+      care. As organizations promote interoperability of health information, the nurse 
+      informaticist plays a significant role in managing access to systems that can
+      assist all providers in coordinating care.
+FAU - Schoenbaum, Anna E
+AU  - Schoenbaum AE
+AD  - Author Affiliations: Enterprise Clinical Systems, University of Maryland Medical 
+      System, Linthicum (Dr Schoenbaum); Nursing Informatics, University of Maryland
+      School of Nursing, Baltimore (Dr Seckman), MD.
+FAU - Seckman, Charlotte
+AU  - Seckman C
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Comput Inform Nurs
+JT  - Computers, informatics, nursing : CIN
+JID - 101141667
+SB  - IM
+MH  - Adult
+MH  - Emergency Service, Hospital/organization & administration/statistics & numerical 
+      data
+MH  - Female
+MH  - Health Information Exchange/*standards/statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Nursing Care/methods/trends
+MH  - Patient Acceptance of Health Care/*statistics & numerical data
+MH  - Practice Patterns, Physicians'/standards/statistics & numerical data
+MH  - Prescription Drug Monitoring Programs/*standards/statistics & numerical data
+EDAT- 2019/10/22 06:00
+MHDA- 2020/05/06 06:00
+CRDT- 2019/10/22 06:00
+PHST- 2019/10/22 06:00 [pubmed]
+PHST- 2020/05/06 06:00 [medline]
+PHST- 2019/10/22 06:00 [entrez]
+AID - 10.1097/CIN.0000000000000566 [doi]
+PST - ppublish
+SO  - Comput Inform Nurs. 2019 Dec;37(12):647-654. doi: 10.1097/CIN.0000000000000566.
+
+PMID- 33682004
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211124
+LR  - 20211124
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 28
+IP  - 7
+DP  - 2021 Jul 14
+TI  - Human-centered development of an electronic health record-embedded, interactive
+      information visualization in the emergency department using fast healthcare
+      interoperability resources.
+PG  - 1401-1410
+LID - 10.1093/jamia/ocab016 [doi]
+AB  - OBJECTIVE: Develop and evaluate an interactive information visualization embedded
+      within the electronic health record (EHR) by following human-centered design
+      (HCD) processes and leveraging modern health information exchange standards.
+      MATERIALS AND METHODS: We applied an HCD process to develop a Fast Healthcare
+      Interoperability Resources (FHIR) application that displays a patient's asthma
+      history to clinicians in a pediatric emergency department. We performed a
+      preimplementation comparative system evaluation to measure time on task, number
+      of screens, information retrieval accuracy, cognitive load, user satisfaction,
+      and perceived utility and usefulness. Application usage and system functionality 
+      were assessed using application logs and a postimplementation survey of end
+      users. RESULTS: Usability testing of the Asthma Timeline Application demonstrated
+      a statistically significant reduction in time on task (P < .001), number of
+      screens (P < .001), and cognitive load (P < .001) for clinicians when compared to
+      base EHR functionality. Postimplementation evaluation demonstrated reliable
+      functionality and high user satisfaction. DISCUSSION: Following HCD processes to 
+      develop an application in the context of clinical operations/quality improvement 
+      is feasible. Our work also highlights the potential benefits and challenges
+      associated with using internationally recognized data exchange standards as
+      currently implemented. CONCLUSION: Compared to standard EHR functionality, our
+      visualization increased clinician efficiency when reviewing the charts of
+      pediatric asthma patients. Application development efforts in an operational
+      context should leverage existing health information exchange standards, such as
+      FHIR, and evidence-based mixed methods approaches.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Thayer, Jeritt G
+AU  - Thayer JG
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Ferro, Daria F
+AU  - Ferro DF
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Division of General Pediatrics, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+FAU - Miller, Jeffrey M
+AU  - Miller JM
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Karavite, Dean
+AU  - Karavite D
+AUID- ORCID: 0000-0003-0554-5715
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Grundmeier, Robert W
+AU  - Grundmeier RW
+AUID- ORCID: 0000-0002-8290-5588
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Division of General Pediatrics, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+FAU - Utidjian, Levon
+AU  - Utidjian L
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Division of General Pediatrics, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+FAU - Zorc, Joseph J
+AU  - Zorc JJ
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Department of Emergency Medicine, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Child
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - Emergency Service, Hospital
+MH  - *Health Information Exchange
+MH  - Humans
+PMC - PMC8279791
+OTO - NOTNLM
+OT  - *clinical decision support systems
+OT  - *health information exchange
+OT  - *health information interoperability
+OT  - *human-centered design
+OT  - *implementation science
+EDAT- 2021/03/09 06:00
+MHDA- 2021/11/25 06:00
+CRDT- 2021/03/08 05:59
+PMCR- 2022/03/03 00:00
+PHST- 2020/08/15 00:00 [received]
+PHST- 2021/01/21 00:00 [accepted]
+PHST- 2022/03/03 00:00 [pmc-release]
+PHST- 2021/03/09 06:00 [pubmed]
+PHST- 2021/11/25 06:00 [medline]
+PHST- 2021/03/08 05:59 [entrez]
+AID - 6157802 [pii]
+AID - 10.1093/jamia/ocab016 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2021 Jul 14;28(7):1401-1410. doi: 10.1093/jamia/ocab016.
+
+PMID- 31272427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200107
+LR  - 20210408
+IS  - 1472-6947 (Electronic)
+IS  - 1472-6947 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2019 Jul 4
+TI  - Regional data exchange to improve care for veterans after non-VA hospitalization:
+      a randomized controlled trial.
+PG  - 125
+LID - 10.1186/s12911-019-0849-1 [doi]
+AB  - BACKGROUND: Coordination of care, especially after a patient experiences an acute
+      care event, is a challenge for many health systems. Event notification is a form 
+      of health information exchange (HIE) which has the potential to support care
+      coordination by alerting primary care providers when a patient experiences an
+      acute care event. While promising, there exists little evidence on the impact of 
+      event notification in support of reengagement into primary care. The objectives
+      of this study are to 1) examine the effectiveness of event notification on health
+      outcomes for older adults who experience acute care events, and 2) compare
+      approaches to how providers respond to event notifications. METHODS: In a cluster
+      randomized trial conducted across two medical centers within the U.S. Veterans
+      Health Administration (VHA) system, we plan to enroll older patients (>/= 65
+      years of age) who utilize both VHA and non-VHA providers. Patients will be
+      enrolled into one of three arms: 1) usual care; 2) event notifications only; or
+      3) event notifications plus a care transitions intervention. In the event
+      notification arms, following a non-VHA acute care encounter, an HIE-based
+      intervention will send an event notification to VHA providers. Patients in the
+      event notification plus care transitions arm will also receive 30 days of care
+      transition support from a social worker. The primary outcome measure is 90-day
+      readmission rate. Secondary outcomes will be high risk medication discrepancies
+      as well as care transitions processes within the VHA health system. Qualitative
+      assessments of the intervention will inform VHA system-wide implementation.
+      DISCUSSION: While HIE has been evaluated in other contexts, little evidence
+      exists on HIE-enabled event notification interventions. Furthermore, this trial
+      offers the opportunity to examine the use of event notifications that trigger a
+      care transitions intervention to further support coordination of care. TRIAL
+      REGISTRATION: ClinicalTrials.gov NCT02689076. "Regional Data Exchange to Improve 
+      Care for Veterans After Non-VA Hospitalization." Registered 23 February 2016.
+FAU - Dixon, Brian E
+AU  - Dixon BE
+AUID- ORCID: 0000-0002-1121-0607
+AD  - Department of Veterans Affairs, Health Services Research & Development Service,
+      Center for Health Information and Communication, 1481 W. 10th St, 11H,
+      Indianapolis, IN, 46202, USA. Brian.Dixon@va.gov.
+AD  - Indiana University, Fairbanks School of Public Health, 1050 Wishard Blvd,
+      Indianapolis, IN, 46202, USA. Brian.Dixon@va.gov.
+AD  - Regenstrief Institute, Center for Biomedical Informatics, 1101 W 10th St,
+      Indianapolis, IN, 46202, USA. Brian.Dixon@va.gov.
+FAU - Schwartzkopf, Ashley L
+AU  - Schwartzkopf AL
+AD  - Department of Veterans Affairs, Health Services Research & Development Service,
+      Center for Health Information and Communication, 1481 W. 10th St, 11H,
+      Indianapolis, IN, 46202, USA.
+FAU - Guerrero, Vivian M
+AU  - Guerrero VM
+AD  - Department of Veterans Affairs, James J. Peters VA Medical Center, 130 W
+      Kingsbridge Rd, Bronx, NY, 10468, USA.
+FAU - May, Justine
+AU  - May J
+AD  - Department of Veterans Affairs, Health Services Research & Development Service,
+      Center for Health Information and Communication, 1481 W. 10th St, 11H,
+      Indianapolis, IN, 46202, USA.
+FAU - Koufacos, Nicholas S
+AU  - Koufacos NS
+AD  - Department of Veterans Affairs, James J. Peters VA Medical Center, 130 W
+      Kingsbridge Rd, Bronx, NY, 10468, USA.
+FAU - Bean, Andrew M
+AU  - Bean AM
+AD  - Department of Veterans Affairs, James J. Peters VA Medical Center, 130 W
+      Kingsbridge Rd, Bronx, NY, 10468, USA.
+FAU - Penrod, Joan D
+AU  - Penrod JD
+AD  - Department of Veterans Affairs, James J. Peters VA Medical Center, 130 W
+      Kingsbridge Rd, Bronx, NY, 10468, USA.
+AD  - Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Pl, New York, NY,
+      10029, USA.
+FAU - Schubert, Cathy C
+AU  - Schubert CC
+AD  - Department of Veterans Affairs, Health Services Research & Development Service,
+      Center for Health Information and Communication, 1481 W. 10th St, 11H,
+      Indianapolis, IN, 46202, USA.
+AD  - Indiana University, School of Medicine, 1101 W. 10th St, Indianapolis, IN, 46202,
+      USA.
+FAU - Boockvar, Kenneth S
+AU  - Boockvar KS
+AD  - Department of Veterans Affairs, James J. Peters VA Medical Center, 130 W
+      Kingsbridge Rd, Bronx, NY, 10468, USA.
+AD  - Icahn School of Medicine at Mount Sinai, 1 Gustave L. Levy Pl, New York, NY,
+      10029, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02689076
+GR  - I01 HX000506/HX/HSRD VA/United States
+GR  - I01 HX001563/HX/HSRD VA/United States
+PT  - Clinical Trial Protocol
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20190704
+PL  - England
+TA  - BMC Med Inform Decis Mak
+JT  - BMC medical informatics and decision making
+JID - 101088682
+SB  - IM
+MH  - *Emergency Service, Hospital
+MH  - *Health Information Exchange
+MH  - *Hospital Information Systems
+MH  - *Hospitalization
+MH  - Humans
+MH  - United States
+MH  - United States Department of Veterans Affairs
+MH  - *Veterans
+PMC - PMC6611045
+OTO - NOTNLM
+OT  - *Community networks
+OT  - *Emergency service
+OT  - *Health information exchange
+OT  - *Hospital
+OT  - *Hospitalization
+OT  - *Reminder systems
+OT  - *Veterans health
+EDAT- 2019/07/06 06:00
+MHDA- 2020/01/08 06:00
+CRDT- 2019/07/06 06:00
+PHST- 2019/02/27 00:00 [received]
+PHST- 2019/06/24 00:00 [accepted]
+PHST- 2019/07/06 06:00 [entrez]
+PHST- 2019/07/06 06:00 [pubmed]
+PHST- 2020/01/08 06:00 [medline]
+AID - 10.1186/s12911-019-0849-1 [doi]
+AID - 10.1186/s12911-019-0849-1 [pii]
+PST - epublish
+SO  - BMC Med Inform Decis Mak. 2019 Jul 4;19(1):125. doi: 10.1186/s12911-019-0849-1.
+
+PMID- 32023121
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200512
+LR  - 20210402
+IS  - 1546-3141 (Electronic)
+IS  - 0361-803X (Linking)
+VI  - 214
+IP  - 4
+DP  - 2020 Apr
+TI  - Perceptions of Radiologists and Emergency Medicine Providers Regarding the
+      Quality, Value, and Challenges of Outside Image Sharing in the Emergency
+      Department Setting.
+PG  - 843-852
+LID - 10.2214/AJR.19.22096 [doi]
+AB  - OBJECTIVE. The purpose of this study is to assess the perceptions of radiologists
+      and emergency medicine (EM) providers regarding the quality, value, and
+      challenges associated with using outside imaging (i.e., images obtained at
+      facilities other than their own institution). MATERIALS AND METHODS. We surveyed 
+      radiologists and EM providers at a large academic medical center regarding their 
+      perceptions of the availability and utility of outside imaging. RESULTS.
+      Thirty-four of 101 radiologists (33.6%) and 38 of 197 EM providers (19.3%)
+      responded. A total of 32.4% of radiologists and 55.3% of EM providers had
+      confidence in the quality of images from outside community facilities; 20.6% and 
+      44.7%, respectively, had confidence in the interpretations of radiologists from
+      these outside facilities. Only 23.5% of radiologists and 5.3% of EM physicians
+      were confident in their ability to efficiently access reports (for outside
+      images, 47.1% and 5.3%). Very few radiologists and EM providers had accessed
+      imaging reports from outside facilities through an available stand-alone portal. 
+      A total of 40.6% of radiologists thought that outside reports always or
+      frequently reduced additional imaging recommendations (62.5% for outside images);
+      15.6% thought that reports changed interpretations of new examinations (37.5% for
+      outside images); and 43.8% thought that reports increased confidence in
+      interpretations of new examinations (75.0% for outside images). A total of 29.4% 
+      of EM providers thought that access to reports from outside facilities reduced
+      repeat imaging (64.7% for outside images), 41.2% thought that they changed
+      diagnostic or management plans (50.0% for outside images), and 50.0% thought they
+      increased clinical confidence (67.6% for outside images). CONCLUSION.
+      Radiologists and EM providers perceive high value in sharing images from outside 
+      facilities, despite quality concerns. Substantial challenges exist in accessing
+      these images and reports from outside facilities, and providers are unlikely to
+      do so using separate systems. However, even if information technology solutions
+      for seamless image integration are adopted, providers' lack of confidence in
+      outside studies may remain an important barrier.
+FAU - Rosenkrantz, Andrew B
+AU  - Rosenkrantz AB
+AD  - Department of Radiology, NYU Grossman School of Medicine, 660 First Ave, New
+      York, NY 10016.
+FAU - Smith, Silas W
+AU  - Smith SW
+AD  - Ronald O. Perelman Department of Emergency Medicine, NYU Grossman School of
+      Medicine, New York, NY.
+AD  - Institute for Innovations in Medical Education, NYU Langone Health, New York, NY.
+FAU - Recht, Michael P
+AU  - Recht MP
+AD  - Department of Radiology, NYU Grossman School of Medicine, 660 First Ave, New
+      York, NY 10016.
+FAU - Horwitz, Leora I
+AU  - Horwitz LI
+AD  - Department of Population Health, Division of Healthcare Delivery Science, NYU
+      Grossman School of Medicine, New York, NY.
+AD  - Center for Healthcare Innovation and Delivery Science, NYU Langone Health, New
+      York, NY.
+AD  - Department of Medicine, Division of General Internal Medicine and Clinical
+      Innovation, NYU Grossman School of Medicine, New York, NY.
+LA  - eng
+GR  - R01 EB024539/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20200205
+PL  - United States
+TA  - AJR Am J Roentgenol
+JT  - AJR. American journal of roentgenology
+JID - 7708173
+SB  - IM
+MH  - Academic Medical Centers
+MH  - *Attitude of Health Personnel
+MH  - Electronic Health Records
+MH  - Emergency Medicine
+MH  - Emergency Service, Hospital/*organization & administration
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Physicians/*psychology
+MH  - *Quality of Health Care
+MH  - Radiology
+MH  - Surveys and Questionnaires
+PMC - PMC7603650
+MID - NIHMS1567290
+OTO - NOTNLM
+OT  - *emergency medicine
+OT  - *health information exchange
+OT  - *informatics
+OT  - *survey
+EDAT- 2020/02/06 06:00
+MHDA- 2020/05/19 06:00
+CRDT- 2020/02/06 06:00
+PHST- 2020/02/06 06:00 [pubmed]
+PHST- 2020/05/19 06:00 [medline]
+PHST- 2020/02/06 06:00 [entrez]
+AID - 10.2214/AJR.19.22096 [doi]
+PST - ppublish
+SO  - AJR Am J Roentgenol. 2020 Apr;214(4):843-852. doi: 10.2214/AJR.19.22096. Epub
+      2020 Feb 5.

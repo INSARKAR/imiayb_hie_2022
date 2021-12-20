@@ -1,0 +1,37 @@
+
+
+("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt] AND English[language] AND (Systematic[sb])
+==> 25
+
+(("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) AND English[language] AND LitCGeneral[filter] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat]))
+==> 10
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND ("Health Knowledge, Attitudes, Practice"[mh] or healthdisparities[sb])
+==> 10
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat]))
+==> 236
+1 >> 26 | Hospitals
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND "Hospitals"[mh:noexp]
+==> 26
+2 >> 25 | Information Dissemination
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND "Information Dissemination"[mh:noexp]
+==> 25
+3 >> 21 | Computer Security
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND "Computer Security"[mh:noexp]
+==> 21
+3 >> 21 | Confidentiality
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND "Confidentiality"[mh:noexp]
+==> 21
+4 >> 19 | Delivery of Health Care
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND "Delivery of Health Care"[mh:noexp]
+==> 19
+5 >> 14 | Emergency Service, Hospital
+
+((("health information exchange"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]) NOT LitCGeneral[filter] AND English[language] NOT (Systematic[sb] OR Review[pt]) AND (2018/01/01:2021/12/01[pdat])) AND "Emergency Service, Hospital"[mh:noexp]
+==> 14

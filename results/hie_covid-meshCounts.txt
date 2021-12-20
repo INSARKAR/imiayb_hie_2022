@@ -1,0 +1,10 @@
+9 | COVID-19
+7 | Pandemics
+5 | SARS-CoV-2
+3 | Pneumonia, Viral
+3 | Coronavirus Infections
+3 | Information Dissemination
+2 | Age Factors
+2 | Confidentiality
+2 | Physicians
+2 | Delivery of Health Care

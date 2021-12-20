@@ -1,0 +1,2198 @@
+HTTP/1.1 200 OK
+Date: Sun, 19 Dec 2021 19:17:30 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: 322C36777D9DA985000036C46421E98D.1.1.m_5
+X-RateLimit-Remaining: 0
+NCBI-SID: D483C74F895ED635_4D66SID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=D483C74F895ED635_4D66SID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:30 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 29734283
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191118
+LR  - 20191118
+IS  - 1096-9012 (Print)
+IS  - 1096-9012 (Linking)
+VI  - 63
+IP  - 3
+DP  - 2018 May-Jun
+TI  - How Does Electronic Health Information Exchange Affect Hospital Performance
+      Efficiency? The Effects of Breadth and Depth of Information Sharing.
+PG  - 212-228
+LID - 10.1097/JHM-D-16-00041 [doi]
+AB  - EXECUTIVE SUMMARY: This research was motivated by the large investment in health 
+      information technology (IT) by hospitals and the inconsistent findings related to
+      the effects of health IT adoption on hospital performance. Building on resource
+      orchestration theory and the information systems literature, the authors
+      developed a research model to investigate how the configuration strategies for
+      sharing information under health IT systems affect hospital efficiency. The
+      hypotheses were tested using data from the 2010 annual and IT surveys of the
+      American Hospital Association, Centers for Medicare & Medicaid Services case mix 
+      index, and U.S. Census Bureau's small-area income and poverty estimates. The
+      study revealed that in health IT systems, the breadth (extent) and depth (level
+      of detail) of digital information sharing among stakeholders each has a
+      curvilinear relationship with hospital efficiency. In addition, breadth and depth
+      reinforce each other's positive effects and attenuate each other's negative
+      effects, and their balance has a positive effect on hospital efficiency. The
+      results of this research have the potential to enrich the literature on the value
+      of adopting health IT systems as well as in providing practitioner guidelines for
+      meaningful use.
+FAU - Cho, Na-Eun
+AU  - Cho NE
+AD  - assistant professor, College of Business, Hongik University, Seoul, South Korea
+      professor, School of Business, Clarkson University, Potsdam, New York associate
+      professor, School of Business, Clarkson University assistant professor, School of
+      Pharmacy, University of Texas at El Paso, El Paso.
+FAU - Ke, Weiling
+AU  - Ke W
+FAU - Atems, Bebonchu
+AU  - Atems B
+FAU - Chang, Jongwha
+AU  - Chang J
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Healthc Manag
+JT  - Journal of healthcare management / American College of Healthcare Executives
+JID - 9803529
+CIN - J Healthc Manag. 2018 May-Jun;63(3):228-229. PMID: 29734284
+MH  - *Diffusion of Innovation
+MH  - *Efficiency, Organizational
+MH  - *Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Hospital Administration/*methods
+MH  - Hospitals
+MH  - Humans
+MH  - Information Dissemination/*methods
+MH  - Medical Informatics/*organization & administration
+MH  - United States
+EDAT- 2018/05/08 06:00
+MHDA- 2019/11/19 06:00
+CRDT- 2018/05/08 06:00
+PHST- 2018/05/08 06:00 [entrez]
+PHST- 2018/05/08 06:00 [pubmed]
+PHST- 2019/11/19 06:00 [medline]
+AID - 10.1097/JHM-D-16-00041 [doi]
+AID - 00115514-201806000-00011 [pii]
+PST - ppublish
+SO  - J Healthc Manag. 2018 May-Jun;63(3):212-228. doi: 10.1097/JHM-D-16-00041.
+
+PMID- 28236178
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181115
+LR  - 20191008
+IS  - 1386-9620 (Print)
+IS  - 1386-9620 (Linking)
+VI  - 21
+IP  - 3
+DP  - 2018 Sep
+TI  - Does participation in health information exchange improve hospital efficiency?
+PG  - 426-438
+LID - 10.1007/s10729-017-9396-4 [doi]
+AB  - The federal government allocated nearly $30 billion to spur the development of
+      information technology infrastructure capable of supporting the exchange of
+      interoperable clinical data, leading to growth in hospital participation in
+      health information exchange (HIE) networks. HIEs have the potential to improve
+      care coordination across healthcare providers, leading ultimately to increased
+      productivity of health services for hospitals. However, the impact of HIE
+      participation on hospital efficiency remains unclear. This dynamic prompts the
+      question asked by this study: does HIE participation improve hospital efficiency.
+      This study estimates the effect of HIE participation on efficiency using a
+      national sample of 1017 hospitals from 2009 to 2012. Using a two-stage analytic
+      design, efficiency indices were determined using the Malmquist algorithm and then
+      regressed on a set of hospital characteristics. Results suggest that any
+      participation in HIE can improve both technical efficiency change and total
+      factor productivity (TFP). A second model examining total years of HIE
+      participation shows a benefit of one and three years of participation on TFP.
+      These results suggest that hospital investment in HIE participation may be a
+      useful strategy to improve hospital operational performance, and that policy
+      should continue to support increased participation and use of HIE. More research 
+      is needed to identify the exact mechanisms through which HIE participation can
+      improve hospital efficiency.
+FAU - Walker, Daniel M
+AU  - Walker DM
+AD  - The Ohio State University, College of Medicine, 2231 North High St., Rm,
+      Columbus, OH, 266, USA. Daniel.Walker@osumc.edu.
+LA  - eng
+GR  - R36 HS023343/HS/AHRQ HHS/United States
+GR  - R36HS023343/Agency for Healthcare Research and Quality
+PT  - Journal Article
+DEP - 20170224
+PL  - Netherlands
+TA  - Health Care Manag Sci
+JT  - Health care management science
+JID - 9815649
+SB  - IM
+MH  - Algorithms
+MH  - *Efficiency, Organizational
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Hospital Administration/*methods
+MH  - Hospitals/statistics & numerical data
+MH  - Humans
+MH  - Models, Theoretical
+MH  - United States
+PMC - PMC5568978
+MID - NIHMS873656
+OTO - NOTNLM
+OT  - Efficiency
+OT  - Health information exchange
+OT  - Health information technology
+OT  - Hospital
+OT  - Malmquist algorithm
+EDAT- 2017/02/27 06:00
+MHDA- 2018/11/16 06:00
+CRDT- 2017/02/26 06:00
+PHST- 2016/09/13 00:00 [received]
+PHST- 2017/02/13 00:00 [accepted]
+PHST- 2017/02/27 06:00 [pubmed]
+PHST- 2018/11/16 06:00 [medline]
+PHST- 2017/02/26 06:00 [entrez]
+AID - 10.1007/s10729-017-9396-4 [doi]
+AID - 10.1007/s10729-017-9396-4 [pii]
+PST - ppublish
+SO  - Health Care Manag Sci. 2018 Sep;21(3):426-438. doi: 10.1007/s10729-017-9396-4.
+      Epub 2017 Feb 24.
+
+PMID- 33067617
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210813
+LR  - 20211022
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2021 Mar 1
+TI  - Trends in user-initiated health information exchange in the inpatient,
+      outpatient, and emergency settings.
+PG  - 622-627
+LID - 10.1093/jamia/ocaa226 [doi]
+AB  - Prior research on health information exchange (HIE) typically measured provider
+      usage through surveys or they summarized the availability of HIE services in a
+      healthcare organization. Few studies utilized user log files. Using HIE access
+      log files, we measured HIE use in real-world clinical settings over a 7-year
+      period (2011-2017). Use of HIE increased in inpatient, outpatient, and emergency 
+      department (ED) settings. Further, while extant literature has generally viewed
+      the ED as the most relevant setting for HIE, the greatest change in HIE use was
+      observed in the inpatient setting, followed by the ED setting and then the
+      outpatient setting. Our findings suggest that in addition to federal incentives, 
+      the implementation of features that address barriers to access (eg, Single Sign
+      On), as well as value-added services (eg, interoperability with external data
+      sources), may be related to the growth in user-initiated HIE.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Rahurkar, Saurabh
+AU  - Rahurkar S
+AD  - Department of Biomedical Informatics, College of Medicine, The Ohio State
+      University, Columbus, Ohio, USA.
+AD  - Center for the Advancement of Team Science, Analytics, and Systems Thinking
+      (CATALYST), The Ohio State University, Columbus, Ohio, USA.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Department of Health Policy and Management, IU Richard M. Fairbanks School of
+      Public Health, Indiana University-Purdue University Indianapolis, Indianapolis,
+      Indiana, USA.
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, Indiana, 
+      USA.
+FAU - Finnell, John T
+AU  - Finnell JT
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, Indiana, 
+      USA.
+AD  - Department of Emergency Medicine, Indiana University School of Medicine,
+      Indianapolis, Indiana, USA.
+FAU - Dixon, Brian E
+AU  - Dixon BE
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, Indiana, 
+      USA.
+AD  - Department of Epidemiology, IU Richard M. Fairbanks School of Public Health,
+      Indiana University-Purdue University Indianapolis, Indianapolis, Indiana, USA.
+LA  - eng
+GR  - R21 HS025502/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Ambulatory Care Facilities/*trends
+MH  - Emergency Service, Hospital/*trends
+MH  - Health Information Exchange/*trends
+MH  - Health Information Interoperability
+MH  - Hospital Information Systems
+MH  - Hospitals/*trends
+MH  - Humans
+MH  - United States
+PMC - PMC7936525
+OTO - NOTNLM
+OT  - *HIE usage
+OT  - *Health information exchange
+OT  - *interoperability
+OT  - *log-file analysis
+EDAT- 2020/10/18 06:00
+MHDA- 2021/08/14 06:00
+CRDT- 2020/10/17 05:30
+PHST- 2020/06/01 00:00 [received]
+PHST- 2020/08/25 00:00 [revised]
+PHST- 2020/09/02 00:00 [accepted]
+PHST- 2020/10/18 06:00 [pubmed]
+PHST- 2021/08/14 06:00 [medline]
+PHST- 2020/10/17 05:30 [entrez]
+AID - 5927363 [pii]
+AID - 10.1093/jamia/ocaa226 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2021 Mar 1;28(3):622-627. doi: 10.1093/jamia/ocaa226.
+
+PMID- 31348514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210201
+LR  - 20210201
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 26
+IP  - 10
+DP  - 2019 Oct 1
+TI  - Health systems' use of enterprise health information exchange vs single
+      electronic health record vendor environments and unplanned readmissions.
+PG  - 989-998
+LID - 10.1093/jamia/ocz116 [doi]
+AB  - OBJECTIVE: Enterprise health information exchange (HIE) and a single electronic
+      health record (EHR) vendor solution are 2 information exchange approaches to
+      improve performance and increase the quality of care. This study sought to
+      determine the association between adoption of enterprise HIE vs a single vendor
+      environment and changes in unplanned readmissions. MATERIALS AND METHODS: The
+      association between unplanned 30-day readmissions among adult patients and
+      adoption of enterprise HIE or a single vendor environment was measured in a panel
+      of 211 system-member hospitals from 2010 through 2014 using fixed-effects
+      regression models. Sample hospitals were members of health systems in 7 states.
+      Enterprise HIE was defined as self-reported ability to exchange information with 
+      other members of the same health system who used different EHR vendors. A single 
+      EHR vendor environment reported exchanging information with other health system
+      members, but all using the same EHR vendor. RESULTS: Enterprise HIE adoption was 
+      more common among the study sample than EHR (75% vs 24%). However, adoption of a 
+      single EHR vendor environment was associated with a 0.8% reduction in the
+      probability of a readmission within 30 days of discharge. The estimated impact of
+      adopting an enterprise HIE strategy on readmissions was smaller and not
+      statically significant. CONCLUSION: Reductions in the probability of an unplanned
+      readmission after a hospital adopts a single vendor environment suggests that HIE
+      technologies can better support the aim of higher quality care. Additionally,
+      health systems may benefit more from a single vendor environment approach than
+      attempting to foster exchange across multiple EHR vendors.
+CI  - (c) The Author(s) 2019. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Indiana University Richard M. Fairbanks School of Public Health, Department of
+      Health Policy & Management, Indianapolis, Indiana, USA.
+AD  - Regenstrief Institute, Center for Biomedical Informatics, Indianapolis, Indiana, 
+      USA.
+FAU - Unruh, Mark Aaron
+AU  - Unruh MA
+AD  - Weill Cornell Medical College, Department of Healthcare Policy and Research, New 
+      York, New York, USA.
+FAU - Freedman, Seth
+AU  - Freedman S
+AD  - Indiana University O'Neill School of Public & Environmental Affairs, Bloomington,
+      Indiana, USA.
+FAU - Simon, Kosali
+AU  - Simon K
+AD  - Indiana University O'Neill School of Public & Environmental Affairs, Bloomington,
+      Indiana, USA.
+AD  - National Bureau of Economic Research.
+LA  - eng
+GR  - R21 HS024717/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Commerce
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - Female
+MH  - *Health Information Exchange
+MH  - *Hospital Administration
+MH  - Hospitals
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Middle Aged
+MH  - *Organizational Policy
+MH  - Patient Readmission/*statistics & numerical data
+MH  - United States
+PMC - PMC7792753
+OTO - NOTNLM
+OT  - *electronic health records
+OT  - *health information exchange
+OT  - *hospitals
+OT  - *patient readmission policy
+EDAT- 2019/07/28 06:00
+MHDA- 2021/02/02 06:00
+CRDT- 2019/07/27 06:00
+PHST- 2019/02/13 00:00 [received]
+PHST- 2019/05/28 00:00 [revised]
+PHST- 2019/06/11 00:00 [accepted]
+PHST- 2019/07/28 06:00 [pubmed]
+PHST- 2021/02/02 06:00 [medline]
+PHST- 2019/07/27 06:00 [entrez]
+AID - 5539497 [pii]
+AID - 10.1093/jamia/ocz116 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2019 Oct 1;26(10):989-998. doi: 10.1093/jamia/ocz116.
+
+PMID- 34831731
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211208
+LR  - 20211214
+IS  - 1660-4601 (Electronic)
+IS  - 1660-4601 (Linking)
+VI  - 18
+IP  - 22
+DP  - 2021 Nov 15
+TI  - Do Market Characteristics Matter? Factors Associated with Health Information
+      Exchange.
+LID - 11976 [pii]
+LID - 10.3390/ijerph182211976 [doi]
+AB  - This study explores factors associated with the breadth (extent) and depth (level
+      of detail) of digital information exchange among stakeholders in health
+      information technology (IT) systems. Annual and IT surveys of the American
+      Hospital Association and the U.S. Census Bureau's small-area income and poverty
+      estimates from 2014-2016 were analyzed for associations between key factors and
+      breadth and depth of information exchange. OLS Regression was used with a sample 
+      consisting of 10,040 year-hospital observations. We found that hospital-level
+      variables such as size, ownership type, system affiliation, physician-hospital
+      arrangement, and revenue model affect information exchange. We further found that
+      market-level variables such as concentration ratio, urbanness, and median
+      household income, although they directly affect information exchange, do not
+      moderate the relationship between hospital-level variables and information
+      exchange. Our study fills a gap in the previous literature arising from the lack 
+      of research on the determinants of health information exchange.
+FAU - Cho, Na-Eun
+AU  - Cho NE
+AD  - Department of Business Administration, School of Business, Hongik University,
+      Seoul 04066, Korea.
+FAU - Hong, KiHoon
+AU  - Hong K
+AD  - Department of Business Administration, School of Business, Hongik University,
+      Seoul 04066, Korea.
+FAU - Chang, Jongwha
+AU  - Chang J
+AD  - Department of Healthcare Administration, College of Business, Texas Woman's
+      University, Denton, TX 76204, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211115
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - *Health Information Exchange
+MH  - *Health Information Systems
+MH  - Hospitals
+MH  - Ownership
+MH  - United States
+PMC - PMC8624939
+OTO - NOTNLM
+OT  - *health information technology
+OT  - *hospital
+OT  - *information exchange
+OT  - *market
+EDAT- 2021/11/28 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/11/27 01:16
+PHST- 2021/08/04 00:00 [received]
+PHST- 2021/10/26 00:00 [revised]
+PHST- 2021/11/12 00:00 [accepted]
+PHST- 2021/11/27 01:16 [entrez]
+PHST- 2021/11/28 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+AID - ijerph182211976 [pii]
+AID - 10.3390/ijerph182211976 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2021 Nov 15;18(22). pii: ijerph182211976. doi:
+      10.3390/ijerph182211976.
+
+PMID- 33640839
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210708
+LR  - 20210708
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 149
+DP  - 2021 May
+TI  - Unfulfilled promises of health information exchange: What inhibits ambulatory
+      clinics from electronically sharing health information?
+PG  - 104418
+LID - S1386-5056(21)00044-7 [pii]
+LID - 10.1016/j.ijmedinf.2021.104418 [doi]
+AB  - PURPOSE: This study seeks to understand the key inhibitors for health information
+      exchange (HIE) by ambulatory (outpatient) clinics. We examine the key
+      technological, organizational and environmental factors that inhibit an
+      ambulatory clinic from electronically exchanging health information with external
+      clinics and hospitals. METHODS: We utilize survey data from 1285 ambulatory
+      clinics in the US state of Minnesota. Using logistic regressions, we assess if
+      the ambulatory clinic's HIE with external clinics and external hospitals are
+      associated with fourteen inhibitors from technological, organizational and
+      environmental contexts in which ambulatory clinics operate. RESULTS: Among the
+      technological inhibitors, we find lack of adequate technological infrastructure, 
+      difficulties in integrating external data with electronic medical record systems,
+      and security concerns to inhibit ambulatory clinics' HIE with both clinics and
+      hospitals. Inadequate technical support was a barrier for HIE with hospitals,
+      whereas inadequate training of staff was an inhibitor for clinic-to-clinic HIE.
+      Of the environmental variables, legal concerns and complexity in framing HIE
+      agreements with partners were found to inhibit ambulatory clinics' HIE with both 
+      external clinics and hospitals. Lack of partner readiness and ability was an
+      inhibiting factor for clinic-to-hospital HIE whereas issues in patient consent,
+      and problems in choosing the right vendor with a good fit were inhibiting
+      ambulatory clinics' HIE with other clinics. Among the organizational variables,
+      lack of adequate senior leadership support and complexity of workflow changes
+      inhibited clinic-to-clinic health data sharing, whereas unclear return on
+      investment (ROI) for HIE was a deterrent for ambulatory clinics' HIE with
+      hospitals. CONCLUSIONS: This study throws light on electronic HIE practices and
+      its key inhibitors in ambulatory clinics, an understudied area in digital health.
+      This paper provides unique insights into specific inhibitors that deter
+      clinic-to-clinic health information sharing versus those that affect and
+      clinic-to-hospital health information exchange.
+CI  - Published by Elsevier B.V.
+FAU - Chandrasekaran, Ranganathan
+AU  - Chandrasekaran R
+AD  - Department of Information & Decision Sciences, University of Illinois at Chicago,
+      United States. Electronic address: ranga@uic.edu.
+FAU - Sankaranarayanan, Balaji
+AU  - Sankaranarayanan B
+AD  - Department of IT and Supply Chain Management, University of Wisconsin at
+      Whitewater, United States. Electronic address: sankarab@uww.edu.
+FAU - Pendergrass, John
+AU  - Pendergrass J
+AD  - Department of Operations Management and Information Systems, Northern Illinois
+      University, United States. Electronic address: jpendergrass@niu.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20210218
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Ambulatory Care Facilities
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Minnesota
+OTO - NOTNLM
+OT  - *Ambulatory clinics
+OT  - *Barriers
+OT  - *Digital health
+OT  - *Electronic health data sharing
+OT  - *Health information exchange
+OT  - *Inhibitors
+EDAT- 2021/03/01 06:00
+MHDA- 2021/07/09 06:00
+CRDT- 2021/02/28 20:37
+PHST- 2020/11/12 00:00 [received]
+PHST- 2021/02/11 00:00 [revised]
+PHST- 2021/02/14 00:00 [accepted]
+PHST- 2021/03/01 06:00 [pubmed]
+PHST- 2021/07/09 06:00 [medline]
+PHST- 2021/02/28 20:37 [entrez]
+AID - S1386-5056(21)00044-7 [pii]
+AID - 10.1016/j.ijmedinf.2021.104418 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2021 May;149:104418. doi: 10.1016/j.ijmedinf.2021.104418. Epub 
+      2021 Feb 18.
+
+PMID- 29492959
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190304
+LR  - 20191001
+IS  - 1475-6773 (Electronic)
+IS  - 0017-9124 (Linking)
+VI  - 53
+IP  - 5
+DP  - 2018 Oct
+TI  - Technology, Incentives, or Both? Factors Related to Level of Hospital Health
+      Information Exchange.
+PG  - 3285-3308
+LID - 10.1111/1475-6773.12838 [doi]
+AB  - OBJECTIVE: To assess whether the level of health information exchange (HIE) in
+      U.S. hospitals is related to technology capabilities, incentives to exchange, or 
+      both. STUDY SETTING: A total of 1,812 hospitals attesting to stage 2 of
+      Medicare's Meaningful Use Incentive Program through April 2016. STUDY DESIGN:
+      Hospital-level, multivariate OLS regression with state fixed effects was used to 
+      analyze the relationship between technology capability and incentives measures,
+      and percent of care transitions with summary of care records (SCRs) sent
+      electronically to subsequent providers. PRINCIPAL FINDINGS: Stage 2 hospitals
+      reported sending SCRs electronically for an average of 41 percent (median = 33
+      percent) of transitions. HIE level is related to four capability measures, one
+      incentive measure, and one measure that is related to both capability and
+      incentive. Percent of transitions with SCRs sent electronically was 3 percentage 
+      points higher (95 percent CI: 0.1-5.1) for hospitals with a third-party HIE
+      vendor, 3 percentage points higher (95 percent CI: 0.5-5.4) for hospitals with an
+      EHR vendor as their HIE vendor, and 3 percentage points higher (95 percent CI:
+      0.4-5.4) for hospitals that automatically alert primary care providers. The
+      direction and statistical significance of the relationships between specific EHR 
+      vendor and electronic SCR transmission level varied by vendor. Nonprofits and
+      government hospitals performed 5 percentage points higher (95 percent CI:
+      1.5-9.1) and 8 percentage points higher (95 percent CI: 3.4-12.3) than
+      for-profits. Hospitals in systems performed 3 percentage points higher (95
+      percent CI: 0.8-6.1). CONCLUSION: The overall level of HIE is low, with hospitals
+      sending an SCR electronically for less than half of patient transitions. Specific
+      hospital characteristics related to both technology capabilities and incentives
+      were associated with higher levels of HIE.
+CI  - (c) Health Research and Educational Trust.
+FAU - Lin, Sunny C
+AU  - Lin SC
+AUID- ORCID: 0000-0002-4979-9058
+AD  - Department of Health Management and Policy, School of Public Health, University
+      of Michigan, Ann Arbor, MI.
+FAU - Everson, Jordan
+AU  - Everson J
+AUID- ORCID: 0000-0001-5355-6043
+AD  - Department of Health Policy, Vanderbilt University Medical Center, Nashville, TN.
+FAU - Adler-Milstein, Julia
+AU  - Adler-Milstein J
+AD  - Department of Medicine, University of California, San Francisco, CA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20180228
+PL  - United States
+TA  - Health Serv Res
+JT  - Health services research
+JID - 0053006
+SB  - IM
+MH  - Commerce
+MH  - *Electronic Health Records
+MH  - *Health Information Exchange
+MH  - *Hospitals
+MH  - Humans
+MH  - Information Dissemination
+MH  - Meaningful Use
+MH  - United States
+PMC - PMC6153171
+OTO - NOTNLM
+OT  - *Technology adoption/diffusion/use
+OT  - *hospitals
+OT  - *information technology in health
+EDAT- 2018/03/02 06:00
+MHDA- 2019/03/05 06:00
+CRDT- 2018/03/02 06:00
+PHST- 2018/03/02 06:00 [pubmed]
+PHST- 2019/03/05 06:00 [medline]
+PHST- 2018/03/02 06:00 [entrez]
+AID - 10.1111/1475-6773.12838 [doi]
+PST - ppublish
+SO  - Health Serv Res. 2018 Oct;53(5):3285-3308. doi: 10.1111/1475-6773.12838. Epub
+      2018 Feb 28.
+
+PMID- 34652091
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211019
+LR  - 20211019
+IS  - 1424-3997 (Electronic)
+IS  - 0036-7672 (Linking)
+VI  - 151
+DP  - 2021 Oct 11
+TI  - Barriers and facilitators to a health information exchange system between general
+      practitioners and hospitals: a qualitative study in Southern Switzerland.
+PG  - w30063
+LID - 10.4414/smw.2021.w30063 [doi]
+LID - Swiss Med Wkly. 2021;151:w30063 [pii]
+AB  - BACKGROUND: Health information exchange (HIE) systems are computer tools that
+      healthcare providers use to share patients' medical information electronically.
+      Our study aimed to identify barriers and facilitators perceived by general
+      practitioners (GPs) when using an HIE system in the Canton of Ticino, a region in
+      southern Switzerland. METHODS: We performed a qualitative study using
+      semi-structured interviews. Ten GPs participated in the study. We analysed
+      transcripts using thematic content analysis and following an abductive approach
+      (a mix of deductive and inductive approaches). RESULTS: Our findings indicate the
+      following main facilitators of the HIE system: (a) the perception of having to do
+      with a secure system; (b) the possibility of delegating its management to
+      secretaries and healthcare assistants; (c) technical support and training; (d)
+      high quality of the information exchanged; (e) positive impact on clinical
+      practice; and (f) regional context. However, major challenges still persist, and 
+      GPs reported the following main barriers to using an HIE system: (a) a frequent
+      lack of all the patient documentation they needed; (b) no effective workflow
+      improvements; and (c) lack of some technical features. CONCLUSIONS: The results
+      of our study provide a qualitative perspective of opinions and experiences of GPs
+      that can inform improvements of the current HIE system and future federal and
+      cantonal HIE initiatives in Switzerland and elsewhere.
+FAU - Centemero, Nicolo Saverio
+AU  - Centemero NS
+AD  - Clinical Informatics Unit, Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+FAU - Rechel, Bernd
+AU  - Rechel B
+AD  - European Observatory on Health Systems and Policies, London School of Hygiene and
+      Tropical Medicine, London, United Kingdom.
+LA  - eng
+PT  - Journal Article
+DEP - 20211014
+PL  - Switzerland
+TA  - Swiss Med Wkly
+JT  - Swiss medical weekly
+JID - 100970884
+SB  - IM
+MH  - Attitude of Health Personnel
+MH  - *General Practitioners
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Qualitative Research
+MH  - Switzerland
+EDAT- 2021/10/16 06:00
+MHDA- 2021/10/21 06:00
+CRDT- 2021/10/15 10:00
+PHST- 2021/10/15 10:00 [entrez]
+PHST- 2021/10/16 06:00 [pubmed]
+PHST- 2021/10/21 06:00 [medline]
+AID - 10.4414/smw.2021.w30063 [doi]
+AID - Swiss Med Wkly. 2021;151:w30063 [pii]
+PST - epublish
+SO  - Swiss Med Wkly. 2021 Oct 14;151:w30063. doi: 10.4414/smw.2021.w30063. eCollection
+      2021 Oct 11.
+
+PMID- 30503605
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191203
+LR  - 20191203
+IS  - 1528-3984 (Electronic)
+IS  - 0197-4572 (Linking)
+VI  - 40
+IP  - 3
+DP  - 2019 May - Jun
+TI  - Eliciting nurses' perspectives to improve health information exchange between
+      hospital and home health care.
+PG  - 277-283
+LID - S0197-4572(18)30361-6 [pii]
+LID - 10.1016/j.gerinurse.2018.11.001 [doi]
+AB  - Despite patient safety initiatives to improve care transitions, prior research
+      largely neglects to elicit feedback from home health nurses regarding health
+      information exchange. The goal of this quality improvement study was to identify 
+      opportunities to facilitate information transfer during
+      hospital-to-home-health-care transitions for older adults with heart failure. We 
+      conducted focus groups with 19 nurses employed by a single healthcare system
+      using two commercially available electronic health record (EHR) vendors. We
+      analyzed interview transcripts following an immersion/crystallization approach to
+      identify themes. Average participants were females in their mid-fifties with 15
+      years of home health experience. Nurses reported challenges with
+      hospital-to-home-health-care information exchange, specifically: 1) poor
+      medication management, 2) ineffective communication, 3) technology issues, and 4)
+      patient factors. Nurses identified several opportunities for improvement,
+      including discordant EHR-generated medication lists, which may be amenable to
+      technological solutions. Local quality improvement efforts should incorporate
+      nurses' suggestions and leverage existing best practices.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Sarzynski, Erin
+AU  - Sarzynski E
+AD  - Michigan State University, College of Human Medicine, Department of Family
+      Medicine, East Lansing, MI 48824 USA; Michigan State University, College of Human
+      Medicine, Institute for Health Policy, East Lansing, Michigan 48824 USA.
+      Electronic address: erin.sarzynski@hc.msu.edu.
+FAU - Ensberg, Mark
+AU  - Ensberg M
+AD  - Michigan State University, College of Human Medicine, Department of Family
+      Medicine, East Lansing, MI 48824 USA; Sparrow Home Care, Sparrow Health System,
+      Lansing, Michigan 48912 USA.
+FAU - Parkinson, Amy
+AU  - Parkinson A
+AD  - Sparrow Home Care, Sparrow Health System, Lansing, Michigan 48912 USA.
+FAU - Fitzpatrick, Laurie
+AU  - Fitzpatrick L
+AD  - Michigan State University, College of Human Medicine, Department of Family
+      Medicine, Grand Rapids, Michigan 49503 USA.
+FAU - Houdeshell, Laura
+AU  - Houdeshell L
+AD  - Michigan State University, College of Human Medicine, Institute for Health
+      Policy, East Lansing, Michigan 48824 USA.
+FAU - Given, Charles
+AU  - Given C
+AD  - Michigan State University, College of Human Medicine, Department of Family
+      Medicine, East Lansing, MI 48824 USA; Michigan State University, College of Human
+      Medicine, Institute for Health Policy, East Lansing, Michigan 48824 USA.
+FAU - Brooks, Kevin
+AU  - Brooks K
+AD  - Michigan State University, College of Human Medicine, Institute for Health
+      Policy, East Lansing, Michigan 48824 USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181129
+PL  - United States
+TA  - Geriatr Nurs
+JT  - Geriatric nursing (New York, N.Y.)
+JID - 8309633
+MH  - Electronic Health Records/*standards
+MH  - Female
+MH  - Focus Groups
+MH  - *Health Information Exchange
+MH  - Heart Failure/nursing
+MH  - Home Care Services/*organization & administration
+MH  - Hospitals
+MH  - Humans
+MH  - Medication Reconciliation/organization & administration
+MH  - Middle Aged
+MH  - Nurses, Community Health/*organization & administration/statistics & numerical
+      data
+MH  - Patient Discharge
+MH  - Patient Transfer
+MH  - Quality Improvement
+OTO - NOTNLM
+OT  - *Care transitions
+OT  - *Health information exchange
+OT  - *Heart failure
+OT  - *Medication management
+OT  - *Skilled home health care
+EDAT- 2018/12/07 06:00
+MHDA- 2019/12/04 06:00
+CRDT- 2018/12/04 06:00
+PHST- 2018/07/23 00:00 [received]
+PHST- 2018/11/01 00:00 [revised]
+PHST- 2018/11/09 00:00 [accepted]
+PHST- 2018/12/07 06:00 [pubmed]
+PHST- 2019/12/04 06:00 [medline]
+PHST- 2018/12/04 06:00 [entrez]
+AID - S0197-4572(18)30361-6 [pii]
+AID - 10.1016/j.gerinurse.2018.11.001 [doi]
+PST - ppublish
+SO  - Geriatr Nurs. 2019 May - Jun;40(3):277-283. doi: 10.1016/j.gerinurse.2018.11.001.
+      Epub 2018 Nov 29.
+
+PMID- 34179983
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211124
+LR  - 20211124
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 28
+IP  - 9
+DP  - 2021 Aug 13
+TI  - Impact of the 2015 Health Information Technology Certification Edition on
+      Interoperability among Hospitals.
+PG  - 1866-1873
+LID - 10.1093/jamia/ocab083 [doi]
+AB  - OBJECTIVE: Most nonfederal acute care hospitals use electronic health records
+      (EHRs) certified by the Office of the National Coordinator for Health Information
+      Technology. In 2015, the Office of the National Coordinator for Health
+      Information Technology finalized the 2015 Health IT Certification Edition and
+      adoption by hospitals began in 2016. We examine the impact of the 2015 Edition on
+      rates of interoperable exchange among nonfederal acute hospitals. MATERIALS AND
+      METHODS: The study applies a standard difference-in-differences design and a
+      recently developed fixed effects estimator that relaxes the assumption of
+      treatment effects being constant across groups and time. In the analysis, we
+      identify separate effects of the 2015 Edition for hospitals that switched EHR
+      developers and forecast hospitals' interoperability over 2015 Edition adoption
+      rates. RESULTS: The adoption of the 2015 Edition increased hospitals' rates of
+      interoperable exchange and especially benefited hospitals that switched EHR
+      developers in the post-implementation period. Forecasting results indicate that
+      if all hospitals adopted the 2015 Edition, 53% to 61% of hospitals would engage
+      in interoperable health information exchange compared with the current rate of
+      46%. DISCUSSION: Hospitals' levels of interoperability have been rising over the 
+      last few years. Adoption of newer technology improved hospitals' interoperability
+      and accounts for up to 12% of the rise in interoperability. CONCLUSIONS:
+      Certified technology is one mechanism to ensure providers use recent and safe
+      technologies for interoperable exchange. Adoption of certified EHRs improves the 
+      nation's interoperable exchange; however, it has a clear limited effect. Other
+      mechanisms are necessary for achieving comprehensive interoperable exchange.
+CI  - Published by Oxford University Press on behalf of the American Medical
+      Informatics Association 2021.This work is written by US Government employees and 
+      is in the public domain in the US.
+FAU - Pylypchuk, Yuriy
+AU  - Pylypchuk Y
+AD  - Department of Health and Human Services, Office of the National Coordinator for
+      Health Information Technology, Washington, DC, USA.
+FAU - Barker, Wesley
+AU  - Barker W
+AD  - Department of Health and Human Services, Office of the National Coordinator for
+      Health Information Technology, Washington, DC, USA.
+FAU - Encinosa, William
+AU  - Encinosa W
+AD  - Department of Health and Human Services, Agency for Healthcare Research and
+      Quality, Rockville, Maryland, USA.
+FAU - Searcy, Talisha
+AU  - Searcy T
+AD  - Department of Health and Human Services, Office of the National Coordinator for
+      Health Information Technology, Washington, DC, USA.
+LA  - eng
+GR  - HS/AHRQ HHS/United States
+GR  - HH/HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Certification
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - *Medical Informatics
+MH  - United States
+PMC - PMC8363795
+EDAT- 2021/06/29 06:00
+MHDA- 2021/11/25 06:00
+CRDT- 2021/06/28 06:18
+PHST- 2021/02/04 00:00 [received]
+PHST- 2021/03/18 00:00 [revised]
+PHST- 2021/04/15 00:00 [accepted]
+PHST- 2021/06/29 06:00 [pubmed]
+PHST- 2021/11/25 06:00 [medline]
+PHST- 2021/06/28 06:18 [entrez]
+AID - 6310379 [pii]
+AID - 10.1093/jamia/ocab083 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2021 Aug 13;28(9):1866-1873. doi: 10.1093/jamia/ocab083.
+
+PMID- 32111203
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200918
+LR  - 20200918
+IS  - 1472-6947 (Electronic)
+IS  - 1472-6947 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2020 Feb 28
+TI  - Advancing laboratory medicine in hospitals through health information exchange: a
+      survey of specialist physicians in Canada.
+PG  - 44
+LID - 10.1186/s12911-020-1061-z [doi]
+AB  - BACKGROUND: Laboratory testing occupies a prominent place in health care.
+      Information technology systems have the potential to empower laboratory experts
+      and to enhance the interpretation of test results in order to better support
+      physicians in their quest for better and safer patient care. This study sought to
+      develop a better understanding of which laboratory information exchange (LIE)
+      systems and features specialist physicians are using in hospital settings to
+      consult their patients' laboratory test results, and what benefit they derive
+      from such use. METHODS: As part of a broader research program on the use of
+      health information exchange systems for laboratory medicine in Quebec, Canada,
+      this study was designed as on online survey. Our sample is composed of 566
+      specialist physicians working in hospital settings, out of the 1512 physicians
+      who responded to the survey (response rate of 17%). Respondents are
+      representative of the targeted population of specialist physicians in terms of
+      gender, age and hospital location. RESULTS: We first observed that 80% of the
+      surveyed physicians used the province-wide interoperable electronic health
+      records (iEHR) system and 93% used a laboratory results viewer (LRV) to consult
+      laboratory test results and most (72%) use both systems to retrieve lab results. 
+      Next, our findings reveal important differences in the capabilities available in 
+      each type of system and in the use of these capabilities. Third, there are
+      differences in the nature of the perceived benefits obtained from the use of each
+      of these two systems. Last, the extent of use of an LRV is strongly influenced by
+      the IT artefact itself (i.e., the hospital's LRV available capabilities) while
+      the use of the provincial iEHR system is influenced by its organizational context
+      (i.e. the hospital's size and location). CONCLUSIONS: The main contribution of
+      this study lies in its insights into the role played by context in shaping
+      physicians' choices about which laboratory information exchange systems to adopt 
+      and which features to use, and the different perceptions they have about benefits
+      arising from such use. One related implication for practice is that success of
+      LIE initiatives should not be solely assessed with basic usage statistics.
+FAU - Raymond, Louis
+AU  - Raymond L
+AD  - Universite du Quebec a Trois-Rivieres, Trois-Rivieres, Canada.
+FAU - Maillet, Eric
+AU  - Maillet E
+AD  - Universite de Sherbrooke, Sherbrooke, Canada.
+FAU - Trudel, Marie-Claude
+AU  - Trudel MC
+AD  - HEC Montreal, Montreal, Canada.
+FAU - Marsan, Josianne
+AU  - Marsan J
+AD  - Universite Laval, Quebec City, Canada.
+FAU - de Guinea, Ana Ortiz
+AU  - de Guinea AO
+AD  - HEC Montreal, Montreal, Canada.
+FAU - Pare, Guy
+AU  - Pare G
+AUID- ORCID: 0000-0001-7425-1994
+AD  - Research Chair in Digital Health, HEC Montreal, 3000, Cote-Sainte-Catherine Road,
+      Montreal, Quebec, H3T 2A7, Canada. guy.pare@hec.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200228
+PL  - England
+TA  - BMC Med Inform Decis Mak
+JT  - BMC medical informatics and decision making
+JID - 101088682
+SB  - IM
+MH  - *Clinical Laboratory Techniques
+MH  - Female
+MH  - Health Information Exchange/*standards/*statistics & numerical data
+MH  - Hospitals
+MH  - Humans
+MH  - Internet
+MH  - Male
+MH  - Middle Aged
+MH  - Physicians/*psychology/*statistics & numerical data
+MH  - Quebec
+MH  - *Specialization
+MH  - Surveys and Questionnaires
+PMC - PMC7048105
+OTO - NOTNLM
+OT  - *Hospital
+OT  - *Information systems
+OT  - *Laboratory information exchange
+OT  - *Laboratory medicine
+OT  - *Online survey research
+OT  - *Perceived benefits
+OT  - *Specialist physician
+EDAT- 2020/03/01 06:00
+MHDA- 2020/09/20 06:00
+CRDT- 2020/03/01 06:00
+PHST- 2019/08/09 00:00 [received]
+PHST- 2020/02/21 00:00 [accepted]
+PHST- 2020/03/01 06:00 [entrez]
+PHST- 2020/03/01 06:00 [pubmed]
+PHST- 2020/09/20 06:00 [medline]
+AID - 10.1186/s12911-020-1061-z [doi]
+AID - 10.1186/s12911-020-1061-z [pii]
+PST - epublish
+SO  - BMC Med Inform Decis Mak. 2020 Feb 28;20(1):44. doi: 10.1186/s12911-020-1061-z.
+
+PMID- 27600378
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180725
+LR  - 20181202
+IS  - 1386-9620 (Print)
+IS  - 1386-9620 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2018 Mar
+TI  - A strategic gaming model for health information exchange markets.
+PG  - 119-130
+LID - 10.1007/s10729-016-9382-2 [doi]
+AB  - Current market conditions create incentives for some providers to exercise
+      control over patient data in ways that unreasonably limit its availability and
+      use. Here we develop a game theoretic model for estimating the willingness of
+      healthcare organizations to join a health information exchange (HIE) network and 
+      demonstrate its use in HIE policy design. We formulated the model as a bi-level
+      integer program. A quasi-Newton method is proposed to obtain a strategy Nash
+      equilibrium. We applied our modeling and solution technique to 1,093,177
+      encounters for exchanging information over a 7.5-year period in 9 hospitals
+      located within a three-county region in Florida. Under a set of assumptions, we
+      found that a proposed federal penalty of up to $2,000,000 has a higher impact on 
+      increasing HIE adoption than current federal monetary incentives. Medium-sized
+      hospitals were more reticent to adopt HIE than large-sized hospitals. In the
+      presence of collusion among multiple hospitals to not adopt HIE, neither federal 
+      incentives nor proposed penalties increase hospitals' willingness to adopt.
+      Hospitals' apathy toward HIE adoption may threaten the value of
+      inter-connectivity even with federal incentives in place. Competition among
+      hospitals, coupled with volume-based payment systems, creates no incentives for
+      smaller hospitals to exchange data with competitors. Medium-sized hospitals need 
+      targeted actions (e.g., outside technological assistance, group purchasing
+      arrangements) to mitigate market incentives to not adopt HIE. Strategic game
+      theoretic models help to clarify HIE adoption decisions under market conditions
+      at play in an extremely complex technology environment.
+FAU - Martinez, Diego A
+AU  - Martinez DA
+AD  - Department of Emergency Medicine, Johns Hopkins University, Baltimore, Maryland, 
+      USA. dmart101@jhmi.edu.
+AD  - Systems Institute, Johns Hopkins University, Baltimore, Maryland, USA.
+      dmart101@jhmi.edu.
+FAU - Feijoo, Felipe
+AU  - Feijoo F
+AD  - Systems Institute, Johns Hopkins University, Baltimore, Maryland, USA.
+AD  - Engineering Sciences Department, Universidad Andres Bello, Santiago, Chile.
+AD  - Department of Civil Engineering, Johns Hopkins University, Baltimore, Maryland,
+      USA.
+FAU - Zayas-Castro, Jose L
+AU  - Zayas-Castro JL
+AD  - Department of Industrial and Management Systems Engineering, University of South 
+      Florida, Tampa, Florida, USA.
+FAU - Levin, Scott
+AU  - Levin S
+AD  - Department of Emergency Medicine, Johns Hopkins University, Baltimore, Maryland, 
+      USA.
+AD  - Systems Institute, Johns Hopkins University, Baltimore, Maryland, USA.
+FAU - Das, Tapas K
+AU  - Das TK
+AD  - Department of Industrial and Management Systems Engineering, University of South 
+      Florida, Tampa, Florida, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20160906
+PL  - Netherlands
+TA  - Health Care Manag Sci
+JT  - Health care management science
+JID - 9815649
+SB  - IM
+MH  - Economic Competition
+MH  - *Economics, Hospital
+MH  - Electronic Health Records/economics
+MH  - Florida
+MH  - Health Information Exchange/*economics/*statistics & numerical data
+MH  - Hospitals
+MH  - Humans
+MH  - Models, Theoretical
+MH  - Organizational Policy
+OTO - NOTNLM
+OT  - Game theory
+OT  - Health information exchange
+OT  - Market models
+OT  - Medical record linkage
+EDAT- 2016/09/08 06:00
+MHDA- 2018/07/26 06:00
+CRDT- 2016/09/08 06:00
+PHST- 2016/02/15 00:00 [received]
+PHST- 2016/08/29 00:00 [accepted]
+PHST- 2016/09/08 06:00 [pubmed]
+PHST- 2018/07/26 06:00 [medline]
+PHST- 2016/09/08 06:00 [entrez]
+AID - 10.1007/s10729-016-9382-2 [doi]
+AID - 10.1007/s10729-016-9382-2 [pii]
+PST - ppublish
+SO  - Health Care Manag Sci. 2018 Mar;21(1):119-130. doi: 10.1007/s10729-016-9382-2.
+      Epub 2016 Sep 6.
+
+PMID- 30311064
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190204
+LR  - 20190215
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 42
+IP  - 11
+DP  - 2018 Oct 11
+TI  - Patient Monitoring System Using Cognitive Internet of Things.
+PG  - 229
+LID - 10.1007/s10916-018-1095-2 [doi]
+AB  - In this article, we ponder multi-user medical image transmission using Cognitive 
+      Multiple-input Multiple-output (MIMO) Multi-carrier Code-division-multiple-access
+      (MC-CDMA) system to monitor patient information. We investigate the performance
+      of such system in the communication layer and application layer of internet of
+      things (IOT). Patient monitoring system plays vital role in the hospital
+      particularly in the emergency ward to resolve certain problems such as
+      maintaining glucose level in the body, maintaining minimum sugar levels under
+      emergency conditions. IOT find tremendous application in the hospital to deal
+      with certain issues such as injection of drug to the patients by doctor from
+      remote places, monitoring patients heart beats, sugar level by the concerned
+      doctors. MIMO finds many applications in medical field to enrich data rate while 
+      communication patient information at faster rate. We utilize MC-CDMA system to
+      accommodate large user patients information and to transmit such information with
+      high resolution by eliminating channel impairments. We are utilizing Cognitive
+      spectrum for medical image transmission of higher bandwidth applications. We
+      realize Double-space-time transmit diversity as MIMO profile to boost up
+      throughput. We perform multi-carrier modulation using IDFT at the transmitter .we
+      carryout demodulation employing DFT at the hospital. We introduce Multi-carrier
+      communication to fulfil the need of bandwidth efficiency and to diminish
+      frequency selectivity effects.In the application layer, we estimate patient's
+      information with aid of block-nulling decoding algorithm. Moreover we analyze the
+      quality of image of D-STTD MC-CDMA system with turbo style of channel encoder to 
+      manifest medical image with high resolution with less signal strength. We
+      conclude that Cognitive D-STTD MC-CDMA system provides reliable communication for
+      the application of IOT and also transfer high resolution medical image with less 
+      signal strength in order to observe patient status by doctor.
+FAU - Lakshmi Dhevi, B
+AU  - Lakshmi Dhevi B
+AD  - Department of ECE, SSN College of Engineering, Chennai, India.
+FAU - Vishvaksenan, K S
+AU  - Vishvaksenan KS
+AD  - Department of ECE, SSN College of Engineering, Chennai, India.
+FAU - Senthamil Selvan, K
+AU  - Senthamil Selvan K
+AD  - Department of ECE, Dhanalakshmi college of Engineering, Chennai, India.
+FAU - Rajalakshmi, A
+AU  - Rajalakshmi A
+AD  - Department of ECE, Dhanalakshmi college of Engineering, Chennai, India.
+      arajalakshmidce@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20181011
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Algorithms
+MH  - Computer Communication Networks
+MH  - Computer Security
+MH  - *Health Information Exchange
+MH  - *Home Care Services
+MH  - *Hospitals
+MH  - Humans
+MH  - *Internet
+MH  - Remote Sensing Technology
+MH  - Telemedicine/methods
+MH  - Wireless Technology
+OTO - NOTNLM
+OT  - Cognitive radio network(CRN)
+OT  - Double space-time transmit diversity(D-STTD)
+OT  - Internet of things(IOT)
+OT  - Multi-user interference (MUI)
+OT  - Primary user-interference(PUI)
+OT  - Radio frequency identification (RFID)
+EDAT- 2018/10/13 06:00
+MHDA- 2019/02/05 06:00
+CRDT- 2018/10/13 06:00
+PHST- 2018/07/14 00:00 [received]
+PHST- 2018/10/05 00:00 [accepted]
+PHST- 2018/10/13 06:00 [entrez]
+PHST- 2018/10/13 06:00 [pubmed]
+PHST- 2019/02/05 06:00 [medline]
+AID - 10.1007/s10916-018-1095-2 [doi]
+AID - 10.1007/s10916-018-1095-2 [pii]
+PST - epublish
+SO  - J Med Syst. 2018 Oct 11;42(11):229. doi: 10.1007/s10916-018-1095-2.
+
+PMID- 31438345
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190919
+LR  - 20190919
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 264
+DP  - 2019 Aug 21
+TI  - The Evaluation of the Medical Information Exchange on 24-Hour Operation at North 
+      Kyushu Area in Japan.
+PG  - 1789-1790
+LID - 10.3233/SHTI190649 [doi]
+AB  - We report on triage before transportation by sharing patient information between 
+      hospitals, making it possible to use the Ajisai-net for 24 hours. Fifty-six times
+      hospital collaboration was conducted during the period from start of hospital
+      cooperation operation until October 2018. Transportation cost reduction of
+      3,935,000 yen (34,620 dollars) was estimated. It is expected to contribute to
+      improvement of efficiency of emergency medical care in North Kyushu.
+FAU - Taura, Naota
+AU  - Taura N
+AD  - Department of Medical Informatics, Nagasaki University Graduate School of
+      Biomedical Sciences, Japan.
+FAU - Matsumoto, Takehiro
+AU  - Matsumoto T
+AD  - Department of Medical Informatics, Nagasaki University Graduate School of
+      Biomedical Sciences, Japan.
+FAU - Honda, Masayuki
+AU  - Honda M
+AD  - Department of Medical Informatics, Nagasaki University Graduate School of
+      Biomedical Sciences, Japan.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Emergency Medical Services
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Japan
+MH  - Triage
+OTO - NOTNLM
+OT  - Medical information exchange
+OT  - triage before transportation
+EDAT- 2019/08/24 06:00
+MHDA- 2019/09/20 06:00
+CRDT- 2019/08/24 06:00
+PHST- 2019/08/24 06:00 [entrez]
+PHST- 2019/08/24 06:00 [pubmed]
+PHST- 2019/09/20 06:00 [medline]
+AID - SHTI190649 [pii]
+AID - 10.3233/SHTI190649 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2019 Aug 21;264:1789-1790. doi: 10.3233/SHTI190649.
+
+PMID- 30715992
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200910
+LR  - 20200910
+IS  - 1544-5208 (Electronic)
+IS  - 0278-2715 (Linking)
+VI  - 38
+IP  - 2
+DP  - 2019 Feb
+TI  - Does Health Information Exchange Improve Patient Outcomes? Empirical Evidence
+      From Florida Hospitals.
+PG  - 197-204
+LID - 10.1377/hlthaff.2018.05447 [doi]
+AB  - Achieving widespread exchange of health information is a national health policy
+      objective, for it is believed to boost treatment efficiency, reduce health care
+      costs, and improve patient outcomes. We used state-level data for 2011-14 from
+      Florida to examine the relationship between hospitals' participation in health
+      information exchange (HIE) and quality and health outcomes. HIE participation was
+      associated with a decrease in the probability of unplanned, thirty-day
+      readmissions for acute myocardial infarction that was 1.3 percentage points
+      greater than that seen at nonparticipating hospitals. This decrease was driven
+      primarily by reduced readmissions to hospitals other than those that provided
+      initial inpatient treatment. These findings indicate that HIE can be leveraged to
+      improve quality measures targeted by the Hospital Readmissions Reduction Program 
+      and may hold promise for achieving broader policy goals.
+FAU - Chen, Min
+AU  - Chen M
+AD  - Min Chen ( mchen2@fiu.edu ) is an assistant professor in the Department of
+      Information Systems and Business Analytics, College of Business, Florida
+      International University, in Miami.
+FAU - Guo, Sheng
+AU  - Guo S
+AD  - Sheng Guo is an instructor in the Department of Economics, Steven J. Green School
+      of International and Public Affairs, Florida International University.
+FAU - Tan, Xuan
+AU  - Tan X
+AD  - Xuan Tan is a doctoral student in the Department of Information Systems and
+      Business Analytics, College of Business, Florida International University.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Health Aff (Millwood)
+JT  - Health affairs (Project Hope)
+JID - 8303128
+SB  - IM
+MH  - Florida
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Hospitals/*statistics & numerical data
+MH  - Humans
+MH  - Myocardial Infarction/therapy
+MH  - *Patient Outcome Assessment
+MH  - Patient Readmission/*statistics & numerical data
+MH  - United States
+EDAT- 2019/02/05 06:00
+MHDA- 2020/09/12 06:00
+CRDT- 2019/02/05 06:00
+PHST- 2019/02/05 06:00 [entrez]
+PHST- 2019/02/05 06:00 [pubmed]
+PHST- 2020/09/12 06:00 [medline]
+AID - 10.1377/hlthaff.2018.05447 [doi]
+PST - ppublish
+SO  - Health Aff (Millwood). 2019 Feb;38(2):197-204. doi: 10.1377/hlthaff.2018.05447.
+
+PMID- 30010887
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191216
+LR  - 20201201
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 25
+IP  - 9
+DP  - 2018 Sep 1
+TI  - Gaps in health information exchange between hospitals that treat many shared
+      patients.
+PG  - 1114-1121
+LID - 10.1093/jamia/ocy089 [doi]
+AB  - Objective: Hospitals that routinely share patients are those that most critically
+      need to engage in electronic health information exchange (HIE) with each other to
+      ensure clinical information is available to inform treatment decisions. We
+      surveyed pairs of hospitals in a nationwide sample to describe whether and how
+      hospitals within each hospital referral region (HRR) that have the highest shared
+      patient (HSP) volume engaged in HIE with each other. Methods: We used Medicare's 
+      Physician Shared Patient Patterns data to identify hospital pairs with the
+      highest shared patient volume in each hospital referral region. We surveyed a
+      purposeful sample of pairs and then calculated descriptive statistics to compare:
+      (1) HIE with the HSP hospital vs HIE with other hospitals, and (2) HIE with the
+      HSP hospital versus federal measures of HIE engagement that are not
+      partner-specific. Results: We received responses from 25.5% of contacted
+      hospitals and 33.5% of contacted pairs, allowing us to examine information
+      sharing among 68 hospitals in 63 pairs. 23% of respondents reported worse
+      information sharing with their HSP hospital than with other hospitals while 17%
+      indicated better sharing with their HSP hospital and 48% indicated no difference.
+      Our HSP-specific measures of HIE differed from federal measures of HIE
+      engagement: while 97% of respondents are classified as routinely sending
+      information electronically in federal measures, in our data only 63% did so with 
+      their HSP hospital. Conclusions: Despite increased HIE engagement, our
+      descriptive results indicate that HIE is not developing in a way that facilitates
+      information exchange where it might benefit the most patients. New policy
+      efforts, particularly those emerging from the 21st Century Cures Act, need to
+      explicitly pursue strategies that ensure that HSP providers engage in exchange
+      with each other.
+FAU - Everson, Jordan
+AU  - Everson J
+AD  - Department of Health Policy, Vanderbilt University School of Medicine, Nashville,
+      TN, USA.
+FAU - Adler-Milstein, Julia
+AU  - Adler-Milstein J
+AD  - Department of Medicine, UCSF School of Medicine, San Francisco, CA, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Economic Competition
+MH  - Health Care Surveys
+MH  - *Health Information Exchange
+MH  - *Health Information Interoperability
+MH  - *Hospital Administration
+MH  - Hospitals
+MH  - Humans
+MH  - Medical Record Linkage
+MH  - *Medical Records Systems, Computerized
+MH  - Medicare
+MH  - Patients
+MH  - United States
+PMC - PMC7646909
+EDAT- 2018/07/17 06:00
+MHDA- 2019/12/18 06:00
+CRDT- 2018/07/17 06:00
+PHST- 2018/03/21 00:00 [received]
+PHST- 2018/06/14 00:00 [accepted]
+PHST- 2018/07/17 06:00 [pubmed]
+PHST- 2019/12/18 06:00 [medline]
+PHST- 2018/07/17 06:00 [entrez]
+AID - 5051765 [pii]
+AID - 10.1093/jamia/ocy089 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2018 Sep 1;25(9):1114-1121. doi: 10.1093/jamia/ocy089.
+
+PMID- 31721183
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200824
+LR  - 20210201
+IS  - 1475-6773 (Electronic)
+IS  - 0017-9124 (Linking)
+VI  - 55
+IP  - 1
+DP  - 2020 Feb
+TI  - Sharing information electronically with other hospitals is associated with
+      increased sharing of patients.
+PG  - 128-135
+LID - 10.1111/1475-6773.13240 [doi]
+AB  - OBJECTIVE: One potential benefit of greater electronic health information
+      exchange is a reduction in the effort required for patients to switch between
+      providers. We therefore assessed whether hospital participation in health
+      information organizations (HIOs) led to increased patient sharing. DATA SOURCES: 
+      Secondary data from 2010 to 2016. STUDY DESIGN: Using hospital-pair and year
+      fixed effects regression models, we assessed change in patient sharing volume
+      following HIO participation by hospitals and compared the effect by the level of 
+      market competition and by hospital size. DATA EXTRACTION METHODS: We used
+      national data on hospital participation in HIOs from the American Hospital
+      Association Information Technology Supplement and data on the volume of Medicare 
+      patients shared between pairs of hospitals from 2010 to 2016. PRINCIPAL FINDINGS:
+      The volume of patients shared between hospitals increased by 2.6 percent when
+      both hospitals participated in a health information organization (P = .008, 95%
+      CI: 0.7%-4.5%). This increase was greater in competitive markets (3.1 percent
+      increase, P = .03 95% CI: 0.3%-5.9%) and between large hospitals (4.3 percent
+      increase, P = .007 95% CI: 1.2%-7.3%). Participation by only one hospital in a
+      pair had no effect on patient sharing. CONCLUSIONS: Our results suggest that an
+      important policy goal motivating the investment in health information exchange
+      has been at least partially achieved. However, our results also support hospital 
+      concerns about the competitive implications of engaging in health information
+      exchange. HIO participation appears to facilitate patient movement between
+      hospitals, likely by lowering switching costs and resulting in greater
+      competition.
+CI  - (c) Health Research and Educational Trust.
+FAU - Everson, Jordan
+AU  - Everson J
+AUID- ORCID: 0000-0001-5355-6043
+AD  - Department of Health Policy, Department of Biomedical Informatics, Vanderbilt
+      University School of Medicine, Nashville, Tennessee.
+FAU - Adler-Milstein, Julia
+AU  - Adler-Milstein J
+AUID- ORCID: 0000-0002-0262-6491
+AD  - School of Medicine, University of California San Francisco, San Francisco,
+      California.
+LA  - eng
+GR  - K12 HS026395/HS/AHRQ HHS/United States
+GR  - R01 AG062563/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20191112
+PL  - United States
+TA  - Health Serv Res
+JT  - Health services research
+JID - 0053006
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Hospitals/*statistics & numerical data
+MH  - Humans
+MH  - Information Dissemination/*methods
+MH  - Male
+MH  - Medicare/*statistics & numerical data
+MH  - Middle Aged
+MH  - United States
+PMC - PMC6980958
+OTO - NOTNLM
+OT  - *competition
+OT  - *health information exchange
+OT  - *health information technology
+OT  - *hospitals
+OT  - *interoperability
+EDAT- 2019/11/14 06:00
+MHDA- 2020/08/25 06:00
+CRDT- 2019/11/14 06:00
+PHST- 2019/11/14 06:00 [pubmed]
+PHST- 2020/08/25 06:00 [medline]
+PHST- 2019/11/14 06:00 [entrez]
+AID - 10.1111/1475-6773.13240 [doi]
+PST - ppublish
+SO  - Health Serv Res. 2020 Feb;55(1):128-135. doi: 10.1111/1475-6773.13240. Epub 2019 
+      Nov 12.
+
+PMID- 30667611
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200406
+LR  - 20200408
+IS  - 1936-2692 (Electronic)
+IS  - 1088-0224 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2019 Jan 1
+TI  - Alternative payment models and hospital engagement in health information
+      exchange.
+PG  - e1-e6
+AB  - OBJECTIVES: To assess whether hospital participation in alternative payment
+      models (APMs) is associated with greater engagement in health information
+      exchange (HIE) along 4 dimensions: volume of patients for whom information is
+      exchanged, diversity of information types, breadth of partner types, and depth of
+      technical approach. STUDY DESIGN: Pooled, cross-sectional analysis of data on US 
+      hospitals from 2014 to 2015. METHODS: APM participation came from Leavitt
+      Partners data, Medicare public use files, and the American Hospital Association
+      (AHA) Annual Survey. We used Medicare data to measure HIE volume for 798
+      hospitals attesting to stage 2 Meaningful Use and the AHA Information Technology 
+      Supplement to measure HIE diversity, breadth, and depth for 1730 hospitals. We
+      used mixed-effects regression to estimate the association between participation
+      in APMs and each dimension of HIE. RESULTS: Compared with nonparticipating
+      hospitals, full-year APM participation was associated with lower HIE volume (data
+      were sent for 11 percentage points fewer discharges; P = .003), greater HIE
+      diversity (of 4 data types, 0.3 more were transmitted; P <.001), greater HIE
+      breadth (of 3 partner types, data were sent to 0.3 more; P <.001), and greater
+      HIE depth (the odds of using a push and pull approach were 1.68 times greater; P 
+      = .004). CONCLUSIONS: Our finding that APM participation was associated with
+      greater HIE diversity, breadth, and depth suggests that value-based payment may
+      be spurring improvements in HIE infrastructure. However, our finding that APM
+      participation is associated with lower HIE volume suggests that there may be an
+      incentive to focus HIE investments on a limited number of partners.
+FAU - Lin, Sunny C
+AU  - Lin SC
+AD  - School of Public Health, University of Michigan, 1415 Washington Heights, Ann
+      Arbor, MI 48109. Email: sunnylin@umich.edu.
+FAU - Hollingsworth, John M
+AU  - Hollingsworth JM
+FAU - Adler-Milstein, Julia
+AU  - Adler-Milstein J
+LA  - eng
+GR  - R01 HS024525/HS/AHRQ HHS/United States
+GR  - R01 HS024728/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20190101
+PL  - United States
+TA  - Am J Manag Care
+JT  - The American journal of managed care
+JID - 9613960
+MH  - Cross-Sectional Studies
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Hospital Bed Capacity
+MH  - Hospitals/*statistics & numerical data
+MH  - Humans
+MH  - Meaningful Use/statistics & numerical data
+MH  - Ownership
+MH  - Reimbursement Mechanisms/*statistics & numerical data
+MH  - Residence Characteristics
+MH  - United States
+PMC - PMC6526138
+MID - NIHMS1006614
+EDAT- 2019/01/23 06:00
+MHDA- 2020/04/09 06:00
+CRDT- 2019/01/23 06:00
+PHST- 2019/01/23 06:00 [entrez]
+PHST- 2019/01/23 06:00 [pubmed]
+PHST- 2020/04/09 06:00 [medline]
+AID - 87861 [pii]
+PST - epublish
+SO  - Am J Manag Care. 2019 Jan 1;25(1):e1-e6.
+
+PMID- 29739410
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190319
+LR  - 20190319
+IS  - 1472-6947 (Electronic)
+IS  - 1472-6947 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2018 May 8
+TI  - The relationship between hospital and ehr vendor market dynamics on health
+      information organization presence and participation.
+PG  - 28
+LID - 10.1186/s12911-018-0605-y [doi]
+AB  - BACKGROUND: Health Information Organizations (HIOs) are third party organizations
+      that facilitate electronic health information exchange (HIE) between providers in
+      a geographic area. Despite benefits from HIE, HIOs have struggled to form and
+      subsequently gain broad provider participation. We sought to assess whether
+      market-level hospital and EHR vendor dynamics are associated with presence and
+      level of hospital participation in HIOs. METHODS: 2014 data on 4523 hospitals and
+      their EHR vendors were aggregated to the market level. We used multivariate OLS
+      regression to analyze the relationship between hospital and vendor dynamics and
+      (1) probability of HIO presence and (2) percent of hospitals participating in an 
+      HIO. RESULTS: 298 of 469 markets (64%) had HIO presence, and in those markets,
+      47% of hospitals participated in an HIO on average. In multivariate analysis,
+      four characteristics were associated with HIO presence. Markets with more
+      hospitals, markets with more EHR vendors, and markets with an EHR vendor-led HIE 
+      approach were more likely to have an HIO. Compared to markets with low hospital
+      competition, markets with high hospital competition had a 25 percentage point
+      lower probability of HIO presence. Two characteristics were associated with level
+      of hospital HIO participation. Markets with more hospitals as well as markets
+      with high vendor competition (compared to low competition) had lower
+      participation. CONCLUSION: Both hospital and EHR vendor dynamics are associated
+      with whether a market has an HIO as well as the level of hospital participation
+      in HIOs.
+FAU - Lin, Sunny C
+AU  - Lin SC
+AUID- ORCID: 0000-0002-4979-9058
+AD  - Department of Health Management and Policy, School of Public Health, University
+      of Michigan, Ann Arbor, MI, USA. sunnylin@umich.edu.
+FAU - Adler-Milstein, Julia
+AU  - Adler-Milstein J
+AD  - Department of Medicine, Center for Clinical Informatics and Improvement Research,
+      University of California, San Francisco, CA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20180508
+PL  - England
+TA  - BMC Med Inform Decis Mak
+JT  - BMC medical informatics and decision making
+JID - 101088682
+SB  - IM
+MH  - Commerce/*statistics & numerical data
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Hospitals/*statistics & numerical data
+MH  - Humans
+MH  - Systems Integration
+MH  - United States
+PMC - PMC5941339
+OTO - NOTNLM
+OT  - *Electronic health records
+OT  - *Health information exchange
+OT  - *Systems integration
+EDAT- 2018/05/10 06:00
+MHDA- 2019/03/20 06:00
+CRDT- 2018/05/10 06:00
+PHST- 2017/07/13 00:00 [received]
+PHST- 2018/04/27 00:00 [accepted]
+PHST- 2018/05/10 06:00 [entrez]
+PHST- 2018/05/10 06:00 [pubmed]
+PHST- 2019/03/20 06:00 [medline]
+AID - 10.1186/s12911-018-0605-y [doi]
+AID - 10.1186/s12911-018-0605-y [pii]
+PST - epublish
+SO  - BMC Med Inform Decis Mak. 2018 May 8;18(1):28. doi: 10.1186/s12911-018-0605-y.
+
+PMID- 32479237
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1544-5208 (Electronic)
+IS  - 0278-2715 (Linking)
+VI  - 39
+IP  - 6
+DP  - 2020 Jun
+TI  - Electronic Health Information Exchange At Discharge From Inpatient Psychiatric
+      Care In Acute Care Hospitals.
+PG  - 958-967
+LID - 10.1377/hlthaff.2019.00985 [doi]
+AB  - To address the complex health care needs of patients with mental illness-who
+      commonly have co-occurring medical conditions and substance use disorders-it is
+      critically important for providers to use electronic health records (EHRs) for
+      health information exchange (HIE) when patients are transferred from inpatient
+      psychiatric units in acute care hospitals. Efficient and timely HIE is necessary 
+      to ensure that patients receive adequate and informed follow-up care. This study 
+      examined the percentage of inpatient psychiatric units that reported using EHRs
+      for HIE at transfers of care and hospital characteristics associated with that
+      use. We linked national data from the Inpatient Psychiatric Facility Quality
+      Reporting Program of the Centers for Medicare and Medicaid Services, the American
+      Hospital Association Annual Survey, and state mental health privacy laws. In 2016
+      the use of electronic HIE upon transfer from psychiatric units lagged behind the 
+      corresponding overall use rates from acute care hospitals (56.3 percent versus 88
+      percent), with wide variation across states. Hospital size and accountable care
+      organization participation were associated with electronic HIE, but a state's
+      having mental health privacy laws more stringent than the Health Insurance
+      Portability and Accountability Act did not. Given these results, policy efforts
+      to incentivize the use of electronic HIE in psychiatric settings should be
+      strengthened.
+FAU - Shields, Morgan C
+AU  - Shields MC
+AD  - Morgan C. Shields (mshields@brandeis.edu) is a PhD candidate and NIAAA fellow at 
+      the Institute for Behavioral Health, Heller School for Social Policy and
+      Management, Brandeis University, in Waltham, Massachusetts, and a research
+      assistant in the Department of Health Care Policy, Harvard Medical School, in
+      Boston, Massachusetts.
+FAU - Ritter, Grant
+AU  - Ritter G
+AD  - Grant Ritter is an associate research professor at the Institute for Behavioral
+      Health, Heller School for Social Policy and Management, Brandeis University.
+FAU - Busch, Alisa B
+AU  - Busch AB
+AD  - Alisa B. Busch is an associate professor of psychiatry and health care policy at 
+      McLean Hospital and the Department of Health Care Policy, Harvard Medical School.
+      She is also the chief medical information officer at McLean Hospital.
+LA  - eng
+GR  - P30 DA035772/DA/NIDA NIH HHS/United States
+GR  - T32 AA007567/AA/NIAAA NIH HHS/United States
+GR  - T32 MH109433/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Health Aff (Millwood)
+JT  - Health affairs (Project Hope)
+JID - 8303128
+SB  - IM
+MH  - Aged
+MH  - Electronic Health Records
+MH  - Electronics
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Inpatients
+MH  - Medicare
+MH  - Patient Discharge
+MH  - United States
+PMC - PMC7460782
+MID - NIHMS1619218
+OTO - NOTNLM
+OT  - *Acute care hospitals
+OT  - *Behavioral health
+OT  - *Electronic medical records
+OT  - *Health information exchange
+OT  - *Health information technology
+OT  - *Health policy
+OT  - *Heath care providers
+OT  - *Hospital quality
+OT  - *Inpatient psychiatric care
+OT  - *Mental health
+OT  - *Post-discharge care coordination
+OT  - *Privacy
+OT  - *Psychiatric hospitals
+OT  - *accountable care organizations
+EDAT- 2020/06/02 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2020/06/02 06:00
+PHST- 2020/06/02 06:00 [entrez]
+PHST- 2020/06/02 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+AID - 10.1377/hlthaff.2019.00985 [doi]
+PST - ppublish
+SO  - Health Aff (Millwood). 2020 Jun;39(6):958-967. doi: 10.1377/hlthaff.2019.00985.
+
+PMID- 31112303
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200127
+LR  - 20210109
+IS  - 1475-6773 (Electronic)
+IS  - 0017-9124 (Linking)
+VI  - 54
+IP  - 5
+DP  - 2019 Oct
+TI  - The associations between query-based and directed health information exchange
+      with potentially avoidable use of health care services.
+PG  - 981-993
+LID - 10.1111/1475-6773.13169 [doi]
+AB  - OBJECTIVE: To quantify the impact of two approaches (directed and query-based) to
+      health information exchange (HIE) on potentially avoidable use of health care
+      services. DATA SOURCES/STUDY SETTING: Data on ambulatory care providers' adoption
+      of HIE were merged with Medicare fee-for-service claims from 2008 to 2014.
+      Providers were from 13 counties in New York served by the Rochester Regional
+      Health Information Organization (RHIO). STUDY DESIGN: Linear regression models
+      with provider and year fixed effects were used to estimate changes in the
+      probability of utilization outcomes for Medicare beneficiaries attributed to
+      providers adopting directed and/or query-based HIE compared with beneficiaries
+      attributed to providers who had not adopted HIE. DATA COLLECTION: Providers' HIE 
+      adoption status was determined through Rochester RHIO registration records. RHIO 
+      and claims data were linked via National Provider Identifiers. PRINCIPAL
+      FINDINGS: Query-based HIE adoption was associated with a 0.2 percentage point
+      reduction in the probability of an ambulatory care sensitive hospitalization and 
+      a 1.1 percentage point decrease in the likelihood of an unplanned readmission.
+      Directed HIE adoption was not associated with any outcome. CONCLUSIONS: The
+      Centers for Medicare & Medicaid Services' (CMS) EHR certification criteria
+      includes requirements for directed HIE, but not query-based HIE. Pending further 
+      research, certification criteria should place equal weight on facilitating
+      query-based and directed exchange.
+CI  - (c) Health Research and Educational Trust.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AUID- ORCID: 0000-0002-7226-9688
+AD  - Center for Health Policy, Indianapolis, Indiana.
+AD  - Health Policy and Management, Indiana University Richard M Fairbanks School of
+      Public Health at IUPUI, Indianapolis, Indiana.
+AD  - Regenstrief Institute, Inc., Indianapolis, Indiana.
+FAU - Unruh, Mark Aaron
+AU  - Unruh MA
+AD  - Department of Healthcare Policy and Research, Weill Cornell Medical College, New 
+      York, New York.
+FAU - Shapiro, Jason S
+AU  - Shapiro JS
+AD  - Department of Emergency Medicine, Icahn School of Medicine at Mout Sinai, New
+      York, New York.
+FAU - Casalino, Lawrence P
+AU  - Casalino LP
+AUID- ORCID: 0000-0002-7927-7859
+AD  - Division of Health Policy and Economics, The Livingston Farrand Professor of
+      Public Health, New York, New York.
+AD  - Weill Cornell Graduate School of Medical Sciences, Weill Cornell Medical College,
+      New York, New York.
+LA  - eng
+GR  - R01 HS024556/HS/AHRQ HHS/United States
+GR  - CNS-0521433/National Science Foundation/International
+GR  - 1R01HS024556-01A1/Agency for Healthcare Research and Quality/International
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20190521
+PL  - United States
+TA  - Health Serv Res
+JT  - Health services research
+JID - 0053006
+SB  - IM
+MH  - Adult
+MH  - Ambulatory Care/*statistics & numerical data
+MH  - Electronic Health Records/*standards/statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*standards/statistics & numerical data
+MH  - Hospitals/*standards/statistics & numerical data
+MH  - Humans
+MH  - Information Dissemination/*methods
+MH  - Information Storage and Retrieval/*methods
+MH  - Male
+MH  - Medicare/*statistics & numerical data
+MH  - Middle Aged
+MH  - New York
+MH  - United States
+PMC - PMC6736925
+OTO - NOTNLM
+OT  - *ambulatory care
+OT  - *health information exchange
+OT  - *medical informatics
+OT  - *medicare
+EDAT- 2019/05/22 06:00
+MHDA- 2020/01/28 06:00
+CRDT- 2019/05/22 06:00
+PHST- 2019/05/22 06:00 [pubmed]
+PHST- 2020/01/28 06:00 [medline]
+PHST- 2019/05/22 06:00 [entrez]
+AID - 10.1111/1475-6773.13169 [doi]
+PST - ppublish
+SO  - Health Serv Res. 2019 Oct;54(5):981-993. doi: 10.1111/1475-6773.13169. Epub 2019 
+      May 21.
+
+PMID- 32804962
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201013
+LR  - 20201013
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 15
+IP  - 8
+DP  - 2020
+TI  - Evaluation of a health information exchange system for microcephaly case-finding 
+      - New York City, 2013-2015.
+PG  - e0237392
+LID - 10.1371/journal.pone.0237392 [doi]
+AB  - BACKGROUND: Birth defects surveillance in the United States is conducted
+      principally by review of routine but lagged reporting to statewide congenital
+      malformations registries of diagnoses by hospitals or other health care
+      providers, a process that is not designed to rapidly detect changes in
+      prevalence. Health information exchange (HIE) systems are well suited for rapid
+      surveillance, but information is limited about their effectiveness at detecting
+      birth defects. We evaluated HIE data to detect microcephaly diagnosed at birth
+      during January 1, 2013-December 31, 2015 before known introduction of Zika virus 
+      in North America. METHODS: Data from an HIE system were queried for microcephaly 
+      diagnostic codes on day of birth or during the first two days after birth at
+      three Bronx hospitals for births to New York City resident mothers. Suspected
+      cases identified by HIE data were compared with microcephaly cases that had been 
+      identified through direct inquiry of hospital records and confirmed by chart
+      abstraction in a previous study of the same cohort. RESULTS: Of 16,910 live
+      births, 43 suspected microcephaly cases were identified through an HIE system
+      compared to 67 confirmed cases that had been identified as part of the prior
+      study. A total of 39 confirmed cases were found by both studies (sensitivity =
+      58.21%, 95% CI: 45.52-70.15%; positive predictive value = 90.70%, 95% CI:
+      77.86-97.41%; negative predictive value = 99.83%, 95% CI: 99.76-99.89% for HIE
+      data). CONCLUSION: Despite limitations, HIE systems could be used for rapid
+      newborn microcephaly surveillance, especially in the many jurisdictions where
+      more labor-intensive approaches are not feasible. Future work is needed to
+      improve electronic medical record documentation quality to improve sensitivity
+      and reduce misclassification.
+FAU - Poirot, Eugenie
+AU  - Poirot E
+AD  - Epidemic Intelligence Service, Division of Scientific Education and Professional 
+      Development, Centers for Disease Control and Prevention, Atlanta, Georgia, United
+      States of America.
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+FAU - Mills, Carrie W
+AU  - Mills CW
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+FAU - Fair, Andrew D
+AU  - Fair AD
+AUID- ORCID: 0000-0001-7034-6232
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+AD  - Bronx RHIO, New York, New York, United States of America.
+FAU - Graham, Krishika A
+AU  - Graham KA
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+FAU - Martinez, Emily
+AU  - Martinez E
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+FAU - Schreibstein, Lauren
+AU  - Schreibstein L
+AD  - Bronx RHIO, New York, New York, United States of America.
+FAU - Talati, Achala
+AU  - Talati A
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+FAU - McVeigh, Katharine H
+AU  - McVeigh KH
+AUID- ORCID: 0000-0002-8715-3717
+AD  - New York City Department of Health and Mental Hygiene, New York, New York, United
+      States of America.
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20200817
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Hospitals/statistics & numerical data
+MH  - Humans
+MH  - Microcephaly/*epidemiology
+MH  - New York City/epidemiology
+PMC - PMC7430720
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2020/08/18 06:00
+MHDA- 2020/10/21 06:00
+CRDT- 2020/08/18 06:00
+PHST- 2020/01/03 00:00 [received]
+PHST- 2020/07/25 00:00 [accepted]
+PHST- 2020/08/18 06:00 [entrez]
+PHST- 2020/08/18 06:00 [pubmed]
+PHST- 2020/10/21 06:00 [medline]
+AID - 10.1371/journal.pone.0237392 [doi]
+AID - PONE-D-20-00230 [pii]
+PST - epublish
+SO  - PLoS One. 2020 Aug 17;15(8):e0237392. doi: 10.1371/journal.pone.0237392.
+      eCollection 2020.
+
+PMID- 33126058
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210305
+LR  - 20210305
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 145
+DP  - 2021 Jan
+TI  - Inter-organizational information sharing and bundled payment reimbursement: Do
+      hospitals in the US use health information exchange to collaborate?
+PG  - 104298
+LID - S1386-5056(20)30832-7 [pii]
+LID - 10.1016/j.ijmedinf.2020.104298 [doi]
+AB  - OBJECTIVE: The purpose of this study is to examine the relationship between the
+      greater need for information generated by bundled payment reimbursement and the
+      use of Health Information Exchange (HIE). METHODS: The study is based on a
+      secondary data analysis using theAmerican Hospital Association (AHA) Healthcare
+      IT Database and the AHA Annual Survey. A logistic regression was used to test the
+      likelihood of hospitals participating in HIE if they were involved in bundled
+      payment reimbursement. Negative binomial, ordered logistic and Poisson regression
+      models were used to determine the associations between bundled payment
+      reimbursement and health information sharing in terms of breadth, volume, and
+      diversity, respectively. RESULTS: Hospitals in bundled payment programs were more
+      likely to send and receive information through HIE and tosend information to
+      different types of health providers but not to receive. They were also more
+      likely to exchange different types of health information and to use HIE more
+      often. CONCLUSIONS: The greater need for collaboration of hospitals participating
+      in bundled payment programs was associated with greater information sharing among
+      organizations through HIE, but different providers involved in the episode of
+      care play different roles in HIE.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Guerrazzi Young, Claudia
+AU  - Guerrazzi Young C
+AD  - Department of Management, School of Business Administration, Widener University, 
+      United States. Electronic address: cgyoung@widener.edu.
+FAU - Feldman, Sue S
+AU  - Feldman SS
+AD  - Department of Health Services Administration, University of Alabama at
+      Birmingham, United States.
+FAU - Hernandez, S Robert
+AU  - Hernandez SR
+AD  - Department of Health Services Administration, University of Alabama at
+      Birmingham, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20201015
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Delivery of Health Care
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Information Dissemination
+MH  - Reimbursement Mechanisms
+MH  - United States
+OTO - NOTNLM
+OT  - *Bundled payments
+OT  - *Collaboration
+OT  - *HIE
+OT  - *Information sharing
+OT  - *Resource Dependence Theory
+EDAT- 2020/10/31 06:00
+MHDA- 2021/03/06 06:00
+CRDT- 2020/10/30 20:12
+PHST- 2020/06/05 00:00 [received]
+PHST- 2020/07/28 00:00 [revised]
+PHST- 2020/10/06 00:00 [accepted]
+PHST- 2020/10/31 06:00 [pubmed]
+PHST- 2021/03/06 06:00 [medline]
+PHST- 2020/10/30 20:12 [entrez]
+AID - S1386-5056(20)30832-7 [pii]
+AID - 10.1016/j.ijmedinf.2020.104298 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2021 Jan;145:104298. doi: 10.1016/j.ijmedinf.2020.104298. Epub 
+      2020 Oct 15.
+
+PMID- 32220218
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200825
+LR  - 20200825
+IS  - 1366-5847 (Electronic)
+IS  - 0014-0139 (Linking)
+VI  - 63
+IP  - 6
+DP  - 2020 Jun
+TI  - Development and evaluation of an electronic hospital referral system: a human
+      factors approach.
+PG  - 710-723
+LID - 10.1080/00140139.2020.1748232 [doi]
+AB  - Coordinating care across hospitals has been identified as a patient safety risk
+      as referrals are often paper-based and poorly documented. Electronic referral
+      systems have the potential to improve the situation but can fail to gain uptake. 
+      We applied a human factors/ergonomics (HFE) approach to place analysis of local
+      workflow and user engagement central to the development of a new regional
+      electronic referral system. The intervention was evaluated with a
+      before-and-after study. Referral quality improved, referrals containing
+      sufficient clinical information for continuation of care increased from 36.9% to 
+      83.5% and completeness of referral information significantly improved. There was 
+      a 35.7% reduction in the number of calls to the on-call specialist, and the mean 
+      period between admission and surgery for expedited transfers was reduced.
+      Applying HFE informed design with use-based evidence; the system maintains
+      sustained uptake three years after implementation. Reliable recording of
+      information translates to better patient safety during inter-hospital
+      transitions. Practitioners summary: This study developed, implemented and
+      evaluated a clinical referral system using a human factors approach. Process
+      analysis and usability studies were used to inform the application requirements
+      and design. Region-wide implementation in hospitals resulted in the improved
+      quality and completeness of clinical referral information and efficiencies in the
+      referral process.
+FAU - Woodward, Matthew
+AU  - Woodward M
+AUID- ORCID: http://orcid.org/0000-0003-4249-1947
+AD  - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+FAU - De Pennington, Nicholas
+AU  - De Pennington N
+AUID- ORCID: http://orcid.org/0000-0003-4536-4978
+AD  - Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+FAU - Grandidge, Carly
+AU  - Grandidge C
+AUID- ORCID: http://orcid.org/0000-0003-0936-5746
+AD  - Oxford University Hospitals NHS Foundation Trust, Oxford, UK.
+FAU - McCulloch, Peter
+AU  - McCulloch P
+AUID- ORCID: http://orcid.org/0000-0002-3210-8273
+AD  - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+FAU - Morgan, Lauren
+AU  - Morgan L
+AUID- ORCID: http://orcid.org/0000-0001-8395-9492
+AD  - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20200428
+PL  - England
+TA  - Ergonomics
+JT  - Ergonomics
+JID - 0373220
+SB  - IM
+MH  - *Health Information Exchange
+MH  - *Hospitals
+MH  - Humans
+MH  - *Program Evaluation
+MH  - *Quality Improvement
+MH  - *Referral and Consultation
+OTO - NOTNLM
+OT  - Hospital referral
+OT  - ergonomics
+OT  - health information technology
+OT  - human factors
+OT  - quality improvement
+EDAT- 2020/03/30 06:00
+MHDA- 2020/08/26 06:00
+CRDT- 2020/03/30 06:00
+PHST- 2020/03/30 06:00 [pubmed]
+PHST- 2020/08/26 06:00 [medline]
+PHST- 2020/03/30 06:00 [entrez]
+AID - 10.1080/00140139.2020.1748232 [doi]
+PST - ppublish
+SO  - Ergonomics. 2020 Jun;63(6):710-723. doi: 10.1080/00140139.2020.1748232. Epub 2020
+      Apr 28.
+
+PMID- 31931168
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210728
+LR  - 20210728
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Linking)
+VI  - 102
+DP  - 2020 Feb
+TI  - Health information exchange: What matters at the organizational level?
+PG  - 103375
+LID - S1532-0464(20)30002-2 [pii]
+LID - 10.1016/j.jbi.2020.103375 [doi]
+AB  - The introduction of bundled payment reimbursement focuses on rewarding efficient 
+      and high-quality care. In order for bundled payment programs to be successful,
+      collaboration across care settings is essential. Consequently, the introduction
+      of this reimbursement program is expected to be associated with an increase of
+      Health Information Exchange (HIE) among health providers. This paper aims at
+      understanding how the use of HIE can be shaped by organization-specific factors
+      such as trust, power, organizational culture, and leadership, especially when
+      participating in bundled payment initiatives. The study was based on qualitative 
+      semi-structured interviews with hospital administrators. Very diverse opinions
+      arose from the interviewees, which leads to the main conclusion that policymakers
+      should take into account differences between diverse hospital settings when
+      adopting policies regarding technological innovations.
+CI  - Copyright (c) 2020 Elsevier Inc. All rights reserved.
+FAU - Guerrazzi, Claudia
+AU  - Guerrazzi C
+AD  - Department of Management, School of Business Administration, Widener University, 
+      United States. Electronic address: cguerrazzi@widener.edu.
+FAU - Feldman, Sue S
+AU  - Feldman SS
+AD  - Department of Health Services Administration, University of Alabama at
+      Birmingham, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20200110
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+SB  - IM
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Quality of Health Care
+OTO - NOTNLM
+OT  - *Bundled payment reimbursement
+OT  - *Health information exchange
+OT  - *Leadership
+OT  - *Organizational culture
+OT  - *Organizational factors
+OT  - *Power
+OT  - *Trust
+COIS- Declaration of Competing Interest The authors declare that they have no known
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2020/01/14 06:00
+MHDA- 2021/07/29 06:00
+CRDT- 2020/01/14 06:00
+PHST- 2019/08/12 00:00 [received]
+PHST- 2019/12/12 00:00 [revised]
+PHST- 2020/01/05 00:00 [accepted]
+PHST- 2020/01/14 06:00 [pubmed]
+PHST- 2021/07/29 06:00 [medline]
+PHST- 2020/01/14 06:00 [entrez]
+AID - S1532-0464(20)30002-2 [pii]
+AID - 10.1016/j.jbi.2020.103375 [doi]
+PST - ppublish
+SO  - J Biomed Inform. 2020 Feb;102:103375. doi: 10.1016/j.jbi.2020.103375. Epub 2020
+      Jan 10.
+
+PMID- 29734284
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190925
+LR  - 20190925
+IS  - 1096-9012 (Print)
+IS  - 1096-9012 (Linking)
+VI  - 63
+IP  - 3
+DP  - 2018 May-Jun
+TI  - Practitioner Application: How Does Electronic Health Information Exchange Affect 
+      Hospital Performance Efficiency? The Effects of Breadth and Depth of Information 
+      Sharing.
+PG  - 228-229
+LID - 10.1097/JHM-D-18-00052 [doi]
+FAU - Goodstein, Ron S
+AU  - Goodstein RS
+AD  - EMR systems manager, JPS Health Network, Fort Worth, Texas.
+LA  - eng
+PT  - Journal Article
+PT  - Comment
+PL  - United States
+TA  - J Healthc Manag
+JT  - Journal of healthcare management / American College of Healthcare Executives
+JID - 9803529
+CON - J Healthc Manag. 2018 May-Jun;63(3):212-228. PMID: 29734283
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Information Dissemination
+EDAT- 2018/05/08 06:00
+MHDA- 2019/09/26 06:00
+CRDT- 2018/05/08 06:00
+PHST- 2018/05/08 06:00 [entrez]
+PHST- 2018/05/08 06:00 [pubmed]
+PHST- 2019/09/26 06:00 [medline]
+AID - 10.1097/JHM-D-18-00052 [doi]
+AID - 00115514-201806000-00012 [pii]
+PST - ppublish
+SO  - J Healthc Manag. 2018 May-Jun;63(3):228-229. doi: 10.1097/JHM-D-18-00052.

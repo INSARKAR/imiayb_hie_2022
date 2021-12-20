@@ -1,19 +1,19 @@
 HTTP/1.1 200 OK
-Date: Thu, 16 Dec 2021 22:55:26 GMT
+Date: Sun, 19 Dec 2021 19:17:02 GMT
 Server: Finatra
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Content-Security-Policy: upgrade-insecure-requests
 Referrer-Policy: origin-when-cross-origin
 X-Test-Test: test42
 Cache-Control: private
-NCBI-PHID: D0BD0C4BE1A3511500005CCFD635E43D.1.1.m_5
+NCBI-PHID: 322C36777D9DA98500003AC444F51518.1.1.m_5
 X-RateLimit-Remaining: 0
-NCBI-SID: B592B2105A9FC47A_9EC3SID
+NCBI-SID: 9A04E68018ED26C6_DC72SID
 X-RateLimit-Limit: 3
 Access-Control-Allow-Origin: *
 Content-Type: text/plain; charset=UTF-8
 Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
-Set-Cookie: ncbi_sid=B592B2105A9FC47A_9EC3SID; domain=.nih.gov; path=/; expires=Fri, 16 Dec 2022 22:55:26 GMT
+Set-Cookie: ncbi_sid=9A04E68018ED26C6_DC72SID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:01 GMT
 Vary: Accept-Encoding
 X-UA-Compatible: IE=Edge
 X-XSS-Protection: 1; mode=block
@@ -1015,76 +1015,6 @@ AID - 10.1016/j.ijmedinf.2017.05.012 [doi]
 PST - ppublish
 SO  - Int J Med Inform. 2017 Aug;104:97-104. doi: 10.1016/j.ijmedinf.2017.05.012. Epub 
       2017 May 20.
-
-PMID- 25211570
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20160728
-LR  - 20190517
-IS  - 1680-5348 (Electronic)
-IS  - 1020-4989 (Linking)
-VI  - 35
-IP  - 5-6
-DP  - 2014 May-Jun
-TI  - [Lessons learned in the implementation of interoperable National Health
-      Information Systems: a systematic review].
-PG  - 415-23
-LID - S1020-49892014000500015 [pii]
-AB  - OBJECTIVE: Identify shared criteria used throughout the world in the
-      implementation of interoperable National Health Information Systems (NHIS) and
-      provide validated scientific information on the dimensions affecting
-      interoperability. METHODS: This systematic review sought to identify primary
-      articles on the implementation of interoperable NHIS published in scientific
-      journals in English, Portuguese, or Spanish between 1990 and 2011 through a
-      search of eight databases of electronic journals in the health sciences and
-      informatics: MEDLINE (PubMed), Proquest, Ovid, EBSCO, MD Consult, Virtual Health 
-      Library, Metapress, and SciELO. The full texts of the articles were reviewed, and
-      those that focused on technical computer aspects or on normative issues were
-      excluded, as well as those that did not meet the quality criteria for systematic 
-      reviews of interventions. RESULTS: Of 291 studies found and reviewed, only five
-      met the inclusion criteria. These articles reported on the process of
-      implementing an interoperable NHIS in Brazil, China, the United States, Turkey,
-      and the Semiautonomous Region of Zanzibar, respectively. Five common basic
-      criteria affecting implementation of the NHIS were identified: standards in place
-      to govern the process, availability of trained human talent, financial and
-      structural constraints, definition of standards, and assurance that the
-      information is secure. Four dimensions affecting interoperability were defined:
-      technical, semantic, legal, and organizational. CONCLUSIONS: The criteria
-      identified have to be adapted to the actual situation in each country and a
-      proactive approach should be used to ensure that implementation of the
-      interoperable NHIS is strategic, simple, and reliable.
-FAU - Ovies-Bernal, Diana Paola
-AU  - Ovies-Bernal DP
-AD  - Laboratorio de Simulacion Hospitalaria y Biomedica, Universidad Manuela Beltran, 
-      Santa Fe de Bogota, Colombia.
-FAU - Agudelo-Londono, Sandra M
-AU  - Agudelo-Londono SM
-AD  - Pontificia Universidad Javeriana, Santa Fe de Bogota, Colombia.
-LA  - spa
-PT  - Journal Article
-PT  - Review
-PT  - Systematic Review
-TT  - Lecciones aprendidas en la implementacion de sistemas nacionales de informacion
-      de salud interoperables: una revision sistematica.
-PL  - United States
-TA  - Rev Panam Salud Publica
-JT  - Revista panamericana de salud publica = Pan American journal of public health
-JID - 9705400
-SB  - IM
-MH  - *Health Information Exchange
-MH  - Health Information Systems/*organization & administration
-MH  - Humans
-EDAT- 2014/09/12 06:00
-MHDA- 2016/07/29 06:00
-CRDT- 2014/09/12 06:00
-PHST- 2013/07/16 00:00 [received]
-PHST- 2014/05/19 00:00 [accepted]
-PHST- 2014/09/12 06:00 [entrez]
-PHST- 2014/09/12 06:00 [pubmed]
-PHST- 2016/07/29 06:00 [medline]
-AID - S1020-49892014000500015 [pii]
-PST - ppublish
-SO  - Rev Panam Salud Publica. 2014 May-Jun;35(5-6):415-23.
 
 PMID- 30168164
 OWN - NLM

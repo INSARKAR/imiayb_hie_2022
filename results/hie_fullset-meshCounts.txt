@@ -1,60 +1,52 @@
-30 | Information Dissemination
-29 | Hospitals
-24 | Computer Security
-24 | Delivery of Health Care
-22 | Confidentiality
-15 | Emergency Service, Hospital
-14 | Health Information Interoperability
-14 | Telemedicine
-13 | Health Personnel
+26 | Hospitals
+25 | Information Dissemination
+21 | Computer Security
+21 | Confidentiality
+19 | Delivery of Health Care
+14 | Emergency Service, Hospital
+13 | Health Information Interoperability
 13 | Attitude of Health Personnel
-12 | Referral and Consultation
-12 | Health Information Systems
+12 | Health Personnel
+12 | Telemedicine
+11 | Referral and Consultation
 11 | Continuity of Patient Care
 10 | Social Media
-10 | Quality Improvement
-9 | Information Storage and Retrieval
-9 | Patient Transfer
-9 | Privacy
+9 | Health Information Systems
 9 | Primary Health Care
 8 | Computer Communication Networks
 8 | Patient Discharge
-8 | Blockchain
+8 | Patient Transfer
 8 | Medicare
+8 | Quality Improvement
+8 | Health Level Seven
 8 | Hospital Administration
-8 | Research Design
 7 | Ambulatory Care Facilities
-7 | Physicians
 7 | Commerce
-7 | Health Level Seven
+7 | Privacy
 7 | Information Systems
+7 | Research Design
+6 | Physicians
 6 | Communication
 6 | Databases, Factual
 6 | Patient Acceptance of Health Care
-6 | Public Health
-6 | Health Records, Personal
 6 | Patient Readmission
-6 | Age Factors
 5 | Pilot Projects
-5 | Informed Consent
 5 | Algorithms
 5 | State Government
-5 | Neoplasms
+5 | Information Storage and Retrieval
 5 | United States Department of Veterans Affairs
 5 | Trust
 5 | Patient Safety
-5 | Quality of Health Care
 5 | Hospital Information Systems
 5 | Home Care Services
+5 | Public Health
 5 | Specialization
+5 | Blockchain
 5 | Government Regulation
-5 | Systems Integration
-5 | Patient Education as Topic
-5 | Health Insurance Portability and Accountability Act
 5 | Hospitalization
 5 | Machine Learning
-5 | Meaningful Use
 5 | User-Computer Interface
+5 | Age Factors
 5 | Policy Making
 5 | Academic Medical Centers
 5 | Biomedical Research
@@ -62,38 +54,38 @@
 4 | Information Seeking Behavior
 4 | Rural Population
 4 | Quality of Life
-4 | Germany
-4 | Pregnant Women
+4 | Informed Consent
 4 | Medication Reconciliation
 4 | Switzerland
+4 | Neoplasms
 4 | Program Evaluation
-4 | Colorectal Neoplasms
+4 | Quality of Health Care
 4 | Cloud Computing
-4 | Health Communication
 4 | Models, Theoretical
 4 | Socioeconomic Factors
 4 | Health Knowledge, Attitudes, Practice
 4 | Health Care Surveys
-4 | Consumer Health Information
 4 | Quebec
+4 | Systems Integration
 4 | Datasets as Topic
-4 | Mobile Applications
-4 | Decision Making
+4 | Patient Education as Topic
 4 | Perception
+4 | Health Records, Personal
 4 | Access to Information
 4 | Interdisciplinary Communication
 4 | Family
+4 | Meaningful Use
 4 | Social Support
 4 | Diffusion of Innovation
-4 | Technology
 4 | Skilled Nursing Facilities
-3 | Practice Guidelines as Topic
 3 | Pregnancy
 3 | Maryland
 3 | Data Collection
 3 | Nurses
 3 | Heart Failure
 3 | Video Recording
+3 | Germany
+3 | Pregnant Women
 3 | Veterans
 3 | Health Facilities
 3 | Time Factors
@@ -104,63 +96,55 @@
 3 | Semantics
 3 | New York
 3 | Patients
-3 | Patient Participation
-3 | Computer Systems
+3 | Colorectal Neoplasms
 3 | Data Mining
 3 | Chronic Disease
 3 | Data Analysis
-3 | Inpatients
-3 | Sweden
+3 | Consumer Health Information
 3 | Software
 3 | Focus Groups
 3 | Diagnostic Imaging
 3 | Patient Satisfaction
 3 | Medical Record Linkage
+3 | Mobile Applications
+3 | Decision Making
 3 | Italy
 3 | Electronic Data Processing
 3 | Community Networks
-3 | Parents
 3 | Infant, Newborn
+3 | Health Insurance Portability and Accountability Act
 3 | Efficiency, Organizational
 3 | Medication Therapy Management
 3 | Utah
-3 | Intersectoral Collaboration
 3 | Rare Diseases
 3 | England
-3 | Guideline Adherence
 3 | Infant
 3 | Health Services
 3 | Child, Preschool
 3 | Registries
-3 | Health Policy
 3 | Patient Care Team
-3 | Cooperative Behavior
 3 | Mental Disorders
-3 | Translational Research, Biomedical
 3 | Pharmacists
 2 | Product Labeling
+2 | Practice Guidelines as Topic
 2 | Online Social Networking
 2 | Pattern Recognition, Automated
 2 | Reminder Systems
 2 | Natural Language Processing
 2 | Regression Analysis
 2 | Long-Term Care
-2 | Deep Learning
 2 | Nurses, Community Health
-2 | Curriculum
 2 | Psychometrics
 2 | Social Work
 2 | Uganda
 2 | Radiology
 2 | Community Health Services
 2 | Sexually Transmitted Diseases
-2 | Population Health Management
 2 | State Medicine
 2 | General Practitioners
 2 | Nursing Process
 2 | Health Services Needs and Demand
 2 | Population Surveillance
-2 | Length of Stay
 2 | Developing Countries
 2 | Radiology Information Systems
 2 | Ownership
@@ -174,46 +158,48 @@
 2 | Reimbursement Mechanisms
 2 | Consumer Behavior
 2 | Drug-Related Side Effects and Adverse Reactions
+2 | Patient Participation
 2 | Republic of Korea
-2 | Workload
-2 | Text Messaging
+2 | Computer Systems
+2 | Health Communication
 2 | Interrupted Time Series Analysis
-2 | Medication Errors
+2 | Inpatients
 2 | Feasibility Studies
 2 | Economic Competition
-2 | Self-Management
+2 | Sweden
 2 | Attitude to Computers
 2 | Canada
-2 | Surgeons
 2 | Delivery of Health Care, Integrated
 2 | Taiwan
-2 | Drug Labeling
 2 | Patient Outcome Assessment
-2 | Terminology as Topic
 2 | Hospital Bed Capacity
 2 | International Classification of Diseases
 2 | Diabetes Mellitus, Type 1
 2 | National Health Programs
+2 | Parents
 2 | Insurance Claim Review
 2 | Ambulatory Care
-2 | Emergency Medical Services
 2 | Prospective Studies
 2 | North Carolina
 2 | Professional Practice
 2 | Cohort Studies
 2 | Disease Notification
 2 | Internationality
+2 | Intersectoral Collaboration
 2 | Marketing of Health Services
 2 | Psychotherapy
+2 | Guideline Adherence
 2 | Motivation
 2 | Health Resources
+2 | Health Policy
 2 | Online Systems
 2 | Documentation
 2 | Florida
 2 | Emotions
-2 | Data Accuracy
+2 | Cooperative Behavior
 2 | Adverse Drug Reaction Reporting Systems
-2 | Iran
+2 | Translational Research, Biomedical
+2 | Technology
 2 | Blood Glucose
 2 | Local Government
 2 | Patient Preference

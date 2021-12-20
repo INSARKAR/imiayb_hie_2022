@@ -1,0 +1,1639 @@
+HTTP/1.1 200 OK
+Date: Sun, 19 Dec 2021 19:17:56 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: 939B661FC9AC3B85000059CF59A90072.1.1.m_5
+X-RateLimit-Remaining: 0
+NCBI-SID: DFAD64AE1C63A93F_E8ECSID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=DFAD64AE1C63A93F_E8ECSID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:57 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 32160450
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200519
+LR  - 20200519
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 382
+IP  - 19
+DP  - 2020 May 7
+TI  - Implementing the Cures Act - Bringing Consumer Computing to Health Care.
+PG  - 1779-1781
+LID - 10.1056/NEJMp2003890 [doi]
+FAU - Rucker, Donald W
+AU  - Rucker DW
+AUID- ORCID: 0000-0003-4690-5078
+AD  - From the Office of the National Coordinator for Health Information Technology,
+      Department of Health and Human Services, Washington, DC.
+LA  - eng
+PT  - Journal Article
+DEP - 20200311
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+SB  - IM
+MH  - Access to Information/*legislation & jurisprudence
+MH  - Delivery of Health Care/legislation & jurisprudence
+MH  - Electronic Health Records/*legislation & jurisprudence
+MH  - Health Information Exchange/*legislation & jurisprudence
+MH  - Health Information Interoperability/*legislation & jurisprudence
+MH  - Health Information Systems/legislation & jurisprudence
+MH  - Health Insurance Portability and Accountability Act
+MH  - Humans
+MH  - United States
+EDAT- 2020/03/12 06:00
+MHDA- 2020/05/20 06:00
+CRDT- 2020/03/12 06:00
+PHST- 2020/03/12 06:00 [pubmed]
+PHST- 2020/05/20 06:00 [medline]
+PHST- 2020/03/12 06:00 [entrez]
+AID - 10.1056/NEJMp2003890 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2020 May 7;382(19):1779-1781. doi: 10.1056/NEJMp2003890. Epub 2020 
+      Mar 11.
+
+PMID- 29153922
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181126
+LR  - 20181126
+IS  - 1872-6054 (Electronic)
+IS  - 0168-8510 (Linking)
+VI  - 122
+IP  - 2
+DP  - 2018 Feb
+TI  - E-health in Switzerland: The laborious adoption of the federal law on electronic 
+      health records (EHR) and health information exchange (HIE) networks.
+PG  - 69-74
+LID - S0168-8510(17)30317-2 [pii]
+LID - 10.1016/j.healthpol.2017.11.005 [doi]
+AB  - Within the framework of a broader e-health strategy launched a decade ago, in
+      2015 Switzerland passed a new federal law on patients' electronic health records 
+      (EHR). The reform requires hospitals to adopt interoperable EHRs to facilitate
+      data sharing and cooperation among healthcare providers, ultimately contributing 
+      to improvements in quality of care and efficiency in the health system. Adoption 
+      is voluntary for ambulatories and private practices, that may however be pushed
+      towards EHRs by patients. The latter have complete discretion in the choice of
+      the health information to share. Moreover, careful attention is given to data
+      security issues. Despite good intentions, the high institutional and
+      organisational fragmentation of the Swiss healthcare system, as well as the lack 
+      of full agreement with stakeholders on some critical points of the reform, slowed
+      the process of adoption of the law. In particular, pilot projects made clear that
+      the participation of ambulatories is doomed to be low unless appropriate
+      incentives are put in place. Moreover, most stakeholders point at the strategy
+      proposed to finance technical implementation and management of EHRs as a major
+      drawback. After two years of intense preparatory work, the law entered into force
+      in April 2017.
+CI  - Copyright (c) 2017 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - De Pietro, Carlo
+AU  - De Pietro C
+AD  - SUPSI DEASS Department of Business Economics, Health and Social Care, University 
+      of Applied Sciences and Arts of Southern Switzerland, Via Violino 11, CH-6928
+      Manno, Switzerland. Electronic address: carlo.depietro@supsi.ch.
+FAU - Francetic, Igor
+AU  - Francetic I
+AD  - SUPSI DEASS Department of Business Economics, Health and Social Care, University 
+      of Applied Sciences and Arts of Southern Switzerland, Via Violino 11, CH-6928
+      Manno, Switzerland. Electronic address: igor.francetic@supsi.ch.
+LA  - eng
+PT  - Journal Article
+DEP - 20171110
+PL  - Ireland
+TA  - Health Policy
+JT  - Health policy (Amsterdam, Netherlands)
+JID - 8409431
+MH  - Delivery of Health Care
+MH  - Electronic Health Records/economics/*legislation & jurisprudence/standards
+MH  - Federal Government
+MH  - *Health Information Exchange/economics/standards
+MH  - Humans
+MH  - Inventions
+MH  - Policy Making
+MH  - Switzerland
+MH  - Telemedicine/*legislation & jurisprudence/standards
+OTO - NOTNLM
+OT  - *Care coordination
+OT  - *Electronic health data
+OT  - *Policy development
+OT  - *Switzerland
+OT  - *e-health
+EDAT- 2017/11/21 06:00
+MHDA- 2018/11/27 06:00
+CRDT- 2017/11/21 06:00
+PHST- 2016/12/06 00:00 [received]
+PHST- 2017/09/28 00:00 [revised]
+PHST- 2017/11/03 00:00 [accepted]
+PHST- 2017/11/21 06:00 [pubmed]
+PHST- 2018/11/27 06:00 [medline]
+PHST- 2017/11/21 06:00 [entrez]
+AID - S0168-8510(17)30317-2 [pii]
+AID - 10.1016/j.healthpol.2017.11.005 [doi]
+PST - ppublish
+SO  - Health Policy. 2018 Feb;122(2):69-74. doi: 10.1016/j.healthpol.2017.11.005. Epub 
+      2017 Nov 10.
+
+PMID- 33105335
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201111
+LR  - 20210209
+IS  - 1539-0721 (Electronic)
+IS  - 0002-0443 (Linking)
+VI  - 50
+IP  - 11
+DP  - 2020 Nov
+TI  - Health Information Exchange: Practical Overview and Implications for Nursing
+      Practice.
+PG  - 584-589
+LID - 10.1097/NNA.0000000000000941 [doi]
+AB  - The US healthcare system is moving into a new era of value-based care, which
+      focuses on delivering safer and higher quality care while reducing costs. Health 
+      information exchange (HIE) has been a vital component in this process; however,
+      there has been a lack of awareness and use of HIE among nurse leaders,
+      clinicians, and researchers. The purpose of this article is to provide nurses and
+      administrators with a brief overview of HIE and its impact on care delivery, as
+      well as practical applications using specific case examples.
+FAU - Nahm, Eun-Shim
+AU  - Nahm ES
+AD  - Author Affiliations: Professor and Program Director for the Nursing Informatics
+      Program (Dr Nahm), University of Maryland School of Nursing; and Associate Vice
+      President, Operations Corporate Information Services (Dr Schoenbaum), Penn
+      Medicine, Baltimore; Maryland Executive Director (Mr Behm), CRISP, Columbia; and 
+      Chief Nurse Executive (Dr Rowen), University of Maryland Medical System,
+      Baltimore.
+FAU - Schoenbaum, Anna
+AU  - Schoenbaum A
+FAU - Behm, Craig
+AU  - Behm C
+FAU - Rowen, Lisa
+AU  - Rowen L
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Nurs Adm
+JT  - The Journal of nursing administration
+JID - 1263116
+SB  - IM
+MH  - Cost Control
+MH  - Delivery of Health Care/economics/organization & administration/standards
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - *Nursing Process
+MH  - *Nursing Staff
+MH  - Quality of Health Care
+EDAT- 2020/10/27 06:00
+MHDA- 2020/11/12 06:00
+CRDT- 2020/10/26 20:17
+PHST- 2020/10/26 20:17 [entrez]
+PHST- 2020/10/27 06:00 [pubmed]
+PHST- 2020/11/12 06:00 [medline]
+AID - 10.1097/NNA.0000000000000941 [doi]
+AID - 00005110-202011000-00008 [pii]
+PST - ppublish
+SO  - J Nurs Adm. 2020 Nov;50(11):584-589. doi: 10.1097/NNA.0000000000000941.
+
+PMID- 31118316
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190902
+LR  - 20190902
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 260
+DP  - 2019
+TI  - Exchanging Appointment Data Among Healthcare Institutions.
+PG  - 33-40
+AB  - The introduction of national electronic patient records such as the electronic
+      patient dossier EPD in Switzerland provides a new basis for digitizing healthcare
+      processes at a national level. One process however, that is currently neglected
+      within the Swiss EPD, is the scheduling process in healthcare. The objective of
+      this work is to analyze the appointment scheduling process and the involved IT
+      systems in order to develop an appointment data structure and a concept for
+      cross-institutional exchange of appointment data. The analysis showed that
+      various outpatient and inpatient information systems support appointment booking 
+      through proprietary solutions. A true standard for appointment data exchange is
+      missing. We suggest an appointment data structure and a corresponding data
+      exchange process based on the FHIR standard. In its current implementation, the
+      Swiss EPD does not support this proposed appointment scheduling process. We
+      discuss how potential additions such as the IHE Care Services Discovery (CSD)
+      profile can provide better compatibility.
+FAU - Kyburz, Philip
+AU  - Kyburz P
+AD  - Bern University of Applied Sciences, Biel, Switzerland.
+FAU - Gfeller, Sascha
+AU  - Gfeller S
+AD  - Bern University of Applied Sciences, Biel, Switzerland.
+FAU - Burkle, Thomas
+AU  - Burkle T
+AD  - Bern University of Applied Sciences, Biel, Switzerland.
+FAU - Denecke, Kerstin
+AU  - Denecke K
+AD  - Bern University of Applied Sciences, Biel, Switzerland.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Appointments and Schedules
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Information Systems
+MH  - Switzerland
+OTO - NOTNLM
+OT  - FHIR
+OT  - appointment
+OT  - cross-institutional data exchange
+OT  - scheduling
+EDAT- 2019/05/24 06:00
+MHDA- 2019/09/03 06:00
+CRDT- 2019/05/24 06:00
+PHST- 2019/05/24 06:00 [entrez]
+PHST- 2019/05/24 06:00 [pubmed]
+PHST- 2019/09/03 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2019;260:33-40.
+
+PMID- 29298450
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180903
+LR  - 20210112
+IS  - 1869-0327 (Electronic)
+IS  - 1869-0327 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2018 Jan
+TI  - A Statewide Medication Management System: Health Information Exchange to Support 
+      Drug Therapy Optimization by Pharmacists across the Continuum of Care.
+PG  - 1-10
+LID - 10.1055/s-0037-1620262 [doi]
+AB  - BACKGROUND: While evidence generally supports the use of medication management
+      technology, systems are typically implemented and evaluated piecemeal rather than
+      as part of a comprehensive model for medication management. Systems to support
+      drug therapy optimization, increasingly a key role of pharmacists in our
+      healthcare system, have not yet been reported. OBJECTIVE: Our objective is to
+      describe the design, implementation, and use of health information technology to 
+      support the hospital and community pharmacists' management of medications for
+      high-risk patients statewide in the "Pharm2Pharm" model of care. Our aims were to
+      make it easier for the pharmacists to access information needed to identify and
+      resolve drug therapy problems using best practices for medication management and 
+      communicate with other members of the care team. METHODS: The pharmacist's roles 
+      and the medication management processes guided the design of the supporting
+      technology, which was implemented after the Pharm2Pharm model was launched and
+      the pharmacists' technology needs were assessed. Priorities for technology
+      included sending care transition documents from hospital to community pharmacist 
+      securely and efficiently, access to medical records, including medications and
+      laboratory results, documentation, and patient tracking. Implementation and use
+      of the technology were documented. RESULTS: Communications, medication
+      management, and population management solutions were implemented to support the
+      Pharm2Pharm model. The pharmacists delivering services through this model adopted
+      and meaningfully used this technology to support their work. CONCLUSION:
+      Implementing technology with value outside of the Pharm2Pharm model was a
+      strategic approach to investment. This work emphasizes the importance of shifting
+      the focus of technology from supporting a specific piece of the medication
+      management process to supporting the goal of optimizing medication regimens.
+      Health information exchange systems can provide important technology needed to
+      integrate pharmacists into care teams as they are deployed to improve patient
+      outcomes.
+CI  - Schattauer GmbH Stuttgart.
+FAU - Pellegrin, Karen
+AU  - Pellegrin K
+FAU - Chan, Francis
+AU  - Chan F
+FAU - Pagoria, Natalie
+AU  - Pagoria N
+FAU - Jolson-Oakes, Sheena
+AU  - Jolson-Oakes S
+FAU - Uyeno, Reece
+AU  - Uyeno R
+FAU - Levin, Andrew
+AU  - Levin A
+LA  - eng
+GR  - P20 GM103466/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20180103
+PL  - Germany
+TA  - Appl Clin Inform
+JT  - Applied clinical informatics
+JID - 101537732
+SB  - IM
+MH  - *Continuity of Patient Care
+MH  - Delivery of Health Care
+MH  - *Drug Therapy
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - *Medication Therapy Management
+MH  - *Pharmacists
+PMC - PMC5801897
+COIS- Conflict of Interest: None.
+EDAT- 2018/01/04 06:00
+MHDA- 2018/09/04 06:00
+CRDT- 2018/01/04 06:00
+PHST- 2018/01/04 06:00 [entrez]
+PHST- 2018/01/04 06:00 [pubmed]
+PHST- 2018/09/04 06:00 [medline]
+AID - 10.1055/s-0037-1620262 [doi]
+PST - ppublish
+SO  - Appl Clin Inform. 2018 Jan;9(1):1-10. doi: 10.1055/s-0037-1620262. Epub 2018 Jan 
+      3.
+
+PMID- 31348514
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210201
+LR  - 20210201
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 26
+IP  - 10
+DP  - 2019 Oct 1
+TI  - Health systems' use of enterprise health information exchange vs single
+      electronic health record vendor environments and unplanned readmissions.
+PG  - 989-998
+LID - 10.1093/jamia/ocz116 [doi]
+AB  - OBJECTIVE: Enterprise health information exchange (HIE) and a single electronic
+      health record (EHR) vendor solution are 2 information exchange approaches to
+      improve performance and increase the quality of care. This study sought to
+      determine the association between adoption of enterprise HIE vs a single vendor
+      environment and changes in unplanned readmissions. MATERIALS AND METHODS: The
+      association between unplanned 30-day readmissions among adult patients and
+      adoption of enterprise HIE or a single vendor environment was measured in a panel
+      of 211 system-member hospitals from 2010 through 2014 using fixed-effects
+      regression models. Sample hospitals were members of health systems in 7 states.
+      Enterprise HIE was defined as self-reported ability to exchange information with 
+      other members of the same health system who used different EHR vendors. A single 
+      EHR vendor environment reported exchanging information with other health system
+      members, but all using the same EHR vendor. RESULTS: Enterprise HIE adoption was 
+      more common among the study sample than EHR (75% vs 24%). However, adoption of a 
+      single EHR vendor environment was associated with a 0.8% reduction in the
+      probability of a readmission within 30 days of discharge. The estimated impact of
+      adopting an enterprise HIE strategy on readmissions was smaller and not
+      statically significant. CONCLUSION: Reductions in the probability of an unplanned
+      readmission after a hospital adopts a single vendor environment suggests that HIE
+      technologies can better support the aim of higher quality care. Additionally,
+      health systems may benefit more from a single vendor environment approach than
+      attempting to foster exchange across multiple EHR vendors.
+CI  - (c) The Author(s) 2019. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AD  - Indiana University Richard M. Fairbanks School of Public Health, Department of
+      Health Policy & Management, Indianapolis, Indiana, USA.
+AD  - Regenstrief Institute, Center for Biomedical Informatics, Indianapolis, Indiana, 
+      USA.
+FAU - Unruh, Mark Aaron
+AU  - Unruh MA
+AD  - Weill Cornell Medical College, Department of Healthcare Policy and Research, New 
+      York, New York, USA.
+FAU - Freedman, Seth
+AU  - Freedman S
+AD  - Indiana University O'Neill School of Public & Environmental Affairs, Bloomington,
+      Indiana, USA.
+FAU - Simon, Kosali
+AU  - Simon K
+AD  - Indiana University O'Neill School of Public & Environmental Affairs, Bloomington,
+      Indiana, USA.
+AD  - National Bureau of Economic Research.
+LA  - eng
+GR  - R21 HS024717/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Commerce
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - Female
+MH  - *Health Information Exchange
+MH  - *Hospital Administration
+MH  - Hospitals
+MH  - Humans
+MH  - Longitudinal Studies
+MH  - Male
+MH  - Middle Aged
+MH  - *Organizational Policy
+MH  - Patient Readmission/*statistics & numerical data
+MH  - United States
+PMC - PMC7792753
+OTO - NOTNLM
+OT  - *electronic health records
+OT  - *health information exchange
+OT  - *hospitals
+OT  - *patient readmission policy
+EDAT- 2019/07/28 06:00
+MHDA- 2021/02/02 06:00
+CRDT- 2019/07/27 06:00
+PHST- 2019/02/13 00:00 [received]
+PHST- 2019/05/28 00:00 [revised]
+PHST- 2019/06/11 00:00 [accepted]
+PHST- 2019/07/28 06:00 [pubmed]
+PHST- 2021/02/02 06:00 [medline]
+PHST- 2019/07/27 06:00 [entrez]
+AID - 5539497 [pii]
+AID - 10.1093/jamia/ocz116 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2019 Oct 1;26(10):989-998. doi: 10.1093/jamia/ocz116.
+
+PMID- 34174764
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210816
+LR  - 20210816
+IS  - 1872-7565 (Electronic)
+IS  - 0169-2607 (Linking)
+VI  - 208
+DP  - 2021 Sep
+TI  - Development of an application concerning fast healthcare interoperability
+      resources based on standardized structured medical information exchange version 2
+      data.
+PG  - 106232
+LID - S0169-2607(21)00306-0 [pii]
+LID - 10.1016/j.cmpb.2021.106232 [doi]
+AB  - BACKGROUND AND OBJECTIVE: A mobile application for personal health records (PHR) 
+      would allow patients to access their clinical data easily. When PHR connects with
+      multiple electronic health records (EHRs), doctors and patients can exchange
+      large quantities of patient data from the EHR (e.g., medication list, diagnoses, 
+      allergies, and laboratory data). Furthermore, personal daily records can also be 
+      retrieved from PHR (e.g., blood pressure, pulse, dietary habits, and exercise).
+      However, no standard interoperability between EHRs and PHR has been established. 
+      This study aims to convert clinical data in EHRs into the Health Level Seven
+      (HL7) Fast Healthcare Interoperability Resources (FHIR) data format while
+      developing a PHR application to present the FHIR data. METHODS: In Japan,
+      Standardized Structured Medical Information eXchange version 2 (SS-MIX2) is
+      typically utilized as a health information exchange to preserve and elicit
+      clinical data from EHRs. We converted clinical data in the SS-MIX2 storage at
+      Tohoku University Hospital into the FHIR repository server using the R4 standard.
+      Additionally, we used the Swift programming language to build a PHR application. 
+      RESULTS: We converted patients' basic information, disease names, diagnostic
+      reports, prescriptions, and injection data from the SS-MIX2 to the FHIR server.
+      Besides, we launched a PHR application that could retrieve data from the FHIR
+      server to display patients' clinical information. CONCLUSIONS: Our work
+      demonstrated the conversion of SS-MIX2 data into the FHIR and presented them with
+      our PHR application. This mechanism may be useful to accelerate the sharing of
+      clinical information among doctors and patients.
+CI  - Copyright (c) 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Xiao, Dingding
+AU  - Xiao D
+AD  - Department of Medical Informatics, Tohoku University Graduate School of Medicine,
+      2-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi 980-8574, Japan.
+FAU - Song, Chong
+AU  - Song C
+AD  - Department of Medical Informatics, Tohoku University Graduate School of Medicine,
+      2-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi 980-8574, Japan; Medical Information
+      Technology Center, Tohoku University Hospital, 1-1 Seiryo-machi, Aoba-ku, Sendai,
+      Miyagi 980-8574, Japan.
+FAU - Nakamura, Naoki
+AU  - Nakamura N
+AD  - Medical Information Technology Center, Tohoku University Hospital, 1-1
+      Seiryo-machi, Aoba-ku, Sendai, Miyagi 980-8574, Japan.
+FAU - Nakayama, Masaharu
+AU  - Nakayama M
+AD  - Department of Medical Informatics, Tohoku University Graduate School of Medicine,
+      2-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi 980-8574, Japan; Medical Information
+      Technology Center, Tohoku University Hospital, 1-1 Seiryo-machi, Aoba-ku, Sendai,
+      Miyagi 980-8574, Japan. Electronic address: m.nakayama@tohoku.ac.jp.
+LA  - eng
+PT  - Journal Article
+DEP - 20210608
+PL  - Ireland
+TA  - Comput Methods Programs Biomed
+JT  - Computer methods and programs in biomedicine
+JID - 8506513
+SB  - IM
+MH  - Delivery of Health Care
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Health Level Seven
+MH  - *Health Records, Personal
+MH  - Humans
+OTO - NOTNLM
+OT  - Electronic health record
+OT  - Fast health interoperability resource
+OT  - Health information exchange
+OT  - Interoperability
+OT  - Personal health record
+COIS- Declaration of Competing Interest The authors declare no conflicts of interest.
+EDAT- 2021/06/27 06:00
+MHDA- 2021/08/17 06:00
+CRDT- 2021/06/26 20:28
+PHST- 2021/02/11 00:00 [received]
+PHST- 2021/06/02 00:00 [accepted]
+PHST- 2021/06/27 06:00 [pubmed]
+PHST- 2021/08/17 06:00 [medline]
+PHST- 2021/06/26 20:28 [entrez]
+AID - S0169-2607(21)00306-0 [pii]
+AID - 10.1016/j.cmpb.2021.106232 [doi]
+PST - ppublish
+SO  - Comput Methods Programs Biomed. 2021 Sep;208:106232. doi:
+      10.1016/j.cmpb.2021.106232. Epub 2021 Jun 8.
+
+PMID- 34524029
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211001
+LR  - 20211001
+IS  - 1741-2811 (Electronic)
+IS  - 1460-4582 (Linking)
+VI  - 27
+IP  - 3
+DP  - 2021 Jul-Sep
+TI  - An HL7 FHIR and GraphQL approach for interoperability between heterogeneous
+      Electronic Health Record systems.
+PG  - 14604582211043920
+LID - 10.1177/14604582211043920 [doi]
+AB  - Heterogeneities in data representation and care processes create interoperability
+      complexity among Electronic Health Record systems (EHRs). We can resolve such
+      data and process level heterogeneities by following consistent healthcare
+      standards like Clinical Document Architecture (CDA), OpenEHR, and HL7 FHIR.
+      However, these standards also differ at the structural and implementation level, 
+      making interoperability more complex. Hence, there is a need to investigate
+      mechanisms that can resolve data level heterogeneity to achieve semantic data
+      interoperability between heterogeneous systems. As a solution to this, we offer
+      an architecture that utilizes a resource server based on GraphQL and HL7 FHIR
+      that establishes communication between two heterogeneous EHRs. This paper
+      describes how the proposed architecture is implemented to achieve
+      interoperability between two heterogeneous EHRs, HL7 FHIR and OpenMRS. The
+      presented approach establishes secure communication between the EHRs and provides
+      accurate mappings that enable timely health information exchange between EHRs.
+FAU - Mukhiya, Suresh Kumar
+AU  - Mukhiya SK
+AUID- ORCID: 0000-0002-1813-7633
+AD  - Western Norway University of Applied Sciences, Norway.
+FAU - Lamo, Yngve
+AU  - Lamo Y
+AD  - Western Norway University of Applied Sciences, Norway.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Health Informatics J
+JT  - Health informatics journal
+JID - 100883604
+SB  - IM
+MH  - Computer Systems
+MH  - Delivery of Health Care
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - *Health Level Seven
+MH  - Humans
+OTO - NOTNLM
+OT  - *HL7 FHIR
+OT  - *OpenMRS
+OT  - *authorization server
+OT  - *health information exchange
+OT  - *interoperability
+OT  - *resource server
+EDAT- 2021/09/16 06:00
+MHDA- 2021/10/02 06:00
+CRDT- 2021/09/15 12:22
+PHST- 2021/09/15 12:22 [entrez]
+PHST- 2021/09/16 06:00 [pubmed]
+PHST- 2021/10/02 06:00 [medline]
+AID - 10.1177/14604582211043920 [doi]
+PST - ppublish
+SO  - Health Informatics J. 2021 Jul-Sep;27(3):14604582211043920. doi:
+      10.1177/14604582211043920.
+
+PMID- 31884311
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200515
+LR  - 20200515
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 135
+DP  - 2020 Mar
+TI  - The effects of data entry structure on patients' perceptions of information
+      quality in Health Information Exchange (HIE).
+PG  - 104058
+LID - S1386-5056(19)31170-0 [pii]
+LID - 10.1016/j.ijmedinf.2019.104058 [doi]
+AB  - BACKGROUND AND OBJECTIVE: To exchange patient health information using Health
+      Information Exchange (HIE) projects, such information first should be collected
+      thoroughly using an appropriate data entry interface that reinforces information 
+      quality (IQ). Assessment of the given data interface based on its structure level
+      may give us a better understanding of patients' attitudes toward
+      information-sharing efforts. The main objective of this study is to examine the
+      effects of data structure on perceptions and attitudes of patients toward the
+      quality of health information that may be shared through HIE networks. MATERIALS 
+      AND METHODS: Eight experiments were conducted to examine the impact of different 
+      design of information collection interfaces (structured vs. unstructured) to
+      record two types of health information (sensitive vs. non-sensitive) that can be 
+      used for two types of sharing purposes (health care vs. marketing). RESULTS:
+      Results show that the degree of data entry structure can significantly influence 
+      patients' perceptions of completeness, accuracy, psychological risk,
+      accessibility of data, concise representation, and understandability of health
+      information. DISCUSSION: There is a connection between data entry interface
+      design and patients' perceptions of the quality of health information used in HIE
+      networks, which in turn, could lead to the development of best practices in
+      interface design and data collection techniques. This may also improve
+      interactions between patients and healthcare entities, enhance patients'
+      attitudes toward data collection procedures and HIE, and help healthcare
+      providers use complete and accurate databases. CONCLUSIONS: We propose that
+      healthcare professionals can tailor data entry interfaces based on the
+      sensitivity of medical data and the purpose of information exchange.
+CI  - Copyright (c) 2019 Elsevier B.V. All rights reserved.
+FAU - Esmaeilzadeh, Pouyan
+AU  - Esmaeilzadeh P
+AD  - Department of Information Systems and Business Analytics, College of Business,
+      Florida International University (FIU), Modesto A. Maidique Campus, 11200 S.W.
+      8th St, RB 261B, Miami, FL 33199, United States. Electronic address:
+      pesmaeil@fiu.edu.
+FAU - Mirzaei, Tala
+AU  - Mirzaei T
+AD  - Department of Information Systems and Business Analytics, College of Business,
+      Florida International University (FIU), Miami, United States. Electronic address:
+      tmirzaei@fiu.edu.
+FAU - Maddah, Mahed
+AU  - Maddah M
+AD  - Sawyer Business School, Department of Information Systems and Operations
+      Management, Suffolk University, United States. Electronic address:
+      mmaddah@suffolk.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20191221
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Delivery of Health Care
+MH  - Electronic Health Records/statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Marketing of Health Services
+MH  - Middle Aged
+MH  - Patients
+MH  - Young Adult
+OTO - NOTNLM
+OT  - *Data collection
+OT  - *Data interfaces
+OT  - *EHR
+OT  - *HIE
+OT  - *Information quality
+OT  - *Structure degree
+EDAT- 2019/12/31 06:00
+MHDA- 2020/05/16 06:00
+CRDT- 2019/12/30 06:00
+PHST- 2019/10/15 00:00 [received]
+PHST- 2019/12/11 00:00 [revised]
+PHST- 2019/12/19 00:00 [accepted]
+PHST- 2019/12/31 06:00 [pubmed]
+PHST- 2020/05/16 06:00 [medline]
+PHST- 2019/12/30 06:00 [entrez]
+AID - S1386-5056(19)31170-0 [pii]
+AID - 10.1016/j.ijmedinf.2019.104058 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2020 Mar;135:104058. doi: 10.1016/j.ijmedinf.2019.104058. Epub 
+      2019 Dec 21.
+
+PMID- 33185553
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210301
+LR  - 20210301
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 22
+IP  - 11
+DP  - 2020 Nov 13
+TI  - Perspectives of Patients, Health Care Professionals, and Developers Toward
+      Blockchain-Based Health Information Exchange: Qualitative Study.
+PG  - e18582
+LID - 10.2196/18582 [doi]
+AB  - BACKGROUND: Although the electronic health record system adoption rate has
+      reached 96% in the United States, implementation and usage of health information 
+      exchange (HIE) is still lagging behind. Blockchain has come into the spotlight as
+      a technology to solve this problem. However, there have been no studies assessing
+      the perspectives of different stakeholders regarding blockchain-based
+      patient-centered HIE. OBJECTIVE: The objective of this study was to analyze the
+      awareness among patients, health care professionals, and information technology
+      developers toward blockchain-based HIE, and compare their different perspectives 
+      related to the platform using a qualitative research methodology. METHODS: In
+      this qualitative study, we applied grounded theory and the Promoting Action on
+      Research Implementation in the Health Service (PARiHS) framework. We interviewed 
+      7 patients, 7 physicians, and 7 developers, for a total of 21 interviewees.
+      RESULTS: Regarding the leakage of health information, the patient group did not
+      have concerns in contrast to the physician and developer groups. Physicians were 
+      particularly concerned about the fact that errors in the data cannot be easily
+      fixed due to the nature of blockchain technology. Patients were not against the
+      idea of providing information for clinical trials or research institutions. They 
+      wished to be provided with the results of clinical research rather than being
+      compensated for providing data. The developers emphasized that blockchain must be
+      technically mature before it can be applied to the health care scene, and
+      standards of medical information to be exchanged must first be established.
+      CONCLUSIONS: The three groups' perceptions of blockchain were generally positive 
+      about the idea of patients having the control of sharing their own health
+      information. However, they were skeptical about the cooperation among various
+      institutions and implementation for data standardization in the establishment
+      process, in addition to how the service will be employed in practice. Taking
+      these factors into consideration during planning, development, and operation of a
+      platform will contribute to establishing practical treatment plans and tracking
+      in a more convenient manner for both patients and physicians. Furthermore, it
+      will help expand the related research and health management industry based on
+      blockchain.
+CI  - (c)Keehyuck Lee, Kahyun Lim, Se Young Jung, Hyerim Ji, Kyungpyo Hong, Hee Hwang, 
+      Ho-Young Lee. Originally published in the Journal of Medical Internet Research
+      (http://www.jmir.org), 13.11.2020.
+FAU - Lee, Keehyuck
+AU  - Lee K
+AUID- ORCID: 0000-0001-6906-4887
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+AD  - Department of Family Medicine, Seoul National University Bundang Hospital,
+      Seongnam-si, Republic of Korea.
+FAU - Lim, Kahyun
+AU  - Lim K
+AUID- ORCID: 0000-0001-8083-6112
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+FAU - Jung, Se Young
+AU  - Jung SY
+AUID- ORCID: 0000-0001-9946-8807
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+AD  - Department of Family Medicine, Seoul National University Bundang Hospital,
+      Seongnam-si, Republic of Korea.
+FAU - Ji, Hyerim
+AU  - Ji H
+AUID- ORCID: 0000-0003-3878-0244
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+FAU - Hong, Kyungpyo
+AU  - Hong K
+AUID- ORCID: 0000-0002-8013-4409
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+FAU - Hwang, Hee
+AU  - Hwang H
+AUID- ORCID: 0000-0002-7964-1630
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+AD  - Department of Family Medicine, Seoul National University Bundang Hospital,
+      Seongnam-si, Republic of Korea.
+FAU - Lee, Ho-Young
+AU  - Lee HY
+AUID- ORCID: 0000-0001-6518-0602
+AD  - Office of eHealth Research and Business, Seoul National University Bundang
+      Hospital, Seongnam-si, Republic of Korea.
+AD  - Department of Nuclear Medicine, Seoul National University Bundang Hospital,
+      Seongnam-si, Republic of Korea.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20201113
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Blockchain/*standards
+MH  - Delivery of Health Care
+MH  - Health Information Exchange/*standards
+MH  - Health Personnel
+MH  - Humans
+MH  - Middle Aged
+MH  - Patients/*statistics & numerical data
+MH  - Qualitative Research
+MH  - Research Design/*trends
+MH  - Young Adult
+PMC - PMC7695529
+OTO - NOTNLM
+OT  - *blockchain
+OT  - *health information exchange
+OT  - *qualitative study
+EDAT- 2020/11/14 06:00
+MHDA- 2021/03/02 06:00
+CRDT- 2020/11/13 12:09
+PHST- 2020/03/05 00:00 [received]
+PHST- 2020/10/26 00:00 [accepted]
+PHST- 2020/09/14 00:00 [revised]
+PHST- 2020/11/13 12:09 [entrez]
+PHST- 2020/11/14 06:00 [pubmed]
+PHST- 2021/03/02 06:00 [medline]
+AID - v22i11e18582 [pii]
+AID - 10.2196/18582 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2020 Nov 13;22(11):e18582. doi: 10.2196/18582.
+
+PMID- 32716300
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201216
+LR  - 20201216
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 22
+IP  - 7
+DP  - 2020 Jul 27
+TI  - Generalizable Layered Blockchain Architecture for Health Care Applications:
+      Development, Case Studies, and Evaluation.
+PG  - e19029
+LID - 10.2196/19029 [doi]
+AB  - BACKGROUND: Data coordination across multiple health care facilities has become
+      increasingly important for many emerging health care applications. Distrust has
+      been recognized as a key barrier to the success of such applications. Leveraging 
+      blockchain technology could provide potential solutions tobuild trust between
+      data providers and receivers by taking advantage of blockchain properties such as
+      security, immutability, anonymity, decentralization, and smart contracts. Many
+      health technologies have empirically proven that blockchain designs fit well with
+      the needs of health care applications with certain degrees of success. However,
+      there is a lack of robust architecture to provide a practical framework for
+      developers to implement applications and test the performance of stability,
+      efficiency, and scalability using standard blockchain designs. A generalized
+      blockchain model is needed for the health care community to adopt blockchain
+      technology and develop applications in a timely fashion. OBJECTIVE: This study
+      aimed at building a generalized blockchain architecture that provides data
+      coordination functions, including data requests, permission granting, data
+      exchange, and usage tracking, for a wide spectrum of health care application
+      developments. METHODS: An augmented, 3-layered blockchain architecture was built 
+      on a private blockchain network. The 3 layers, from bottom to top, are as
+      follows: (1) incorporation of fundamental blockchain settings and smart contract 
+      design for data collection; (2) interactions between the blockchain and health
+      care application development environment using Node.js and web3.js; and (3) a
+      flexible development platform that supports web technologies such as HTML, https,
+      and various programing languages. Two example applications, health information
+      exchange (HIE) and clinical trial recruitment, were developed in our design to
+      demonstrate the feasibility of the layered architecture. Case studies were
+      conducted to test the performance in terms of stability, efficiency, and
+      scalability of the blockchain system. RESULTS: A total of 331,142 simulated HIE
+      requests from accounts of 40,000 patients were successfully validated through
+      this layered blockchain architecture with an average exchange time of 11.271 (SD 
+      2.208) seconds. We also simulated a clinical trial recruitment scenario with the 
+      same set of patients and various recruitment criteria to match potential subjects
+      using the same architecture. Potential subjects successfully received the
+      clinical trial recruitment information and granted permission to the trial
+      sponsors to access their health records with an average time of 3.07 seconds.
+      CONCLUSIONS: This study proposes a generalized layered blockchain architecture
+      that offers health technology community blockchain features for application
+      development without requiring developers to have extensive experience with
+      blockchain technology. The case studies tested the performance of our design and 
+      empirically proved the feasibility of the architecture in 2 relevant health
+      application domains.
+CI  - (c)Yan Zhuang, Yin-Wu Chen, Zon-Yin Shae, Chi-Ren Shyu. Originally published in
+      the Journal of Medical Internet Research (http://www.jmir.org), 27.07.2020.
+FAU - Zhuang, Yan
+AU  - Zhuang Y
+AUID- ORCID: 0000-0003-1245-7203
+AD  - Institute for Data Science and Informatics, University of Missouri - Columbia,
+      Columbia, MO, United States.
+FAU - Chen, Yin-Wu
+AU  - Chen YW
+AUID- ORCID: 0000-0002-6970-6867
+AD  - Artifical Intelligence Research Lab, Asia University, Taichung, Taiwan.
+FAU - Shae, Zon-Yin
+AU  - Shae ZY
+AUID- ORCID: 0000-0003-1709-5416
+AD  - Artifical Intelligence Research Lab, Asia University, Taichung, Taiwan.
+FAU - Shyu, Chi-Ren
+AU  - Shyu CR
+AUID- ORCID: 0000-0001-9197-9522
+AD  - Institute for Data Science and Informatics, University of Missouri - Columbia,
+      Columbia, MO, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200727
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Blockchain/*standards
+MH  - Delivery of Health Care/*standards
+MH  - Health Information Exchange/*standards
+MH  - Humans
+MH  - Research Design/*standards
+PMC - PMC7418010
+OTO - NOTNLM
+OT  - *blockchain
+OT  - *electronic health records
+OT  - *health care application
+OT  - *health information exchange
+OT  - *smart contract
+EDAT- 2020/07/28 06:00
+MHDA- 2020/12/17 06:00
+CRDT- 2020/07/28 06:00
+PHST- 2020/03/31 00:00 [received]
+PHST- 2020/05/08 00:00 [accepted]
+PHST- 2020/05/03 00:00 [revised]
+PHST- 2020/07/28 06:00 [entrez]
+PHST- 2020/07/28 06:00 [pubmed]
+PHST- 2020/12/17 06:00 [medline]
+AID - v22i7e19029 [pii]
+AID - 10.2196/19029 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2020 Jul 27;22(7):e19029. doi: 10.2196/19029.
+
+PMID- 33227747
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201125
+LR  - 20201125
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 275
+DP  - 2020 Nov 23
+TI  - A Secure Protocol for Managing and Sharing Personal Healthcare Data.
+PG  - 92-96
+LID - 10.3233/SHTI200701 [doi]
+AB  - Current technologies provide the ability to healthcare practitioners and
+      citizens, to share and analyse healthcare information, thus improving the patient
+      care quality. Nevertheless, European Union (EU) citizens have very limited
+      control over their own health data, despite that several countries are using
+      national or regional Electronic Health Records (EHRs) for realizing virtual or
+      centralized national repositories of citizens' health records. Health Information
+      Exchange (HIE) can greatly improve the completeness of patients' records.
+      However, most of the current researches deal with exchanging health information
+      among healthcare organizations, without giving the ability to the citizens on
+      accessing, managing or exchanging healthcare data with healthcare organizations
+      and thus being able to handle their own data, mainly due to lack of
+      standardization and security protocols. Towards this challenge, in this paper a
+      secure Device-to-Device (D2D) protocol is specified that can be used by software 
+      applications, aiming on facilitating the exchange of health data among citizens
+      and healthcare professionals, on top of Bluetooth technologies.
+FAU - Kiourtis, Athanasios
+AU  - Kiourtis A
+AD  - Department of Digital Systems, University of Piraeus, Piraeus, Greece.
+FAU - Mavrogiorgou, Argyro
+AU  - Mavrogiorgou A
+AD  - Department of Digital Systems, University of Piraeus, Piraeus, Greece.
+FAU - Menesidou, Sofia-Anna
+AU  - Menesidou SA
+AD  - Ubitech Ltd, Athens, Greece.
+FAU - Gouvas, Panagiotis
+AU  - Gouvas P
+AD  - Ubitech Ltd, Athens, Greece.
+FAU - Kyriazis, Dimosthenis
+AU  - Kyriazis D
+AD  - Department of Digital Systems, University of Piraeus, Piraeus, Greece.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Delivery of Health Care
+MH  - Electronic Health Records
+MH  - European Union
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Software
+OTO - NOTNLM
+OT  - Device-to-Device protocol
+OT  - HL7 FHIR
+OT  - Health Information Exchange
+EDAT- 2020/11/24 06:00
+MHDA- 2020/11/26 06:00
+CRDT- 2020/11/23 20:16
+PHST- 2020/11/23 20:16 [entrez]
+PHST- 2020/11/24 06:00 [pubmed]
+PHST- 2020/11/26 06:00 [medline]
+AID - SHTI200701 [pii]
+AID - 10.3233/SHTI200701 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2020 Nov 23;275:92-96. doi: 10.3233/SHTI200701.
+
+PMID- 30144251
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190426
+LR  - 20190426
+IS  - 1365-2753 (Electronic)
+IS  - 1356-1294 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2019 Feb
+TI  - Implementing Prudent Healthcare in the NHS in Wales; what are the barriers and
+      enablers for clinicians?
+PG  - 104-110
+LID - 10.1111/jep.13023 [doi]
+AB  - RATIONALE: Prudent Healthcare is a strategy adopted by the Welsh Government in
+      response to the challenge of improving health care during times of austerity and 
+      when needs and demand are rising. Four principles underlie Prudent Healthcare: to
+      achieve health and wellbeing through co production; care for those with the
+      greatest health needs first; do only what is needed; and reduce inappropriate
+      variation. For Prudent Healthcare to be implemented in Wales, it is necessary for
+      health professionals to adopt these principles in practice. OBJECTIVE: This paper
+      reports a qualitative evaluation of clinicians' awareness, experiences, and views
+      about Prudent Healthcare, identifying barriers and enablers to implementation
+      from the clinician's perspective. METHODS: Semi-structured interviews (n = 28)
+      and five focus groups (with 23 participants) were undertaken with a diverse range
+      of health professionals working in primary and secondary care. Analysis was
+      underpinned by the COM-B model which provides a framework to understand behaviour
+      change in context using three domains, Capability, Opportunity, and Motivation.
+      RESULTS: Clinicians reported the importance and challenges of accessing and
+      sharing information and evidence to inform practice (Capability). Reduced
+      staffing levels and service availability were highlighted as possible barriers to
+      Prudent Healthcare implementation while multidisciplinary working and
+      reorganization of staff roles and services were considered enablers
+      (Opportunity). Finally, although the principles of Prudent Healthcare were
+      broadly welcomed (Motivation), a lack of awareness of the initiative and the
+      management of patient expectations presented barriers. CONCLUSION: While there
+      was a positive response and widespread support for the principles of Prudent
+      Healthcare by clinicians, increasing awareness of the initiative and improvement 
+      to systems to enable information sharing and the monitoring of patient outcomes
+      could improve the consistency of implementation.
+CI  - (c) 2018 John Wiley & Sons, Ltd.
+FAU - Addis, Samia
+AU  - Addis S
+AUID- ORCID: http://orcid.org/0000-0001-9050-5317
+AD  - Division of Population Medicine, School of Medicine, Cardiff University, Neuadd
+      Meirionnydd, Heath Park, Cardiff, CF14 4YS, UK.
+FAU - Holland-Hart, Daniella
+AU  - Holland-Hart D
+AD  - Division of Population Medicine, School of Medicine, Cardiff University, Neuadd
+      Meirionnydd, Heath Park, Cardiff, CF14 4YS, UK.
+FAU - Edwards, Adrian
+AU  - Edwards A
+AD  - Division of Population Medicine, School of Medicine, Cardiff University, Neuadd
+      Meirionnydd, Heath Park, Cardiff, CF14 4YS, UK.
+FAU - Neal, Richard D
+AU  - Neal RD
+AD  - Academic Unit of Primary Care, Leeds Institute of Health Sciences, University of 
+      Leeds, Leeds, LS2 9NL, UK.
+FAU - Wood, Fiona
+AU  - Wood F
+AD  - Division of Population Medicine, School of Medicine, Cardiff University, Neuadd
+      Meirionnydd, Heath Park, Cardiff, CF14 4YS, UK.
+LA  - eng
+GR  - Health and Care Research Wales
+PT  - Journal Article
+DEP - 20180824
+PL  - England
+TA  - J Eval Clin Pract
+JT  - Journal of evaluation in clinical practice
+JID - 9609066
+SB  - IM
+MH  - Attitude of Health Personnel
+MH  - *Communication Barriers
+MH  - *Delivery of Health Care/methods/standards
+MH  - *Health Information Exchange
+MH  - Health Services Needs and Demand
+MH  - Humans
+MH  - *Practice Patterns, Physicians'
+MH  - Professional Practice
+MH  - Qualitative Research
+MH  - Quality Improvement/*organization & administration
+MH  - State Medicine
+MH  - Wales
+EDAT- 2018/08/26 06:00
+MHDA- 2019/04/27 06:00
+CRDT- 2018/08/26 06:00
+PHST- 2018/04/13 00:00 [received]
+PHST- 2018/07/20 00:00 [revised]
+PHST- 2018/07/23 00:00 [accepted]
+PHST- 2018/08/26 06:00 [pubmed]
+PHST- 2019/04/27 06:00 [medline]
+PHST- 2018/08/26 06:00 [entrez]
+AID - 10.1111/jep.13023 [doi]
+PST - ppublish
+SO  - J Eval Clin Pract. 2019 Feb;25(1):104-110. doi: 10.1111/jep.13023. Epub 2018 Aug 
+      24.
+
+PMID- 31333196
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200429
+LR  - 20200429
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 21
+IP  - 7
+DP  - 2019 Jul 22
+TI  - Identification of Patients in Need of Advanced Care for Depression Using Data
+      Extracted From a Statewide Health Information Exchange: A Machine Learning
+      Approach.
+PG  - e13809
+LID - 10.2196/13809 [doi]
+AB  - BACKGROUND: As the most commonly occurring form of mental illness worldwide,
+      depression poses significant health and economic burdens to both the individual
+      and community. Different types of depression pose different levels of risk.
+      Individuals who suffer from mild forms of depression may recover without any
+      assistance or be effectively managed by primary care or family practitioners.
+      However, other forms of depression are far more severe and require advanced care 
+      by certified mental health providers. However, identifying cases of depression
+      that require advanced care may be challenging to primary care providers and
+      health care team members whose skill sets run broad rather than deep. OBJECTIVE: 
+      This study aimed to leverage a comprehensive range of patient-level diagnostic,
+      behavioral, and demographic data, as well as past visit history data from a
+      statewide health information exchange to build decision models capable of
+      predicting the need of advanced care for depression across patients presenting at
+      Eskenazi Health, the public safety net health system for Marion County,
+      Indianapolis, Indiana. METHODS: Patient-level diagnostic, behavioral,
+      demographic, and past visit history data extracted from structured datasets were 
+      merged with outcome variables extracted from unstructured free-text datasets and 
+      were used to train random forest decision models that predicted the need of
+      advanced care for depression across (1) the overall patient population and (2)
+      various subsets of patients at higher risk for depression-related adverse events;
+      patients with a past diagnosis of depression; patients with a Charlson
+      comorbidity index of >/=1; patients with a Charlson comorbidity index of >/=2;
+      and all unique patients identified across the 3 above-mentioned high-risk groups.
+      RESULTS: The overall patient population consisted of 84,317 adult (aged >/=18
+      years) patients. A total of 6992 (8.29%) of these patients were in need of
+      advanced care for depression. Decision models for high-risk patient groups
+      yielded area under the curve (AUC) scores between 86.31% and 94.43%. The decision
+      model for the overall patient population yielded a comparatively lower AUC score 
+      of 78.87%. The variance of optimal sensitivity and specificity for all decision
+      models, as identified using Youden J Index, is as follows: sensitivity=68.79% to 
+      83.91% and specificity=76.03% to 92.18%. CONCLUSIONS: This study demonstrates the
+      ability to automate screening for patients in need of advanced care for
+      depression across (1) an overall patient population or (2) various high-risk
+      patient groups using structured datasets covering acute and chronic conditions,
+      patient demographics, behaviors, and past visit history. Furthermore, these
+      results show considerable potential to enable preventative care and can be easily
+      integrated into existing clinical workflows to improve access to wraparound
+      health care services.
+CI  - (c)Suranga N Kasthurirathne, Paul G Biondich, Shaun J Grannis, Saptarshi
+      Purkayastha, Joshua R Vest, Josette F Jones. Originally published in the Journal 
+      of Medical Internet Research (http://www.jmir.org), 22.07.2019.
+FAU - Kasthurirathne, Suranga N
+AU  - Kasthurirathne SN
+AUID- ORCID: 0000-0002-6630-4598
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN,
+      United States.
+AD  - Indiana University Fairbanks School of Public Health, Indianapolis, IN, United
+      States.
+FAU - Biondich, Paul G
+AU  - Biondich PG
+AUID- ORCID: 0000-0001-7637-1420
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN,
+      United States.
+AD  - Indiana University School of Medicine, Indianapolis, IN, United States.
+FAU - Grannis, Shaun J
+AU  - Grannis SJ
+AUID- ORCID: 0000-0002-8093-6639
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN,
+      United States.
+AD  - Indiana University School of Medicine, Indianapolis, IN, United States.
+FAU - Purkayastha, Saptarshi
+AU  - Purkayastha S
+AUID- ORCID: 0000-0003-3625-534X
+AD  - Indiana University School of Informatics and Computing, Indianapolis, IN, United 
+      States.
+FAU - Vest, Joshua R
+AU  - Vest JR
+AUID- ORCID: 0000-0002-7226-9688
+AD  - Center for Biomedical Informatics, Regenstrief Institute, Indianapolis, IN,
+      United States.
+AD  - Indiana University Fairbanks School of Public Health, Indianapolis, IN, United
+      States.
+FAU - Jones, Josette F
+AU  - Jones JF
+AUID- ORCID: 0000-0002-4996-8595
+AD  - Indiana University School of Informatics and Computing, Indianapolis, IN, United 
+      States.
+LA  - eng
+PT  - Journal Article
+DEP - 20190722
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Delivery of Health Care/*methods
+MH  - Depression/*therapy
+MH  - Female
+MH  - Health Information Exchange/*standards
+MH  - Humans
+MH  - Machine Learning/*standards
+MH  - Male
+MH  - Middle Aged
+PMC - PMC6681643
+OTO - NOTNLM
+OT  - *delivery of health care
+OT  - *depression
+OT  - *supervised machine learning
+EDAT- 2019/07/25 06:00
+MHDA- 2020/04/30 06:00
+CRDT- 2019/07/24 06:00
+PHST- 2019/02/25 00:00 [received]
+PHST- 2019/06/12 00:00 [accepted]
+PHST- 2019/06/01 00:00 [revised]
+PHST- 2019/07/24 06:00 [entrez]
+PHST- 2019/07/25 06:00 [pubmed]
+PHST- 2020/04/30 06:00 [medline]
+AID - v21i7e13809 [pii]
+AID - 10.2196/13809 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2019 Jul 22;21(7):e13809. doi: 10.2196/13809.
+
+PMID- 31216934
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210602
+LR  - 20210602
+IS  - 1552-6801 (Electronic)
+IS  - 1077-5587 (Linking)
+VI  - 77
+IP  - 4
+DP  - 2020 Aug
+TI  - An International Perspective on Health Information Exchange: Adoption in OECD
+      Countries With Different Health Care System Configurations.
+PG  - 299-311
+LID - 10.1177/1077558719858245 [doi]
+AB  - The sharing of information among various care providers is becoming an essential 
+      feature of health care systems, and many countries are now adopting policies to
+      foster health information exchange, defined as the electronic transfer of data or
+      information among health care organizations involved in the delivery of care.
+      Given the increasing adoption of this type of policy in several Organization for 
+      Economic Cooperation and Development countries, it is important to compare
+      experiences from different countries, because policy adoption in one country can 
+      be explained more comprehensively and coherently through comparison with similar 
+      policies adopted in other nations. To make a more meaningful cross-country
+      comparison, this article identifies a taxonomy of health systems, and it analyzes
+      institutional and resource-based factors related to health information exchange
+      adoption and how they differ in three main types of health systems: the National 
+      Health Service, social health insurance, and private health insurance.
+FAU - Guerrazzi, Claudia
+AU  - Guerrazzi C
+AUID- ORCID: 0000-0002-8020-1202
+AD  - Widener University, Chester, PA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20190619
+PL  - United States
+TA  - Med Care Res Rev
+JT  - Medical care research and review : MCRR
+JID - 9506850
+SB  - IM
+MH  - Delivery of Health Care/*organization & administration
+MH  - Electronic Health Records
+MH  - Health Information Exchange/*trends
+MH  - Health Policy
+MH  - Humans
+MH  - Insurance, Health
+MH  - *Internationality
+MH  - *Organisation for Economic Co-Operation and Development
+MH  - State Medicine
+OTO - NOTNLM
+OT  - *cross-country comparison
+OT  - *health information exchange
+OT  - *institutional theory
+OT  - *international health system comparison
+OT  - *resource-based view
+EDAT- 2019/06/21 06:00
+MHDA- 2021/06/03 06:00
+CRDT- 2019/06/21 06:00
+PHST- 2019/06/21 06:00 [pubmed]
+PHST- 2021/06/03 06:00 [medline]
+PHST- 2019/06/21 06:00 [entrez]
+AID - 10.1177/1077558719858245 [doi]
+PST - ppublish
+SO  - Med Care Res Rev. 2020 Aug;77(4):299-311. doi: 10.1177/1077558719858245. Epub
+      2019 Jun 19.
+
+PMID- 33682004
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211124
+LR  - 20211124
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 28
+IP  - 7
+DP  - 2021 Jul 14
+TI  - Human-centered development of an electronic health record-embedded, interactive
+      information visualization in the emergency department using fast healthcare
+      interoperability resources.
+PG  - 1401-1410
+LID - 10.1093/jamia/ocab016 [doi]
+AB  - OBJECTIVE: Develop and evaluate an interactive information visualization embedded
+      within the electronic health record (EHR) by following human-centered design
+      (HCD) processes and leveraging modern health information exchange standards.
+      MATERIALS AND METHODS: We applied an HCD process to develop a Fast Healthcare
+      Interoperability Resources (FHIR) application that displays a patient's asthma
+      history to clinicians in a pediatric emergency department. We performed a
+      preimplementation comparative system evaluation to measure time on task, number
+      of screens, information retrieval accuracy, cognitive load, user satisfaction,
+      and perceived utility and usefulness. Application usage and system functionality 
+      were assessed using application logs and a postimplementation survey of end
+      users. RESULTS: Usability testing of the Asthma Timeline Application demonstrated
+      a statistically significant reduction in time on task (P < .001), number of
+      screens (P < .001), and cognitive load (P < .001) for clinicians when compared to
+      base EHR functionality. Postimplementation evaluation demonstrated reliable
+      functionality and high user satisfaction. DISCUSSION: Following HCD processes to 
+      develop an application in the context of clinical operations/quality improvement 
+      is feasible. Our work also highlights the potential benefits and challenges
+      associated with using internationally recognized data exchange standards as
+      currently implemented. CONCLUSION: Compared to standard EHR functionality, our
+      visualization increased clinician efficiency when reviewing the charts of
+      pediatric asthma patients. Application development efforts in an operational
+      context should leverage existing health information exchange standards, such as
+      FHIR, and evidence-based mixed methods approaches.
+CI  - (c) The Author(s) 2021. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Thayer, Jeritt G
+AU  - Thayer JG
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Ferro, Daria F
+AU  - Ferro DF
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Division of General Pediatrics, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+FAU - Miller, Jeffrey M
+AU  - Miller JM
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Karavite, Dean
+AU  - Karavite D
+AUID- ORCID: 0000-0003-0554-5715
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+FAU - Grundmeier, Robert W
+AU  - Grundmeier RW
+AUID- ORCID: 0000-0002-8290-5588
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Division of General Pediatrics, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+FAU - Utidjian, Levon
+AU  - Utidjian L
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Division of General Pediatrics, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+FAU - Zorc, Joseph J
+AU  - Zorc JJ
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania, USA.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania, USA.
+AD  - Department of Emergency Medicine, Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania, USA.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Child
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - Emergency Service, Hospital
+MH  - *Health Information Exchange
+MH  - Humans
+PMC - PMC8279791
+OTO - NOTNLM
+OT  - *clinical decision support systems
+OT  - *health information exchange
+OT  - *health information interoperability
+OT  - *human-centered design
+OT  - *implementation science
+EDAT- 2021/03/09 06:00
+MHDA- 2021/11/25 06:00
+CRDT- 2021/03/08 05:59
+PMCR- 2022/03/03 00:00
+PHST- 2020/08/15 00:00 [received]
+PHST- 2021/01/21 00:00 [accepted]
+PHST- 2022/03/03 00:00 [pmc-release]
+PHST- 2021/03/09 06:00 [pubmed]
+PHST- 2021/11/25 06:00 [medline]
+PHST- 2021/03/08 05:59 [entrez]
+AID - 6157802 [pii]
+AID - 10.1093/jamia/ocab016 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2021 Jul 14;28(7):1401-1410. doi: 10.1093/jamia/ocab016.
+
+PMID- 33126058
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210305
+LR  - 20210305
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 145
+DP  - 2021 Jan
+TI  - Inter-organizational information sharing and bundled payment reimbursement: Do
+      hospitals in the US use health information exchange to collaborate?
+PG  - 104298
+LID - S1386-5056(20)30832-7 [pii]
+LID - 10.1016/j.ijmedinf.2020.104298 [doi]
+AB  - OBJECTIVE: The purpose of this study is to examine the relationship between the
+      greater need for information generated by bundled payment reimbursement and the
+      use of Health Information Exchange (HIE). METHODS: The study is based on a
+      secondary data analysis using theAmerican Hospital Association (AHA) Healthcare
+      IT Database and the AHA Annual Survey. A logistic regression was used to test the
+      likelihood of hospitals participating in HIE if they were involved in bundled
+      payment reimbursement. Negative binomial, ordered logistic and Poisson regression
+      models were used to determine the associations between bundled payment
+      reimbursement and health information sharing in terms of breadth, volume, and
+      diversity, respectively. RESULTS: Hospitals in bundled payment programs were more
+      likely to send and receive information through HIE and tosend information to
+      different types of health providers but not to receive. They were also more
+      likely to exchange different types of health information and to use HIE more
+      often. CONCLUSIONS: The greater need for collaboration of hospitals participating
+      in bundled payment programs was associated with greater information sharing among
+      organizations through HIE, but different providers involved in the episode of
+      care play different roles in HIE.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Guerrazzi Young, Claudia
+AU  - Guerrazzi Young C
+AD  - Department of Management, School of Business Administration, Widener University, 
+      United States. Electronic address: cgyoung@widener.edu.
+FAU - Feldman, Sue S
+AU  - Feldman SS
+AD  - Department of Health Services Administration, University of Alabama at
+      Birmingham, United States.
+FAU - Hernandez, S Robert
+AU  - Hernandez SR
+AD  - Department of Health Services Administration, University of Alabama at
+      Birmingham, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20201015
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Delivery of Health Care
+MH  - *Health Information Exchange
+MH  - Hospitals
+MH  - Humans
+MH  - Information Dissemination
+MH  - Reimbursement Mechanisms
+MH  - United States
+OTO - NOTNLM
+OT  - *Bundled payments
+OT  - *Collaboration
+OT  - *HIE
+OT  - *Information sharing
+OT  - *Resource Dependence Theory
+EDAT- 2020/10/31 06:00
+MHDA- 2021/03/06 06:00
+CRDT- 2020/10/30 20:12
+PHST- 2020/06/05 00:00 [received]
+PHST- 2020/07/28 00:00 [revised]
+PHST- 2020/10/06 00:00 [accepted]
+PHST- 2020/10/31 06:00 [pubmed]
+PHST- 2021/03/06 06:00 [medline]
+PHST- 2020/10/30 20:12 [entrez]
+AID - S1386-5056(20)30832-7 [pii]
+AID - 10.1016/j.ijmedinf.2020.104298 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2021 Jan;145:104298. doi: 10.1016/j.ijmedinf.2020.104298. Epub 
+      2020 Oct 15.
+
+PMID- 30398464
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190226
+LR  - 20190226
+IS  - 2058-4563 (Electronic)
+IS  - 2058-4555 (Linking)
+VI  - 25
+IP  - 3
+DP  - 2018 Oct 31
+TI  - Interoperability in Health and Social Care: Organizational Issues are the Biggest
+      Challenge.
+PG  - 196-198
+LID - 10.14236/jhi.v25i3.1024 [doi]
+AB  - A great asset of any healthcare system is "information" which includes, but not
+      limited to patient data, clinical history and treatments. It is no secret that
+      there is a growing demand for healthcare, however, this demand is yet to be
+      achieved due to the challenge in the limitation of resources and the complexity
+      of the problem area.
+FAU - Oyeyemi, Afeezat Olajumoke
+AU  - Oyeyemi AO
+AD  - University of Portsmouth. afeezat.oyeyemi@gmail.com.
+FAU - Scott, Philip
+AU  - Scott P
+AD  - . philip.scott@port.ac.uk.
+LA  - eng
+PT  - Journal Article
+DEP - 20181031
+PL  - England
+TA  - J Innov Health Inform
+JT  - Journal of innovation in health informatics
+JID - 101651620
+SB  - IM
+MH  - Continuity of Patient Care/*organization & administration
+MH  - Delivery of Health Care/*organization & administration
+MH  - Electronic Health Records/*organization & administration
+MH  - England
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Social Work/*organization & administration
+OTO - NOTNLM
+OT  - Health Interoperability, Interoperability challenges, Health and Social Care,
+      Personal data
+EDAT- 2018/11/07 06:00
+MHDA- 2019/02/27 06:00
+CRDT- 2018/11/07 06:00
+PHST- 2018/01/31 00:00 [received]
+PHST- 2018/07/31 00:00 [accepted]
+PHST- 2018/11/07 06:00 [entrez]
+PHST- 2018/11/07 06:00 [pubmed]
+PHST- 2019/02/27 06:00 [medline]
+AID - 10.14236/jhi.v25i3.1024 [doi]
+PST - epublish
+SO  - J Innov Health Inform. 2018 Oct 31;25(3):196-198. doi: 10.14236/jhi.v25i3.1024.
+
+PMID- 29677962
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180611
+LR  - 20181202
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 247
+DP  - 2018
+TI  - The (Re)-Relaunching of the DMP, the French Shared Medical Record: New Features
+      to Improve Uptake and Use.
+PG  - 256-260
+AB  - Health care delivery for patients with chronic conditions is complex and
+      confusing. Care is often fragmented, less effective, and sometimes harmful. Given
+      the potential for EHRs and other health IT systems to facilitate information flow
+      between providers, patients, and settings, health IT-based measures are of
+      particular interest for care coordination. Health information exchange (HIE) has 
+      the potential to improve the quality of healthcare by enabling providers with
+      better access to patient information from multiple sources at the point of care. 
+      However, many barriers to HIE use have been reported. Another solution relies on 
+      the implementation of a nationwide centralized framework of clinical information 
+      sharing with "new" secure online care records stored in specifically created
+      platforms. The French DMP follows this model but the adoption of the tool has
+      been historically poor. In 2016, a renovation of the DMP program was launched in 
+      nine pilot French departments and new features have been implemented: the DMP
+      content has been fully specified, patients can create their DMP by themselves,
+      DMPs are automatically filled in by data claims, a mobile app has been developed,
+      and technical issues about DMP and EHRs interoperability have been resolved. In
+      October 2017, over 900,000 people have a DMP with an average new DMP being
+      created every minute. These results have to be confirmed in 2018 when the new DMP
+      will be deployed on the whole French territory.
+FAU - Seroussi, Brigitte
+AU  - Seroussi B
+AD  - Sorbonne Universites, UPMC Universite Paris 06, INSERM, Universite Paris 13,
+      Sorbonne Paris Cite, UMR_S 1142, LIMICS, Paris, France.
+FAU - Bouaud, Jacques
+AU  - Bouaud J
+AD  - AP-HP, DRCI, Paris, France.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Delivery of Health Care
+MH  - *Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Information Dissemination
+OTO - NOTNLM
+OT  - Electronic Health Records/utilization
+OT  - Mobile application
+OT  - Patient Access to Records
+OT  - Patient Participation
+OT  - Personal Health Records
+EDAT- 2018/04/22 06:00
+MHDA- 2018/06/12 06:00
+CRDT- 2018/04/22 06:00
+PHST- 2018/04/22 06:00 [entrez]
+PHST- 2018/04/22 06:00 [pubmed]
+PHST- 2018/06/12 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2018;247:256-260.

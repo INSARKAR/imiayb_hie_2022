@@ -189,19 +189,30 @@ end
 
 
 function main()
+
     println()
 
     start_date = "2018/01/01"
     end_date   = "2021/12/01"
 
-    core_search_nodate = "(\"health information exchange\"[majr])" 
-    core_search_onlyReviews = "$core_search_nodate AND Systematic[sb]"
+    core_search_nodate = "(\"health information exchange\"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]" 
+    core_search_onlyReviews = "$core_search_nodate AND English[language] AND (Systematic[sb])"
+
+    health_equity_terms = "(\"Health Knowledge, Attitudes, Practice\"[mh] or healthdisparities[sb])"
 
     core_search_noCovid = "($core_search_nodate) NOT LitCGeneral[filter]"
-    core_search_noCovid_datelimits = "($core_search_noCovid NOT Systematic[sb] AND ($start_date:$end_date[pdat]))" 
+    core_search_noCovid_datelimits = "($core_search_noCovid AND English[language] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat]))" 
+    core_search_noCovid_healthequity = "($core_search_noCovid AND English[language] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat])) AND $health_equity_terms"
+    
+    core_search_yesCovid_datelimits = "($core_search_nodate) AND English[language] AND LitCGeneral[filter] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat]))"
+    
 
-    top_count = 10 
+    top_count = 5 
 
+    result_dir = "results"
+    if !isdir(result_dir)
+        mkdir(result_dir)
+    end
 
     #query_term = "(\"health information exchange\"[majr] AND ($start_date:$end_date[pdat])) NOT Systematic[sb] NOT LitCGeneral[filter]"
 
@@ -211,13 +222,38 @@ function main()
 
     search_results, search_mesh_dict = runsearch(core_search_onlyReviews)
 
-    output_file = open("hie_reviews-medline.txt", "w")
+    output_file = open("$result_dir/hie_review-medline.txt", "w")
     print(output_file, search_results)
     close(output_file)
 
-    top_mesh("hie_reviews-meshCounts.txt", search_mesh_dict)
+    top_mesh("$result_dir/hie_reviews-meshCounts.txt", search_mesh_dict)
 
+
+    #***
+    #*** covid-19 search
+    #***
+
+    search_results, search_mesh_dict = runsearch(core_search_yesCovid_datelimits)
+
+    output_file = open("$result_dir/hie_covid-medline.txt", "w")
+    print(output_file, search_results)
     close(output_file)
+
+    top_mesh("$result_dir/hie_covid-meshCounts.txt", search_mesh_dict)
+
+
+
+    #***
+    #*** 
+    #***
+
+    search_results, search_mesh_dict = runsearch(core_search_noCovid_healthequity)
+
+    output_file = open("$result_dir/hie_equity-medline.txt", "w")
+    print(output_file, search_results)
+    close(output_file)
+
+    top_mesh("$result_dir/hie_equity-meshCounts.txt", search_mesh_dict)
 
     #***
     #*** base search 
@@ -225,11 +261,11 @@ function main()
 
     search_results, search_mesh_dict = runsearch(core_search_noCovid_datelimits)
 
-    output_file = open("hie_fullset-medline.txt", "w")
+    output_file = open("$result_dir/hie_fullset-medline.txt", "w")
     print(output_file, search_results)
     close(output_file)
 
-    top_mesh("hie_fullset-meshCounts.txt", search_mesh_dict)
+    top_mesh("$result_dir/hie_fullset-meshCounts.txt", search_mesh_dict)
 
     close(output_file)
 
@@ -241,7 +277,7 @@ function main()
 
     rank_count = 0
     rank_value = 0
-    for mesh_tuple in sort(collect(search_mesh_dict), by=tuple -> last(tuple), rev=true) #keys(mesh_dict)
+    for mesh_tuple in sort(collect(search_mesh_dict), by=tuple -> last(tuple), rev=true)
 
         descriptor = mesh_tuple[1]
         count      = mesh_tuple[2]
@@ -261,6 +297,15 @@ function main()
         end
 
         println("$rank_count >> $count | $descriptor")
+        subset_query = "$core_search_noCovid_datelimits AND \"$descriptor\"[mh:noexp]"
+        #println("  ==> $subset_query")
+
+        search_results, search_mesh_dict = runsearch(subset_query)
+        desc_spaced = replace(descriptor, " " => "_")
+        output_file = open("$result_dir/hie_top$(rank_count)_$desc_spaced-medline.txt", "w")
+        print(output_file, search_results)
+        close(output_file)
+        
 
     end
 end

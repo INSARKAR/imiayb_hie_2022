@@ -1,0 +1,1721 @@
+HTTP/1.1 200 OK
+Date: Sun, 19 Dec 2021 19:17:44 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: 939B661FC9AC3B85000044CF511EF54B.1.1.m_5
+X-RateLimit-Remaining: 0
+NCBI-SID: 96785D0FC80E7393_74A2SID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=96785D0FC80E7393_74A2SID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:44 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 28085540
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180904
+LR  - 20180904
+IS  - 1753-8165 (Electronic)
+IS  - 1753-8157 (Linking)
+VI  - 43
+IP  - 1
+DP  - 2018 Jan
+TI  - Sharing health data in Belgium: A home care case study using the Vitalink
+      platform.
+PG  - 56-72
+LID - 10.1080/17538157.2016.1269107 [doi]
+AB  - In 2013, the Flemish Government launched the Vitalink platform. This initiative
+      focuses on the sharing of health and welfare data to support primary healthcare. 
+      In this paper, the objectives and mission of the Vitalink initiative are
+      discussed. Security and privacy measures are reviewed, and the technical
+      implementation of the Vitalink platform is presented. Through a case study, the
+      possibility of interaction with cloud solutions for healthcare is also
+      investigated upon; this was initially not the focus of Vitalink. The Vitalink
+      initiative provides support for secure data sharing in primary healthcare, which 
+      in the long term will improve the efficiency of care and will decrease costs.
+      Based on the results of the case study, Vitalink allowed cloud solutions or
+      applications not providing end-to-end security to use their system. The most
+      important lesson learned during this research was the need for firm regulations
+      and stipulations for cloud solutions to interact with the Vitalink platform.
+      However, these are currently still vague.
+FAU - De Backere, Femke
+AU  - De Backere F
+AD  - a Information Technology Department (INTEC) , Ghent University , Ghent , Belgium.
+FAU - Bonte, Pieter
+AU  - Bonte P
+AD  - a Information Technology Department (INTEC) , Ghent University , Ghent , Belgium.
+FAU - Verstichel, Stijn
+AU  - Verstichel S
+AD  - a Information Technology Department (INTEC) , Ghent University , Ghent , Belgium.
+FAU - Ongenae, Femke
+AU  - Ongenae F
+AD  - a Information Technology Department (INTEC) , Ghent University , Ghent , Belgium.
+FAU - De Turck, Filip
+AU  - De Turck F
+AD  - a Information Technology Department (INTEC) , Ghent University , Ghent , Belgium.
+LA  - eng
+PT  - Journal Article
+DEP - 20170113
+PL  - England
+TA  - Inform Health Soc Care
+JT  - Informatics for health & social care
+JID - 101475011
+SB  - IM
+MH  - Belgium
+MH  - Cloud Computing
+MH  - Computer Security
+MH  - Cooperative Behavior
+MH  - *Health Information Exchange
+MH  - Home Care Services/*organization & administration
+MH  - Humans
+MH  - Medication Adherence
+MH  - Patient Participation
+MH  - Primary Health Care/*organization & administration/standards
+MH  - Reminder Systems
+OTO - NOTNLM
+OT  - Belgium
+OT  - Vitalink
+OT  - cloud
+OT  - health data
+OT  - healthcare
+OT  - privacy/security
+EDAT- 2017/01/14 06:00
+MHDA- 2018/09/05 06:00
+CRDT- 2017/01/14 06:00
+PHST- 2017/01/14 06:00 [pubmed]
+PHST- 2018/09/05 06:00 [medline]
+PHST- 2017/01/14 06:00 [entrez]
+AID - 10.1080/17538157.2016.1269107 [doi]
+PST - ppublish
+SO  - Inform Health Soc Care. 2018 Jan;43(1):56-72. doi: 10.1080/17538157.2016.1269107.
+      Epub 2017 Jan 13.
+
+PMID- 30603816
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190506
+LR  - 20200225
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 43
+IP  - 2
+DP  - 2019 Jan 3
+TI  - Medical Data Management on Blockchain with Privacy.
+PG  - 26
+LID - 10.1007/s10916-018-1144-x [doi]
+AB  - Medical data are important in diagnosis, treatment, recovery, and medical
+      accident investigation. The integrity and availability of medical data are the
+      basic guarantee for the smooth operation of these activities. The privacy of
+      medical data is a natural demand from the sensitivity of medical data. At
+      present, there are mainly two ways to protect the privacy of medical data. One
+      way is to store medical data in a local database and set up an access control
+      strategy of the database. The other way is to encrypt medical data with the
+      patient's key and to share the key when needed. The problem with the first method
+      is that the data in the local database may be modified or deleted. The problem
+      with the second method is that the key cannot be shared when the patient dies
+      during the diagnosis and treatment. These two problems will damage the
+      availability of data. This paper proposes to establish a shared key that could be
+      reconstructed by the legitimate parties before the process of diagnosis and
+      treatment begins. The data in the diagnosis and treatment process is encrypted
+      and stored in a blockchain using the shared key. The proposal meets the
+      integrity, availability and privacy requirements of medical data. It uses the
+      sibling intractable function families (SIFF) to establish a shared key, and uses 
+      the Hyperledger Fabric to store encrypted data. The simulation shows that the
+      system has good efficiency. Additionally, it is the first time to introduce SIFF 
+      to a blockchain application.
+FAU - Tian, Haibo
+AU  - Tian H
+AD  - Guangdong Key Laboratory of Information Security, School of Data and Computer
+      Science, Sun Yat-Sen University, Guangzhou, Guangdong, 510275, People's Republic 
+      of China. tianhb@mail.sysu.edu.cn.
+FAU - He, Jiejie
+AU  - He J
+AD  - Guangdong Key Laboratory of Information Security, School of Data and Computer
+      Science, Sun Yat-Sen University, Guangzhou, Guangdong, 510275, People's Republic 
+      of China.
+FAU - Ding, Yong
+AU  - Ding Y
+AD  - Guangxi Key Laboratory of Cryptography and Information Security, School of
+      Computer Science and Information Security, Guilin University of Electronic
+      Technology, Guilin, Guangxi, 541004, People's Republic of China.
+LA  - eng
+GR  - 2017YFB0802500/National Key R&D Program of China
+GR  - 2015A030313133/Natural Science Foundation of Guangdong Province
+GR  - No.GCIS201711/Guangxi Key Laboratory of Cryptography and Information Security
+GR  - No.17lgjc45/Fundamental Research Funds for the Central Universities
+PT  - Journal Article
+DEP - 20190103
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Computer Security/*standards
+MH  - Confidentiality/*standards
+MH  - Electronic Health Records/*organization & administration
+MH  - Health Information Exchange/*standards
+MH  - Humans
+OTO - NOTNLM
+OT  - Availability
+OT  - Blockchain
+OT  - Integrity
+OT  - Medical data
+OT  - Privacy
+EDAT- 2019/01/04 06:00
+MHDA- 2019/05/07 06:00
+CRDT- 2019/01/04 06:00
+PHST- 2018/02/28 00:00 [received]
+PHST- 2018/12/18 00:00 [accepted]
+PHST- 2019/01/04 06:00 [entrez]
+PHST- 2019/01/04 06:00 [pubmed]
+PHST- 2019/05/07 06:00 [medline]
+AID - 10.1007/s10916-018-1144-x [doi]
+AID - 10.1007/s10916-018-1144-x [pii]
+PST - epublish
+SO  - J Med Syst. 2019 Jan 3;43(2):26. doi: 10.1007/s10916-018-1144-x.
+
+PMID- 29726443
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180625
+LR  - 20181202
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 248
+DP  - 2018
+TI  - Towards Designing a Secure Exchange Platform for Diabetes Monitoring and Therapy.
+PG  - 239-246
+AB  - BACKGROUND: Diabetes mellitus is one of the most prominent examples of chronic
+      conditions that requires an active patient self-management and a network of
+      specialists. OBJECTIVES: The aim of this study was to analyze the user and legal 
+      requirements and develop a rough technology concept for a secure and
+      patient-centered exchange platform. METHODS: To this end, 14 experts representing
+      different stakeholders were interviewed and took part in group discussions at
+      three workshops, the pertinent literature and legal texts were analyzed. RESULTS:
+      The user requirements embraced a comprehensive set of use cases and the demand
+      for "one platform for all" which is underlined by the right for data portability 
+      according to new regulations. In order to meet these requirements a distributed
+      ledger technology was proposed. CONCLUSION: We will therefore focus on a
+      patient-centered application that showcases self-management and exchange with
+      health specialists.
+FAU - Weiss, Jan-Patrick
+AU  - Weiss JP
+AD  - Health Informatics Research Group, Osnabruck University of AS, Germany.
+FAU - Welzel, Tobias
+AU  - Welzel T
+AD  - Institute of Local Government Law & Public Admin., University Osnabruck, Germany.
+FAU - Hartmann, Bernd J
+AU  - Hartmann BJ
+AD  - Institute of Local Government Law & Public Admin., University Osnabruck, Germany.
+FAU - Hubner, Ursula
+AU  - Hubner U
+AD  - Health Informatics Research Group, Osnabruck University of AS, Germany.
+FAU - Teuteberg, Frank
+AU  - Teuteberg F
+AD  - Research Group Accounting & Information Systems, University Osnabruck, Germany.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Chronic Disease
+MH  - *Computer Security
+MH  - *Diabetes Mellitus/diagnosis/therapy
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - *Self-Management
+OTO - NOTNLM
+OT  - Diabetes mellitus
+OT  - distributed systems
+OT  - patient-centered care
+EDAT- 2018/05/05 06:00
+MHDA- 2018/06/26 06:00
+CRDT- 2018/05/05 06:00
+PHST- 2018/05/05 06:00 [entrez]
+PHST- 2018/05/05 06:00 [pubmed]
+PHST- 2018/06/26 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2018;248:239-246.
+
+PMID- 31376884
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190812
+LR  - 20190812
+IS  - 1488-2361 (Electronic)
+IS  - 0846-5371 (Linking)
+VI  - 70
+IP  - 3
+DP  - 2019 Aug
+TI  - Sharing De-identified Medical Images Electronically for Research: A Survey of
+      Patients' Opinion Regarding Data Management.
+PG  - 212-218
+LID - S0846-5371(19)30046-4 [pii]
+LID - 10.1016/j.carj.2019.04.002 [doi]
+AB  - PURPOSE: Secondary usage of patient data has recently become of increasing
+      interest for the development and application of computer analytic techniques.
+      Strict oversight of these data is required and the individual patients themselves
+      are integral to providing guidance. We sought to understand patients' attitudes
+      to sharing their imaging data for research purposes. These images could provide a
+      great wealth of information for researchers. METHODS: Patients from the Greater
+      Toronto Area attending Sunnybrook Health Sciences Centre for imaging (magnetic
+      resonance imagining, computed tomography, or ultrasound) examination areas were
+      invited to participate in an electronic survey. RESULTS: Of the 1083 patients who
+      were approached (computed tomography 609, ultrasound 314, and magnetic resonance 
+      imaging 160), 798 (74%) agreed to take the survey. Overall median age was 60
+      (interquartile range = 18, Q1 = 52, Q3 = 70), 52% were women, 42% had a
+      university degree, and 7% had no high school diploma. In terms of willingness to 
+      share de-identified medical images for research, 76% were willing (agreed and
+      strongly agreed), while 7% refused. Most participants gave their family
+      physicians (73%) and other physicians (57%) unconditional data access.
+      Participants chose hospitals/research institutions to regulate electronic images 
+      databases (70%), 89% wanted safeguards against unauthorized access to their data,
+      and over 70% wanted control over who will be permitted, for how long, and the
+      ability to revoke that permission. CONCLUSIONS: Our study found that people are
+      willing to share their clinically acquired de-identified medical images for
+      research studies provided that they have control over permissions and duration of
+      access.
+CI  - Copyright (c) 2019 Canadian Association of Radiologists. Published by Elsevier
+      Inc. All rights reserved.
+FAU - Mahmoud, Rasha
+AU  - Mahmoud R
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Moody, Alan R
+AU  - Moody AR
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada; Department of Medical Imaging, University of Toronto, Toronto, ON,
+      Canada.
+FAU - Foster, Moran
+AU  - Foster M
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Girdharry, Natasha
+AU  - Girdharry N
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Sinn, Loreta
+AU  - Sinn L
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Zhang, Bowen
+AU  - Zhang B
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Afshin, Mariam
+AU  - Afshin M
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Vivekanandan, Thayalasuthan
+AU  - Vivekanandan T
+AD  - Department of Physical Sciences, Sunnybrook Health Sciences Centre, Toronto, ON, 
+      Canada.
+FAU - Santoro, Samantha
+AU  - Santoro S
+AD  - Department of Medical Imaging, University of Toronto, Toronto, ON, Canada.
+FAU - Tyrrell, Pascal N
+AU  - Tyrrell PN
+AD  - Department of Medical Imaging, University of Toronto, Toronto, ON, Canada;
+      Department of Statistical Sciences, University of Toronto, Toronto, ON, Canada.
+      Electronic address: pascal.tyrrell@utoronto.ca.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Can Assoc Radiol J
+JT  - Canadian Association of Radiologists journal = Journal l'Association canadienne
+      des radiologistes
+JID - 8812910
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Canada
+MH  - Computer Security
+MH  - Confidentiality/*psychology
+MH  - Databases, Factual
+MH  - Diagnostic Imaging/*psychology
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Public Opinion
+MH  - Research Subjects/*psychology
+MH  - Surveys and Questionnaires
+MH  - Time Factors
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Data sharing
+OT  - De-identification
+OT  - Health information exchange
+OT  - Image archive
+OT  - Imaging informatics
+OT  - Radiology
+EDAT- 2019/08/05 06:00
+MHDA- 2019/08/14 06:00
+CRDT- 2019/08/05 06:00
+PHST- 2018/07/12 00:00 [received]
+PHST- 2019/04/04 00:00 [revised]
+PHST- 2019/04/08 00:00 [accepted]
+PHST- 2019/08/05 06:00 [entrez]
+PHST- 2019/08/05 06:00 [pubmed]
+PHST- 2019/08/14 06:00 [medline]
+AID - S0846-5371(19)30046-4 [pii]
+AID - 10.1016/j.carj.2019.04.002 [doi]
+PST - ppublish
+SO  - Can Assoc Radiol J. 2019 Aug;70(3):212-218. doi: 10.1016/j.carj.2019.04.002.
+
+PMID- 31776688
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200505
+LR  - 20200505
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 44
+IP  - 1
+DP  - 2019 Nov 27
+TI  - Construction of RSA-Based Authentication Scheme in Authorized Access to
+      Healthcare Services : Authorized Access to Healthcare Services.
+PG  - 6
+LID - 10.1007/s10916-019-1471-6 [doi]
+AB  - Modern network technology yields new interface for telecare medicine information 
+      systems in short TMIS used for patient's healthcare. This system is used to
+      provide healthcare services to patients at their home. It can be observed,
+      telecare medicine information systems generally suffer several attacks as
+      information being transmitted over a public network. Therefore, various
+      authentication and key agreement schemes are proposed for TMIS to ensure secure
+      and authorized patients communication over given public network. However, most of
+      the schemes fail to achieve essential attributes discussed in this article.
+      Although the key attributes of security and efficiency should be achieved in a
+      common framework. This paper proposes construction of an RSA based authentication
+      scheme for authorized access to healthcare services and achieves desirable key
+      attributes of authentication protocols. Proof of security against polynomial time
+      adversary is given in the random oracle to justify the security of proposed
+      scheme. Communication analysis and computation analysis of proposed scheme
+      indicates that proposed scheme's performance is comparable and having better
+      security.
+FAU - Dharminder, Dharminder
+AU  - Dharminder D
+AD  - The LNM Institute of Information Technology, Jaipur, India.
+FAU - Mishra, Dheerendra
+AU  - Mishra D
+AUID- ORCID: http://orcid.org/0000-0001-8115-6397
+AD  - The LNM Institute of Information Technology, Jaipur, India.
+      dheerendra.mishra@lnmiit.ac.in.
+FAU - Li, Xiong
+AU  - Li X
+AD  - School of Computer Science and Engineering, Hunan University of Science and
+      Technology, Xiangtan, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20191127
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Computer Security/*instrumentation
+MH  - Confidentiality
+MH  - Electronic Health Records/*organization & administration
+MH  - Health Information Exchange/*standards
+MH  - Health Information Systems/*standards
+MH  - Humans
+MH  - Telemedicine/*instrumentation
+OTO - NOTNLM
+OT  - Authentication
+OT  - Healthcare
+OT  - Privacy
+OT  - Telecare medicine information systems
+EDAT- 2019/11/30 06:00
+MHDA- 2020/05/06 06:00
+CRDT- 2019/11/29 06:00
+PHST- 2019/02/19 00:00 [received]
+PHST- 2019/10/11 00:00 [accepted]
+PHST- 2019/11/29 06:00 [entrez]
+PHST- 2019/11/30 06:00 [pubmed]
+PHST- 2020/05/06 06:00 [medline]
+AID - 10.1007/s10916-019-1471-6 [doi]
+AID - 10.1007/s10916-019-1471-6 [pii]
+PST - epublish
+SO  - J Med Syst. 2019 Nov 27;44(1):6. doi: 10.1007/s10916-019-1471-6.
+
+PMID- 32160449
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200519
+LR  - 20200519
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 382
+IP  - 19
+DP  - 2020 May 7
+TI  - Data Citizenship under the 21st Century Cures Act.
+PG  - 1781-1783
+LID - 10.1056/NEJMp1917640 [doi]
+FAU - Mandl, Kenneth D
+AU  - Mandl KD
+AUID- ORCID: 0000-0002-9781-0477
+AD  - From the Computational Health Informatics Program, Boston Children's Hospital,
+      and the Department of Biomedical Informatics, Harvard Medical School - both in
+      Boston.
+FAU - Kohane, Isaac S
+AU  - Kohane IS
+AD  - From the Computational Health Informatics Program, Boston Children's Hospital,
+      and the Department of Biomedical Informatics, Harvard Medical School - both in
+      Boston.
+LA  - eng
+PT  - Journal Article
+DEP - 20200311
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+SB  - IM
+MH  - Access to Information/*legislation & jurisprudence
+MH  - American Recovery and Reinvestment Act
+MH  - *Computer Security
+MH  - Electronic Health Records/*legislation & jurisprudence
+MH  - *Health Information Exchange/legislation & jurisprudence
+MH  - Health Information Interoperability/*legislation & jurisprudence
+MH  - Health Information Systems/legislation & jurisprudence
+MH  - Health Insurance Portability and Accountability Act
+MH  - Humans
+MH  - Medical Records Systems, Computerized/*standards
+MH  - United States
+EDAT- 2020/03/12 06:00
+MHDA- 2020/05/20 06:00
+CRDT- 2020/03/12 06:00
+PHST- 2020/03/12 06:00 [pubmed]
+PHST- 2020/05/20 06:00 [medline]
+PHST- 2020/03/12 06:00 [entrez]
+AID - 10.1056/NEJMp1917640 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2020 May 7;382(19):1781-1783. doi: 10.1056/NEJMp1917640. Epub 2020 
+      Mar 11.
+
+PMID- 30311064
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190204
+LR  - 20190215
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 42
+IP  - 11
+DP  - 2018 Oct 11
+TI  - Patient Monitoring System Using Cognitive Internet of Things.
+PG  - 229
+LID - 10.1007/s10916-018-1095-2 [doi]
+AB  - In this article, we ponder multi-user medical image transmission using Cognitive 
+      Multiple-input Multiple-output (MIMO) Multi-carrier Code-division-multiple-access
+      (MC-CDMA) system to monitor patient information. We investigate the performance
+      of such system in the communication layer and application layer of internet of
+      things (IOT). Patient monitoring system plays vital role in the hospital
+      particularly in the emergency ward to resolve certain problems such as
+      maintaining glucose level in the body, maintaining minimum sugar levels under
+      emergency conditions. IOT find tremendous application in the hospital to deal
+      with certain issues such as injection of drug to the patients by doctor from
+      remote places, monitoring patients heart beats, sugar level by the concerned
+      doctors. MIMO finds many applications in medical field to enrich data rate while 
+      communication patient information at faster rate. We utilize MC-CDMA system to
+      accommodate large user patients information and to transmit such information with
+      high resolution by eliminating channel impairments. We are utilizing Cognitive
+      spectrum for medical image transmission of higher bandwidth applications. We
+      realize Double-space-time transmit diversity as MIMO profile to boost up
+      throughput. We perform multi-carrier modulation using IDFT at the transmitter .we
+      carryout demodulation employing DFT at the hospital. We introduce Multi-carrier
+      communication to fulfil the need of bandwidth efficiency and to diminish
+      frequency selectivity effects.In the application layer, we estimate patient's
+      information with aid of block-nulling decoding algorithm. Moreover we analyze the
+      quality of image of D-STTD MC-CDMA system with turbo style of channel encoder to 
+      manifest medical image with high resolution with less signal strength. We
+      conclude that Cognitive D-STTD MC-CDMA system provides reliable communication for
+      the application of IOT and also transfer high resolution medical image with less 
+      signal strength in order to observe patient status by doctor.
+FAU - Lakshmi Dhevi, B
+AU  - Lakshmi Dhevi B
+AD  - Department of ECE, SSN College of Engineering, Chennai, India.
+FAU - Vishvaksenan, K S
+AU  - Vishvaksenan KS
+AD  - Department of ECE, SSN College of Engineering, Chennai, India.
+FAU - Senthamil Selvan, K
+AU  - Senthamil Selvan K
+AD  - Department of ECE, Dhanalakshmi college of Engineering, Chennai, India.
+FAU - Rajalakshmi, A
+AU  - Rajalakshmi A
+AD  - Department of ECE, Dhanalakshmi college of Engineering, Chennai, India.
+      arajalakshmidce@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20181011
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Algorithms
+MH  - Computer Communication Networks
+MH  - Computer Security
+MH  - *Health Information Exchange
+MH  - *Home Care Services
+MH  - *Hospitals
+MH  - Humans
+MH  - *Internet
+MH  - Remote Sensing Technology
+MH  - Telemedicine/methods
+MH  - Wireless Technology
+OTO - NOTNLM
+OT  - Cognitive radio network(CRN)
+OT  - Double space-time transmit diversity(D-STTD)
+OT  - Internet of things(IOT)
+OT  - Multi-user interference (MUI)
+OT  - Primary user-interference(PUI)
+OT  - Radio frequency identification (RFID)
+EDAT- 2018/10/13 06:00
+MHDA- 2019/02/05 06:00
+CRDT- 2018/10/13 06:00
+PHST- 2018/07/14 00:00 [received]
+PHST- 2018/10/05 00:00 [accepted]
+PHST- 2018/10/13 06:00 [entrez]
+PHST- 2018/10/13 06:00 [pubmed]
+PHST- 2019/02/05 06:00 [medline]
+AID - 10.1007/s10916-018-1095-2 [doi]
+AID - 10.1007/s10916-018-1095-2 [pii]
+PST - epublish
+SO  - J Med Syst. 2018 Oct 11;42(11):229. doi: 10.1007/s10916-018-1095-2.
+
+PMID- 29309046
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181005
+LR  - 20181005
+IS  - 1878-7401 (Electronic)
+IS  - 0928-7329 (Linking)
+VI  - 26
+IP  - 2
+DP  - 2018
+TI  - Securing electronic medical record in Near Field Communication using Advanced
+      Encryption Standard (AES).
+PG  - 357-362
+LID - 10.3233/THC-171140 [doi]
+AB  - Doctors usually require patients' medical records before medical examinations.
+      Nevertheless, obtaining such records may take time. Hence, Near Field
+      Communication (NFC) could be used to store and send medical records between
+      doctors and patients. Another issue is that there could be a threat such as, Man 
+      In The Middle Attack and eavesdropping, thus, a security method is required to
+      secure the data. Furthermore, the information regarding the key and
+      initialisation vector in NFC cannot be sent using one data package, hence, the
+      data transmission should be done several times. Therefore, the initialisation
+      vector that changed in each transmission is implemented, and the key utilised is 
+      based on the component agreed by both parties. This study aims at applying the
+      cryptography process that does disturb and hinder the speed of data transmission.
+      The result demonstrated that the data transmitted could be secured and the
+      encryption process did not hinder data exchange. Also, different number of
+      characters in plaintexts required different amount of time for encryption and
+      decryption. It could be affected by the specifications of the devices used and
+      the processes happening in the devices.
+FAU - Renardi, Mikhael Bagus
+AU  - Renardi MB
+AD  - School of Electrical Engineering and Informatics, Bandung Institute of
+      Technology, Bandung, Indonesia.
+FAU - Basjaruddin, Noor Cholis
+AU  - Basjaruddin NC
+AD  - Department of Electrical Engineering, Bandung State Polytechnic, Bandung,
+      Indonesia.
+FAU - Rakhman, Edi
+AU  - Rakhman E
+AD  - Department of Electrical Engineering, Bandung State Polytechnic, Bandung,
+      Indonesia.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Technol Health Care
+JT  - Technology and health care : official journal of the European Society for
+      Engineering and Medicine
+JID - 9314590
+SB  - IM
+MH  - Computer Communication Networks/*organization & administration
+MH  - *Computer Security
+MH  - Confidentiality
+MH  - Electronic Health Records/*organization & administration
+MH  - *Health Information Exchange
+MH  - Humans
+OTO - NOTNLM
+OT  - Near Field Communication
+OT  - advanced encryption standard
+OT  - electronic medical record
+OT  - medical record
+EDAT- 2018/01/09 06:00
+MHDA- 2018/10/06 06:00
+CRDT- 2018/01/09 06:00
+PHST- 2018/01/09 06:00 [pubmed]
+PHST- 2018/10/06 06:00 [medline]
+PHST- 2018/01/09 06:00 [entrez]
+AID - THC171140 [pii]
+AID - 10.3233/THC-171140 [doi]
+PST - ppublish
+SO  - Technol Health Care. 2018;26(2):357-362. doi: 10.3233/THC-171140.
+
+PMID- 30915578
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190813
+LR  - 20190813
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 43
+IP  - 5
+DP  - 2019 Mar 27
+TI  - Achieving Efficient and Privacy-Preserving k-NN Query for Outsourced eHealthcare 
+      Data.
+PG  - 123
+LID - 10.1007/s10916-019-1229-1 [doi]
+AB  - The boom of Internet of Things devices promotes huge volumes of eHealthcare data 
+      will be collected and aggregated at eHealthcare provider. With the help of these 
+      health data, eHealthcare provider can offer reliable data service (e.g., k-NN
+      query) to doctors for better diagnosis. However, the IT facility in the
+      eHealthcare provider is incompetent with the huge volumes of eHealthcare data, so
+      one popular solution is to deploy a powerful cloud and appoint the cloud to
+      execute the k-NN query service. In this case, since the eHealthcare data are very
+      sensitive yet cloud servers are not fully trusted, directly executing the k-NN
+      query service in the cloud inevitably incurs privacy challenges. Apart from the
+      privacy issues, efficiency issues also need to be taken into consideration
+      because achieving privacy requirement will incur additional computational cost.
+      However, existing focuses on k-NN query do not (fully) consider the data privacy 
+      or are inefficient. For instance, the best computational complexity of k-NN query
+      over encrypted eHealthcare data in the cloud is as large as [Formula: see text], 
+      where N is the total number of data. In this paper, aiming at addressing the
+      privacy and efficiency challenges, we design an efficient and privacy-preserving 
+      k-NN query scheme for encrypted outsourced eHealthcare data. Our proposed scheme 
+      is characterized by integrating the k d-tree with the homomorphic encryption
+      technique for efficient storing encrypted data in the cloud and processing
+      privacy-preserving k-NN query over encrypted data. Compared with existing works, 
+      our proposed scheme is more efficient in terms of privacy-preserving k-NN query. 
+      Specifically, our proposed scheme can achieve k-NN computation over encrypted
+      data with [Formula: see text] computational complexity, where l and N
+      respectively denote the data dimension and the total number of data. In addition,
+      detailed security analysis shows that our proposed scheme is really
+      privacy-preserving under our security model and performance evaluation also
+      indicates that our proposed scheme is indeed efficient in terms of computational 
+      cost.
+FAU - Zheng, Yandong
+AU  - Zheng Y
+AD  - Faculty of Computer Science, University of New Brunswick, Fredericton, New
+      Brunswick, E3B5A3, Canada.
+FAU - Lu, Rongxing
+AU  - Lu R
+AUID- ORCID: http://orcid.org/0000-0001-5720-0941
+AD  - Faculty of Computer Science, University of New Brunswick, Fredericton, New
+      Brunswick, E3B5A3, Canada. rlu1@unb.ca.
+FAU - Shao, Jun
+AU  - Shao J
+AD  - School of Computer and Information Engineering, Zhejiang Gongshang University,
+      Hangzhou, Zhejiang, 310018, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20190327
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+MH  - Cloud Computing/standards
+MH  - Computer Security/*standards
+MH  - Confidentiality/*standards
+MH  - Health Information Exchange/*standards
+MH  - Humans
+MH  - *Internet
+OTO - NOTNLM
+OT  - Privacy preservation
+OT  - eHealthcare data
+OT  - k d-tree
+OT  - k-NN query
+EDAT- 2019/03/28 06:00
+MHDA- 2019/08/14 06:00
+CRDT- 2019/03/28 06:00
+PHST- 2018/10/29 00:00 [received]
+PHST- 2019/02/27 00:00 [accepted]
+PHST- 2019/03/28 06:00 [entrez]
+PHST- 2019/03/28 06:00 [pubmed]
+PHST- 2019/08/14 06:00 [medline]
+AID - 10.1007/s10916-019-1229-1 [doi]
+AID - 10.1007/s10916-019-1229-1 [pii]
+PST - epublish
+SO  - J Med Syst. 2019 Mar 27;43(5):123. doi: 10.1007/s10916-019-1229-1.
+
+PMID- 29643052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190610
+LR  - 20191023
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 20
+IP  - 4
+DP  - 2018 Apr 11
+TI  - The Effectiveness of Health Care Information Technologies: Evaluation of Trust,
+      Security Beliefs, and Privacy as Determinants of Health Care Outcomes.
+PG  - e107
+LID - 10.2196/jmir.9014 [doi]
+AB  - BACKGROUND: The diffusion of health information technologies (HITs) within the
+      health care sector continues to grow. However, there is no theory explaining how 
+      success of HITs influences patient care outcomes. With the increase in data
+      breaches, HITs' success now hinges on the effectiveness of data protection
+      solutions. Still, empirical research has only addressed privacy concerns, with
+      little regard for other factors of information assurance. OBJECTIVE: The
+      objective of this study was to study the effectiveness of HITs using the DeLone
+      and McLean Information Systems Success Model (DMISSM). We examined the role of
+      information assurance constructs (ie, the role of information security beliefs,
+      privacy concerns, and trust in health information) as measures of HIT
+      effectiveness. We also investigated the relationships between information
+      assurance and three aspects of system success: attitude toward health information
+      exchange (HIE), patient access to health records, and perceived patient care
+      quality. METHODS: Using structural equation modeling, we analyzed the data from a
+      sample of 3677 cancer patients from a public dataset. We used R software (R
+      Project for Statistical Computing) and the Lavaan package to test the
+      hypothesized relationships. RESULTS: Our extension of the DMISSM to health care
+      was supported. We found that increased privacy concerns reduce the frequency of
+      patient access to health records use, positive attitudes toward HIE, and
+      perceptions of patient care quality. Also, belief in the effectiveness of
+      information security increases the frequency of patient access to health records 
+      and positive attitude toward HIE. Trust in health information had a positive
+      association with attitudes toward HIE and perceived patient care quality. Trust
+      in health information had no direct effect on patient access to health records;
+      however, it had an indirect relationship through privacy concerns. CONCLUSIONS:
+      Trust in health information and belief in the effectiveness of information
+      security safeguards increases perceptions of patient care quality. Privacy
+      concerns reduce patients' frequency of accessing health records, patients'
+      positive attitudes toward HIE exchange, and overall perceived patient care
+      quality. Health care organizations are encouraged to implement security
+      safeguards to increase trust, the frequency of health record use, and reduce
+      privacy concerns, consequently increasing patient care quality.
+CI  - (c)Victoria Kisekka, Justin Scott Giboney. Originally published in the Journal of
+      Medical Internet Research (http://www.jmir.org), 11.04.2018.
+FAU - Kisekka, Victoria
+AU  - Kisekka V
+AUID- ORCID: 0000-0002-0806-2682
+AD  - Information Security and Digital Forensics, School of Business, University at
+      Albany, State University of New York, Albany, NY, United States.
+FAU - Giboney, Justin Scott
+AU  - Giboney JS
+AUID- ORCID: 0000-0001-6460-723X
+AD  - Information Technology Department, Brigham Young University, Provo, UT, United
+      States.
+LA  - eng
+PT  - Journal Article
+DEP - 20180411
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Computer Security/*standards
+MH  - Confidentiality/*standards
+MH  - Female
+MH  - Health Information Exchange/*standards
+MH  - Humans
+MH  - Male
+MH  - Medical Informatics/*methods
+MH  - Middle Aged
+MH  - Quality of Health Care/*standards
+MH  - Trust/*psychology
+MH  - Young Adult
+PMC - PMC5917085
+OTO - NOTNLM
+OT  - *medical informatics
+OT  - *privacy
+OT  - *quality of health care
+OT  - *trust
+EDAT- 2018/04/13 06:00
+MHDA- 2019/06/14 06:00
+CRDT- 2018/04/13 06:00
+PHST- 2017/09/21 00:00 [received]
+PHST- 2018/01/02 00:00 [accepted]
+PHST- 2017/12/06 00:00 [revised]
+PHST- 2018/04/13 06:00 [entrez]
+PHST- 2018/04/13 06:00 [pubmed]
+PHST- 2019/06/14 06:00 [medline]
+AID - v20i4e107 [pii]
+AID - 10.2196/jmir.9014 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2018 Apr 11;20(4):e107. doi: 10.2196/jmir.9014.
+
+PMID- 30467604
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190409
+LR  - 20190409
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 43
+IP  - 1
+DP  - 2018 Nov 22
+TI  - Blockchain-Based Medical Records Secure Storage and Medical Service Framework.
+PG  - 5
+LID - 10.1007/s10916-018-1121-4 [doi]
+AB  - Accurate and complete medical data are one valuable asset for patients. Privacy
+      protection and the secure storage of medical data are crucial issues during
+      medical services. Secure storage and making full use of personal medical records 
+      has always been a concern for the general population. The emergence of blockchain
+      technology brings a new idea to solve this problem. As a hash chain with the
+      characteristics of decentralization, verifiability and immutability, blockchain
+      technology can be used to securely store personal medical data. In this paper, we
+      design a storage scheme to manage personal medical data based on blockchain and
+      cloud storage. Furthermore, a service framework for sharing medical records is
+      described. In addition, the characteristics of the medical blockchain are
+      presented and analyzed through a comparison with traditional systems. The
+      proposed storage and sharing scheme does not depend on any third-party and no
+      single party has absolute power to affect the processing.
+FAU - Chen, Yi
+AU  - Chen Y
+AD  - School of Management, Hefei University of Technology, Hefei, 23009, Anhui, China.
+AD  - Key Laboratory of Process Optimization and Intelligent Decision-Making (Ministry 
+      of Education), Hefei University of Technology, Hefei, 23009, Anhui, China.
+FAU - Ding, Shuai
+AU  - Ding S
+AD  - School of Management, Hefei University of Technology, Hefei, 23009, Anhui, China.
+      dingshuai@hfut.edu.cn.
+AD  - Key Laboratory of Process Optimization and Intelligent Decision-Making (Ministry 
+      of Education), Hefei University of Technology, Hefei, 23009, Anhui, China.
+      dingshuai@hfut.edu.cn.
+FAU - Xu, Zheng
+AU  - Xu Z
+AD  - The Third Research Institute of the Ministry of Public Security, Shanghai,
+      201142, China. juven_xz@163.com.
+FAU - Zheng, Handong
+AU  - Zheng H
+AD  - School of Management, Hefei University of Technology, Hefei, 23009, Anhui, China.
+AD  - Key Laboratory of Process Optimization and Intelligent Decision-Making (Ministry 
+      of Education), Hefei University of Technology, Hefei, 23009, Anhui, China.
+FAU - Yang, Shanlin
+AU  - Yang S
+AD  - School of Management, Hefei University of Technology, Hefei, 23009, Anhui, China.
+AD  - Key Laboratory of Process Optimization and Intelligent Decision-Making (Ministry 
+      of Education), Hefei University of Technology, Hefei, 23009, Anhui, China.
+LA  - eng
+GR  - 71690235/National Natural Science Foundation of China
+GR  - 71571058/National Natural Science Foundation of China
+GR  - CCF-VenustechRP2017006/CCF-Venustech Open Research Fund
+GR  - 16030801121,17030801001/Anhui Provincial Science and Technology Major Project
+PT  - Journal Article
+DEP - 20181122
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - *Cloud Computing
+MH  - *Computer Security
+MH  - Confidentiality
+MH  - Electronic Health Records/*organization & administration
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Information Storage and Retrieval/*methods
+OTO - NOTNLM
+OT  - Blockchain technology
+OT  - Medical data
+OT  - Medical data sharing
+OT  - Medical data storage
+OT  - Medical service
+EDAT- 2018/11/24 06:00
+MHDA- 2019/04/10 06:00
+CRDT- 2018/11/24 06:00
+PHST- 2018/06/13 00:00 [received]
+PHST- 2018/11/08 00:00 [accepted]
+PHST- 2018/11/24 06:00 [entrez]
+PHST- 2018/11/24 06:00 [pubmed]
+PHST- 2019/04/10 06:00 [medline]
+AID - 10.1007/s10916-018-1121-4 [doi]
+AID - 10.1007/s10916-018-1121-4 [pii]
+PST - epublish
+SO  - J Med Syst. 2018 Nov 22;43(1):5. doi: 10.1007/s10916-018-1121-4.
+
+PMID- 31283471
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200122
+LR  - 20200122
+IS  - 2168-2208 (Electronic)
+IS  - 2168-2194 (Linking)
+VI  - 23
+IP  - 4
+DP  - 2019 Jul
+TI  - Anonymity Preserving and Lightweight Multimedical Server Authentication Protocol 
+      for Telecare Medical Information System.
+PG  - 1749-1759
+LID - 10.1109/JBHI.2018.2870319 [doi]
+AB  - Electronic health systems, such as telecare medical information system (TMIS),
+      allow patients to exchange their health information with a medical center/doctor 
+      for diagnosis in real time, and across borders. Given the sensitive nature of
+      health information/medical data, ensuring the security of such systems is
+      crucial. In this paper, we revisit Das et al.'s authentication protocol, which is
+      designed to ensure patient anonymity and untraceability. Then, we demonstrate
+      that the security claims are invalid, by showing how both security features
+      (i.e., patient anonymity and untraceability) can be compromised. We also
+      demonstrate that the protocol suffers from smartcard launch attacks. To mitigate 
+      such design flaws, we propose a new lightweight authentication protocol using the
+      cryptographic hash function for TMIS. We then analyze the security of the
+      proposed protocol using AVISPA and Scyther, two widely used formal specification 
+      tools. The performance analysis demonstrates that our protocol is more efficient 
+      than other competing protocols.
+FAU - Amin, Ruhul
+AU  - Amin R
+FAU - Islam, Sk Hafizul
+AU  - Islam SH
+FAU - Gope, Prosanta
+AU  - Gope P
+FAU - Choo, Kim-Kwang Raymond
+AU  - Choo KR
+FAU - Tapas, Nachiket
+AU  - Tapas N
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - IEEE J Biomed Health Inform
+JT  - IEEE journal of biomedical and health informatics
+JID - 101604520
+SB  - IM
+MH  - Biometric Identification
+MH  - *Computer Security
+MH  - Confidentiality
+MH  - *Electronic Health Records
+MH  - Health Information Exchange/*standards
+MH  - Humans
+MH  - Telemedicine/*standards
+EDAT- 2019/07/10 06:00
+MHDA- 2020/01/23 06:00
+CRDT- 2019/07/09 06:00
+PHST- 2019/07/09 06:00 [entrez]
+PHST- 2019/07/10 06:00 [pubmed]
+PHST- 2020/01/23 06:00 [medline]
+AID - 10.1109/JBHI.2018.2870319 [doi]
+PST - ppublish
+SO  - IEEE J Biomed Health Inform. 2019 Jul;23(4):1749-1759. doi:
+      10.1109/JBHI.2018.2870319.
+
+PMID- 33650502
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210618
+LR  - 20210618
+IS  - 2589-1294 (Electronic)
+IS  - 1017-995X (Linking)
+VI  - 55
+IP  - 1
+DP  - 2021 Jan
+TI  - A legal overview of the use of messaging platforms in healthcare.
+PG  - 3-4
+LID - 10.5152/j.aott.2021.20265 [doi]
+AB  - Medical interventions are becoming more complex day by day. Moreover, compared
+      with the past, more healthcare professionals take part in the same intervention
+      in the field of medicine. The use of technology in medical interventions has also
+      increased. This change in the health sector brings together several legal
+      discussions. In this study, the legal consequences that arise from the treatment 
+      processes carried out by the residents and resident educators (registerers /
+      attending physicians), the exchange of information between them, and the usage of
+      some messaging platforms, especially WhatsApp, in this process will be analyzed.
+FAU - Avci, Gokhan
+AU  - Avci G
+AD  - Department of Public Law, University of Paris II Pantheon-Assas (Sorbonne
+      University School of Law), Paris, France.
+FAU - Esenkaya, Irfan
+AU  - Esenkaya I
+AD  - SANTE Medical Center, Istanbul, Turkey.
+LA  - eng
+PT  - Journal Article
+PL  - Turkey
+TA  - Acta Orthop Traumatol Turc
+JT  - Acta orthopaedica et traumatologica turcica
+JID - 9424806
+SB  - IM
+MH  - *Biomedical Technology/ethics/instrumentation/legislation & jurisprudence
+MH  - Computer Security
+MH  - *Health Information Exchange/ethics/legislation & jurisprudence
+MH  - Humans
+MH  - *Interdisciplinary Communication
+MH  - Internship and Residency/*methods
+MH  - *Mobile Applications
+MH  - Patient Care Management/*trends
+MH  - Text Messaging
+PMC - PMC7932728
+EDAT- 2021/03/03 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2021/03/02 08:39
+PHST- 2021/03/02 08:39 [entrez]
+PHST- 2021/03/03 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+AID - 10.5152/j.aott.2021.20265 [doi]
+PST - ppublish
+SO  - Acta Orthop Traumatol Turc. 2021 Jan;55(1):3-4. doi: 10.5152/j.aott.2021.20265.
+
+PMID- 30306902
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190828
+LR  - 20190828
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 255
+DP  - 2018
+TI  - Development of a Secure Cross-Institutional Data Collection System Based on
+      Distributed Standardized EMR Storage.
+PG  - 35-39
+AB  - This paper describes a secure data collection infrastructure involving
+      standardized electronic medical record (EMR) storage and Private Set
+      Intersection, a secure data collection technology based on Bloom filter. The
+      objective of this infrastructure is to facilitate rapid secondary use of exported
+      EMR data in cross-patient or cross-institutional analyses based on the
+      Standardized Structured Medical Information eXchange (SS-MIX), Japan's domestic
+      standard for EMR exporting. Design of the infrastructure and its underlying
+      concepts are described herein. In an experimental test, an intersection operation
+      involving approximately 1 million records was completed within a minute; this
+      result is expected to be representative of the system in actual use. In
+      forthcoming work, we plan to verify the system performance using larger data
+      sets.
+FAU - Tanaka, Katsuya
+AU  - Tanaka K
+AD  - The University of Tokyo Hospital, Tokyo, Japan.
+FAU - Yamamoto, Ryuichi
+AU  - Yamamoto R
+AD  - Medical Information System Development Center, Tokyo, Japan.
+FAU - Nakasho, Kazuhisa
+AU  - Nakasho K
+AD  - Grad. Sch. of Sci. and Technol. for Innov., Yamaguchi University, Yamaguchi,
+      Japan.
+FAU - Miyaji, Atsuko
+AU  - Miyaji A
+AD  - Grad. Sch. of Eng., Osaka University, Osaka, Japan.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Computer Security
+MH  - *Electronic Health Records
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Japan
+OTO - NOTNLM
+OT  - data collection method
+OT  - information protection
+OT  - standardization
+EDAT- 2018/10/12 06:00
+MHDA- 2019/08/29 06:00
+CRDT- 2018/10/12 06:00
+PHST- 2018/10/12 06:00 [entrez]
+PHST- 2018/10/12 06:00 [pubmed]
+PHST- 2019/08/29 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2018;255:35-39.
+
+PMID- 30945011
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190903
+LR  - 20200225
+IS  - 1573-689X (Electronic)
+IS  - 0148-5598 (Linking)
+VI  - 43
+IP  - 5
+DP  - 2019 Apr 3
+TI  - Design of a Secure Three-Factor Authentication Scheme for Smart Healthcare.
+PG  - 133
+LID - 10.1007/s10916-019-1251-3 [doi]
+AB  - Now-a-days, the society is witnessing a keen urge to enhance the quality of
+      healthcare services with the intervention of technology in the health sector. The
+      main focus in transforming traditional healthcare to smart healthcare is on
+      facilitating the patients as well as medical professionals. However, this
+      changover is not easy due to various issues of security and integrity associated 
+      with it. Security of patients's personal health record and privacy can be handled
+      well by permitting only authorized access to the confidential health-data via
+      suitably designed authentication scheme. In pursuit to contribute in this
+      direction, we came across the role of Universal Serial Bus (USB), the most widely
+      accepted interface, in enabling communication between peripheral devices and a
+      host controller like laptop, personal computer, smart phone, tablet etc. In the
+      process, we analysed a recently proposed a three-factor authentication scheme for
+      consumer USB Mass Storage Devices (MSD) by He et al. In this paper, we
+      demonstrate that He et al.'s scheme is vulnerable to leakage of temporary but
+      session specific information attacks, late detection of message replay, forward
+      secrecy attacks, and backward secrecy attacks. Then motivated with the benefits
+      of USB, we propose a secure three-factor authentication scheme for smart
+      healthcare.
+FAU - Renuka, Km
+AU  - Renuka K
+AD  - Department of Mathematics, Chaudhary Charan Singh University, Meerut, Uttar
+      Pradesh, 250004, India.
+FAU - Kumari, Saru
+AU  - Kumari S
+AD  - Department of Mathematics, Chaudhary Charan Singh University, Meerut, Uttar
+      Pradesh, 250004, India.
+FAU - Li, Xiong
+AU  - Li X
+AD  - School of Computer Science and Engineering, Hunan University of Science and
+      Technology, Xiangtan, 411201, China. lixiongzhq@163.com.
+LA  - eng
+GR  - 2018JJ3191/Natural Science Foundation of Hunan Province (CN)
+PT  - Journal Article
+DEP - 20190403
+PL  - United States
+TA  - J Med Syst
+JT  - Journal of medical systems
+JID - 7806056
+SB  - IM
+MH  - Communication
+MH  - Computer Security/*standards
+MH  - Computer Systems/*standards
+MH  - Confidentiality
+MH  - Electronic Health Records/standards
+MH  - Health Information Exchange/*standards
+MH  - Humans
+OTO - NOTNLM
+OT  - Forward/ backward secrecy
+OT  - Mass storage device
+OT  - Message replay
+OT  - Three-factor authentication
+OT  - Universal serial bus
+EDAT- 2019/04/05 06:00
+MHDA- 2019/09/04 06:00
+CRDT- 2019/04/05 06:00
+PHST- 2018/11/24 00:00 [received]
+PHST- 2019/03/15 00:00 [accepted]
+PHST- 2019/04/05 06:00 [entrez]
+PHST- 2019/04/05 06:00 [pubmed]
+PHST- 2019/09/04 06:00 [medline]
+AID - 10.1007/s10916-019-1251-3 [doi]
+AID - 10.1007/s10916-019-1251-3 [pii]
+PST - epublish
+SO  - J Med Syst. 2019 Apr 3;43(5):133. doi: 10.1007/s10916-019-1251-3.
+
+PMID- 31185798
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200730
+LR  - 20200730
+IS  - 2164-6708 (Electronic)
+IS  - 1526-9248 (Linking)
+VI  - 29
+IP  - 3
+DP  - 2019 Sep
+TI  - Improving Speed and Security When Sharing Protected Health Information of
+      Deceased Organ Donors.
+PG  - 279-282
+LID - 10.1177/1526924819855077 [doi]
+AB  - Because extensive data from medical records are gathered by organ procurement
+      teams, the process of data transfer between sites created a data security risk.
+      This includes the use of fax machines, courier services, and employees' vehicles.
+      Even health records transmitted over public Wi-Fi become at risk for a data
+      breach. The Plan-Do-Study-Act method for performance improvement was used to
+      address this time-consuming and labor-intensive process. A secured virtual
+      private network from within the donor hospital site setting was developed to
+      improve the transfer of images and data. The goal was to improve the process and 
+      increase data security. Once the new network was in place, the process steps
+      decreased and eliminated data vulnerability. Average process time decreased by
+      approximately 1 hour. Organs procured increased from pre (expected 3, observed 2)
+      to post (expected 3, observed 5) implementation of the new process.
+FAU - Trageser, Jeffrey
+AU  - Trageser J
+AUID- ORCID: 0000-0003-2287-5257
+AD  - 1 Lifesharing, University of California San Diego Health, San Diego, CA, USA.
+FAU - Davidson, Judy E
+AU  - Davidson JE
+AD  - 1 Lifesharing, University of California San Diego Health, San Diego, CA, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20190611
+PL  - United States
+TA  - Prog Transplant
+JT  - Progress in transplantation (Aliso Viejo, Calif.)
+JID - 100909380
+MH  - *Computer Communication Networks
+MH  - *Computer Security
+MH  - *Confidentiality
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Implementation Science
+MH  - Nurses
+MH  - *Tissue Donors
+MH  - Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - *data protection
+OT  - *data security
+OT  - *echocardiography
+OT  - *organ donation
+OT  - *procurement
+OT  - *telemedicine
+OT  - *transplant
+EDAT- 2019/06/13 06:00
+MHDA- 2020/07/31 06:00
+CRDT- 2019/06/13 06:00
+PHST- 2019/06/13 06:00 [pubmed]
+PHST- 2020/07/31 06:00 [medline]
+PHST- 2019/06/13 06:00 [entrez]
+AID - 10.1177/1526924819855077 [doi]
+PST - ppublish
+SO  - Prog Transplant. 2019 Sep;29(3):279-282. doi: 10.1177/1526924819855077. Epub 2019
+      Jun 11.
+
+PMID- 29737872
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200608
+LR  - 20200608
+IS  - 1532-7027 (Electronic)
+IS  - 1041-0236 (Linking)
+VI  - 34
+IP  - 10
+DP  - 2019 Sep
+TI  - The Effects of Public Concern for Information Privacy on the Adoption of Health
+      Information Exchanges (HIEs) by Healthcare Entities.
+PG  - 1202-1211
+LID - 10.1080/10410236.2018.1471336 [doi]
+AB  - The implementation of Health Information Exchanges (HIEs) by healthcare
+      organizations may not achieve the desired outcomes as consumers may request that 
+      their health information remains unshared because of information privacy
+      concerns. Drawing on the insights of concern for information privacy (CFIP)
+      literature, this work extends the application of CFIP to the HIE domain. This
+      study attempts to develop and test a model centered on the four dimensions of
+      CFIP construct (collection, errors, unauthorized access, and secondary use) and
+      their antecedents to predict consumers' opt-in behavioral intention toward HIE in
+      the presence of the perceived health status' effects. We conducted an online
+      survey in the United States using 826 samples. The results demonstrate that the
+      perceived health information sensitivity and computer anxiety meaningfully
+      contribute to information privacy concerns and CFIP construct significantly
+      impedes consumers' opt-in decision to HIEs. Interestingly, contrary to our
+      expectation, perceived poor health status considerably attenuates the negative
+      effects exerted by CFIP on opt-in intention. The model proposed by this study can
+      be used as a useful conceptual tool by both further studies and practitioners to 
+      examine the complex nature of patients' reactions to information privacy threats 
+      associated with the use of HIE technology in the healthcare industry.
+FAU - Esmaeilzadeh, Pouyan
+AU  - Esmaeilzadeh P
+AD  - a Department of Information Systems and Business Analytics, College of Business, 
+      Florida International University.
+LA  - eng
+PT  - Journal Article
+DEP - 20180508
+PL  - England
+TA  - Health Commun
+JT  - Health communication
+JID - 8908762
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Attitude to Computers
+MH  - Computer Security/*standards
+MH  - Confidentiality/*standards
+MH  - Female
+MH  - Health Information Exchange/*standards
+MH  - Health Status
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Perception
+MH  - Sex Factors
+MH  - Socioeconomic Factors
+MH  - United States
+MH  - Young Adult
+EDAT- 2018/05/09 06:00
+MHDA- 2020/06/09 06:00
+CRDT- 2018/05/09 06:00
+PHST- 2018/05/09 06:00 [pubmed]
+PHST- 2020/06/09 06:00 [medline]
+PHST- 2018/05/09 06:00 [entrez]
+AID - 10.1080/10410236.2018.1471336 [doi]
+PST - ppublish
+SO  - Health Commun. 2019 Sep;34(10):1202-1211. doi: 10.1080/10410236.2018.1471336.
+      Epub 2018 May 8.
+
+PMID- 31112761
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200911
+LR  - 20200911
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Linking)
+VI  - 95
+DP  - 2019 Jul
+TI  - Concept to gain trust for a German personal health record system using public
+      cloud and FHIR.
+PG  - 103212
+LID - S1532-0464(19)30131-5 [pii]
+LID - 10.1016/j.jbi.2019.103212 [doi]
+AB  - OBJECTIVE: Although a national Personal Health Record (PHR) infrastructure was
+      supposed to have been introduced in Germany by law in 2006 and different
+      providers are entering the market, no system has yet been widely adopted in
+      Germany. There is also little information available on how current technical
+      advancements affect German patients' and physicians' trust in PHR systems.
+      METHODS: Supporting scenarios obtained from clinicians, this study proposes a
+      concept for a German PHR system using a public cloud infrastructure, smartphone
+      access and focusing on trust, privacy, and interoperability. In advance to an
+      eventual implementation, a multi-center questionnaire study has been conducted to
+      predict patients' and physicians' intention to use that system and evaluate their
+      trust in different providers of such a system. RESULTS: Our results show that
+      both patients and physicians are highly likely to use the PHR based on the
+      present concept. Trust in healthcare providers exceeds trust in other
+      institutions like private companies, health insurance companies, or even
+      governmental institutions when offering such a PHR system. CONCLUSIONS: We
+      recommend the implementation of this PHR system. To maximize patients' and
+      physicians' trust in the system, it should be offered to patients by their
+      healthcare provider. Further evaluation regarding its actual adoption and
+      expected improvement in patient outcome based on the scenarios is advisable.
+CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
+FAU - Ploner, Nico
+AU  - Ploner N
+AD  - Department of Medical Informatics, Biometrics and Epidemiology, Unit for Medical 
+      Informatics, Friedrich-Alexander-University Erlangen-Nurnberg (FAU), Wetterkreuz 
+      13, 91058 Erlangen, Germany. Electronic address: nico.ploner@fau.de.
+FAU - Neurath, Markus F
+AU  - Neurath MF
+AD  - Department of Medicine 1, Division of Gastroenterology, Pneumology and
+      Endocrinology, Ludwig Demling Endoscopy Center of Excellence,
+      Friedrich-Alexander-University Erlangen-Nurnberg (FAU), Ulmenweg 18, 91054
+      Erlangen, Germany. Electronic address: markus.neurath@uk-erlangen.de.
+FAU - Schoenthaler, Martin
+AU  - Schoenthaler M
+AD  - Department of Urology, Medical Center - University of Freiburg, Faculty of
+      Medicine, University of Freiburg, Hugstetter Str. 55, 79106 Freiburg, Germany.
+      Electronic address: martin.schoenthaler@uniklinik-freiburg.de.
+FAU - Zielke, Andreas
+AU  - Zielke A
+AD  - Diakonie-Klinikum Stuttgart, Klinik fur Endokrine Chirurgie, Endokrines Zentrum
+      Stuttgart, Rosenbergstrasse 38, 70176 Stuttgart, Germany. Electronic address:
+      andreas.zielke@diak-stuttgart.de.
+FAU - Prokosch, Hans-Ulrich
+AU  - Prokosch HU
+AD  - Department of Medical Informatics, Biometrics and Epidemiology, Unit for Medical 
+      Informatics, Friedrich-Alexander-University Erlangen-Nurnberg (FAU), Wetterkreuz 
+      13, 91058 Erlangen, Germany. Electronic address: hans-ulrich.prokosch@fau.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20190518
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - *Cloud Computing
+MH  - Computer Communication Networks
+MH  - Computer Security
+MH  - *Electronic Health Records
+MH  - Female
+MH  - Germany
+MH  - *Health Information Exchange
+MH  - Health Knowledge, Attitudes, Practice
+MH  - *Health Records, Personal
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Physicians
+MH  - Smartphone
+MH  - *Trust
+MH  - Young Adult
+OTO - NOTNLM
+OT  - *Electronic medical records
+OT  - *FHIR
+OT  - *Health information exchange
+OT  - *Personal health records
+EDAT- 2019/05/22 06:00
+MHDA- 2020/09/12 06:00
+CRDT- 2019/05/22 06:00
+PHST- 2018/09/28 00:00 [received]
+PHST- 2019/04/17 00:00 [revised]
+PHST- 2019/05/17 00:00 [accepted]
+PHST- 2019/05/22 06:00 [pubmed]
+PHST- 2020/09/12 06:00 [medline]
+PHST- 2019/05/22 06:00 [entrez]
+AID - S1532-0464(19)30131-5 [pii]
+AID - 10.1016/j.jbi.2019.103212 [doi]
+PST - ppublish
+SO  - J Biomed Inform. 2019 Jul;95:103212. doi: 10.1016/j.jbi.2019.103212. Epub 2019
+      May 18.
+
+PMID- 32049356
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210312
+LR  - 20210312
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 27
+IP  - 4
+DP  - 2020 Apr 1
+TI  - Hospital adoption of multiple health information exchange approaches and
+      information accessibility.
+PG  - 577-583
+LID - 10.1093/jamia/ocaa003 [doi]
+AB  - OBJECTIVE: Hospital engagement in electronic health information exchange (HIE)
+      has increased over recent years. We aimed to 1) determine the change in adoption 
+      of 3 types of information exchange: secure messaging, provider portals, and use
+      of an HIE; and 2) to assess if growth in each approach corresponded to increased 
+      ability to access and integrate patient information from outside providers.
+      METHODS: Panel analysis of all nonfederal, acute care hospitals in the United
+      States using hospital- and year-fixed effects. The sample consisted of 1917
+      hospitals that responded to the American Hospital Association Information
+      Technology Supplement every year from 2014 to 2016. RESULTS: Adoption of each
+      approach increased by 9-15 percentage points over the study period. The average
+      number of HIE approaches used by each hospital increased from 1.0 to 1.4.
+      Adoption of each approach was associated with increased likelihood that providers
+      routinely had necessary outside information of 4.2-12.7 percentage points and
+      4.5-13.3 percentage points increase in information integration. Secure messaging 
+      was associated with the largest increase in both. Adoption of 1 approach
+      increased the likelihood of having outside information by 10.3 percentage points,
+      while adopting a second approach further increased the likelihood by 9.5
+      percentage points. Trends in number of approaches and integration were similar.
+      DISCUSSION/CONCLUSION: No single HIE tool provided high levels of usable,
+      integrated health information. Instead, hospitals benefited from adopting
+      multiple tools. Policy initiatives that reduce the complexity of enabling high
+      value HIE could result in broader adoption of HIE and use of information to
+      inform care.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Everson, Jordan
+AU  - Everson J
+AD  - School of Medicine Department of Health Policy, Vanderbilt University, Nashville,
+      Tennessee, USA.
+FAU - Butler, Evan
+AU  - Butler E
+AD  - School of Medicine Department of Health Policy, Vanderbilt University, Nashville,
+      Tennessee, USA.
+LA  - eng
+GR  - K12 HS026395/HS/AHRQ HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Computer Security
+MH  - Diffusion of Innovation
+MH  - Health Information Exchange/*trends
+MH  - Health Information Interoperability/trends
+MH  - Hospital Administration/*statistics & numerical data/trends
+MH  - Medical Informatics
+MH  - United States
+PMC - PMC7647262
+OTO - NOTNLM
+OT  - *health information exchange
+OT  - *health information technology adoption
+OT  - *hospitals
+OT  - *interoperability
+OT  - *secure messaging
+EDAT- 2020/02/13 06:00
+MHDA- 2021/03/13 06:00
+CRDT- 2020/02/13 06:00
+PHST- 2019/08/11 00:00 [received]
+PHST- 2019/11/13 00:00 [revised]
+PHST- 2020/01/17 00:00 [accepted]
+PHST- 2020/02/13 06:00 [pubmed]
+PHST- 2021/03/13 06:00 [medline]
+PHST- 2020/02/13 06:00 [entrez]
+AID - 5734735 [pii]
+AID - 10.1093/jamia/ocaa003 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2020 Apr 1;27(4):577-583. doi: 10.1093/jamia/ocaa003.
+
+PMID- 28946597
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180917
+LR  - 20180917
+IS  - 1878-7401 (Electronic)
+IS  - 0928-7329 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2018
+TI  - Development of a gateway for interoperability in community-based care: An
+      empirical study.
+PG  - 57-67
+LID - 10.3233/THC-170841 [doi]
+AB  - BACKGROUND: Information and communications technology has attracted attention as 
+      a useful way of sharing care records in community-based care. Such information
+      sharing systems, however, imposed the burden of inputting the same records into
+      different information systems due to a lack of interoperability of the systems.
+      OBJECTIVES: The purpose of this study was to develop a gateway that links
+      information systems and to investigate the functionality and usability of the
+      gateway through an empirical study. METHODS: We developed a gateway with
+      healthcare and welfare professionals in Kashiwa city, Japan. The gateway system
+      consisted of two sub-systems: a data exchange sub-system and a common sub-system.
+      Regarding the security, we used the transport layer security 1.2 and a public key
+      infrastructure. For document formats, we utilized the health level seven
+      international, extensible markup language, and portable document format. In
+      addition, we performed an empirical study with 11 scenarios of four simulated
+      patients and a questionnaire survey to the professionals. RESULTS: Professionals 
+      of eight occupations participated the empirical study and verified the gateway to
+      link information systems of six vendors. For a questionnaire survey, 32
+      professionals out of 40 reported that the gateway would eliminate the burden of
+      inputting the same records into different information systems.
+FAU - Ota, Sakiko
+AU  - Ota S
+AD  - Institute of Gerontology, The University of Tokyo, Tokyo, Japan.
+FAU - Kudo, Ken-Ichi
+AU  - Kudo KI
+AD  - Hirosaki University, Aomori, Japan.
+FAU - Taguchi, Kenta
+AU  - Taguchi K
+AD  - Nomura Research Institute, Tokyo, Japan.
+FAU - Ihori, Mikio
+AU  - Ihori M
+AD  - Institute of Gerontology, The University of Tokyo, Tokyo, Japan.
+FAU - Yoshie, Satoru
+AU  - Yoshie S
+AD  - Institute of Gerontology, The University of Tokyo, Tokyo, Japan.
+AD  - Center for Home Care Medicine, The University of Tokyo, Tokyo, Japan.
+FAU - Yamamoto, Takuma
+AU  - Yamamoto T
+AD  - Institute of Gerontology, The University of Tokyo, Tokyo, Japan.
+FAU - Sudoh, Osamu
+AU  - Sudoh O
+AD  - Graduate School of Interdisciplinary Information Studies, The University of
+      Tokyo, Tokyo, Japan.
+FAU - Tsuji, Tetsuo
+AU  - Tsuji T
+AD  - Institute of Gerontology, The University of Tokyo, Tokyo, Japan.
+FAU - Iijima, Katsuya
+AU  - Iijima K
+AD  - Institute of Gerontology, The University of Tokyo, Tokyo, Japan.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Technol Health Care
+JT  - Technology and health care : official journal of the European Society for
+      Engineering and Medicine
+JID - 9314590
+SB  - IM
+MH  - Adult
+MH  - Community Health Services/*organization & administration
+MH  - Computer Security
+MH  - Female
+MH  - Guideline Adherence
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Japan
+MH  - Male
+MH  - Medical Records Systems, Computerized/organization & administration
+MH  - Middle Aged
+MH  - Practice Guidelines as Topic
+MH  - Simulation Training
+MH  - Social Work/*organization & administration
+OTO - NOTNLM
+OT  - Health information system
+OT  - community network
+OT  - electronic health record
+OT  - home care service
+OT  - long-term care
+EDAT- 2017/09/28 06:00
+MHDA- 2018/09/18 06:00
+CRDT- 2017/09/27 06:00
+PHST- 2017/09/28 06:00 [pubmed]
+PHST- 2018/09/18 06:00 [medline]
+PHST- 2017/09/27 06:00 [entrez]
+AID - THC170841 [pii]
+AID - 10.3233/THC-170841 [doi]
+PST - ppublish
+SO  - Technol Health Care. 2018;26(1):57-67. doi: 10.3233/THC-170841.
+
+PMID- 30195418
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190107
+LR  - 20190107
+IS  - 1872-7565 (Electronic)
+IS  - 0169-2607 (Linking)
+VI  - 164
+DP  - 2018 Oct
+TI  - A secure biometrics-based authentication key exchange protocol for multi-server
+      TMIS using ECC.
+PG  - 101-109
+LID - S0169-2607(18)30526-1 [pii]
+LID - 10.1016/j.cmpb.2018.07.008 [doi]
+AB  - BACKGROUND AND OBJECTIVES: Telecare Medicine Information System (TMIS) enables
+      physicians to efficiently and conveniently make certain diagnoses and medical
+      treatment for patients over the insecure public Internet. To ensure patients
+      securely access to medicinal services, many authentication schemes have been
+      proposed. Although numerous cryptographic authentication schemes for TMIS have
+      been proposed with the aim to ensure data security, user privacy and
+      authentication, various forms of attacks make these schemes impractical. METHODS:
+      To design a truly secure and practical authentication scheme for TMIS, a new
+      biometrics-based authentication key exchange protocol for multi-server TMIS
+      without sharing the system private key with distributed servers is presented in
+      this work. RESULTS: Our proposed protocol has perfect security features including
+      mutual authentication, user anonymity, perfect forward secrecy and resisting
+      various well-known attacks, and these security feathers are confirmed by the BAN 
+      logic and heuristic cryptanalysis, respectively. CONCLUSIONS: A secure
+      biometrics-based authentication key exchange protocol for multi-server TMIS is
+      presented in this work, which has perfect security properties including perfect
+      forward secrecy, supporting user anonymity, etc., and can withstand various
+      attacks such as impersonation attack, off-line password guessing attack, etc..
+      Considering security is the most important factor for an authentication scheme,
+      so our scheme is more suitable for multi-server TMIS.
+CI  - Copyright (c) 2018 Elsevier B.V. All rights reserved.
+FAU - Qi, Mingping
+AU  - Qi M
+AD  - School of Mathematics and Statistics, Wuhan University, Wuhan 430072, China.
+      Electronic address: mpqi_math@163.com.
+FAU - Chen, Jianhua
+AU  - Chen J
+AD  - School of Mathematics and Statistics, Wuhan University, Wuhan 430072, China.
+      Electronic address: chenjh_ecc@163.com.
+FAU - Chen, Yitao
+AU  - Chen Y
+AD  - Wuhan Maritime Communication Research Institute, Hubei 430205, China. Electronic 
+      address: chenyitao.math@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20180718
+PL  - Ireland
+TA  - Comput Methods Programs Biomed
+JT  - Computer methods and programs in biomedicine
+JID - 8506513
+SB  - IM
+MH  - Biometric Identification/*methods/standards/statistics & numerical data
+MH  - Computer Security/*standards/statistics & numerical data
+MH  - Confidentiality
+MH  - Fuzzy Logic
+MH  - Health Information Exchange/*standards/statistics & numerical data
+MH  - Humans
+MH  - Information Systems/standards/statistics & numerical data
+MH  - Telemedicine/*standards/statistics & numerical data
+OTO - NOTNLM
+OT  - Authentication
+OT  - Biometrics
+OT  - Elliptic curve cryptography
+OT  - Multi-server
+OT  - Smart card
+OT  - TMIS
+EDAT- 2018/09/10 06:00
+MHDA- 2019/01/08 06:00
+CRDT- 2018/09/10 06:00
+PHST- 2018/04/16 00:00 [received]
+PHST- 2018/06/15 00:00 [revised]
+PHST- 2018/07/16 00:00 [accepted]
+PHST- 2018/09/10 06:00 [entrez]
+PHST- 2018/09/10 06:00 [pubmed]
+PHST- 2019/01/08 06:00 [medline]
+AID - S0169-2607(18)30526-1 [pii]
+AID - 10.1016/j.cmpb.2018.07.008 [doi]
+PST - ppublish
+SO  - Comput Methods Programs Biomed. 2018 Oct;164:101-109. doi:
+      10.1016/j.cmpb.2018.07.008. Epub 2018 Jul 18.

@@ -1,19 +1,19 @@
 HTTP/1.1 200 OK
-Date: Thu, 16 Dec 2021 22:55:37 GMT
+Date: Sun, 19 Dec 2021 19:17:26 GMT
 Server: Finatra
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Content-Security-Policy: upgrade-insecure-requests
 Referrer-Policy: origin-when-cross-origin
 X-Test-Test: test42
 Cache-Control: private
-NCBI-PHID: D0BD0C4BE1A3511500003DCFEDFEC0CC.1.1.m_5
-X-RateLimit-Remaining: 0
-NCBI-SID: 7809B24A5E03864E_95BFSID
+NCBI-PHID: 322C36777D9DA98500003FC460D1461F.1.1.m_5
+X-RateLimit-Remaining: 1
+NCBI-SID: 76AFDFE71D3BBD0E_2338SID
 X-RateLimit-Limit: 3
 Access-Control-Allow-Origin: *
 Content-Type: text/plain; charset=UTF-8
 Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
-Set-Cookie: ncbi_sid=7809B24A5E03864E_95BFSID; domain=.nih.gov; path=/; expires=Fri, 16 Dec 2022 22:55:37 GMT
+Set-Cookie: ncbi_sid=76AFDFE71D3BBD0E_2338SID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:26 GMT
 Vary: Accept-Encoding
 X-UA-Compatible: IE=Edge
 X-XSS-Protection: 1; mode=block
@@ -65,79 +65,6 @@ AID - 10.1056/NEJMp2003890 [doi]
 PST - ppublish
 SO  - N Engl J Med. 2020 May 7;382(19):1779-1781. doi: 10.1056/NEJMp2003890. Epub 2020 
       Mar 11.
-
-PMID- 30088025
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190910
-LR  - 20190910
-IS  - 1433-0563 (Electronic)
-IS  - 0340-2592 (Linking)
-VI  - 57
-IP  - 9
-DP  - 2018 Sep
-TI  - [Strategies for digitalizing the hospital of the future].
-PG  - 1031-1039
-LID - 10.1007/s00120-018-0731-2 [doi]
-AB  - Digitalization cannot be understood as an off-the-shelf product, bought as a
-      one-time purchase in a warehouse. It rather requires a constantly developing
-      vision, which comes with a continuous transformation process, hand in hand with
-      strategic innovation management. Thus, digitalization means understanding the
-      digital maturity level of an enterprise and the digital skills of the employees. 
-      Besides an investment in products, a successful digitalization process also
-      necessitates consideration of the cost to release employees from their
-      obligations in order to contribute to the process as well as for a dedicated and 
-      continuing staff training and education program. While digitalization in Germany 
-      is underdeveloped regarding both the national health infrastructure and the level
-      of digitalization in hospitals, German clinics are recognizing more and more the 
-      importance of digitalization and are initiating digitalization strategies. In
-      this regard, we can learn from our European partners, who have partially
-      established advanced and innovative solutions. Looking into these flagship
-      projects can help to see potentials and to identify valuable building blocks for 
-      our own strategy.
-FAU - Deiters, W
-AU  - Deiters W
-AD  - Hochschule fur Gesundheit, Gesundheitscampus 6-8, 44801, Bochum, Deutschland.
-      wolfgang.deiters@hs-gesundheit.de.
-FAU - Burmann, A
-AU  - Burmann A
-AD  - Fraunhofer-Institut fur Software- und Systemtechnik, Dortmund, Deutschland.
-FAU - Meister, S
-AU  - Meister S
-AD  - Fraunhofer-Institut fur Software- und Systemtechnik, Dortmund, Deutschland.
-LA  - ger
-PT  - Journal Article
-PT  - Review
-TT  - Digitalisierungsstrategien fur das Krankenhaus der Zukunft.
-PL  - Germany
-TA  - Urologe A
-JT  - Der Urologe. Ausg. A
-JID - 1304110
-SB  - IM
-MH  - *Delivery of Health Care
-MH  - *Electronic Health Records/trends
-MH  - Forecasting
-MH  - Germany
-MH  - *Health Information Exchange
-MH  - Hospitals/*trends
-MH  - Humans
-MH  - Patient Care/*trends
-OTO - NOTNLM
-OT  - Clinical logistics
-OT  - Health communication
-OT  - Health information exchange
-OT  - Patient data
-OT  - Training
-EDAT- 2018/08/09 06:00
-MHDA- 2019/09/11 06:00
-CRDT- 2018/08/09 06:00
-PHST- 2018/08/09 06:00 [pubmed]
-PHST- 2019/09/11 06:00 [medline]
-PHST- 2018/08/09 06:00 [entrez]
-AID - 10.1007/s00120-018-0731-2 [doi]
-AID - 10.1007/s00120-018-0731-2 [pii]
-PST - ppublish
-SO  - Urologe A. 2018 Sep;57(9):1031-1039. doi: 10.1007/s00120-018-0731-2.
 
 PMID- 29759054
 OWN - NLM
@@ -1410,120 +1337,6 @@ PST - ppublish
 SO  - Support Care Cancer. 2021 Jun;29(6):3061-3067. doi: 10.1007/s00520-020-05810-5.
       Epub 2020 Oct 12.
 
-PMID- 30741186
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190829
-LR  - 20190829
-IS  - 1879-8365 (Electronic)
-IS  - 0926-9630 (Linking)
-VI  - 257
-DP  - 2019
-TI  - Use of Agile Project Methodology in Health Care IT Implementations: A Scoping
-      Review.
-PG  - 140-145
-AB  - Health care organizations are investing in system solutions that can be leveraged
-      across the continuum of care (i.e. electronic medical records (EMR's); electronic
-      health records (EHR's); health information exchanges (HIE's) and patient portals.
-      The importance of these systems and how they have evolved over the past 30 years 
-      has been well researched. The value and benefits of these systems are therefore
-      well known; however, it is estimated that most projects are typically 100% over
-      budget and a year behind schedule [1, p. 2]. In this paper the authors examine
-      what literature is available on agile project management methodologies in health 
-      care settings. A scoping review of the literature available specifically on agile
-      methods use in implementing systems within health care was undertaken. Findings
-      revealed there is very little literature available on agile project management
-      methodologies used in health care IT systems implementations. The authors
-      identify there is a strong need for research to look into project management
-      methodologies and identify areas in the project lifecycle, where change is needed
-      to increase clinical systems adoption.
-FAU - Goodison, Rav
-AU  - Goodison R
-AD  - School of Health Information Science, University of Victoria, Victoria, Canada.
-FAU - Borycki, Elizabeth M
-AU  - Borycki EM
-AD  - School of Health Information Science, University of Victoria, Victoria, Canada.
-FAU - Kushniruk, Andre W
-AU  - Kushniruk AW
-AD  - School of Health Information Science, University of Victoria, Victoria, Canada.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-PL  - Netherlands
-TA  - Stud Health Technol Inform
-JT  - Studies in health technology and informatics
-JID - 9214582
-MH  - Delivery of Health Care
-MH  - *Electronic Health Records
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Medical Informatics
-OTO - NOTNLM
-OT  - agile implementations
-OT  - agile methods
-OT  - health systems
-OT  - implementation science
-OT  - implementations
-OT  - project management
-EDAT- 2019/02/12 06:00
-MHDA- 2019/08/30 06:00
-CRDT- 2019/02/12 06:00
-PHST- 2019/02/12 06:00 [entrez]
-PHST- 2019/02/12 06:00 [pubmed]
-PHST- 2019/08/30 06:00 [medline]
-PST - ppublish
-SO  - Stud Health Technol Inform. 2019;257:140-145.
-
-PMID- 29947078
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20191030
-LR  - 20191030
-IS  - 1365-2133 (Electronic)
-IS  - 0007-0963 (Linking)
-VI  - 179
-IP  - 4
-DP  - 2018 Oct
-TI  - Beyond Bitcoin: potential applications of blockchain technology in dermatology.
-PG  - 1013-1014
-LID - 10.1111/bjd.16922 [doi]
-FAU - Tung, J K
-AU  - Tung JK
-AD  - Harvard Medical School, Boston, MA, U.S.A.
-AD  - Department of Dermatology, Brigham and Women's Hospital, 221 Longwood Ave,
-      Boston, MA, 02115, U.S.A.
-FAU - Nambudiri, V E
-AU  - Nambudiri VE
-AUID- ORCID: 0000-0002-4170-7681
-AD  - Harvard Medical School, Boston, MA, U.S.A.
-AD  - Department of Dermatology, Brigham and Women's Hospital, 221 Longwood Ave,
-      Boston, MA, 02115, U.S.A.
-LA  - eng
-PT  - Letter
-DEP - 20180814
-PL  - England
-TA  - Br J Dermatol
-JT  - The British journal of dermatology
-JID - 0004041
-SB  - IM
-MH  - *Computer Security
-MH  - Dermatology/*organization & administration
-MH  - *Health Information Exchange
-MH  - Health Information Interoperability
-MH  - Information Dissemination/*methods
-MH  - Intersectoral Collaboration
-MH  - Technology
-EDAT- 2018/06/28 06:00
-MHDA- 2019/10/31 06:00
-CRDT- 2018/06/28 06:00
-PHST- 2018/06/28 06:00 [pubmed]
-PHST- 2019/10/31 06:00 [medline]
-PHST- 2018/06/28 06:00 [entrez]
-AID - 10.1111/bjd.16922 [doi]
-PST - ppublish
-SO  - Br J Dermatol. 2018 Oct;179(4):1013-1014. doi: 10.1111/bjd.16922. Epub 2018 Aug
-      14.
-
 PMID- 29802088
 OWN - NLM
 STAT- MEDLINE
@@ -2204,55 +2017,6 @@ PHST- 2018/06/26 06:00 [medline]
 PST - ppublish
 SO  - Stud Health Technol Inform. 2018;248:239-246.
 
-PMID- 29538729
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20191122
-LR  - 20211204
-IS  - 1741-3850 (Electronic)
-IS  - 1741-3842 (Linking)
-VI  - 40
-IP  - suppl_1
-DP  - 2018 Mar 1
-TI  - Editorial for the Special Issue of JPH-Autumn 2017.
-PG  - i1-i2
-LID - 10.1093/pubmed/fdx163 [doi]
-FAU - Rushmer, Rosemary
-AU  - Rushmer R
-AD  - Fuse, The Centre for Translational Research in Public Health, UK.
-FAU - van Oers, Hans
-AU  - van Oers H
-AD  - Rijksinstituut voor Volksgezondheid en Milieu (RIVM), National Institute for
-      Public Health and the Environment and Professor in Public Health, Tilburg
-      University/Tranzo Scientific Center for Care and Welfare, the Netherlands.
-FAU - Kothari, Anita
-AU  - Kothari A
-AD  - School of Health Studies, The University of Western Ontario, Canada.
-LA  - eng
-PT  - Editorial
-PT  - Introductory Journal Article
-PL  - England
-TA  - J Public Health (Oxf)
-JT  - Journal of public health (Oxford, England)
-JID - 101188638
-SB  - IM
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - *Information Dissemination
-MH  - *Public Health
-MH  - *Translational Research, Biomedical
-EDAT- 2018/03/15 06:00
-MHDA- 2019/11/23 06:00
-CRDT- 2018/03/15 06:00
-PHST- 2017/10/30 00:00 [received]
-PHST- 2018/03/15 06:00 [entrez]
-PHST- 2018/03/15 06:00 [pubmed]
-PHST- 2019/11/23 06:00 [medline]
-AID - 4925603 [pii]
-AID - 10.1093/pubmed/fdx163 [doi]
-PST - ppublish
-SO  - J Public Health (Oxf). 2018 Mar 1;40(suppl_1):i1-i2. doi: 10.1093/pubmed/fdx163.
-
 PMID- 34042784
 OWN - NLM
 STAT- MEDLINE
@@ -2758,84 +2522,6 @@ AID - 10.1016/j.ijmedinf.2019.104058 [doi]
 PST - ppublish
 SO  - Int J Med Inform. 2020 Mar;135:104058. doi: 10.1016/j.ijmedinf.2019.104058. Epub 
       2019 Dec 21.
-
-PMID- 31444230
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20200224
-LR  - 20201001
-IS  - 2632-1009 (Electronic)
-IS  - 2632-1009 (Linking)
-VI  - 26
-IP  - 1
-DP  - 2019 Aug
-TI  - Physician leadership and health information exchange: literature review.
-LID - e100080 [pii]
-LID - 10.1136/bmjhci-2019-100080 [doi]
-AB  - BACKGROUND: Notwithstanding two decades of health information exchange (HIE)
-      failures across the country, the US government has incorporated HIE into
-      Meaningful Use Stage 2, which, in turn, has sparked renewed physicians' interest 
-      in HIE. OBJECTIVE: The purpose of this paper was to conduct a literature review
-      to understand how physician leadership might have assisted in supporting
-      organisations in achieving HIE collaboration. METHOD: The authors conducted a
-      review of the literature about HIE and physician challenges from 2009 to present 
-      to identify peer-reviewed publications which might apply. Reviewers abstracted
-      each publication for predetermined issues related to physician leadership. Themes
-      were identified based on the literature findings. RESULTS: The literature review 
-      demonstrated four important themes (physician leader characteristics) that can
-      assist in bridging the gap and creating collaboration in an HIE. The themes found
-      in this study were: trust among physicians, promote involvement and buy-in,
-      infuse value proposition and competition. CONCLUSION: This paper contributes to
-      the healthcare literature by conducting a literature review of the existing
-      literature of surrounding HIE implementation and physician leaders. Specifically,
-      we sought to gain insight into the change process and how physician leaders have 
-      demonstrated an impact on the process. This research is the first of its kind to 
-      synthesise leadership issues related to HIE and specifically explore the role of 
-      physician leader impact on HIE.
-CI  - (c) Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No
-      commercial re-use. See rights and permissions. Published by BMJ.
-FAU - Heath, Michele L
-AU  - Heath ML
-AUID- ORCID: http://orcid.org/0000-0003-3151-9799
-AD  - Cleveland State University, Cleveland, Ohio, USA m.heath@csuohio.edu.
-FAU - Porter, Tracy H
-AU  - Porter TH
-AD  - Cleveland State University, Cleveland, Ohio, USA.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-PL  - England
-TA  - BMJ Health Care Inform
-JT  - BMJ health & care informatics
-JID - 101745500
-SB  - IM
-MH  - Cooperative Behavior
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - *Leadership
-MH  - Meaningful Use
-MH  - *Physicians
-PMC - PMC7062346
-OTO - NOTNLM
-OT  - health information exchange
-OT  - healthcare
-OT  - leadership
-OT  - physician leadership
-COIS- Competing interests: None declared.
-EDAT- 2019/08/25 06:00
-MHDA- 2020/02/25 06:00
-CRDT- 2019/08/25 06:00
-PHST- 2019/06/05 00:00 [received]
-PHST- 2019/07/26 00:00 [revised]
-PHST- 2019/07/30 00:00 [accepted]
-PHST- 2019/08/25 06:00 [entrez]
-PHST- 2019/08/25 06:00 [pubmed]
-PHST- 2020/02/25 06:00 [medline]
-AID - bmjhci-2019-100080 [pii]
-AID - 10.1136/bmjhci-2019-100080 [doi]
-PST - ppublish
-SO  - BMJ Health Care Inform. 2019 Aug;26(1). pii: bmjhci-2019-100080. doi:
-      10.1136/bmjhci-2019-100080.
 
 PMID- 31199293
 OWN - NLM
@@ -5008,74 +4694,6 @@ AID - 10.2196/16690 [doi]
 PST - epublish
 SO  - J Med Internet Res. 2019 Oct 27;21(10):e16690. doi: 10.2196/16690.
 
-PMID- 31182664
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20200413
-LR  - 20200413
-IS  - 1535-5675 (Electronic)
-IS  - 0091-4916 (Linking)
-VI  - 47
-IP  - 4
-DP  - 2019 Dec
-TI  - Review of HIPAA, Part 1: History, Protected Health Information, and Privacy and
-      Security Rules.
-PG  - 269-272
-LID - 10.2967/jnmt.119.227819 [doi]
-AB  - The Health Insurance Portability and Accountability Act (HIPAA) of 1996 has made 
-      an impact on the operation of health-care organizations. HIPAA includes 5 titles,
-      and its regulations are complex. Many are familiar with the HIPAA aspects that
-      address protection of the privacy and security of patients' medical records.
-      There are new rules to HIPAA that address the implementation of electronic
-      medical records. HIPAA provides rules for protected health information (PHI) and 
-      what should be protected and secured. The privacy rule regulates the use and
-      disclosure of PHI and sets standards that an entity working with health data must
-      follow to protect patients' private medical information. The HIPAA security rule 
-      complements the privacy rule and requires entities to implement physical,
-      technical, and administrative safeguards to protect the privacy of PHI. This
-      article-part 1 of a 2-part series-is a refresher on HIPAA, its history, its
-      rules, its implications, and the role that imaging professionals play.
-CI  - (c) 2019 by the Society of Nuclear Medicine and Molecular Imaging.
-FAU - Moore, Wilnellys
-AU  - Moore W
-AD  - Doisy College of Health Sciences, Saint Louis University, St. Louis, Missouri.
-FAU - Frye, Sarah
-AU  - Frye S
-AD  - Doisy College of Health Sciences, Saint Louis University, St. Louis, Missouri
-      sarah.frye@health.slu.edu.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20190610
-PL  - United States
-TA  - J Nucl Med Technol
-JT  - Journal of nuclear medicine technology
-JID - 0430303
-SB  - IM
-MH  - Guideline Adherence
-MH  - Health Information Exchange/*legislation & jurisprudence
-MH  - *Health Insurance Portability and Accountability Act
-MH  - Privacy/*legislation & jurisprudence
-MH  - United States
-OTO - NOTNLM
-OT  - HIPAA
-OT  - patient rights
-OT  - privacy law
-OT  - security law
-EDAT- 2019/06/12 06:00
-MHDA- 2020/04/14 06:00
-CRDT- 2019/06/12 06:00
-PHST- 2019/02/25 00:00 [received]
-PHST- 2019/05/07 00:00 [accepted]
-PHST- 2019/06/12 06:00 [pubmed]
-PHST- 2020/04/14 06:00 [medline]
-PHST- 2019/06/12 06:00 [entrez]
-AID - jnmt.119.227819 [pii]
-AID - 10.2967/jnmt.119.227819 [doi]
-PST - ppublish
-SO  - J Nucl Med Technol. 2019 Dec;47(4):269-272. doi: 10.2967/jnmt.119.227819. Epub
-      2019 Jun 10.
-
 PMID- 30058777
 OWN - NLM
 STAT- MEDLINE
@@ -5316,75 +4934,6 @@ AID - 10.1007/s10729-017-9396-4 [pii]
 PST - ppublish
 SO  - Health Care Manag Sci. 2018 Sep;21(3):426-438. doi: 10.1007/s10729-017-9396-4.
       Epub 2017 Feb 24.
-
-PMID- 31655749
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20200320
-LR  - 20200320
-IS  - 1558-299X (Electronic)
-IS  - 0095-4543 (Linking)
-VI  - 46
-IP  - 4
-DP  - 2019 Dec
-TI  - Tools for Population Health Management.
-PG  - 529-538
-LID - S0095-4543(19)30064-8 [pii]
-LID - 10.1016/j.pop.2019.07.012 [doi]
-AB  - As systems shift to value from fee-for-service, new tools are needed to manage
-      networks and operations, and more importantly, make meaningful impacts on patient
-      lives. The integration of data from electronic health records and claims as well 
-      as from patients and caregivers has become a key element in any population health
-      management strategy. Visualization of the most appropriate data at the right time
-      and place, while often overlooked, can make the difference between effective use 
-      and poor use of data. We provide a summary and guidance on the appropriate tools 
-      needed to be successful in population health management efforts.
-CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
-FAU - Fields, Robert W
-AU  - Fields RW
-AD  - SVP and CMO Population Health, Mount Sinai Health System, 1 Gustave Levy Place,
-      Box 1475, New York, NY 10029, USA; The Institute for Family Health. Electronic
-      address: robert.fields@mountsinai.org.
-FAU - Gandhi, Niyum
-AU  - Gandhi N
-AD  - Health System Design and Global Health, Mount Sinai Health System, 1 Gustave Levy
-      Place, Box 1475, New York, NY 10029, USA.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20190731
-PL  - United States
-TA  - Prim Care
-JT  - Primary care
-JID - 0430463
-SB  - IM
-MH  - *Health Information Exchange
-MH  - *Health Records, Personal
-MH  - Humans
-MH  - Patient Education as Topic
-MH  - Patient Participation
-MH  - *Population Health Management
-MH  - Systems Integration
-OTO - NOTNLM
-OT  - Analytics
-OT  - Data integration
-OT  - Data visualization
-OT  - Patient engagement
-OT  - Patient portals
-OT  - Population health
-OT  - Provider engagement
-OT  - Tools for population health
-EDAT- 2019/10/28 06:00
-MHDA- 2020/03/21 06:00
-CRDT- 2019/10/28 06:00
-PHST- 2019/10/28 06:00 [entrez]
-PHST- 2019/10/28 06:00 [pubmed]
-PHST- 2020/03/21 06:00 [medline]
-AID - S0095-4543(19)30064-8 [pii]
-AID - 10.1016/j.pop.2019.07.012 [doi]
-PST - ppublish
-SO  - Prim Care. 2019 Dec;46(4):529-538. doi: 10.1016/j.pop.2019.07.012. Epub 2019 Jul 
-      31.
 
 PMID- 30404630
 OWN - NLM
@@ -7686,54 +7235,6 @@ PST - ppublish
 SO  - Clin Pharmacol Ther. 2020 Oct;108(4):716-718. doi: 10.1002/cpt.1865. Epub 2020
       May 19.
 
-PMID- 30516553
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20200312
-LR  - 20200312
-IS  - 1537-7385 (Electronic)
-IS  - 0894-9115 (Linking)
-VI  - 98
-IP  - 7
-DP  - 2019 Jul
-TI  - The Application of Blockchain Technology in Stroke Rehabilitation.
-PG  - e74
-LID - 10.1097/PHM.0000000000001083 [doi]
-FAU - Chang, Min Cheol
-AU  - Chang MC
-AD  - Department of Physical Medicine and Rehabilitation College of Medicine Yeungnam
-      University Taegu, South Korea. Department of Management School of Business
-      Yeungnam University Gyeongsan-si, South Korea. Department of Pediatrics College
-      of Medicine Yeungnam University Taegu, South Korea.
-FAU - Hau, Yong Sauk
-AU  - Hau YS
-FAU - Park, Jae Chan
-AU  - Park JC
-FAU - Lee, Jae Min
-AU  - Lee JM
-LA  - eng
-PT  - Letter
-PL  - United States
-TA  - Am J Phys Med Rehabil
-JT  - American journal of physical medicine & rehabilitation
-JID - 8803677
-SB  - IM
-MH  - Electronic Health Records/*trends
-MH  - Health Information Exchange/*trends
-MH  - Humans
-MH  - Information Storage and Retrieval/*trends
-MH  - Medical Informatics/trends
-MH  - Stroke Rehabilitation/*trends
-EDAT- 2018/12/06 06:00
-MHDA- 2020/03/13 06:00
-CRDT- 2018/12/06 06:00
-PHST- 2018/12/06 06:00 [pubmed]
-PHST- 2020/03/13 06:00 [medline]
-PHST- 2018/12/06 06:00 [entrez]
-AID - 10.1097/PHM.0000000000001083 [doi]
-PST - ppublish
-SO  - Am J Phys Med Rehabil. 2019 Jul;98(7):e74. doi: 10.1097/PHM.0000000000001083.
-
 PMID- 32388492
 OWN - NLM
 STAT- MEDLINE
@@ -8096,71 +7597,6 @@ AID - 5253582 [pii]
 AID - 10.1093/jamia/ocy158 [doi]
 PST - ppublish
 SO  - J Am Med Inform Assoc. 2019 Feb 1;26(2):134-142. doi: 10.1093/jamia/ocy158.
-
-PMID- 30234636
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20181211
-LR  - 20181211
-IS  - 1550-512X (Electronic)
-IS  - 1525-5794 (Linking)
-VI  - 37
-IP  - 4
-DP  - 2018 Oct/Dec
-TI  - The Nationwide Health Information Network: The Case of the Expansion of Health
-      Information Exchanges in the United States.
-PG  - 333-338
-LID - 10.1097/HCM.0000000000000231 [doi]
-AB  - The Nationwide Health Information Network (NHIN) implemented secure exchange of
-      health records through utilization of the Internet. The NHIN has greatly assisted
-      in achieving the goals of the Health Information Technology for Economic and
-      Clinical Health Act by promoting the adoption of Meaningful Use. Epic introduced 
-      a Health Information Exchange platform, Care Everywhere, which has facilitated
-      Health Information Exchange availability. The purpose of this research was to
-      determine the impact of NHIN and Epic Care's Care Everywhere on health care to
-      determine whether their use in the emergency department (ED) has increased. The
-      methodology for this study utilized a literature review. Twenty-eight sources
-      were referenced for this study. With the NHIN implementation, repeated visits
-      were decreased, visit times became faster, and charges were lower. Emergency
-      department reported significant benefits with sharing clinical information. The
-      NHIN implementation throughout the ED has increased the quality of health care;
-      duplicated tests and drug usage were determined, and a reduction of the ED length
-      of stay was also achieved.
-FAU - Ruley, Morgan
-AU  - Ruley M
-AD  - Author Affiliations: Healthcare Administration Program, Lewis College of
-      Business, Lewis College of Business, Marshall University, South Charleston (Mss
-      Ruley and Walker and Dr Coustasse), South Charleston; and Veterans Health
-      Administration, Huntington VA Medical Center (Ms Studeny), West Virginia.
-FAU - Walker, Victoria
-AU  - Walker V
-FAU - Studeny, Jana
-AU  - Studeny J
-FAU - Coustasse, Alberto
-AU  - Coustasse A
-LA  - eng
-PT  - Journal Article
-PT  - Review
-PL  - United States
-TA  - Health Care Manag (Frederick)
-JT  - The health care manager
-JID - 100896672
-MH  - Emergency Service, Hospital/*economics
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Length of Stay
-MH  - *Quality of Health Care
-MH  - United States
-EDAT- 2018/09/21 06:00
-MHDA- 2018/12/12 06:00
-CRDT- 2018/09/21 06:00
-PHST- 2018/09/21 06:00 [pubmed]
-PHST- 2018/12/12 06:00 [medline]
-PHST- 2018/09/21 06:00 [entrez]
-AID - 10.1097/HCM.0000000000000231 [doi]
-PST - ppublish
-SO  - Health Care Manag (Frederick). 2018 Oct/Dec;37(4):333-338. doi:
-      10.1097/HCM.0000000000000231.
 
 PMID- 31199327
 OWN - NLM
@@ -9353,95 +8789,6 @@ AID - 10.1089/dia.2019.0129 [doi]
 PST - ppublish
 SO  - Diabetes Technol Ther. 2019 Jun;21(6):310-312. doi: 10.1089/dia.2019.0129.
 
-PMID- 33100291
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210723
-LR  - 20210723
-IS  - 1881-7823 (Electronic)
-IS  - 1881-7815 (Linking)
-VI  - 14
-IP  - 5
-DP  - 2020 Nov 4
-TI  - Realizing 5G- and AI-based doctor-to-doctor remote diagnosis: opportunities,
-      challenges, and prospects.
-PG  - 314-317
-LID - 10.5582/bst.2020.03364 [doi]
-AB  - Fifth Generation (5G) mobile communications technology became available in Japan 
-      as of the end of March 2020. The Ministry of Internal Affairs and Communications 
-      (MIC) is proceeding with a plan to use 5G for a doctor-to-doctor remote diagnosis
-      system. This remote diagnosis offers patients the benefit of receiving advanced
-      medical care without having to travel long distances. The provision of a remote
-      diagnosis will provide elderly patients in rural areas with an earlier diagnosis 
-      without burdening patients in Japan where the aging population and the uneven
-      distribution of doctors are increasing. However, the system will increase the
-      burden on specialists by expanding the doctor's catchment area. As a solution to 
-      that problem, deep learning-based artificial intelligence (AI) is expected to
-      reduce the burden on doctors. In order to realize 5G- and AI-based real-time
-      diagnostic support, diagnostic imaging using AI and an AI model that provides
-      instructions are required. This is because ultrasonography and endoscopy, which
-      can be used for remote diagnosis, do not acquire data on fixed areas like a CT or
-      MRI scan. The AI model needs to instruct the doctor at the patient's home in
-      order to collect appropriate information in accordance with the patient's
-      symptoms and status. In order to build an interactive AI model, the interactions 
-      between doctors who are making a remote diagnosis should be recorded as training 
-      data and a 5G-based remote diagnosis system should be created. A remote
-      diagnostic support system incorporating 5G and interactive diagnostic imaging
-      incorporating AI will result in a system that places less of a burden on patients
-      and doctors.
-FAU - Karako, Kenji
-AU  - Karako K
-AD  - Department of Human and Engineered Environmental Studies, Graduate School of
-      Frontier Sciences, The University of Tokyo, Chiba, Japan.
-FAU - Song, Peipei
-AU  - Song P
-AD  - Institute for Global Health Policy Research, National Center for Global Health
-      and Medicine, Tokyo, Japan.
-FAU - Chen, Yu
-AU  - Chen Y
-AD  - Department of Human and Engineered Environmental Studies, Graduate School of
-      Frontier Sciences, The University of Tokyo, Chiba, Japan.
-FAU - Tang, Wei
-AU  - Tang W
-AD  - International Health Care Center, National Center for Global Health and Medicine,
-      Tokyo, Japan.
-LA  - eng
-PT  - Editorial
-DEP - 20201025
-PL  - Japan
-TA  - Biosci Trends
-JT  - Bioscience trends
-JID - 101502754
-SB  - IM
-MH  - *Cell Phone
-MH  - *Deep Learning
-MH  - Early Diagnosis
-MH  - Endoscopy
-MH  - Health Information Exchange/*trends
-MH  - Humans
-MH  - Japan
-MH  - Referral and Consultation/*trends
-MH  - Telemedicine/instrumentation/*methods/trends
-MH  - Ultrasonography
-MH  - Workload
-OTO - NOTNLM
-OT  - 5G mobile communications
-OT  - Japan
-OT  - artificial intelligence
-OT  - endoscopy
-OT  - remote diagnosis
-OT  - ultrasonography
-EDAT- 2020/10/27 06:00
-MHDA- 2021/07/24 06:00
-CRDT- 2020/10/26 05:18
-PHST- 2020/10/27 06:00 [pubmed]
-PHST- 2021/07/24 06:00 [medline]
-PHST- 2020/10/26 05:18 [entrez]
-AID - 10.5582/bst.2020.03364 [doi]
-PST - ppublish
-SO  - Biosci Trends. 2020 Nov 4;14(5):314-317. doi: 10.5582/bst.2020.03364. Epub 2020
-      Oct 25.
-
 PMID- 30603816
 OWN - NLM
 STAT- MEDLINE
@@ -9871,94 +9218,6 @@ AID - 10.1377/hlthaff.2018.05447 [doi]
 PST - ppublish
 SO  - Health Aff (Millwood). 2019 Feb;38(2):197-204. doi: 10.1377/hlthaff.2018.05447.
 
-PMID- 30541153
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190920
-LR  - 20200309
-IS  - 1869-0327 (Electronic)
-IS  - 1869-0327 (Linking)
-VI  - 9
-IP  - 4
-DP  - 2018 Oct
-TI  - Health Information Exchange in Emergency Medical Services.
-PG  - 884-891
-LID - 10.1055/s-0038-1676041 [doi]
-AB  - BACKGROUND: The Office of the National Coordinator for Health Information
-      Technology has outlined the benefits of health information exchange in emergency 
-      medical services (EMSs) according to the SAFR model-search, alert, file, and
-      reconcile-developed in collaboration with the California Emergency Medical
-      Services Authority. OBJECTIVE: This scoping review aims to identify and
-      characterize progress toward the adoption of prehospital health information
-      exchange, as reported in the peer-reviewed literature. METHODS: A structured
-      review of literature in MEDLINE-indexed journals was conducted using the
-      "Electronic Health Records" topic-specific query, the "Emergency Medical
-      Services" Medical Subject Headings descriptor, and a prehospital identifier.
-      RESULTS: Our initial search yielded 368 nonduplicative, English-language
-      articles; 131 articles underwent full-text review and 11 were selected for
-      analysis according to pre-established inclusion criteria. Original research was
-      thematically grouped according to the SAFR model. CONCLUSION: Within isolated
-      systems, there has been limited progress toward the adoption of prehospital
-      health information exchange. Interoperability, accurate match algorithms,
-      security, and wireless connectivity have been identified as potential barriers to
-      adoption. Additional research is required to evaluate the role of health
-      information exchange within EMSs.
-CI  - Georg Thieme Verlag KG Stuttgart . New York.
-FAU - Martin, Thomas J
-AU  - Martin TJ
-AD  - The Warren Alpert Medical School, Brown University, Providence, Rhode Island,
-      United States.
-AD  - Brown University EMS, Brown University, Providence, Rhode Island, United States.
-FAU - Ranney, Megan L
-AU  - Ranney ML
-AD  - The Warren Alpert Medical School, Brown University, Providence, Rhode Island,
-      United States.
-AD  - Department of Emergency Medicine, The Warren Alpert Medical School, Brown
-      University, Providence, Rhode Island, United States.
-FAU - Dorroh, James
-AU  - Dorroh J
-AD  - Brown University EMS, Brown University, Providence, Rhode Island, United States.
-FAU - Asselin, Nicholas
-AU  - Asselin N
-AD  - The Warren Alpert Medical School, Brown University, Providence, Rhode Island,
-      United States.
-AD  - Department of Emergency Medicine, The Warren Alpert Medical School, Brown
-      University, Providence, Rhode Island, United States.
-FAU - Sarkar, Indra Neil
-AU  - Sarkar IN
-AD  - The Warren Alpert Medical School, Brown University, Providence, Rhode Island,
-      United States.
-AD  - Center for Biomedical Informatics, The Warren Alpert Medical School, Brown
-      University, Providence, Rhode Island, United States.
-LA  - eng
-GR  - U54 GM115677/GM/NIGMS NIH HHS/United States
-GR  - K23 MH095866/MH/NIMH NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Review
-DEP - 20181212
-PL  - Germany
-TA  - Appl Clin Inform
-JT  - Applied clinical informatics
-JID - 101537732
-SB  - IM
-MH  - *Emergency Medical Services
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Publications
-PMC - PMC6291398
-COIS- None declared.
-EDAT- 2018/12/13 06:00
-MHDA- 2019/09/21 06:00
-CRDT- 2018/12/13 06:00
-PHST- 2018/12/13 06:00 [entrez]
-PHST- 2018/12/13 06:00 [pubmed]
-PHST- 2019/09/21 06:00 [medline]
-AID - 10.1055/s-0038-1676041 [doi]
-PST - ppublish
-SO  - Appl Clin Inform. 2018 Oct;9(4):884-891. doi: 10.1055/s-0038-1676041. Epub 2018
-      Dec 12.
-
 PMID- 28787376
 OWN - NLM
 STAT- MEDLINE
@@ -10062,87 +9321,6 @@ AID - 10.1097/TA.0000000000001671 [doi]
 PST - ppublish
 SO  - J Trauma Acute Care Surg. 2018 Jan;84(1):175-182. doi:
       10.1097/TA.0000000000001671.
-
-PMID- 30729329
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190603
-LR  - 20200225
-IS  - 1573-689X (Electronic)
-IS  - 0148-5598 (Linking)
-VI  - 43
-IP  - 3
-DP  - 2019 Feb 7
-TI  - Proposing New Blockchain Challenges in eHealth.
-PG  - 64
-LID - 10.1007/s10916-019-1195-7 [doi]
-AB  - The blockchain technology has reached a great boom in the health sector, due to
-      its importance to overcome interoperability and security challenges of the EHR
-      and EMR systems in eHealth. The main objective of this work is to show a review
-      of the existing research works in the literature, referring to the new blockchain
-      technology applied in ehealth and exposing the possible research lines and trends
-      in which this technology can be focused. The search for blockchain studies in
-      eHealth field was carried out in the following databases: IEEE Xplore, Google
-      Scholar, Science Direct, PubMed, Web of Science and ResearchGate from 2010 to the
-      present. Different search criteria were established such as: "Blockchain" AND
-      ("eHealth" OR "EHR" OR "electronic health records" OR "medicine") selecting the
-      papers considered of most interest. A total of 84 publications on blockchain in
-      eHealth were found, of which 18 have been identified as relevant works, 5.56%
-      correspond to the year 2016, 22.22% to 2017 and 72.22% to 2018. Many of the
-      publications found show how this technology is being developed and applied in the
-      health sector and the benefits it provides. The new blockchain technology applied
-      in eHealth identifies new ways to share the distributed view of health data and
-      promotes the advancement of precision medicine, improving health and preventing
-      diseases.
-FAU - Alonso, Susel Gongora
-AU  - Alonso SG
-AD  - Department of Signal Theory and Communications, and Telematics Engineering,
-      University of Valladolid, Paseo de Belen, 15, 47011, Valladolid, Spain.
-FAU - Arambarri, Jon
-AU  - Arambarri J
-AD  - Virtual Ware Labs Foundation, Bilbao, Spain.
-AD  - , Basauri, Spain.
-FAU - Lopez-Coronado, Miguel
-AU  - Lopez-Coronado M
-AD  - Department of Signal Theory and Communications, and Telematics Engineering,
-      University of Valladolid, Paseo de Belen, 15, 47011, Valladolid, Spain.
-FAU - de la Torre Diez, Isabel
-AU  - de la Torre Diez I
-AUID- ORCID: http://orcid.org/0000-0003-3134-7720
-AD  - Department of Signal Theory and Communications, and Telematics Engineering,
-      University of Valladolid, Paseo de Belen, 15, 47011, Valladolid, Spain.
-      isator@tel.uva.es.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20190207
-PL  - United States
-TA  - J Med Syst
-JT  - Journal of medical systems
-JID - 7806056
-SB  - IM
-MH  - Computer Security
-MH  - Electronic Health Records/organization & administration
-MH  - Health Information Exchange/*standards
-MH  - Quality Improvement
-MH  - *Telemedicine
-OTO - NOTNLM
-OT  - Blockchain
-OT  - Challenges
-OT  - Electronic health records (EHRs)
-OT  - eHealth
-EDAT- 2019/02/08 06:00
-MHDA- 2019/06/04 06:00
-CRDT- 2019/02/08 06:00
-PHST- 2018/12/13 00:00 [received]
-PHST- 2019/01/31 00:00 [accepted]
-PHST- 2019/02/08 06:00 [entrez]
-PHST- 2019/02/08 06:00 [pubmed]
-PHST- 2019/06/04 06:00 [medline]
-AID - 10.1007/s10916-019-1195-7 [doi]
-AID - 10.1007/s10916-019-1195-7 [pii]
-PST - epublish
-SO  - J Med Syst. 2019 Feb 7;43(3):64. doi: 10.1007/s10916-019-1195-7.
 
 PMID- 30608465
 OWN - NLM
@@ -11187,89 +10365,6 @@ AID - 10.1186/s12911-019-0911-z [doi]
 AID - 10.1186/s12911-019-0911-z [pii]
 PST - epublish
 SO  - BMC Med Inform Decis Mak. 2019 Sep 18;19(1):188. doi: 10.1186/s12911-019-0911-z.
-
-PMID- 31349247
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190902
-LR  - 20190902
-IS  - 1879-8365 (Electronic)
-IS  - 0926-9630 (Linking)
-VI  - 262
-DP  - 2019 Jul 4
-TI  - Colorectal Cancer Registration: Data Approach to Knowledge.
-PG  - 380-383
-LID - 10.3233/SHTI190098 [doi]
-AB  - For ensuring the quality of data and facilitating data exchange between
-      healthcare providers and professional organizations, it is necessary to define a 
-      standard data set. The main aim of this study was to define a national minimum
-      data set for colorectal cancer in Iran. To develop this data set, a combination
-      of literature review and two rounds of a modified Delphi technique were used. An 
-      initial checklist was proposed based on a literature review and comparative
-      studies. Based on the literature review, main categories, including: demographic 
-      information, diagnostic information, treatment information, clinical status
-      assessment information, and clinical trial information were proposed. In this
-      study, the national minimum data set of colorectal cancer was collected.
-      Developing this data set through standard contents can improve effective health
-      information exchange for both healthcare providers and health information
-      systems.
-FAU - Dorri, Sara
-AU  - Dorri S
-AD  - Department of Medical Informatics, Student Research Committee, School of Allied
-      Medical Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
-AD  - Clinical Research Department, Breast Cancer Research Center, Motamed Cancer
-      Institute, ACECR, Tehran, Iran.
-FAU - Nazeri, Najmeh
-AU  - Nazeri N
-AD  - Clinical Research Department, Breast Cancer Research Center, Motamed Cancer
-      Institute, ACECR, Tehran, Iran.
-FAU - Seyedhasani, Seyedeh Nahid
-AU  - Seyedhasani SN
-AD  - Department of Health Information Technology, School of Paramedical Sciences,
-      Torbat Heydariyeh University of Medical Sciences, Torbat Heydariyeh, Iran.
-FAU - Marashi, Sina
-AU  - Marashi S
-AD  - E-Health Department, Virtual School, Tehran University of Medical Sciences,
-      Tehran, Iran.
-FAU - Hajialiasgari, Fatemeh
-AU  - Hajialiasgari F
-AD  - E-Health Department, Virtual School, Tehran University of Medical Sciences,
-      Tehran, Iran.
-FAU - Atashi, Alireza
-AU  - Atashi A
-AD  - Clinical Research Department, Breast Cancer Research Center, Motamed Cancer
-      Institute, ACECR, Tehran, Iran.
-AD  - E-Health Department, Virtual School, Tehran University of Medical Sciences,
-      Tehran, Iran.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-PL  - Netherlands
-TA  - Stud Health Technol Inform
-JT  - Studies in health technology and informatics
-JID - 9214582
-MH  - Checklist
-MH  - *Colorectal Neoplasms
-MH  - *Data Accuracy
-MH  - Delphi Technique
-MH  - *Health Information Exchange
-MH  - *Health Information Systems
-MH  - Humans
-MH  - Iran
-OTO - NOTNLM
-OT  - Colorectal Cancer
-OT  - Minimum Data set
-OT  - Registry
-EDAT- 2019/07/28 06:00
-MHDA- 2019/09/03 06:00
-CRDT- 2019/07/27 06:00
-PHST- 2019/07/27 06:00 [entrez]
-PHST- 2019/07/28 06:00 [pubmed]
-PHST- 2019/09/03 06:00 [medline]
-AID - SHTI190098 [pii]
-AID - 10.3233/SHTI190098 [doi]
-PST - ppublish
-SO  - Stud Health Technol Inform. 2019 Jul 4;262:380-383. doi: 10.3233/SHTI190098.
 
 PMID- 31053141
 OWN - NLM
@@ -14275,140 +13370,6 @@ AID - 00005650-202012000-00004 [pii]
 PST - ppublish
 SO  - Med Care. 2020 Dec;58(12):1051-1058. doi: 10.1097/MLR.0000000000001402.
 
-PMID- 31865055
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20200325
-LR  - 20200325
-IS  - 1872-8243 (Electronic)
-IS  - 1386-5056 (Linking)
-VI  - 134
-DP  - 2020 Feb
-TI  - Blockchain in healthcare and health sciences-A scoping review.
-PG  - 104040
-LID - S1386-5056(19)30526-X [pii]
-LID - 10.1016/j.ijmedinf.2019.104040 [doi]
-AB  - BACKGROUND: Blockchain can be described as an immutable ledger, logging data
-      entries in a decentralized manner. This new technology has been suggested to
-      disrupt a wide range of data-driven domains, including the health domain.
-      OBJECTIVE: The purpose of this study was to systematically review, assess and
-      synthesize peer-reviewed publications utilizing/proposing to utilize blockchain
-      to improve processes and services in healthcare, health sciences and health
-      education. METHOD: A structured literature search on the topic was conducted in
-      October 2018 relevant bibliographic databases. RESULT: 39 publications fulfilled 
-      the inclusion criteria. The result indicates that Electronic Health Records and
-      Personal Health Records are the most targeted areas using blockchain technology. 
-      Access control, interoperability, provenance and data integrity are all issues
-      that are meant to be improved by blockchain technology in this field. Ethereum
-      and Hyperledger fabric seem to be the most used platforms/frameworks in this
-      domain. CONCLUSION: This study shows that the endeavors of using blockchain
-      technology in the health domain are increasing exponentially. There are areas
-      within the health domain that potentially could be highly impacted by blockchain 
-      technology.
-CI  - Copyright (c) 2019 The Authors. Published by Elsevier B.V. All rights reserved.
-FAU - Hasselgren, Anton
-AU  - Hasselgren A
-AD  - Department of Neuromedicine and Movement Science, Faculty of Medicine and Health 
-      Sciences, NTNU-Norwegian University of Science and Technology, Trondheim, Norway.
-      Electronic address: anton.hasselgren@ntnu.no.
-FAU - Kralevska, Katina
-AU  - Kralevska K
-AD  - Department of Information Security and Communication Technology, Faculty of
-      Information Technology and Electrical Engineering, NTNU-Norwegian University of
-      Science and Technology, Trondheim, Norway.
-FAU - Gligoroski, Danilo
-AU  - Gligoroski D
-AD  - Department of Information Security and Communication Technology, Faculty of
-      Information Technology and Electrical Engineering, NTNU-Norwegian University of
-      Science and Technology, Trondheim, Norway.
-FAU - Pedersen, Sindre A
-AU  - Pedersen SA
-AD  - Library Section for Medicine and Health Sciences, NTNU University Library,
-      NTNU-Norwegian University of Science and Technology, Trondheim, Norway.
-FAU - Faxvaag, Arild
-AU  - Faxvaag A
-AD  - Department of Neuromedicine and Movement Science, Faculty of Medicine and Health 
-      Sciences, NTNU-Norwegian University of Science and Technology, Trondheim, Norway.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20191211
-PL  - Ireland
-TA  - Int J Med Inform
-JT  - International journal of medical informatics
-JID - 9711057
-SB  - IM
-MH  - Blockchain/*standards
-MH  - Delivery of Health Care/*standards
-MH  - Electronic Health Records/*standards
-MH  - Health Information Exchange/*standards
-MH  - *Health Records, Personal
-MH  - Humans
-MH  - *Quality Improvement
-OTO - NOTNLM
-OT  - *Blockchain
-OT  - *Distributed ledger
-OT  - *Health systems
-OT  - *Scoping review
-EDAT- 2019/12/23 06:00
-MHDA- 2020/03/26 06:00
-CRDT- 2019/12/23 06:00
-PHST- 2019/05/13 00:00 [received]
-PHST- 2019/11/25 00:00 [revised]
-PHST- 2019/12/02 00:00 [accepted]
-PHST- 2019/12/23 06:00 [pubmed]
-PHST- 2020/03/26 06:00 [medline]
-PHST- 2019/12/23 06:00 [entrez]
-AID - S1386-5056(19)30526-X [pii]
-AID - 10.1016/j.ijmedinf.2019.104040 [doi]
-PST - ppublish
-SO  - Int J Med Inform. 2020 Feb;134:104040. doi: 10.1016/j.ijmedinf.2019.104040. Epub 
-      2019 Dec 11.
-
-PMID- 29943108
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190911
-LR  - 20190911
-IS  - 1525-1497 (Electronic)
-IS  - 0884-8734 (Linking)
-VI  - 33
-IP  - 9
-DP  - 2018 Sep
-TI  - Breakdowns on the information highway during inter-hospital patient transfers.
-PG  - 1415-1416
-LID - 10.1007/s11606-018-4538-z [doi]
-FAU - Tierney, William M
-AU  - Tierney WM
-AD  - Department of Population Health, Dell Medical School, University of Texas at
-      Austin, Austin, TX, USA. tierney@utexas.edu.
-LA  - eng
-PT  - Editorial
-PT  - Comment
-PL  - United States
-TA  - J Gen Intern Med
-JT  - Journal of general internal medicine
-JID - 8605834
-SB  - IM
-CON - J Gen Intern Med. 2018 Sep;33(9):1447-1453. PMID: 29845466
-MH  - *Health Information Exchange
-MH  - Hospitals
-MH  - Humans
-MH  - Inpatients
-MH  - Internet
-MH  - *Patient Transfer
-PMC - PMC6108987
-EDAT- 2018/06/27 06:00
-MHDA- 2019/09/12 06:00
-CRDT- 2018/06/27 06:00
-PHST- 2018/06/27 06:00 [pubmed]
-PHST- 2019/09/12 06:00 [medline]
-PHST- 2018/06/27 06:00 [entrez]
-AID - 10.1007/s11606-018-4538-z [doi]
-AID - 10.1007/s11606-018-4538-z [pii]
-PST - ppublish
-SO  - J Gen Intern Med. 2018 Sep;33(9):1415-1416. doi: 10.1007/s11606-018-4538-z.
-
 PMID- 32196092
 OWN - NLM
 STAT- MEDLINE
@@ -14515,114 +13476,6 @@ AID - 5810515 [pii]
 AID - 10.1093/jamia/ocaa017 [doi]
 PST - ppublish
 SO  - J Am Med Inform Assoc. 2020 May 1;27(5):700-708. doi: 10.1093/jamia/ocaa017.
-
-PMID- 30522527
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190528
-LR  - 20190528
-IS  - 2046-4053 (Electronic)
-IS  - 2046-4053 (Linking)
-VI  - 7
-IP  - 1
-DP  - 2018 Dec 6
-TI  - Defining and conceptualising data harmonisation: a scoping review protocol.
-PG  - 226
-LID - 10.1186/s13643-018-0890-7 [doi]
-AB  - BACKGROUND: Data harmonisation is an important intervention to strengthen health 
-      systems functioning. It has the potential to enhance the production,
-      accessibility and utilisation of routine health information for clinical and
-      service management decision-making. It is important to understand the range of
-      definitions and concepts of data harmonisation, as well as how its various social
-      and technical components and processes are thought to lead to better health
-      management decision-making. However, there is lack of agreement in the
-      literature, and in practice, on definitions and conceptualisations of data
-      harmonisation, making it difficult for health system decision-makers and
-      researchers to design, implement, evaluate and compare data harmonisation
-      interventions. This scoping review aims to synthesise (1) definitions and
-      conceptualisations of data harmonisation as well as (2) explanations in the
-      literature of the causal relationships between data harmonisation and health
-      management decision-making. METHODS: This review follows recommended
-      methodological stages for scoping studies. We will identify relevant studies
-      (peer-reviewed and grey literature) from 2000 onwards, in English only, and with 
-      no methodological restriction, in various electronic databases, such as CINAHL,
-      MEDLINE via PubMed and Global Health. Two reviewers will independently screen
-      records for potential inclusion for the abstract and full-text screening stages. 
-      One reviewer will do the data extraction, analysis and synthesis, with built-in
-      reliability checks from the rest of the team. We will use a combination of
-      sampling techniques, including two types of 'purposeful sampling', a
-      methodological approach that is particularly suitable for a scoping review with
-      our objectives. We will provide (a) a numerical synthesis of characteristics of
-      the included studies and (b) a narrative synthesis of definitions and
-      explanations in the literature of the relationship between data harmonisation and
-      health management decision-making. DISCUSSION: We list potential limitations of
-      this scoping review. To our knowledge, this scoping review will be the first to
-      synthesise definitions and conceptualisations of data harmonisation in the
-      literature as well as the underlying explanations in the literature of the causal
-      links between data harmonisation and health management decision-making.
-FAU - Schmidt, Bey-Marrie
-AU  - Schmidt BM
-AUID- ORCID: 0000-0003-1363-171X
-AD  - School of Public Health and Family Medicine, Faculty of Health Sciences,
-      University of Cape Town, Falmouth Rd, Observatory, Cape Town, 7925, South Africa.
-      schbey001@myuct.ac.za.
-AD  - Cochrane South Africa, South African Medical Research Council, Cape Town, South
-      Africa. schbey001@myuct.ac.za.
-FAU - Colvin, Christopher J
-AU  - Colvin CJ
-AD  - Division of Social and Behavioural Sciences, School of Public Health and Family
-      Medicine, University of Cape Town, Cape Town, South Africa.
-AD  - Department of Epidemiology, School of Public Health, Brown University,
-      Providence, USA.
-AD  - Department of Public Health Sciences, University of Virginia, Charlottesville,
-      USA.
-FAU - Hohlfeld, Ameer
-AU  - Hohlfeld A
-AD  - Cochrane South Africa, South African Medical Research Council, Cape Town, South
-      Africa.
-FAU - Leon, Natalie
-AU  - Leon N
-AD  - Department of Epidemiology, School of Public Health, Brown University,
-      Providence, USA.
-AD  - Health Systems Research Unit, South African Medical Research Council, Cape Town, 
-      South Africa.
-LA  - eng
-GR  - 1R01MH106600/US National Institute of Mental Health/International
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-PT  - Review
-DEP - 20181206
-PL  - England
-TA  - Syst Rev
-JT  - Systematic reviews
-JID - 101580575
-SB  - IM
-MH  - *Decision Making
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - *Information Storage and Retrieval
-MH  - Research Design
-PMC - PMC6284298
-OTO - NOTNLM
-OT  - *Data harmonisation
-OT  - *Data linkage
-OT  - *Health information exchange
-OT  - *Health management decision-making
-OT  - *Routine health information system
-OT  - *Scoping review
-EDAT- 2018/12/14 06:00
-MHDA- 2019/05/29 06:00
-CRDT- 2018/12/08 06:00
-PHST- 2018/07/04 00:00 [received]
-PHST- 2018/11/21 00:00 [accepted]
-PHST- 2018/12/08 06:00 [entrez]
-PHST- 2018/12/14 06:00 [pubmed]
-PHST- 2019/05/29 06:00 [medline]
-AID - 10.1186/s13643-018-0890-7 [doi]
-AID - 10.1186/s13643-018-0890-7 [pii]
-PST - epublish
-SO  - Syst Rev. 2018 Dec 6;7(1):226. doi: 10.1186/s13643-018-0890-7.
 
 PMID- 31951362
 OWN - NLM
@@ -14814,100 +13667,6 @@ AID - 10.1038/s41598-021-91479-7 [pii]
 PST - epublish
 SO  - Sci Rep. 2021 Jun 7;11(1):11906. doi: 10.1038/s41598-021-91479-7.
 
-PMID- 32828033
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20201221
-LR  - 20201221
-IS  - 1872-8243 (Electronic)
-IS  - 1386-5056 (Linking)
-VI  - 142
-DP  - 2020 Oct
-TI  - The benefits and threats of blockchain technology in healthcare: A scoping
-      review.
-PG  - 104246
-LID - S1386-5056(20)30154-4 [pii]
-LID - 10.1016/j.ijmedinf.2020.104246 [doi]
-AB  - BACKGROUND: The application of blockchain technology is being explored to improve
-      the interoperability of patient health information between healthcare
-      organisations while maintaining the privacy and security of data. OBJECTIVES: The
-      objective of this scoping review is to explore and categorise the benefits and
-      threats of blockchain technology application in a healthcare system. METHODS:
-      Databases such as PubMed, CINAHL, IEEE, Springer, and ScienceDirect were searched
-      using a combination of terms related to blockchain, healthcare, benefits and
-      threats. Backward-reference list checking was conducted to identify other
-      relevant references. Study selection process was performed in three steps based
-      on PRISMA flow diagram. Extracted data were synthesised and presented narratively
-      using tables and figures. RESULTS: The search resulted in 84 relevant studies
-      that have been conducted of which only 37 unique studies were included in this
-      review. Eight benefits of blockchain were categorised in either patient
-      related-benefits (security and authorisation, personalised healthcare, patients' 
-      health data tracking, and patient's health status monitoring) or
-      organisational-related benefits (health information exchange, pharmaceutical
-      supply chain, clinical trials, and medical insurance management). Meanwhile,
-      eight threats of blockchain were categorised into three groups: organisational
-      threats (installation and transaction costs, interoperability issues, and lack of
-      technical skills), social threats (social acceptance and regulations issues), and
-      technological threats (scalability issues, authorisation and security issues,
-      high energy consumption, and slow processing speeds). CONCLUSION: Blockchain is a
-      viable technology that can improve the healthcare data sharing and storing system
-      owing to its decentralisation, immutability, transparency and traceability
-      features. However, many healthcare organisations remain hesitant to adopt
-      blockchain technology due to threats such as security and authorisation issues,
-      interoperability issues and lack of technical skills related to blockchain
-      technology.
-CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
-FAU - Abu-Elezz, Israa
-AU  - Abu-Elezz I
-AD  - College of Science and Engineering, Hamad Bin Khalifa University, Qatar.
-FAU - Hassan, Asma
-AU  - Hassan A
-AD  - College of Science and Engineering, Hamad Bin Khalifa University, Qatar.
-FAU - Nazeemudeen, Anjanarani
-AU  - Nazeemudeen A
-AD  - College of Science and Engineering, Hamad Bin Khalifa University, Qatar.
-FAU - Househ, Mowafa
-AU  - Househ M
-AD  - College of Science and Engineering, Hamad Bin Khalifa University, Qatar.
-FAU - Abd-Alrazaq, Alaa
-AU  - Abd-Alrazaq A
-AD  - College of Science and Engineering, Hamad Bin Khalifa University, Qatar.
-      Electronic address: alaa_alzoubi88@yahoo.com.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-DEP - 20200814
-PL  - Ireland
-TA  - Int J Med Inform
-JT  - International journal of medical informatics
-JID - 9711057
-SB  - IM
-MH  - *Blockchain
-MH  - Delivery of Health Care
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Information Dissemination
-MH  - Technology
-OTO - NOTNLM
-OT  - *Benefits
-OT  - *Blockchain technology
-OT  - *Healthcare
-OT  - *Threats
-EDAT- 2020/08/23 06:00
-MHDA- 2020/12/22 06:00
-CRDT- 2020/08/23 06:00
-PHST- 2020/02/09 00:00 [received]
-PHST- 2020/08/05 00:00 [revised]
-PHST- 2020/08/06 00:00 [accepted]
-PHST- 2020/08/23 06:00 [pubmed]
-PHST- 2020/12/22 06:00 [medline]
-PHST- 2020/08/23 06:00 [entrez]
-AID - S1386-5056(20)30154-4 [pii]
-AID - 10.1016/j.ijmedinf.2020.104246 [doi]
-PST - ppublish
-SO  - Int J Med Inform. 2020 Oct;142:104246. doi: 10.1016/j.ijmedinf.2020.104246. Epub 
-      2020 Aug 14.
-
 PMID- 29661107
 OWN - NLM
 STAT- MEDLINE
@@ -14974,116 +13733,6 @@ PHST- 2019/05/07 06:00 [medline]
 AID - 10.1177/1078345818764127 [doi]
 PST - ppublish
 SO  - J Correct Health Care. 2018 Apr;24(2):183-196. doi: 10.1177/1078345818764127.
-
-PMID- 33030643
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210728
-LR  - 20210728
-IS  - 2212-277X (Electronic)
-IS  - 2212-2761 (Linking)
-VI  - 9
-IP  - 6
-DP  - 2020 Dec
-TI  - Integrating Wikipedia editing into health professions education: a curricular
-      inventory and review of the literature.
-PG  - 333-342
-LID - 10.1007/s40037-020-00620-1 [doi]
-AB  - INTRODUCTION: Wikipedia is an online encyclopedia read by millions seeking
-      medical information. To provide health professions students with skills to
-      critically assess, edit, and improve Wikipedia's medical content, a skillset
-      aligned with evidence-based medicine (EBM), Wikipedia courses have been
-      integrated into health professions schools' curriculum. This literature review
-      and curricular inventory of Wikipedia educational initiatives provides an
-      overview of current approaches and identifies directions for future initiatives
-      and research. METHODS: Five databases were searched for articles describing
-      educational interventions to train health professional students to edit
-      Wikipedia. Course dashboards, maintained by Wiki Education (Wiki Edu), were
-      searched for curricular materials. From these sources, key details were extracted
-      and synthesized, including student and instructor type, course content,
-      educational methods, and student outcomes. RESULTS: Six articles and 27
-      dashboards reported courses offered between 2015 and 2019. Courses were
-      predominantly offered to medical and nursing students. Instructors delivered
-      content via videos, live lectures, and online interactive modules. Course content
-      included logistics of Wikipedia editing, EBM skills, and health literacy. All
-      courses included assignments requiring students to edit Wikipedia independently
-      or in groups. Limited details on assessment of student learning were available.
-      DISCUSSION: A small but growing number of schools are training health professions
-      education students to improve Wikipedia's medical content. Course details are
-      available on Wiki Edu dashboards and, to a lesser extent, in peer-reviewed
-      publications. While more needs to be done in conducting and sharing assessment of
-      student learning, integrating Wikipedia into health professions education has
-      potential to facilitate learning of EBM and communication skills, improve
-      Wikipedia's online content, and engage students with an autonomous environment
-      while learning. Future considerations should include a thorough assessment of
-      student learning and practices, a final review of student edits to ensure they
-      follow Wikipedia's guidelines and are written in clear language, and improved
-      sharing of teaching resources by instructors.
-FAU - Maggio, Lauren A
-AU  - Maggio LA
-AUID- ORCID: 0000-0002-2997-6133
-AD  - Department of Medicine, Uniformed Services University of the Health Sciences,
-      Bethesda, MD, USA. lauren.maggio@usuhs.edu.
-FAU - Willinsky, John M
-AU  - Willinsky JM
-AUID- ORCID: 0000-0001-6192-8687
-AD  - Graduate School of Education, Stanford University, Stanford University, Stanford,
-      CA, USA.
-FAU - Costello, Joseph A
-AU  - Costello JA
-AUID- ORCID: 0000-0002-0412-6562
-AD  - Uniformed Services University of the Health Sciences in Bethesda, Bethesda, MD,
-      USA.
-FAU - Skinner, Nadine A
-AU  - Skinner NA
-AUID- ORCID: 0000-0003-0730-8190
-AD  - Graduate School of Education, Stanford University, Stanford University, Stanford,
-      CA, USA.
-FAU - Martin, Paolo C
-AU  - Martin PC
-AUID- ORCID: 0000-0002-7720-5667
-AD  - Graduate School of Education, Stanford University, Stanford University, Stanford,
-      CA, USA.
-FAU - Dawson, Jennifer E
-AU  - Dawson JE
-AUID- ORCID: 0000-0003-1141-9619
-AD  - CHEO Research Institute, and the Wikipedian in Residence for Cochrane, Ottawa,
-      Ontario, Canada.
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-PT  - Review
-DEP - 20201008
-PL  - Netherlands
-TA  - Perspect Med Educ
-JT  - Perspectives on medical education
-JID - 101590643
-SB  - IM
-MH  - Consumer Health Information/standards/statistics & numerical data
-MH  - Curriculum/*trends
-MH  - Health Information Exchange/*standards/statistics & numerical data
-MH  - Health Personnel/*education/trends
-MH  - Humans
-MH  - Information Dissemination/*methods
-PMC - PMC7718341
-OTO - NOTNLM
-OT  - *Critical appraisal
-OT  - *Evidence-based medicine
-OT  - *Wikipedia
-EDAT- 2020/10/09 06:00
-MHDA- 2021/07/29 06:00
-CRDT- 2020/10/08 12:23
-PHST- 2020/03/25 00:00 [received]
-PHST- 2020/09/15 00:00 [accepted]
-PHST- 2020/09/12 00:00 [revised]
-PHST- 2020/10/09 06:00 [pubmed]
-PHST- 2021/07/29 06:00 [medline]
-PHST- 2020/10/08 12:23 [entrez]
-AID - 10.1007/s40037-020-00620-1 [doi]
-AID - 10.1007/s40037-020-00620-1 [pii]
-PST - ppublish
-SO  - Perspect Med Educ. 2020 Dec;9(6):333-342. doi: 10.1007/s40037-020-00620-1. Epub
-      2020 Oct 8.
 
 PMID- 31438082
 OWN - NLM
@@ -15777,74 +14426,6 @@ AID - 10.1007/s10916-019-1229-1 [doi]
 AID - 10.1007/s10916-019-1229-1 [pii]
 PST - epublish
 SO  - J Med Syst. 2019 Mar 27;43(5):123. doi: 10.1007/s10916-019-1229-1.
-
-PMID- 33813031
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210727
-LR  - 20210727
-IS  - 1532-0480 (Electronic)
-IS  - 1532-0464 (Linking)
-VI  - 117
-DP  - 2021 May
-TI  - Letter to Editor (Response from author): Toward a universal electronic health
-      record system.
-PG  - 103770
-LID - S1532-0464(21)00099-X [pii]
-LID - 10.1016/j.jbi.2021.103770 [doi]
-AB  - Health information exchange (HIE) has mostly emerged as centralized data hubs
-      that can pass data requests from one subscribing healthcare institution to
-      another. Using traditional health information systems (HISs) with different
-      technologies in hospitals leads to usability and incompatibility issues because
-      of islands of information. This paper discusses shifting from HIE into an
-      integrated universal health information infrastructure. Migration to such
-      integrated universal electronic health records architecture could support
-      real-time HIE and advanced modern big data analytics. However, there are various 
-      standards and technologies to facilitate HIS integration, a significant amount of
-      efforts is still needed.
-CI  - Copyright (c) 2021 Elsevier Inc. All rights reserved.
-FAU - Gamal, Aya
-AU  - Gamal A
-AD  - Faculty of Computers and Artificial Intelligence, South Valley University,
-      Hurghada, Egypt. Electronic address: aya.gamal.abbas@gmail.com.
-FAU - Barakat, Sherif
-AU  - Barakat S
-AD  - Faculty of Computers and Information, Mansoura University, Egypt. Electronic
-      address: sheiib@mans.edu.eg.
-FAU - Rezk, Amira
-AU  - Rezk A
-AD  - Faculty of Computers and Information, Mansoura University, Egypt. Electronic
-      address: amira_rezk@mans.edu.eg.
-LA  - eng
-PT  - Letter
-DEP - 20210402
-PL  - United States
-TA  - J Biomed Inform
-JT  - Journal of biomedical informatics
-JID - 100970413
-SB  - IM
-MH  - Computer Systems
-MH  - Electronic Health Records
-MH  - *Health Information Exchange
-MH  - *Health Information Systems
-MH  - Hospitals
-OTO - NOTNLM
-OT  - *Health Information Exchange
-OT  - *Integrated Health Information System
-OT  - *Universal Electronic Health Record
-EDAT- 2021/04/05 06:00
-MHDA- 2021/07/28 06:00
-CRDT- 2021/04/04 20:42
-PHST- 2021/03/27 00:00 [received]
-PHST- 2021/03/29 00:00 [accepted]
-PHST- 2021/04/05 06:00 [pubmed]
-PHST- 2021/07/28 06:00 [medline]
-PHST- 2021/04/04 20:42 [entrez]
-AID - S1532-0464(21)00099-X [pii]
-AID - 10.1016/j.jbi.2021.103770 [doi]
-PST - ppublish
-SO  - J Biomed Inform. 2021 May;117:103770. doi: 10.1016/j.jbi.2021.103770. Epub 2021
-      Apr 2.
 
 PMID- 32483587
 OWN - NLM
@@ -16948,46 +15529,6 @@ AID - 10.1111/hir.12200 [doi]
 PST - ppublish
 SO  - Health Info Libr J. 2018 Mar;35(1):24-37. doi: 10.1111/hir.12200. Epub 2017 Nov
       13.
-
-PMID- 30184157
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20191216
-LR  - 20201201
-IS  - 1527-974X (Electronic)
-IS  - 1067-5027 (Linking)
-VI  - 25
-IP  - 9
-DP  - 2018 Sep 1
-TI  - Sharing data from electronic health records within, across, and beyond healthcare
-      institutions: Current trends and perspectives.
-PG  - 1113
-LID - 10.1093/jamia/ocy116 [doi]
-FAU - Ohno-Machado, Lucila
-AU  - Ohno-Machado L
-AD  - Editor-in-Chief.
-LA  - eng
-PT  - Editorial
-PT  - Introductory Journal Article
-PL  - England
-TA  - J Am Med Inform Assoc
-JT  - Journal of the American Medical Informatics Association : JAMIA
-JID - 9430800
-SB  - IM
-MH  - *Electronic Health Records
-MH  - *Health Information Exchange
-MH  - Information Dissemination
-PMC - PMC7646901
-EDAT- 2018/09/06 06:00
-MHDA- 2019/12/18 06:00
-CRDT- 2018/09/06 06:00
-PHST- 2018/09/06 06:00 [entrez]
-PHST- 2018/09/06 06:00 [pubmed]
-PHST- 2019/12/18 06:00 [medline]
-AID - 5088873 [pii]
-AID - 10.1093/jamia/ocy116 [doi]
-PST - ppublish
-SO  - J Am Med Inform Assoc. 2018 Sep 1;25(9):1113. doi: 10.1093/jamia/ocy116.
 
 PMID- 31521012
 OWN - NLM
@@ -19347,67 +17888,6 @@ PST - ppublish
 SO  - Support Care Cancer. 2020 Dec;28(12):6011-6021. doi: 10.1007/s00520-020-05446-5. 
       Epub 2020 Apr 15.
 
-PMID- 32401129
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210528
-LR  - 20210528
-IS  - 1651-226X (Electronic)
-IS  - 0284-186X (Linking)
-VI  - 59
-IP  - 9
-DP  - 2020 Sep
-TI  - National e-library for standardized chemotherapy regimens.
-PG  - 1079-1083
-LID - 10.1080/0284186X.2020.1764097 [doi]
-FAU - Fyhr, AnnSofie
-AU  - Fyhr A
-AD  - Regional Cancer Centre South, Lund, Sweden.
-AD  - Ergonomics and Aerosol Technology, Department of Design Sciences, Faculty of
-      Engineering LTH, Lund University, Lund, Sweden.
-FAU - Borell, Jonas
-AU  - Borell J
-AUID- ORCID: http://orcid.org/0000-0001-5399-3315
-AD  - Ergonomics and Aerosol Technology, Department of Design Sciences, Faculty of
-      Engineering LTH, Lund University, Lund, Sweden.
-FAU - Jerkeman, Mats
-AU  - Jerkeman M
-AD  - Division of Oncology and Hematology, Skane University Hospital, Lund, Sweden.
-FAU - Ek, Asa
-AU  - Ek A
-AD  - Ergonomics and Aerosol Technology, Department of Design Sciences, Faculty of
-      Engineering LTH, Lund University, Lund, Sweden.
-LA  - eng
-PT  - Letter
-DEP - 20200513
-PL  - England
-TA  - Acta Oncol
-JT  - Acta oncologica (Stockholm, Sweden)
-JID - 8709065
-RN  - 0 (Antineoplastic Agents)
-SB  - IM
-MH  - Antineoplastic Agents/*administration & dosage/adverse effects
-MH  - Antineoplastic Combined Chemotherapy Protocols/*standards
-MH  - Body Surface Area
-MH  - Drug Dosage Calculations
-MH  - Drug Labeling/standards
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Libraries, Digital/*organization & administration/standards
-MH  - Medication Errors/prevention & control
-MH  - Sweden
-MH  - *Terminology as Topic
-EDAT- 2020/05/14 06:00
-MHDA- 2021/05/29 06:00
-CRDT- 2020/05/14 06:00
-PHST- 2020/05/14 06:00 [pubmed]
-PHST- 2021/05/29 06:00 [medline]
-PHST- 2020/05/14 06:00 [entrez]
-AID - 10.1080/0284186X.2020.1764097 [doi]
-PST - ppublish
-SO  - Acta Oncol. 2020 Sep;59(9):1079-1083. doi: 10.1080/0284186X.2020.1764097. Epub
-      2020 May 13.
-
 PMID- 29392596
 OWN - NLM
 STAT- MEDLINE
@@ -19857,99 +18337,64 @@ PHST- 2020/09/01 06:00 [medline]
 PST - epublish
 SO  - AMIA Annu Symp Proc. 2020 Mar 4;2019:913-922. eCollection 2019.
 
-PMID- 29370003
+PMID- 34795073
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20180705
-LR  - 20210106
-IS  - 1529-4242 (Electronic)
-IS  - 0032-1052 (Linking)
-VI  - 141
-IP  - 2
-DP  - 2018 Feb
-TI  - Electronic Communication in Plastic Surgery: Guiding Principles from the American
-      Society of Plastic Surgeons Health Policy Committee.
-PG  - 500-505
-LID - 10.1097/PRS.0000000000004022 [doi]
-AB  - BACKGROUND: With the advancement of technology, electronic communication has
-      become an important mode of communication within plastic and reconstructive
-      surgery. This can take the form of e-mail, text messaging, video conferencing,
-      and social media, among others. There are currently no defined American Society
-      of Plastic Surgeons guidelines for appropriate professional use of these
-      technologies. METHODS: A search was performed on PubMed and the Cochrane
-      database; terms included "telemedicine," "text messaging," "HIPAA," "metadata,"
-      "video conferencing," "photo sharing," "social media," "Facebook," "Twitter," and
-      "Instagram." Initial screening of all identified articles was performed; the
-      level of evidence, limitations, and recommendations were evaluated and articles
-      were reviewed. RESULTS: A total of 654 articles were identified in the level I
-      screening process; after more comprehensive review, 41 articles fit inclusion
-      criteria: social networking, 12; telemedicine, 11; text messaging, 10; metadata, 
-      four; video conferencing, three; and Health Insurance Portability and
-      Accountability Act, one. General themes were identified from these articles and
-      guidelines proposed. CONCLUSION: Electronic communication can provide an
-      efficient method of information exchange for professional purposes within plastic
-      surgery but should be used thoughtfully and with all professional, legal, and
-      ethical considerations.
-FAU - Eberlin, Kyle R
-AU  - Eberlin KR
-AD  - Boston, Mass.
-AD  - From the Division of Plastic and Reconstructive Surgery, Massachusetts General
-      Hospital, Harvard Medical School.
-FAU - Perdikis, Galen
-AU  - Perdikis G
-AD  - Boston, Mass.
-AD  - From the Division of Plastic and Reconstructive Surgery, Massachusetts General
-      Hospital, Harvard Medical School.
-FAU - Damitz, Lynn
-AU  - Damitz L
-AD  - Boston, Mass.
-AD  - From the Division of Plastic and Reconstructive Surgery, Massachusetts General
-      Hospital, Harvard Medical School.
-FAU - Krochmal, Dan J
-AU  - Krochmal DJ
-AD  - Boston, Mass.
-AD  - From the Division of Plastic and Reconstructive Surgery, Massachusetts General
-      Hospital, Harvard Medical School.
-FAU - Kalliainen, Loree K
-AU  - Kalliainen LK
-AD  - Boston, Mass.
-AD  - From the Division of Plastic and Reconstructive Surgery, Massachusetts General
-      Hospital, Harvard Medical School.
-FAU - Bonawitz, Steven C
-AU  - Bonawitz SC
-AD  - Boston, Mass.
-AD  - From the Division of Plastic and Reconstructive Surgery, Massachusetts General
-      Hospital, Harvard Medical School.
-CN  - ASPS Health Policy Committee
+DCOM- 20211216
+LR  - 20211216
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 287
+DP  - 2021 Nov 18
+TI  - Development of a FHIR Layer on Top of the OMOP Common Data Model for the CAPABLE 
+      Project.
+PG  - 28-29
+LID - 10.3233/SHTI210804 [doi]
+FAU - Gabetta, Matteo
+AU  - Gabetta M
+AD  - BIOMERIS (BIOMEdical Research Informatics Solutions), Pavia, Italy.
+FAU - Alloni, Anna
+AU  - Alloni A
+AD  - BIOMERIS (BIOMEdical Research Informatics Solutions), Pavia, Italy.
+FAU - Polce, Francesca
+AU  - Polce F
+AD  - Department of Electrical, Computer and Biomedical Engineering, University of
+      Pavia, Pavia, Italy.
+FAU - Lanzola, Giordano
+AU  - Lanzola G
+AD  - Department of Electrical, Computer and Biomedical Engineering, University of
+      Pavia, Pavia, Italy.
+FAU - Parimbelli, Enea
+AU  - Parimbelli E
+AD  - Department of Electrical, Computer and Biomedical Engineering, University of
+      Pavia, Pavia, Italy.
+FAU - Barbarini, Nicola
+AU  - Barbarini N
+AD  - BIOMERIS (BIOMEdical Research Informatics Solutions), Pavia, Italy.
 LA  - eng
 PT  - Journal Article
-PT  - Review
-PL  - United States
-TA  - Plast Reconstr Surg
-JT  - Plastic and reconstructive surgery
-JID - 1306050
-SB  - IM
-CIN - Plast Reconstr Surg. 2020 Nov;146(5):709e-710e. PMID: 32732793
-MH  - Health Communication/ethics/standards
-MH  - Health Information Exchange/ethics/*standards
-MH  - Health Insurance Portability and Accountability Act
-MH  - *Health Policy
-MH  - Humans
-MH  - Practice Guidelines as Topic
-MH  - Surgeons/ethics/*standards
-MH  - Surgery, Plastic/ethics/*standards
-MH  - Telecommunications/ethics/*standards
-MH  - United States
-EDAT- 2018/01/26 06:00
-MHDA- 2018/07/06 06:00
-CRDT- 2018/01/26 06:00
-PHST- 2018/01/26 06:00 [entrez]
-PHST- 2018/01/26 06:00 [pubmed]
-PHST- 2018/07/06 06:00 [medline]
-AID - 10.1097/PRS.0000000000004022 [doi]
-AID - 00006534-201802000-00045 [pii]
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - *Health Level Seven
+OTO - NOTNLM
+OT  - API
+OT  - Cancer
+OT  - HL7 FHIR
+OT  - OMOP
+EDAT- 2021/11/20 06:00
+MHDA- 2021/12/17 06:00
+CRDT- 2021/11/19 06:04
+PHST- 2021/11/19 06:04 [entrez]
+PHST- 2021/11/20 06:00 [pubmed]
+PHST- 2021/12/17 06:00 [medline]
+AID - SHTI210804 [pii]
+AID - 10.3233/SHTI210804 [doi]
 PST - ppublish
-SO  - Plast Reconstr Surg. 2018 Feb;141(2):500-505. doi: 10.1097/PRS.0000000000004022.
+SO  - Stud Health Technol Inform. 2021 Nov 18;287:28-29. doi: 10.3233/SHTI210804.
 
 PMID- 31438345
 OWN - NLM
@@ -21000,74 +19445,6 @@ AID - 10.4140/TCP.n.2018.547. [doi]
 PST - ppublish
 SO  - Consult Pharm. 2018 Oct 1;33(10):547-552. doi: 10.4140/TCP.n.2018.547..
 
-PMID- 31011957
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210405
-LR  - 20210405
-IS  - 1618-727X (Electronic)
-IS  - 0897-1889 (Linking)
-VI  - 32
-IP  - 6
-DP  - 2019 Dec
-TI  - Fundamentals of Enterprise Photodocumentation: Connecting the Clinical and
-      Technical-a Review of Key Concepts.
-PG  - 1052-1061
-LID - 10.1007/s10278-019-00212-4 [doi]
-AB  - Photodocumentation is an invaluable tool in many specialties, including
-      dermatology, facial plastic and reconstructive surgery, and wound management. As 
-      digital cameras and camera-enabled smartphones have become omnipresent in our
-      society, they have brought photodocumentation to all corners of healthcare
-      organizations including the emergency department as well as family medicine and
-      pediatrics. Simultaneously, enterprise imaging programs have evolved enabling
-      access to all medical images for all providers throughout these organizations.
-      Through their unique perspective, enterprise imaging teams have an opportunity to
-      guide development of high quality, ethical programs that are compliant with legal
-      and regulatory requirements. Clinical and technical standards for
-      photodocumentation are not fully evolved and thus establishing an enterprise
-      photodocumentation program will require communication and education. Development 
-      of such a program requires an understanding of the clinical, ethical, and
-      technical issues around photodocumentation. This article explores how
-      photodocumentation is utilized, the patient's experience, current quality
-      concerns, tools and technical issues around image acquisition, and the topics of 
-      informed consent, privacy, security, and lifecycle and health information
-      management.
-FAU - Petersilge, Cheryl A
-AU  - Petersilge CA
-AUID- ORCID: 0000-0001-6198-0493
-AD  - Cleveland Clinic Lerner College of Medicine, Case Western Reserve University,
-      7775 Thistle Lane, Novelty, OH, 44072, USA. cpetersilge@att.net.
-LA  - eng
-PT  - Journal Article
-PT  - Review
-PL  - United States
-TA  - J Digit Imaging
-JT  - Journal of digital imaging
-JID - 9100529
-SB  - IM
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Informed Consent
-MH  - Photography/*methods
-MH  - Privacy
-PMC - PMC6841903
-OTO - NOTNLM
-OT  - *Clinical photography
-OT  - *Digital imaging
-OT  - *Enterprise imaging
-OT  - *Photodocumentation
-OT  - *Visible light
-EDAT- 2019/04/24 06:00
-MHDA- 2021/04/07 06:00
-CRDT- 2019/04/24 06:00
-PHST- 2019/04/24 06:00 [pubmed]
-PHST- 2021/04/07 06:00 [medline]
-PHST- 2019/04/24 06:00 [entrez]
-AID - 10.1007/s10278-019-00212-4 [doi]
-AID - 10.1007/s10278-019-00212-4 [pii]
-PST - ppublish
-SO  - J Digit Imaging. 2019 Dec;32(6):1052-1061. doi: 10.1007/s10278-019-00212-4.
-
 PMID- 30373730
 OWN - NLM
 STAT- MEDLINE
@@ -21166,115 +19543,6 @@ AID - 10.2196/jmir.9643 [doi]
 PST - epublish
 SO  - J Med Internet Res. 2018 Oct 29;20(10):e285. doi: 10.2196/jmir.9643.
 
-PMID- 32928214
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20201204
-LR  - 20201214
-IS  - 1472-6947 (Electronic)
-IS  - 1472-6947 (Linking)
-VI  - 20
-IP  - 1
-DP  - 2020 Sep 14
-TI  - Definitions, components and processes of data harmonisation in healthcare: a
-      scoping review.
-PG  - 222
-LID - 10.1186/s12911-020-01218-7 [doi]
-AB  - BACKGROUND: Data harmonisation (DH) has emerged amongst health managers,
-      information technology specialists and researchers as an important intervention
-      for routine health information systems (RHISs). It is important to understand
-      what DH is, how it is defined and conceptualised, and how it can lead to better
-      health management decision-making. This scoping review identifies a range of
-      definitions for DH, its characteristics (in terms of key components and
-      processes), and common explanations of the relationship between DH and health
-      management decision-making. METHODS: This scoping review identified relevant
-      studies from 2000 onwards (date filter), written in English and published in
-      PubMed, Web of Science and CINAHL. Two reviewers independently screened records
-      for potential inclusion for the abstract and full-text screening stages. One
-      reviewer did the data extraction, analysis and synthesis, with built-in
-      reliability checks from the rest of the team. We developed a narrative synthesis 
-      of definitions and explanations of the relationship between DH and health
-      management decision-making. RESULTS: We sampled 61 of 181 included to synthesis
-      definitions and concepts of DH in detail. We identified six common terms for data
-      harmonisation: record linkage, data linkage, data warehousing, data sharing, data
-      interoperability and health information exchange. We also identified nine key
-      components of data harmonisation: DH involves (a) a process of multiple steps;
-      (b) integrating, harmonising and bringing together different databases (c) two or
-      more databases; (d) electronic data; (e) pooling data using unique patient
-      identifiers; and (f) different types of data; (g) data found within and across
-      different departments and institutions at facility, district, regional and
-      national levels; (h) different types of technical activities; (i) has a specific 
-      scope. The relationship between DH and health management decision-making is not
-      well-described in the literature. Several studies mentioned health providers'
-      concerns about data completeness, data quality, terminology and coding of data
-      elements as barriers to data utilisation for clinical decision-making.
-      CONCLUSION: To our knowledge, this scoping review was the first to synthesise
-      definitions and concepts of DH and address the causal relationship between DH and
-      health management decision-making. Future research is required to assess the
-      effectiveness of data harmonisation on health management decision-making.
-FAU - Schmidt, Bey-Marrie
-AU  - Schmidt BM
-AUID- ORCID: 0000-0003-1363-171X
-AD  - Cochrane South Africa, South African Medical Research Council, Francie Van Zijl
-      Dr, Parow Valley, Cape Town, 7501, South Africa. bey-marrie.schmidt@mrc.ac.za.
-AD  - Division of Social and Behavioural Sciences, School of Public Health and Family
-      Medicine, University of Cape Town, Cape Town, South Africa.
-      bey-marrie.schmidt@mrc.ac.za.
-FAU - Colvin, Christopher J
-AU  - Colvin CJ
-AD  - Division of Social and Behavioural Sciences, School of Public Health and Family
-      Medicine, University of Cape Town, Cape Town, South Africa.
-AD  - Department of Public Health Sciences, University of Virginia, Charlottesville,
-      USA.
-AD  - Department of Epidemiology, School of Public Health, Brown University,
-      Providence, USA.
-FAU - Hohlfeld, Ameer
-AU  - Hohlfeld A
-AD  - Cochrane South Africa, South African Medical Research Council, Francie Van Zijl
-      Dr, Parow Valley, Cape Town, 7501, South Africa.
-FAU - Leon, Natalie
-AU  - Leon N
-AD  - Department of Public Health Sciences, University of Virginia, Charlottesville,
-      USA.
-AD  - Health Systems Research Unit, South African Medical Research Council, Cape Town, 
-      South Africa.
-LA  - eng
-GR  - 1 R01 MH106600/US National Institute of Mental Health/International
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-PT  - Review
-DEP - 20200914
-PL  - England
-TA  - BMC Med Inform Decis Mak
-JT  - BMC medical informatics and decision making
-JID - 101088682
-SB  - IM
-MH  - Delivery of Health Care
-MH  - *Health Information Exchange
-MH  - *Health Information Systems
-MH  - Humans
-MH  - Information Storage and Retrieval
-MH  - Reproducibility of Results
-PMC - PMC7488776
-OTO - NOTNLM
-OT  - *Data harmonisation
-OT  - *Health information exchange
-OT  - *Health information system
-OT  - *Scoping review
-EDAT- 2020/09/16 06:00
-MHDA- 2020/12/15 06:00
-CRDT- 2020/09/15 05:34
-PHST- 2020/04/23 00:00 [received]
-PHST- 2020/08/12 00:00 [accepted]
-PHST- 2020/09/15 05:34 [entrez]
-PHST- 2020/09/16 06:00 [pubmed]
-PHST- 2020/12/15 06:00 [medline]
-AID - 10.1186/s12911-020-01218-7 [doi]
-AID - 10.1186/s12911-020-01218-7 [pii]
-PST - epublish
-SO  - BMC Med Inform Decis Mak. 2020 Sep 14;20(1):222. doi: 10.1186/s12911-020-01218-7.
-
 PMID- 29737872
 OWN - NLM
 STAT- MEDLINE
@@ -21346,101 +19614,6 @@ AID - 10.1080/10410236.2018.1471336 [doi]
 PST - ppublish
 SO  - Health Commun. 2019 Sep;34(10):1202-1211. doi: 10.1080/10410236.2018.1471336.
       Epub 2018 May 8.
-
-PMID- 31915982
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20201116
-LR  - 20201116
-IS  - 1573-689X (Electronic)
-IS  - 0148-5598 (Linking)
-VI  - 44
-IP  - 2
-DP  - 2020 Jan 8
-TI  - Design of a Secure Medical Data Sharing Scheme Based on Blockchain.
-PG  - 52
-LID - 10.1007/s10916-019-1468-1 [doi]
-AB  - With the rapid development of technologies such as artificial intelligence,
-      blockchain, cloud computing, and big data, Medical Cyber Physical Systems (MCPS) 
-      are increasingly demanding data security, while cloud storage solves the storage 
-      problem of complex medical data. However, it is difficult to realize data
-      security sharing. The decentralization feature of blockchain is helpful to solve 
-      the problem that the secure authentication process is highly dependent on the
-      trusted third party and implement data security transmission. In this paper, the 
-      blockchain technology is used to describe the security requirements in
-      authentication process, and a network model of MCPS based on blockchain is
-      proposed. Through analysis of medical data storage architecture, it can ensure
-      that data can't be tampered and untrackable. In the security authentication
-      phase, bilinear mapping and intractable problems can be used to solve the
-      security threat in the authentication process of medical data providers and
-      users. It can avoid the credibility problem of the trusted third party, and also 
-      can realize the ?thyc=10?>two-way authentication between the hospital and
-      blockchain node. Then, BAN logic is used to analyze security protocols, and
-      formal analysis and comparison of security protocols are also made. The results
-      show that the MCPS based on blockchain not only realizes medical treatment data
-      sharing, but also meet the various security requirements in the security
-      authentication phase. In addition, the storage and computing overhead costs is
-      ideal. Therefore, the proposed scheme is more suitable for secure sharing of
-      medical big data.
-FAU - Cheng, Xu
-AU  - Cheng X
-AD  - School of Computer and Information, Anhui Normal University, Wuhu, 241002, China.
-AD  - Anhui Provincial Key Laboratory of Network and Information Security, Anhui Normal
-      University, Wuhu, 241002, China.
-FAU - Chen, Fulong
-AU  - Chen F
-AUID- ORCID: http://orcid.org/0000-0003-0557-5084
-AD  - School of Computer and Information, Anhui Normal University, Wuhu, 241002, China.
-      long005@mail.ahnu.edu.cn.
-AD  - Anhui Provincial Key Laboratory of Network and Information Security, Anhui Normal
-      University, Wuhu, 241002, China. long005@mail.ahnu.edu.cn.
-FAU - Xie, Dong
-AU  - Xie D
-AD  - School of Computer and Information, Anhui Normal University, Wuhu, 241002, China.
-AD  - Anhui Provincial Key Laboratory of Network and Information Security, Anhui Normal
-      University, Wuhu, 241002, China.
-FAU - Sun, Hui
-AU  - Sun H
-AD  - School of Computer and Information, Anhui Normal University, Wuhu, 241002, China.
-AD  - Anhui Provincial Key Laboratory of Network and Information Security, Anhui Normal
-      University, Wuhu, 241002, China.
-FAU - Huang, Cheng
-AU  - Huang C
-AD  - School of Computer and Information, Anhui Normal University, Wuhu, 241002, China.
-LA  - eng
-GR  - 61972438/National Natural Science Foundation of China
-PT  - Journal Article
-PT  - Review
-DEP - 20200108
-PL  - United States
-TA  - J Med Syst
-JT  - Journal of medical systems
-JID - 7806056
-SB  - IM
-MH  - Blockchain/*standards
-MH  - Computer Security/*standards
-MH  - Confidentiality
-MH  - Health Information Exchange/*standards
-MH  - Humans
-MH  - Information Storage and Retrieval/methods
-OTO - NOTNLM
-OT  - Blockchain
-OT  - Data security sharing
-OT  - Decentralization feature
-OT  - Medical cyber physical systems
-OT  - Security authentication
-EDAT- 2020/01/10 06:00
-MHDA- 2020/11/18 06:00
-CRDT- 2020/01/10 06:00
-PHST- 2019/06/14 00:00 [received]
-PHST- 2019/10/09 00:00 [accepted]
-PHST- 2020/01/10 06:00 [entrez]
-PHST- 2020/01/10 06:00 [pubmed]
-PHST- 2020/11/18 06:00 [medline]
-AID - 10.1007/s10916-019-1468-1 [doi]
-AID - 10.1007/s10916-019-1468-1 [pii]
-PST - epublish
-SO  - J Med Syst. 2020 Jan 8;44(2):52. doi: 10.1007/s10916-019-1468-1.
 
 PMID- 32990628
 OWN - NLM
@@ -22011,93 +20184,6 @@ AID - 10.1111/1475-6773.12838 [doi]
 PST - ppublish
 SO  - Health Serv Res. 2018 Oct;53(5):3285-3308. doi: 10.1111/1475-6773.12838. Epub
       2018 Feb 28.
-
-PMID- 29572671
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20190611
-LR  - 20191008
-IS  - 1534-6269 (Electronic)
-IS  - 1523-3790 (Linking)
-VI  - 20
-IP  - 4
-DP  - 2018 Mar 23
-TI  - Electronic Health Information Exchange Opportunities for Self-management of Care:
-      Responses from Older Adults With and Without Cancer History in the United States.
-PG  - 30
-LID - 10.1007/s11912-018-0674-1 [doi]
-AB  - PURPOSE OF STUDY: Of 15.5 million US cancer survivors, 80% are >/= 55 years.
-      Supporting older patients in care self-management through electronic health
-      information (EHI) exchange may enhance recovery. We assessed: (1) perceived
-      importance of EHI access to adults >/= 55 years (incl survivors) and (2)
-      age-related preferences for EHI exchange. RECENT FINDINGS: Older adults are one
-      of the fastest-growing user groups for internet/technologies. Most older adults
-      55-64 years are active internet users, and use among adults >/= 65 years is
-      growing quickly as baby boomers mature. Understanding EHI patient-provider
-      exchange preferences may provide opportunities for older patients but also begin 
-      to address the future needs of other patient populations, including cancer
-      survivors. We observed a "digital divide" for perceived importance of EHI access 
-      and EHI exchange interests. Engaging older adults (i.e., >/= 75 years) to improve
-      comfort/experience with technologies may support EHI use in self-management.
-      Survivors may have distinct EHI needs/preferences than older adults without
-      cancer history.
-FAU - Bluethmann, Shirley M
-AU  - Bluethmann SM
-AD  - Public Health Sciences The Pennsylvania State University College of Medicine, 500
-      University Drive, T3424, Hershey, PA, 17033, USA. szb332@psu.edu.
-AD  - Division of Cancer Control and Population Sciences, National Cancer Institute,
-      Bethesda, MD, USA. szb332@psu.edu.
-AD  - Department of Public Health Sciences, College of Medicine, The Pennsylvania State
-      University, Hershey, PA, USA. szb332@psu.edu.
-FAU - Coa, Kisha I
-AU  - Coa KI
-AD  - ICF International, Rockville, MD, USA.
-FAU - Alfano, Catherine M
-AU  - Alfano CM
-AD  - Survivorship, American Cancer Society, Inc., Washington, DC, USA.
-FAU - Hesse, Bradford W
-AU  - Hesse BW
-AD  - Public Health Sciences The Pennsylvania State University College of Medicine, 500
-      University Drive, T3424, Hershey, PA, 17033, USA.
-LA  - eng
-GR  - Z99 CA999999/Intramural NIH HHS/United States
-PT  - Comparative Study
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Review
-DEP - 20180323
-PL  - United States
-TA  - Curr Oncol Rep
-JT  - Current oncology reports
-JID - 100888967
-SB  - IM
-MH  - Adult
-MH  - Age Factors
-MH  - Aged
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - Internet/*statistics & numerical data
-MH  - Middle Aged
-MH  - Neoplasms/*prevention & control
-MH  - *Self-Management
-MH  - United States
-PMC - PMC5889115
-MID - NIHMS954876
-OTO - NOTNLM
-OT  - *Cancer informatics
-OT  - *Health information technology
-OT  - *Healthy aging
-OT  - *Self-management
-EDAT- 2018/03/25 06:00
-MHDA- 2019/06/14 06:00
-CRDT- 2018/03/25 06:00
-PHST- 2018/03/25 06:00 [entrez]
-PHST- 2018/03/25 06:00 [pubmed]
-PHST- 2019/06/14 06:00 [medline]
-AID - 10.1007/s11912-018-0674-1 [doi]
-AID - 10.1007/s11912-018-0674-1 [pii]
-PST - epublish
-SO  - Curr Oncol Rep. 2018 Mar 23;20(4):30. doi: 10.1007/s11912-018-0674-1.
 
 PMID- 32716300
 OWN - NLM
@@ -22796,52 +20882,6 @@ AID - 5734735 [pii]
 AID - 10.1093/jamia/ocaa003 [doi]
 PST - ppublish
 SO  - J Am Med Inform Assoc. 2020 Apr 1;27(4):577-583. doi: 10.1093/jamia/ocaa003.
-
-PMID- 31643081
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20200703
-LR  - 20200703
-IS  - 1469-493X (Electronic)
-IS  - 1361-6137 (Linking)
-VI  - 10
-DP  - 2019 Oct 23
-TI  - Qualitative evidence synthesis informing our understanding of people's
-      perceptions and experiences of targeted digital communication.
-PG  - ED000141
-LID - 10.1002/14651858.ED000141 [doi]
-FAU - Ryan, Rebecca
-AU  - Ryan R
-AD  - Cochrane Consumers and Communication, La Trobe University, Australia.
-FAU - Hill, Sophie
-AU  - Hill S
-LA  - eng
-PT  - Editorial
-PL  - England
-TA  - Cochrane Database Syst Rev
-JT  - The Cochrane database of systematic reviews
-JID - 100909747
-SB  - IM
-MH  - Family Planning Services/education
-MH  - Female
-MH  - Health Communication/*methods
-MH  - *Health Information Exchange
-MH  - Humans
-MH  - *Mobile Applications
-MH  - Parents
-MH  - Pregnant Women
-MH  - Sexual Health/education
-MH  - *Text Messaging
-EDAT- 2019/10/24 06:00
-MHDA- 2020/07/04 06:00
-CRDT- 2019/10/24 06:00
-PHST- 2019/10/24 06:00 [entrez]
-PHST- 2019/10/24 06:00 [pubmed]
-PHST- 2020/07/04 06:00 [medline]
-AID - 10.1002/14651858.ED000141 [doi]
-PST - ppublish
-SO  - Cochrane Database Syst Rev. 2019 Oct 23;10:ED000141. doi:
-      10.1002/14651858.ED000141.
 
 PMID- 32220218
 OWN - NLM

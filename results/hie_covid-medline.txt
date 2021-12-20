@@ -1,0 +1,1101 @@
+HTTP/1.1 200 OK
+Date: Sun, 19 Dec 2021 19:17:13 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: 322C36777D9DA985000033C4506EC664.1.1.m_5
+X-RateLimit-Remaining: 1
+NCBI-SID: 103CCCFCE1E19D3D_F696SID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=103CCCFCE1E19D3D_F696SID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:13 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 33162358
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201218
+LR  - 20210709
+IS  - 1538-9375 (Electronic)
+IS  - 1525-8610 (Linking)
+VI  - 21
+IP  - 12
+DP  - 2020 Dec
+TI  - Safe Interorganizational Health Information Exchange During the COVID-19
+      Pandemic.
+PG  - 1808-1810
+LID - S1525-8610(20)30897-5 [pii]
+LID - 10.1016/j.jamda.2020.10.022 [doi]
+AB  - Accurate and timely transmission of medical records between skilled nursing
+      facilities and acute care settings has been logistically problematic. Often
+      people are sent to the hospital with a packet of paper records, which is easily
+      misplaced. The COVID-19 pandemic has further magnified this problem by the
+      possibility of viral transmission via fomites. To protect themselves, staff and
+      providers were donning personal protective equipment to review paper records,
+      which was time-consuming and wasteful. We describe an innovative process
+      developed by a team of hospital leadership, members of a local collaborative of
+      skilled nursing facilities, and leadership of this collaborative group, to
+      address this problem. Many possible solutions were suggested and reviewed. We
+      describe the reasons for selecting our final document transfer process and how it
+      was implemented. The critical success factors are also delineated. Other health
+      systems and collaborative groups of skilled nursing facilities may benefit from
+      implementing similar processes.
+CI  - Copyright (c) 2020 AMDA - The Society for Post-Acute and Long-Term Care Medicine.
+      Published by Elsevier Inc. All rights reserved.
+FAU - Wong, Serena P
+AU  - Wong SP
+AD  - Division of Geriatric Medicine, Department of Medicine, Duke University School of
+      Medicine, Durham, NC, USA. Electronic address: serena.wong@duke.edu.
+FAU - Jacobson, Heather N
+AU  - Jacobson HN
+AD  - Population Health Management Office, Duke University Health System, Durham, NC,
+      USA.
+FAU - Massengill, Jennifer
+AU  - Massengill J
+AD  - Department of Performance Services, Duke University Health System, Durham, NC,
+      USA.
+FAU - White, Heidi K
+AU  - White HK
+AD  - Division of Geriatric Medicine, Department of Medicine, Duke University School of
+      Medicine, Durham, NC, USA.
+FAU - Yanamadala, Mamata
+AU  - Yanamadala M
+AD  - Division of Geriatric Medicine, Department of Medicine, Duke University School of
+      Medicine, Durham, NC, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20201022
+PL  - United States
+TA  - J Am Med Dir Assoc
+JT  - Journal of the American Medical Directors Association
+JID - 100893243
+SB  - IM
+MH  - *COVID-19
+MH  - Health Facilities
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Infection Control
+MH  - *Pandemics
+MH  - SARS-CoV-2
+PMC - PMC7580699
+OTO - NOTNLM
+OT  - *COVID-19
+OT  - *Interoperability
+OT  - *acute care
+OT  - *health information transfer
+OT  - *nursing home
+OT  - *transfer of care
+EDAT- 2020/11/10 06:00
+MHDA- 2020/12/19 06:00
+CRDT- 2020/11/09 05:28
+PHST- 2020/07/02 00:00 [received]
+PHST- 2020/07/27 00:00 [revised]
+PHST- 2020/10/18 00:00 [accepted]
+PHST- 2020/11/10 06:00 [pubmed]
+PHST- 2020/12/19 06:00 [medline]
+PHST- 2020/11/09 05:28 [entrez]
+AID - S1525-8610(20)30897-5 [pii]
+AID - 10.1016/j.jamda.2020.10.022 [doi]
+PST - ppublish
+SO  - J Am Med Dir Assoc. 2020 Dec;21(12):1808-1810. doi: 10.1016/j.jamda.2020.10.022. 
+      Epub 2020 Oct 22.
+
+PMID- 33049479
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201207
+LR  - 20210110
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 144
+DP  - 2020 Dec
+TI  - A novel tool for patient data management in the ICU-Ensuring timely and accurate 
+      vital data exchange among ICU team members.
+PG  - 104291
+LID - S1386-5056(20)30946-1 [pii]
+LID - 10.1016/j.ijmedinf.2020.104291 [doi]
+AB  - OBJECTIVE: The coronavirus pandemic has highlighted the need to simplify data
+      collection for critically-ill patients, particularly for physicians relocated to 
+      the ICU setting. Herein we present a simple, reproducible, and
+      highly-customizable manual-entry tool to track ICU patients using new
+      HIPAA-compliant Google Big Query technology for parsing large datasets. This
+      innovative flow chart is useful and could be modified to serve the particular
+      needs of different sub-specialists, particularly those that either rely heavily
+      on hand-written notes or experience poor electronic medical record (EMR)
+      penetration. METHODS: The tool was developed using a combination of three Google 
+      Enterprise features: Google Forms for data input, Google Sheets for data output, 
+      and Google Big Query for data parsing. Code was written in SQL. Sheets functions 
+      were used to transpose and filter parsed data. White and black box tests were
+      performed to examine functionality. RESULTS: Our tool was successfully able to
+      collect and output fictional patient data across all 57 data points specified by 
+      the intensivists and surgeons of Cardiovascular Department of Mt. Sinai
+      Morningside Hospital. CONCLUSION: The functional tests performed demonstrate use 
+      of the tool. Though originally conceived to simplify patient data collection for 
+      newly relocated physicians to the ICU, our tool also overcomes financial and
+      technological barriers previously described in low-income countries that could
+      dramatically improve patient care and provide data to power future studies in
+      these regions. With the original code provided, implementers may adapt our tool
+      to best meet the requirements of their clinical setting and protocols during this
+      very challenging time.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Newman, Noah
+AU  - Newman N
+AD  - Wake Forest School of Medicine, Winston-Salem, NC, United States. Electronic
+      address: nanewman@wakehealth.edu.
+FAU - Gilman, Sam
+AU  - Gilman S
+AD  - Harvard Law School, Cambridge, MA, United States.
+FAU - Burdumy, Matt
+AU  - Burdumy M
+AD  - Mt Sinai Morningside Hospital, New York, NY, United States.
+FAU - Yimen, Mekeleya
+AU  - Yimen M
+AD  - Mt Sinai Morningside Hospital, New York, NY, United States.
+FAU - Lattouf, Omar
+AU  - Lattouf O
+AD  - Mt Sinai Morningside Hospital, New York, NY, United States; Emory School of
+      Medicine, Atlanta, GA, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20201001
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Critical Illness/*therapy
+MH  - *Data Accuracy
+MH  - Data Management/*statistics & numerical data
+MH  - Delivery of Health Care/standards
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Intensive Care Units/*statistics & numerical data
+MH  - Patient Care/*standards
+MH  - Physicians/*statistics & numerical data
+PMC - PMC7528843
+OTO - NOTNLM
+OT  - *Electronic medical record
+OT  - *Intensive care
+EDAT- 2020/10/14 06:00
+MHDA- 2020/12/15 06:00
+CRDT- 2020/10/13 20:12
+PHST- 2020/06/18 00:00 [received]
+PHST- 2020/07/31 00:00 [revised]
+PHST- 2020/09/29 00:00 [accepted]
+PHST- 2020/10/14 06:00 [pubmed]
+PHST- 2020/12/15 06:00 [medline]
+PHST- 2020/10/13 20:12 [entrez]
+AID - S1386-5056(20)30946-1 [pii]
+AID - 10.1016/j.ijmedinf.2020.104291 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2020 Dec;144:104291. doi: 10.1016/j.ijmedinf.2020.104291. Epub 
+      2020 Oct 1.
+
+PMID- 32232432
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200617
+LR  - 20210914
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 27
+IP  - 6
+DP  - 2020 Jun 1
+TI  - Balancing health privacy, health information exchange, and research in the
+      context of the COVID-19 pandemic.
+PG  - 963-966
+LID - 10.1093/jamia/ocaa039 [doi]
+AB  - The novel coronavirus disease 2019 infection poses serious challenges to the
+      healthcare system that are being addressed through the creation of new unique and
+      advanced systems of care with disjointed care processes (eg, telehealth
+      screening, drive-through specimen collection, remote testing, telehealth
+      management). However, our current regulations on the flows of information for
+      clinical care and research are antiquated and often conflict at the state and
+      federal levels. We discuss proposed changes to privacy regulations such as the
+      Health Insurance Portability and Accountability Act designed to let health
+      information seamlessly and frictionlessly flow among the health entities that
+      need to collaborate on treatment of patients and, also, allow it to flow to
+      researchers trying to understand how to limit its impacts.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press on behalf of the
+      American Medical Informatics Association.
+FAU - Lenert, Leslie
+AU  - Lenert L
+AD  - Center for Biomedical Informatics, Medical University of South Carolina,
+      Charleston, South Carolina, USA.
+FAU - McSwain, Brooke Yeager
+AU  - McSwain BY
+AD  - South Carolina Childrens' Telehealth Collaborative, South Carolina, USA.
+LA  - eng
+GR  - UL1 TR001450/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - *Betacoronavirus
+MH  - COVID-19
+MH  - Communicable Disease Control
+MH  - Confidentiality/*legislation & jurisprudence
+MH  - Contact Tracing/methods
+MH  - Coronavirus Infections/*epidemiology/prevention & control
+MH  - *Government Regulation
+MH  - Health Information Exchange/ethics/*legislation & jurisprudence
+MH  - Health Insurance Portability and Accountability Act
+MH  - Humans
+MH  - Information Dissemination/legislation & jurisprudence
+MH  - *Pandemics/prevention & control
+MH  - Pneumonia, Viral/*epidemiology/prevention & control
+MH  - Public Health Practice/legislation & jurisprudence
+MH  - SARS-CoV-2
+MH  - United States
+PMC - PMC7184334
+OTO - NOTNLM
+OT  - *COVID-19
+OT  - *COVID-19 research
+OT  - *HIPAA
+OT  - *coronavirus
+OT  - *health information exchange
+OT  - *health privacy
+EDAT- 2020/04/02 06:00
+MHDA- 2020/06/18 06:00
+CRDT- 2020/04/02 06:00
+PHST- 2020/03/20 00:00 [received]
+PHST- 2020/03/25 00:00 [accepted]
+PHST- 2020/04/02 06:00 [pubmed]
+PHST- 2020/06/18 06:00 [medline]
+PHST- 2020/04/02 06:00 [entrez]
+AID - 5814212 [pii]
+AID - 10.1093/jamia/ocaa039 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2020 Jun 1;27(6):963-966. doi: 10.1093/jamia/ocaa039.
+
+PMID- 32881933
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200917
+LR  - 20201218
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 15
+IP  - 9
+DP  - 2020
+TI  - Social media as a tool for scientific updating at the time of COVID pandemic:
+      Results from a national survey in Italy.
+PG  - e0238414
+LID - 10.1371/journal.pone.0238414 [doi]
+AB  - In the face of the rapid evolution of the COVID-19 pandemic, healthcare
+      professionals on the frontline are in urgent need of frequent updates in the
+      accomplishment of their practice. Hence, clinicians started to search for prompt,
+      valid information on sources that are parallel to academic journals. Aim of this 
+      work is to investigate the extent of this phenomenon. We administered an
+      anonymous online cross-sectional survey to 645 Italian clinicians. Target of the 
+      survey were all medical figures potentially involved in the management of
+      COVID-19 cases. 369 questionnaires were returned. 19.5% (n = 72) of respondents
+      were younger than 30 years-old; 49,3% (n = 182) worked in Infectious Diseases,
+      Internal Medicine or Respiratory Medicine departments, 11.5% (n = 42) in
+      Intensive Care Unit and 7.4% (n = 27) were general practitioner. 70% (n = 261) of
+      respondents reported that their use of social media to seek medical information
+      increased during the pandemic. 39.3% (n = 145) consistently consulted Facebook
+      groups and 53.1% (n = 196) Whatsapp chats. 47% (n = 174) of respondents reported 
+      that information shared on social media had a consistent impact on their daily
+      practice. In the present study, we found no difference in social media usage
+      between age groups or medical specialties. Given the urgent need for scientific
+      update during the present pandemic, these findings may help understanding how
+      clinicians access new evidences and implement them in their daily practice.
+FAU - Murri, Rita
+AU  - Murri R
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico
+      Universitario A. Gemelli IRCCS, Rome, Italy.
+AD  - Dipartimento di Sicurezza e Bioetica, Universita Cattolica del Sacro Cuore, Rome,
+      Italy.
+FAU - Segala, Francesco Vladimiro
+AU  - Segala FV
+AUID- ORCID: 0000-0001-5276-2603
+AD  - Catholic University of the Sacred Heart, Rome, Italy.
+FAU - Del Vecchio, Pierluigi
+AU  - Del Vecchio P
+AUID- ORCID: 0000-0003-4421-912X
+AD  - Catholic University of the Sacred Heart, Rome, Italy.
+FAU - Cingolani, Antonella
+AU  - Cingolani A
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico
+      Universitario A. Gemelli IRCCS, Rome, Italy.
+AD  - Dipartimento di Sicurezza e Bioetica, Universita Cattolica del Sacro Cuore, Rome,
+      Italy.
+FAU - Taddei, Eleonora
+AU  - Taddei E
+AUID- ORCID: 0000-0002-5983-4291
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico
+      Universitario A. Gemelli IRCCS, Rome, Italy.
+AD  - Dipartimento di Sicurezza e Bioetica, Universita Cattolica del Sacro Cuore, Rome,
+      Italy.
+FAU - Micheli, Giulia
+AU  - Micheli G
+AUID- ORCID: 0000-0001-7996-8345
+AD  - Catholic University of the Sacred Heart, Rome, Italy.
+FAU - Fantoni, Massimo
+AU  - Fantoni M
+AD  - Dipartimento di Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico
+      Universitario A. Gemelli IRCCS, Rome, Italy.
+AD  - Dipartimento di Sicurezza e Bioetica, Universita Cattolica del Sacro Cuore, Rome,
+      Italy.
+CN  - COVID II Columbus Group
+LA  - eng
+PT  - Journal Article
+DEP - 20200903
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - COVID-19
+MH  - Coronavirus Infections/*epidemiology/psychology
+MH  - Diffusion of Innovation
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Health Personnel/psychology/*statistics & numerical data
+MH  - Humans
+MH  - *Information Dissemination
+MH  - Italy
+MH  - Male
+MH  - Middle Aged
+MH  - Pandemics
+MH  - Pneumonia, Viral/*epidemiology/psychology
+MH  - Social Media/*statistics & numerical data
+PMC - PMC7470601
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2020/09/04 06:00
+MHDA- 2020/09/18 06:00
+CRDT- 2020/09/04 06:00
+PHST- 2020/06/02 00:00 [received]
+PHST- 2020/08/16 00:00 [accepted]
+PHST- 2020/09/04 06:00 [entrez]
+PHST- 2020/09/04 06:00 [pubmed]
+PHST- 2020/09/18 06:00 [medline]
+AID - 10.1371/journal.pone.0238414 [doi]
+AID - PONE-D-20-16294 [pii]
+PST - epublish
+SO  - PLoS One. 2020 Sep 3;15(9):e0238414. doi: 10.1371/journal.pone.0238414.
+      eCollection 2020.
+
+PMID- 34581671
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211118
+LR  - 20211208
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 23
+IP  - 11
+DP  - 2021 Nov 15
+TI  - Predicting COVID-19-Related Health Care Resource Utilization Across a Statewide
+      Patient Population: Model Development Study.
+PG  - e31337
+LID - 10.2196/31337 [doi]
+AB  - BACKGROUND: The COVID-19 pandemic has highlighted the inability of health systems
+      to leverage existing system infrastructure in order to rapidly develop and apply 
+      broad analytical tools that could inform state- and national-level policymaking, 
+      as well as patient care delivery in hospital settings. The COVID-19 pandemic has 
+      also led to highlighted systemic disparities in health outcomes and access to
+      care based on race or ethnicity, gender, income-level, and urban-rural divide.
+      Although the United States seems to be recovering from the COVID-19 pandemic
+      owing to widespread vaccination efforts and increased public awareness, there is 
+      an urgent need to address the aforementioned challenges. OBJECTIVE: This study
+      aims to inform the feasibility of leveraging broad, statewide datasets for
+      population health-driven decision-making by developing robust analytical models
+      that predict COVID-19-related health care resource utilization across patients
+      served by Indiana's statewide Health Information Exchange. METHODS: We leveraged 
+      comprehensive datasets obtained from the Indiana Network for Patient Care to
+      train decision forest-based models that can predict patient-level need of health 
+      care resource utilization. To assess these models for potential biases, we tested
+      model performance against subpopulations stratified by age, race or ethnicity,
+      gender, and residence (urban vs rural). RESULTS: For model development, we
+      identified a cohort of 96,026 patients from across 957 zip codes in Indiana,
+      United States. We trained the decision models that predicted health care resource
+      utilization by using approximately 100 of the most impactful features from a
+      total of 1172 features created. Each model and stratified subpopulation under
+      test reported precision scores >70%, accuracy and area under the receiver
+      operating curve scores >80%, and sensitivity scores approximately >90%. We noted 
+      statistically significant variations in model performance across stratified
+      subpopulations identified by age, race or ethnicity, gender, and residence (urban
+      vs rural). CONCLUSIONS: This study presents the possibility of developing
+      decision models capable of predicting patient-level health care resource
+      utilization across a broad, statewide region with considerable predictive
+      performance. However, our models present statistically significant variations in 
+      performance across stratified subpopulations of interest. Further efforts are
+      necessary to identify root causes of these biases and to rectify them.
+CI  - (c)Suranga N Kasturi, Jeremy Park, David Wild, Babar Khan, David A Haggstrom,
+      Shaun Grannis. Originally published in the Journal of Medical Internet Research
+      (https://www.jmir.org), 15.11.2021.
+FAU - Kasturi, Suranga N
+AU  - Kasturi SN
+AUID- ORCID: 0000-0002-6630-4598
+AD  - Regenstrief Institute, Indianapolis, IN, United States.
+AD  - Department of Pediatrics, Indiana University School of Medicine, Indianapolis,
+      IN, United States.
+FAU - Park, Jeremy
+AU  - Park J
+AUID- ORCID: 0000-0002-6551-1034
+AD  - Luddy School of Informatics Computing and Engineering, Indiana University,
+      Bloomington, IN, United States.
+FAU - Wild, David
+AU  - Wild D
+AUID- ORCID: 0000-0001-7821-3872
+AD  - Luddy School of Informatics Computing and Engineering, Indiana University,
+      Bloomington, IN, United States.
+FAU - Khan, Babar
+AU  - Khan B
+AUID- ORCID: 0000-0003-4507-6968
+AD  - Regenstrief Institute, Indianapolis, IN, United States.
+AD  - Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, 
+      United States.
+FAU - Haggstrom, David A
+AU  - Haggstrom DA
+AUID- ORCID: 0000-0003-3637-6950
+AD  - Regenstrief Institute, Indianapolis, IN, United States.
+AD  - Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, 
+      United States.
+FAU - Grannis, Shaun
+AU  - Grannis S
+AUID- ORCID: 0000-0002-8093-6639
+AD  - Regenstrief Institute, Indianapolis, IN, United States.
+AD  - Department of Family Medicine, Indiana University School of Medicine,
+      Indianapolis, IN, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20211115
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - *COVID-19
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Pandemics
+MH  - Patient Acceptance of Health Care
+MH  - SARS-CoV-2
+MH  - United States
+PMC - PMC8594735
+OTO - NOTNLM
+OT  - *COVID-19
+OT  - *decision models
+OT  - *digital health
+OT  - *epidemiology
+OT  - *health care utilization
+OT  - *health data
+OT  - *health disparities
+OT  - *health informatics
+OT  - *health information
+OT  - *healthcare resources
+OT  - *machine learning
+OT  - *pandemic
+OT  - *population health
+OT  - *public health
+EDAT- 2021/09/29 06:00
+MHDA- 2021/11/19 06:00
+CRDT- 2021/09/28 12:15
+PHST- 2021/06/20 00:00 [received]
+PHST- 2021/09/15 00:00 [accepted]
+PHST- 2021/09/07 00:00 [revised]
+PHST- 2021/09/29 06:00 [pubmed]
+PHST- 2021/11/19 06:00 [medline]
+PHST- 2021/09/28 12:15 [entrez]
+AID - v23i11e31337 [pii]
+AID - 10.2196/31337 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2021 Nov 15;23(11):e31337. doi: 10.2196/31337.
+
+PMID- 34081724
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210625
+LR  - 20211204
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 16
+IP  - 6
+DP  - 2021
+TI  - Leveraging a health information exchange for analyses of COVID-19 outcomes
+      including an example application using smoking history and mortality.
+PG  - e0247235
+LID - 10.1371/journal.pone.0247235 [doi]
+AB  - Understanding sociodemographic, behavioral, clinical, and laboratory risk factors
+      in patients diagnosed with COVID-19 is critically important, and requires
+      building large and diverse COVID-19 cohorts with both retrospective information
+      and prospective follow-up. A large Health Information Exchange (HIE) in Southeast
+      Texas, which assembles and shares electronic health information among providers
+      to facilitate patient care, was leveraged to identify COVID-19 patients, create a
+      cohort, and identify risk factors for both favorable and unfavorable outcomes.
+      The initial sample consists of 8,874 COVID-19 patients ascertained from the
+      pandemic's onset to June 12th, 2020 and was created for the analyses shown here. 
+      We gathered demographic, lifestyle, laboratory, and clinical data from patient's 
+      encounters across the healthcare system. Tobacco use history was examined as a
+      potential risk factor for COVID-19 fatality along with age, gender,
+      race/ethnicity, body mass index (BMI), and number of comorbidities. Of the 8,874 
+      patients included in the cohort, 475 died from COVID-19. Of the 5,356 patients
+      who had information on history of tobacco use, over 26% were current or former
+      tobacco users. Multivariable logistic regression showed that the odds of COVID-19
+      fatality increased among those who were older (odds ratio = 1.07, 95% CI 1.06,
+      1.08), male (1.91, 95% CI 1.58, 2.31), and had a history of tobacco use (2.45,
+      95% CI 1.93, 3.11). History of tobacco use remained significantly associated
+      (1.65, 95% CI 1.27, 2.13) with COVID-19 fatality after adjusting for age, gender,
+      and race/ethnicity. This effort demonstrates the impact of having an HIE to
+      rapidly identify a cohort, aggregate sociodemographic, behavioral, clinical and
+      laboratory data across disparate healthcare providers electronic health record
+      (HER) systems, and follow the cohort over time. These HIE capabilities enable
+      clinical specialists and epidemiologists to conduct outcomes analyses during the 
+      current COVID-19 pandemic and beyond. Tobacco use appears to be an important risk
+      factor for COVID-19 related death.
+FAU - Tortolero, Guillermo A
+AU  - Tortolero GA
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Brown, Michael R
+AU  - Brown MR
+AUID- ORCID: 0000-0002-5235-9037
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Sharma, Shreela V
+AU  - Sharma SV
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - de Oliveira Otto, Marcia C
+AU  - de Oliveira Otto MC
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Yamal, Jose-Miguel
+AU  - Yamal JM
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Aguilar, David
+AU  - Aguilar D
+AUID- ORCID: 0000-0002-0916-2722
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Gunther, Matt D
+AU  - Gunther MD
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Mofleh, Dania I
+AU  - Mofleh DI
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Harris, Rachel D
+AU  - Harris RD
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - John, Jemima C
+AU  - John JC
+AUID- ORCID: 0000-0002-3710-4984
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - de Vries, Paul S
+AU  - de Vries PS
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Ramphul, Ryan
+AU  - Ramphul R
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Serbo, Dritana Marko
+AU  - Serbo DM
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Kiger, Jennifer
+AU  - Kiger J
+AD  - Harris County Public Health, Houston Texas, United States of America.
+FAU - Banerjee, Deborah
+AU  - Banerjee D
+AD  - City of Houston Health Department, Houston, Texas, United States of America.
+FAU - Bonvino, Nick
+AU  - Bonvino N
+AD  - Greater Houston Healthconnect, Houston, Texas, United States of America.
+FAU - Merchant, Angela
+AU  - Merchant A
+AD  - Greater Houston Healthconnect, Houston, Texas, United States of America.
+FAU - Clifford, Warren
+AU  - Clifford W
+AD  - Greater Houston Healthconnect, Houston, Texas, United States of America.
+FAU - Mikhail, Jenny
+AU  - Mikhail J
+AD  - Greater Houston Healthconnect, Houston, Texas, United States of America.
+FAU - Xu, Hua
+AU  - Xu H
+AD  - School of Biomedical Informatics, University of Texas Health Science Center at
+      Houston, Houston, TX, United States of America.
+FAU - Murphy, Robert E
+AU  - Murphy RE
+AD  - School of Biomedical Informatics, University of Texas Health Science Center at
+      Houston, Houston, TX, United States of America.
+FAU - Wei, Qiang
+AU  - Wei Q
+AD  - School of Biomedical Informatics, University of Texas Health Science Center at
+      Houston, Houston, TX, United States of America.
+FAU - Vahidy, Farhaan S
+AU  - Vahidy FS
+AUID- ORCID: 0000-0002-3464-2111
+AD  - Center for Outcomes Research, Houston Methodist, Houston, Texas, United States of
+      America.
+FAU - Morrison, Alanna C
+AU  - Morrison AC
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+FAU - Boerwinkle, Eric
+AU  - Boerwinkle E
+AUID- ORCID: 0000-0001-8813-0544
+AD  - School of Public Health, University of Texas Health Science Center at Houston,
+      Houston, TX, United States of America.
+LA  - eng
+PT  - Journal Article
+DEP - 20210603
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Age Factors
+MH  - COVID-19/*mortality
+MH  - Cohort Studies
+MH  - Comorbidity
+MH  - Ethnicity
+MH  - Health Information Exchange/*statistics & numerical data/*trends
+MH  - Healthcare Disparities
+MH  - Hospitalization
+MH  - Humans
+MH  - Pandemics
+MH  - Prospective Studies
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - SARS-CoV-2/metabolism/pathogenicity
+MH  - Sex Factors
+MH  - Smoking
+MH  - Texas
+PMC - PMC8174716
+COIS- Authors NB, AM, WC, and JM are paid employees of Greater Houston Healthconnect
+      (GHH). Greater Houston Healthconnect (GHH) is a not-for-profit, neutral entity,
+      governed by a multi-stakeholder board to serve the communities in its coverage
+      area. Participants sign a common data use and reciprocal support agreement
+      (DURSA) to equitably share Protected Health Information (PHI). This work is
+      permitted under the Health Information Portability and Accountability Act (HIPAA)
+      healthcare operations and quality improvement activities of covered entities
+      operations. The data is restricted for use outside of these permitted purposes.
+      Under this construct, GHH has no conflict of interest. Under subcontract to
+      UTHealth, GHH identified COVID-19 patients into the cohort, queried covered
+      entities for all patient data, aggregated and normalized the data for analysis by
+      clinical specialists and researchers with preapproved proposals and local
+      Institutional Review Board (IRB) approval. There are no patents, products in
+      development or marketed products to declare.
+EDAT- 2021/06/04 06:00
+MHDA- 2021/06/29 06:00
+CRDT- 2021/06/03 17:19
+PHST- 2020/10/28 00:00 [received]
+PHST- 2021/02/03 00:00 [accepted]
+PHST- 2021/06/03 17:19 [entrez]
+PHST- 2021/06/04 06:00 [pubmed]
+PHST- 2021/06/29 06:00 [medline]
+AID - 10.1371/journal.pone.0247235 [doi]
+AID - PONE-D-20-33813 [pii]
+PST - epublish
+SO  - PLoS One. 2021 Jun 3;16(6):e0247235. doi: 10.1371/journal.pone.0247235.
+      eCollection 2021.
+
+PMID- 32366769
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200722
+LR  - 20210127
+IS  - 1526-7598 (Electronic)
+IS  - 0003-2999 (Linking)
+VI  - 131
+IP  - 2
+DP  - 2020 Aug
+TI  - The COVID-19 Pandemic Highlights Shortcomings in US Health Care Informatics
+      Infrastructure: A Call to Action.
+PG  - 340-344
+LID - 10.1213/ANE.0000000000004945 [doi]
+FAU - O'Reilly-Shah, Vikas N
+AU  - O'Reilly-Shah VN
+AD  - From the Department of Anesthesiology & Pain Medicine, University of Washington
+      School of Medicine, Seattle, Washington.
+FAU - Gentry, Katherine R
+AU  - Gentry KR
+AD  - From the Department of Anesthesiology & Pain Medicine, University of Washington
+      School of Medicine, Seattle, Washington.
+AD  - Treuman Katz Center for Pediatric Bioethics, Seattle Children's Research
+      Institute, Seattle, Washington.
+FAU - Van Cleve, Wil
+AU  - Van Cleve W
+AD  - From the Department of Anesthesiology & Pain Medicine, University of Washington
+      School of Medicine, Seattle, Washington.
+FAU - Kendale, Samir M
+AU  - Kendale SM
+AD  - Department of Anesthesiology, Perioperative Care, and Pain Medicine, New York
+      University (NYU) Langone Health, New York, New York.
+FAU - Jabaley, Craig S
+AU  - Jabaley CS
+AD  - Department of Anesthesiology, Emory University School of Medicine, Atlanta,
+      Georgia.
+FAU - Long, Dustin R
+AU  - Long DR
+AD  - From the Department of Anesthesiology & Pain Medicine, University of Washington
+      School of Medicine, Seattle, Washington.
+LA  - eng
+GR  - T32 GM086270/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Anesth Analg
+JT  - Anesthesia and analgesia
+JID - 1310650
+SB  - IM
+CIN - Anesth Analg. 2020 Aug;131(2):335-339. PMID: 32511105
+MH  - *Access to Information
+MH  - COVID-19
+MH  - Confidentiality
+MH  - Coronavirus Infections/diagnosis/epidemiology/*therapy/virology
+MH  - Delivery of Health Care, Integrated/*organization & administration
+MH  - Electronic Health Records/*organization & administration
+MH  - *Health Information Exchange
+MH  - Health Services Needs and Demand/organization & administration
+MH  - Humans
+MH  - *Information Dissemination
+MH  - Needs Assessment/organization & administration
+MH  - Pandemics
+MH  - Pneumonia, Viral/diagnosis/epidemiology/*therapy/virology
+MH  - *Public Health Administration
+MH  - Quality Improvement/organization & administration
+MH  - Quality Indicators, Health Care/organization & administration
+PMC - PMC7219836
+MID - NIHMS1593668
+EDAT- 2020/05/06 06:00
+MHDA- 2020/07/23 06:00
+CRDT- 2020/05/06 06:00
+PHST- 2020/05/06 06:00 [pubmed]
+PHST- 2020/07/23 06:00 [medline]
+PHST- 2020/05/06 06:00 [entrez]
+AID - 10.1213/ANE.0000000000004945 [doi]
+AID - 00000539-202008000-00006 [pii]
+PST - ppublish
+SO  - Anesth Analg. 2020 Aug;131(2):340-344. doi: 10.1213/ANE.0000000000004945.
+
+PMID- 33882596
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210917
+LR  - 20210917
+IS  - 2364-0502 (Electronic)
+IS  - 0943-4747 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2021 Aug
+TI  - Digital Health during COVID-19: Informatics Dialogue with the World Health
+      Organization.
+PG  - 13-16
+LID - 10.1055/s-0041-1726480 [doi]
+AB  - BACKGROUND: On December 16, 2020 representatives of the International Medical
+      Informatics Association (IMIA), a Non-Governmental Organization in official
+      relations with the World Health Organization (WHO), along with its International 
+      Academy for Health Sciences Informatics (IAHSI), held an open dialogue with WHO
+      Director General (WHO DG) Tedros Adhanom Ghebreyesus about the opportunities and 
+      challenges of digital health during the COVID-19 global pandemic. OBJECTIVES: The
+      aim of this paper is to report the outcomes of the dialogue and discussions with 
+      more than 200 participants representing different civil society organizations
+      (CSOs). METHODS: The dialogue was held in form of a webinar. After an initial
+      address of the WHO DG, short presentations by the panelists, and live discussions
+      between panelists, the WHO DG and WHO representatives took place. The audience
+      was able to post questions in written. These written discussions were saved with 
+      participants' consent and summarized in this paper. RESULTS: The main themes that
+      were brought up by the audience for discussion were: (a) opportunities and
+      challenges in general; (b) ethics and artificial intelligence; (c) digital
+      divide; (d) education. Proposed actions included the development of a roadmap
+      based on the lessons learned from the COVID-19 pandemic. CONCLUSIONS: Decision
+      making by policy makers needs to be evidence-based and health informatics
+      research should be used to support decisions surrounding digital health, and we
+      further propose next steps in the collaboration between IMIA and WHO such as
+      future engagement in the World Health Assembly.
+CI  - IMIA and Thieme. This is an open access article published by Thieme under the
+      terms of the Creative Commons Attribution-NonDerivative-NonCommercial License,
+      permitting copying and reproduction so long as the original work is given
+      appropriate credit. Contents may not be used for commercial purposes, or adapted,
+      remixed, transformed or built upon.
+      (https://creativecommons.org/licenses/by-nc-nd/4.0/).
+FAU - Koch, Sabine
+AU  - Koch S
+AD  - Health Informatics Centre, Department of Learning, Informatics, Management and
+      Ethics, Karolinska Institutet, Stockholm, Sweden.
+FAU - Hersh, William R
+AU  - Hersh WR
+AD  - Department of Medical Informatics & Clinical Epidemiology, School of Medicine,
+      Oregon Health & Science University, Portland, OR, USA.
+FAU - Bellazzi, Riccardo
+AU  - Bellazzi R
+AD  - Department of Electrical, Computer and Biomedical Engineering, University of
+      Pavia, Italy.
+AD  - IRCCS ICS Maugeri Pavia, Italy.
+FAU - Leong, Tze Yun
+AU  - Leong TY
+AD  - Department of Computer Science, School of Computing, National University of
+      Singapore and AI Singapore, Singapore.
+FAU - Yedaly, Moctar
+AU  - Yedaly M
+AD  - Information Society Division, African Union Commission, Addis Ababa, Ethiopia.
+FAU - Al-Shorbaji, Najeeb
+AU  - Al-Shorbaji N
+AD  - eHealth Development Association, Amman, Jordan.
+LA  - eng
+PT  - Congress
+DEP - 20210421
+PL  - Germany
+TA  - Yearb Med Inform
+JT  - Yearbook of medical informatics
+JID - 9312666
+SB  - IM
+MH  - Artificial Intelligence
+MH  - *Biomedical Technology
+MH  - *COVID-19
+MH  - Global Health
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - Interinstitutional Relations
+MH  - *Medical Informatics/education/organization & administration
+MH  - Societies, Medical
+MH  - *Telemedicine
+MH  - *World Health Organization/organization & administration
+PMC - PMC8416211
+COIS- Disclosure The authors report no conflicts of interest in this work.
+EDAT- 2021/04/22 06:00
+MHDA- 2021/09/18 06:00
+CRDT- 2021/04/21 20:20
+PHST- 2021/04/22 06:00 [pubmed]
+PHST- 2021/09/18 06:00 [medline]
+PHST- 2021/04/21 20:20 [entrez]
+AID - 10.1055/s-0041-1726480 [doi]
+PST - ppublish
+SO  - Yearb Med Inform. 2021 Aug;30(1):13-16. doi: 10.1055/s-0041-1726480. Epub 2021
+      Apr 21.
+
+PMID- 33783863
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210707
+LR  - 20210707
+IS  - 1468-0009 (Electronic)
+IS  - 0887-378X (Linking)
+VI  - 99
+IP  - 2
+DP  - 2021 Jun
+TI  - Identifying Opportunities to Strengthen the Public Health Informatics
+      Infrastructure: Exploring Hospitals' Challenges with Data Exchange.
+PG  - 393-425
+LID - 10.1111/1468-0009.12511 [doi]
+AB  - Policy Points Even though most hospitals have the technological ability to
+      exchange data with public health agencies, the majority continue to experience
+      challenges. Most challenges are attributable to the general resources of public
+      health agencies, although workforce limitations, technology issues such as a lack
+      of data standards, and policy uncertainty around reporting requirements also
+      remain prominent issues. Ongoing funding to support the adoption of technology
+      and strengthen the development of the health informatics workforce, combined with
+      revising the promotion of the interoperability scoring approach, will likely help
+      improve the exchange of electronic data between hospitals and public health
+      agencies. CONTEXT: The novel coronavirus 2019 (COVID-19) pandemic has highlighted
+      significant barriers in the exchange of essential information between hospitals
+      and local public health agencies. Thus it remains important to clarify the
+      specific issues that hospitals may face in reporting to public health agencies to
+      inform focused approaches to improve the information exchange for the current
+      pandemic as well as ongoing public health activities and population health
+      management. METHODS: This study uses cross-sectional data of acute-care,
+      nonfederal hospitals from the 2017 American Hospital Association Annual Survey
+      and Information Technology supplement. Guided by the
+      technology-organization-environment framework, we coded the responses to a
+      question regarding the challenges that hospitals face in submitting data to
+      public health agencies by using content analysis according to the type of
+      challenge (i.e., technology, organization, or environment), responsible entity
+      (i.e., hospital, public health agency, vendor, multiple), and the specific issue 
+      described. We used multivariable logistic and multinomial regression to identify 
+      characteristics of hospitals associated with experiencing the types of
+      challenges. FINDINGS: Our findings show that of the 2,794 hospitals in our
+      analysis, 1,696 (61%) reported experiencing at least one challenge in reporting
+      health data to a public health agency. Organizational issues were the most
+      frequently reported type of challenge, noted by 1,455 hospitals. The most common 
+      specific issue, reported by 1,117 hospitals, was the general resources of public 
+      health agencies. An advanced EHR system and participation in a health information
+      exchange both decreased the likelihood of not reporting experiencing a challenge 
+      and increased the likelihood of reporting an organizational challenge.
+      CONCLUSIONS: Our findings inform policy recommendations such as improving data
+      standards, increasing funding for public health agencies to improve their
+      technological capabilities, offering workforce training programs, and increasing 
+      clarity of policy specifications and reporting. These approaches can improve the 
+      exchange of information between hospitals and public health agencies.
+CI  - (c) 2021 Milbank Memorial Fund.
+FAU - Walker, Daniel M
+AU  - Walker DM
+AD  - College of Medicine, The Ohio State University.
+AD  - Center for the Advancement of Team Science, Analytics, and Systems Thinking,
+      College of Medicine, The Ohio State University.
+FAU - Yeager, Valerie A
+AU  - Yeager VA
+AD  - Richard M. Fairbanks School of Public Health, Indiana University.
+FAU - Lawrence, John
+AU  - Lawrence J
+AD  - Center for the Advancement of Team Science, Analytics, and Systems Thinking,
+      College of Medicine, The Ohio State University.
+FAU - McAlearney, Ann Scheck
+AU  - McAlearney AS
+AD  - College of Medicine, The Ohio State University.
+AD  - Center for the Advancement of Team Science, Analytics, and Systems Thinking,
+      College of Medicine, The Ohio State University.
+LA  - eng
+PT  - Journal Article
+DEP - 20210330
+PL  - United States
+TA  - Milbank Q
+JT  - The Milbank quarterly
+JID - 8607003
+SB  - IM
+MH  - COVID-19/epidemiology
+MH  - Cross-Sectional Studies
+MH  - Delivery of Health Care/organization & administration
+MH  - Health Information Exchange/*standards/trends
+MH  - Health Policy
+MH  - Hospitals/*statistics & numerical data
+MH  - Humans
+MH  - Pandemics
+MH  - Public Health Informatics/economics/*statistics & numerical data/trends
+MH  - SARS-CoV-2
+MH  - Surveys and Questionnaires
+MH  - United States
+PMC - PMC8241268
+OTO - NOTNLM
+OT  - *electronic lab reporting
+OT  - *health information technology
+OT  - *hospital
+OT  - *immunization registry
+OT  - *interoperability
+OT  - *public health departments
+OT  - *registry
+EDAT- 2021/03/31 06:00
+MHDA- 2021/07/08 06:00
+CRDT- 2021/03/30 12:41
+PMCR- 2022/06/01 00:00
+PHST- 2022/06/01 00:00 [pmc-release]
+PHST- 2021/03/31 06:00 [pubmed]
+PHST- 2021/07/08 06:00 [medline]
+PHST- 2021/03/30 12:41 [entrez]
+AID - 10.1111/1468-0009.12511 [doi]
+PST - ppublish
+SO  - Milbank Q. 2021 Jun;99(2):393-425. doi: 10.1111/1468-0009.12511. Epub 2021 Mar
+      30.
+
+PMID- 33694142
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210323
+LR  - 20210323
+IS  - 1869-0327 (Electronic)
+IS  - 1869-0327 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2021 Jan
+TI  - Extracting Medical Information from Paper COVID-19 Assessment Forms.
+PG  - 170-178
+LID - 10.1055/s-0041-1723024 [doi]
+AB  - OBJECTIVE: This study examines the validity of optical mark recognition, a novel 
+      user interface, and crowdsourced data validation to rapidly digitize and extract 
+      data from paper COVID-19 assessment forms at a large medical center. METHODS: An 
+      optical mark recognition/optical character recognition (OMR/OCR) system was
+      developed to identify fields that were selected on 2,814 paper assessment forms, 
+      each with 141 fields which were used to assess potential COVID-19 infections. A
+      novel user interface (UI) displayed mirrored forms showing the scanned assessment
+      forms with OMR results superimposed on the left and an editable web form on the
+      right to improve ease of data validation. Crowdsourced participants validated the
+      results of the OMR system. Overall error rate and time taken to validate were
+      calculated. A subset of forms was validated by multiple participants to calculate
+      agreement between participants. RESULTS: The OMR/OCR tools correctly extracted
+      data from scanned forms fields with an average accuracy of 70% and median
+      accuracy of 78% when the OMR/OCR results were compared with the results from
+      crowd validation. Scanned forms were crowd-validated at a mean rate of 157
+      seconds per document and a volume of approximately 108 documents per day. A
+      randomly selected subset of documents was reviewed by multiple participants,
+      producing an interobserver agreement of 97% for documents when narrative-text
+      fields were included and 98% when only Boolean and multiple-choice fields were
+      considered. CONCLUSION: Due to the COVID-19 pandemic, it may be challenging for
+      health care workers wearing personal protective equipment to interact with
+      electronic health records. The combination of OMR/OCR technology, a novel UI, and
+      crowdsourcing data-validation processes allowed for the efficient extraction of a
+      large volume of paper medical documents produced during the COVID-19 pandemic.
+CI  - Thieme. All rights reserved.
+FAU - White-Dzuro, Colin G
+AU  - White-Dzuro CG
+AD  - Vanderbilt University School of Medicine, Nashville, Tennessee, United States.
+FAU - Schultz, Jacob D
+AU  - Schultz JD
+AD  - Vanderbilt University School of Medicine, Nashville, Tennessee, United States.
+FAU - Ye, Cheng
+AU  - Ye C
+AD  - Department of Biomedical Informatics, Vanderbilt University Medical Center,
+      Nashville, Tennessee, United States.
+FAU - Coco, Joseph R
+AU  - Coco JR
+AD  - Department of Biomedical Informatics, Vanderbilt University Medical Center,
+      Nashville, Tennessee, United States.
+FAU - Myers, Janet M
+AU  - Myers JM
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville,
+      Tennessee, United States.
+FAU - Shackelford, Claude
+AU  - Shackelford C
+AD  - Department of Medicine, Vanderbilt University Medical Center, Nashville,
+      Tennessee, United States.
+FAU - Rosenbloom, S Trent
+AU  - Rosenbloom ST
+AD  - Vanderbilt University School of Medicine, Nashville, Tennessee, United States.
+AD  - Department of Biomedical Informatics, Vanderbilt University Medical Center,
+      Nashville, Tennessee, United States.
+FAU - Fabbri, Daniel
+AU  - Fabbri D
+AD  - Department of Biomedical Informatics, Vanderbilt University Medical Center,
+      Nashville, Tennessee, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20210310
+PL  - Germany
+TA  - Appl Clin Inform
+JT  - Applied clinical informatics
+JID - 101537732
+SB  - IM
+MH  - COVID-19/*diagnosis
+MH  - Crowdsourcing
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - *Information Storage and Retrieval
+MH  - Physicians
+MH  - User-Computer Interface
+PMC - PMC7946598
+COIS- None declared.
+EDAT- 2021/03/12 06:00
+MHDA- 2021/03/24 06:00
+CRDT- 2021/03/11 07:12
+PMCR- 2022/03/10 00:00
+PHST- 2022/03/10 00:00 [pmc-release]
+PHST- 2021/03/11 07:12 [entrez]
+PHST- 2021/03/12 06:00 [pubmed]
+PHST- 2021/03/24 06:00 [medline]
+AID - 10.1055/s-0041-1723024 [doi]
+PST - ppublish
+SO  - Appl Clin Inform. 2021 Jan;12(1):170-178. doi: 10.1055/s-0041-1723024. Epub 2021 
+      Mar 10.

@@ -1,0 +1,1105 @@
+HTTP/1.1 200 OK
+Date: Sun, 19 Dec 2021 19:17:14 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+X-Test-Test: test42
+Cache-Control: private
+NCBI-PHID: 322C36777D9DA985000025C452D2B548.1.1.m_5
+X-RateLimit-Remaining: 1
+NCBI-SID: 79FF71C0B640F95D_2DEFSID
+X-RateLimit-Limit: 3
+Access-Control-Allow-Origin: *
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=79FF71C0B640F95D_2DEFSID; domain=.nih.gov; path=/; expires=Mon, 19 Dec 2022 19:17:15 GMT
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+
+
+PMID- 32150259
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210325
+LR  - 20211204
+IS  - 1527-974X (Electronic)
+IS  - 1067-5027 (Linking)
+VI  - 27
+IP  - 5
+DP  - 2020 May 1
+TI  - Racial differences in patient consent policy preferences for electronic health
+      information exchange.
+PG  - 717-725
+LID - 10.1093/jamia/ocaa012 [doi]
+AB  - OBJECTIVE: This study aimed to explore the association between demographic
+      variables, such as race and gender, and patient consent policy preferences for
+      health information exchange as well as self-report by VHA enrollees of
+      information continuity between Veterans Health Administration (VHA) and community
+      non-VHA heath care providers. MATERIALS AND METHODS: Data were collected between 
+      March 25, 2016 and August 22, 2016 in an online survey of 19 567 veterans. Three 
+      questions from the 2016 Commonwealth Fund International Health Policy Survey,
+      which addressed care continuity, were included. The survey also included
+      questions about consent policy preference regarding opt-out, opt-in, and "break
+      the glass" consent policies. RESULTS: VHA enrollees had comparable proportions of
+      unnecessary laboratory testing and conflicting information from providers when
+      compared with the United States sample in the Commonwealth Survey. However, they 
+      endorsed medical record information being unavailable between organizations more 
+      highly. Demographic variables were associated with gaps in care continuity as
+      well as consent policy preferences, with 56.8% of Whites preferring an opt-out
+      policy as compared with 40.3% of Blacks, 44.9% of Hispanic Latinos, 48.3% of
+      Asian/Pacific Islanders, and 38.3% of Native Americans (P < .001). DISCUSSION:
+      Observed large differences by race and ethnicity in privacy preferences for
+      electronic health information exchange should inform implementation of these
+      programs to ensure cultural sensitivity. Veterans experienced care continuity
+      comparable to a general United States sample, except for less effective exchange 
+      of health records between heath care organizations. VHA followed an opt-in
+      consent policy at the time of this survey which may underlie this gap.
+CI  - Published by Oxford University Press on behalf of the American Medical
+      Informatics Association 2020. This work is written by US Government employees and
+      is in the public domain in the US.
+FAU - Turvey, Carolyn L
+AU  - Turvey CL
+AD  - labelVirtual Specialty Care QUERI Program: Implementing and Evaluating Technology
+      Facilitated Clinical Interventions to Improve Access to High Quality Specialty
+      Care for Rural Veterans, Seattle, Washington & Iowa City, Iowa, USA.
+AD  - VA Office of Rural Health, Rural Health Resource Center, Iowa City, Iowa, USA.
+AD  - Iowa City VA Health Care System, Comprehensive Access and Delivery Research and
+      Evaluation Center, Iowa City, Iowa, USA.
+AD  - Department of Psychiatry, The University of Iowa Carver College of Medicine, Iowa
+      City, Iowa, USA.
+FAU - Klein, Dawn M
+AU  - Klein DM
+AD  - VA Office of Rural Health, Rural Health Resource Center, Iowa City, Iowa, USA.
+AD  - Iowa City VA Health Care System, Comprehensive Access and Delivery Research and
+      Evaluation Center, Iowa City, Iowa, USA.
+AD  - Department of Psychiatry, The University of Iowa Carver College of Medicine, Iowa
+      City, Iowa, USA.
+AD  - J P Systems, Clifton, Virginia, USA.
+FAU - Nazi, Kim M
+AU  - Nazi KM
+AD  - Independent Information Technology Consultant, Coxsackie, New York, USA.
+FAU - Haidary, Susan T
+AU  - Haidary ST
+AD  - Veterans and Consumers Health Informatics Office, Office of Connected Care,
+      Veterans Health Administration, US Department of Veterans Affairs, Washington,
+      DC, USA.
+FAU - Bouhaddou, Omar
+AU  - Bouhaddou O
+AD  - US Department of Veterans Affairs, Veterans Health Information Exchange Program, 
+      Washington, DC.
+AD  - innoVet Health, San Diego, California, USA.
+FAU - Hsing, Nelson
+AU  - Hsing N
+AD  - US Department of Veterans Affairs, Veterans Health Information Exchange Program, 
+      Washington, DC.
+FAU - Donahue, Margaret
+AU  - Donahue M
+AD  - US Department of Veterans Affairs, Veterans Health Information Exchange Program, 
+      Washington, DC.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - J Am Med Inform Assoc
+JT  - Journal of the American Medical Informatics Association : JAMIA
+JID - 9430800
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - *Confidentiality
+MH  - Culturally Competent Care
+MH  - Ethnicity
+MH  - Female
+MH  - Health Care Surveys
+MH  - *Health Information Exchange
+MH  - Humans
+MH  - *Informed Consent
+MH  - Male
+MH  - Middle Aged
+MH  - *Race Factors
+MH  - United States
+MH  - *Veterans
+MH  - Veterans Health Services
+MH  - Young Adult
+PMC - PMC7647308
+OTO - NOTNLM
+OT  - *consent policy
+OT  - *health disparities, privacy, consent, Electronic Health Records, racial/ethnic
+      disparities
+OT  - *health information exchange
+EDAT- 2020/03/10 06:00
+MHDA- 2021/03/26 06:00
+CRDT- 2020/03/10 06:00
+PHST- 2019/09/25 00:00 [received]
+PHST- 2020/01/07 00:00 [revised]
+PHST- 2020/02/25 00:00 [accepted]
+PHST- 2020/03/10 06:00 [pubmed]
+PHST- 2021/03/26 06:00 [medline]
+PHST- 2020/03/10 06:00 [entrez]
+AID - 5801160 [pii]
+AID - 10.1093/jamia/ocaa012 [doi]
+PST - ppublish
+SO  - J Am Med Inform Assoc. 2020 May 1;27(5):717-725. doi: 10.1093/jamia/ocaa012.
+
+PMID- 32388492
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210222
+LR  - 20210702
+IS  - 1879-0046 (Electronic)
+IS  - 0376-8716 (Linking)
+VI  - 212
+DP  - 2020 Jul 1
+TI  - Leveraging health information exchange for clinical research: Extreme
+      underreporting of hospital service utilization among patients with substance use 
+      disorders.
+PG  - 107992
+LID - S0376-8716(20)30157-5 [pii]
+LID - 10.1016/j.drugalcdep.2020.107992 [doi]
+AB  - BACKGROUND: Substance use disorders are associated with inefficient and
+      fragmented use of healthcare services. The Chesapeake Regional Information System
+      for Our Patients, Inc. (CRISP) is a Health Information Exchange (HIE) linking
+      disparate systems of care in the mid-Atlantic region. METHODS: This article
+      describes applications of HIE for tracking hospital service utilization in
+      substance use disorder clinical and services research, drawing upon data from one
+      of the first studies approved to access the CRISP HIE. Participants were 200
+      medical/surgical inpatients with comorbid opioid, cocaine, and/or alcohol use
+      disorder (45.5 % female; 56.5 % black; 77.5 % opioid use disorder; 42.0 %
+      homeless). This study compared HIE-identified hospital service utilization with
+      conventional methods of participant self-report during in-person research
+      follow-ups (3-, 6-, and 12-months post-discharge) and electronic health record
+      (EHR) review from the hospital system of the index admission. RESULTS: This
+      sample exhibited high levels of hospital utilization, which would have been
+      underestimated using conventional methods. Relying exclusively on self-report in 
+      the 12-month observation period would have identified only 33.8 % of 429
+      inpatient hospitalizations and 9.0 % of 1,287 ED visits, due to both
+      loss-to-follow-up and failure to report events. Even combining self-report with
+      single-system EHR review identified only 66.2 % of inpatient hospitalizations and
+      59.8 % of ED visits. CONCLUSIONS: CRISP HIE data were superior to conventional
+      methods for ascertaining hospital service utilization in this sample of patients 
+      exhibiting high-volume and fragmented care. The use of HIE holds implications for
+      improving rigor, safety, and efficiency in research studies.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Gryczynski, Jan
+AU  - Gryczynski J
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA. Electronic address: jgryczynski@friendsresearch.org.
+FAU - Nordeck, Courtney D
+AU  - Nordeck CD
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+FAU - Martin, Ross D
+AU  - Martin RD
+AD  - Chesapeake Regional Information System for Our Patients, Inc., 7160 Columbia
+      Gateway Drive, Suite 100, Columbia, MD 21046, USA.
+FAU - Welsh, Christopher
+AU  - Welsh C
+AD  - University of Maryland School of Medicine, 655 W. Baltimore St., Baltimore, MD
+      21201, USA.
+FAU - Schwartz, Robert P
+AU  - Schwartz RP
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+FAU - Mitchell, Shannon Gwin
+AU  - Mitchell SG
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+FAU - Jaffe, Jerome H
+AU  - Jaffe JH
+AD  - Friends Research Institute, 1040 Park Avenue, Suite 103, Baltimore, MD 21201,
+      USA.
+LA  - eng
+GR  - R01 DA037942/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, N.I.H., Extramural
+DEP - 20200427
+PL  - Ireland
+TA  - Drug Alcohol Depend
+JT  - Drug and alcohol dependence
+JID - 7513587
+SB  - IM
+MH  - Adult
+MH  - Biomedical Research/methods/*trends
+MH  - Electronic Health Records/trends
+MH  - Emergency Service, Hospital/trends
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Health Information Exchange/*trends
+MH  - Hospitalization/*trends
+MH  - Humans
+MH  - Male
+MH  - Maryland/epidemiology
+MH  - Middle Aged
+MH  - *Patient Acceptance of Health Care
+MH  - Patient Discharge/trends
+MH  - Substance-Related Disorders/*epidemiology/*therapy
+PMC - PMC7299087
+MID - NIHMS1588600
+OTO - NOTNLM
+OT  - *Emergency department
+OT  - *Health information exchange
+OT  - *Hospitalization
+OT  - *Self-report
+OT  - *Substance use disorder
+COIS- Declaration of Competing Interest None.
+EDAT- 2020/05/11 06:00
+MHDA- 2021/02/23 06:00
+CRDT- 2020/05/11 06:00
+PHST- 2019/10/29 00:00 [received]
+PHST- 2020/03/22 00:00 [revised]
+PHST- 2020/03/24 00:00 [accepted]
+PHST- 2020/05/11 06:00 [pubmed]
+PHST- 2021/02/23 06:00 [medline]
+PHST- 2020/05/11 06:00 [entrez]
+AID - S0376-8716(20)30157-5 [pii]
+AID - 10.1016/j.drugalcdep.2020.107992 [doi]
+PST - ppublish
+SO  - Drug Alcohol Depend. 2020 Jul 1;212:107992. doi:
+      10.1016/j.drugalcdep.2020.107992. Epub 2020 Apr 27.
+
+PMID- 31112761
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200911
+LR  - 20200911
+IS  - 1532-0480 (Electronic)
+IS  - 1532-0464 (Linking)
+VI  - 95
+DP  - 2019 Jul
+TI  - Concept to gain trust for a German personal health record system using public
+      cloud and FHIR.
+PG  - 103212
+LID - S1532-0464(19)30131-5 [pii]
+LID - 10.1016/j.jbi.2019.103212 [doi]
+AB  - OBJECTIVE: Although a national Personal Health Record (PHR) infrastructure was
+      supposed to have been introduced in Germany by law in 2006 and different
+      providers are entering the market, no system has yet been widely adopted in
+      Germany. There is also little information available on how current technical
+      advancements affect German patients' and physicians' trust in PHR systems.
+      METHODS: Supporting scenarios obtained from clinicians, this study proposes a
+      concept for a German PHR system using a public cloud infrastructure, smartphone
+      access and focusing on trust, privacy, and interoperability. In advance to an
+      eventual implementation, a multi-center questionnaire study has been conducted to
+      predict patients' and physicians' intention to use that system and evaluate their
+      trust in different providers of such a system. RESULTS: Our results show that
+      both patients and physicians are highly likely to use the PHR based on the
+      present concept. Trust in healthcare providers exceeds trust in other
+      institutions like private companies, health insurance companies, or even
+      governmental institutions when offering such a PHR system. CONCLUSIONS: We
+      recommend the implementation of this PHR system. To maximize patients' and
+      physicians' trust in the system, it should be offered to patients by their
+      healthcare provider. Further evaluation regarding its actual adoption and
+      expected improvement in patient outcome based on the scenarios is advisable.
+CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
+FAU - Ploner, Nico
+AU  - Ploner N
+AD  - Department of Medical Informatics, Biometrics and Epidemiology, Unit for Medical 
+      Informatics, Friedrich-Alexander-University Erlangen-Nurnberg (FAU), Wetterkreuz 
+      13, 91058 Erlangen, Germany. Electronic address: nico.ploner@fau.de.
+FAU - Neurath, Markus F
+AU  - Neurath MF
+AD  - Department of Medicine 1, Division of Gastroenterology, Pneumology and
+      Endocrinology, Ludwig Demling Endoscopy Center of Excellence,
+      Friedrich-Alexander-University Erlangen-Nurnberg (FAU), Ulmenweg 18, 91054
+      Erlangen, Germany. Electronic address: markus.neurath@uk-erlangen.de.
+FAU - Schoenthaler, Martin
+AU  - Schoenthaler M
+AD  - Department of Urology, Medical Center - University of Freiburg, Faculty of
+      Medicine, University of Freiburg, Hugstetter Str. 55, 79106 Freiburg, Germany.
+      Electronic address: martin.schoenthaler@uniklinik-freiburg.de.
+FAU - Zielke, Andreas
+AU  - Zielke A
+AD  - Diakonie-Klinikum Stuttgart, Klinik fur Endokrine Chirurgie, Endokrines Zentrum
+      Stuttgart, Rosenbergstrasse 38, 70176 Stuttgart, Germany. Electronic address:
+      andreas.zielke@diak-stuttgart.de.
+FAU - Prokosch, Hans-Ulrich
+AU  - Prokosch HU
+AD  - Department of Medical Informatics, Biometrics and Epidemiology, Unit for Medical 
+      Informatics, Friedrich-Alexander-University Erlangen-Nurnberg (FAU), Wetterkreuz 
+      13, 91058 Erlangen, Germany. Electronic address: hans-ulrich.prokosch@fau.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20190518
+PL  - United States
+TA  - J Biomed Inform
+JT  - Journal of biomedical informatics
+JID - 100970413
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - *Cloud Computing
+MH  - Computer Communication Networks
+MH  - Computer Security
+MH  - *Electronic Health Records
+MH  - Female
+MH  - Germany
+MH  - *Health Information Exchange
+MH  - Health Knowledge, Attitudes, Practice
+MH  - *Health Records, Personal
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Physicians
+MH  - Smartphone
+MH  - *Trust
+MH  - Young Adult
+OTO - NOTNLM
+OT  - *Electronic medical records
+OT  - *FHIR
+OT  - *Health information exchange
+OT  - *Personal health records
+EDAT- 2019/05/22 06:00
+MHDA- 2020/09/12 06:00
+CRDT- 2019/05/22 06:00
+PHST- 2018/09/28 00:00 [received]
+PHST- 2019/04/17 00:00 [revised]
+PHST- 2019/05/17 00:00 [accepted]
+PHST- 2019/05/22 06:00 [pubmed]
+PHST- 2020/09/12 06:00 [medline]
+PHST- 2019/05/22 06:00 [entrez]
+AID - S1532-0464(19)30131-5 [pii]
+AID - 10.1016/j.jbi.2019.103212 [doi]
+PST - ppublish
+SO  - J Biomed Inform. 2019 Jul;95:103212. doi: 10.1016/j.jbi.2019.103212. Epub 2019
+      May 18.
+
+PMID- 33616539
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210517
+LR  - 20210517
+IS  - 1438-8871 (Electronic)
+IS  - 1438-8871 (Linking)
+VI  - 23
+IP  - 2
+DP  - 2021 Feb 22
+TI  - Online Medical Record Nonuse Among Patients: Data Analysis Study of the 2019
+      Health Information National Trends Survey.
+PG  - e24767
+LID - 10.2196/24767 [doi]
+AB  - BACKGROUND: Online medical records are being used to organize processes in
+      clinical and outpatient settings and to forge doctor-patient communication
+      techniques that build mutual understanding and trust. OBJECTIVE: We aimed to
+      understand the reasons why patients tend to avoid using online medical records
+      and to compare the perceptions that patients have of online medical records based
+      on demographics and cancer diagnosis. METHODS: We used data from the Health
+      Information National Trends Survey Cycle 3, a nationally representative survey,
+      and assessed outcomes using descriptive statistics and chi-square tests. The
+      patients (N=4328) included in the analysis had experienced an outpatient visit
+      within the previous 12 months and had answered the online behavior question
+      regarding their use of online medical records. RESULTS: Patients who were
+      nonusers of online medical records consisted of 58.36% of the sample (2526/4328).
+      The highest nonuser rates were for patients who were Hispanic (460/683, 67.35%), 
+      patients who were non-Hispanic Black (434/653, 66.46%), and patients who were
+      older than 65 years (968/1520, 63.6%). Patients older than 65 years were less
+      likely to use online medical records (odds ratio [OR] 1.51, 95% CI 1.24-1.84,
+      P<.001). Patients who were White were more likely to use online medical records
+      than patients who were Black (OR 1.71, 95% CI 1.43-2.05, P<.001) or Hispanic (OR 
+      1.65, 95% CI 1.37-1.98, P<.001). Patients who were diagnosed with cancer were
+      more likely to use online medical records compared to patients with no cancer (OR
+      1.31, 95% CI 1.11-1.55, 95% CI 1.11-1.55, P=.001). Among nonusers, older patients
+      (>/=65 years old) preferred speaking directly to their health care providers (OR 
+      1.76, 95% CI 1.35-2.31, P<.001), were more concerned about privacy issues caused 
+      by online medical records (OR 1.79, 95% CI 1.22-2.66, P<.001), and felt
+      uncomfortable using the online medical record systems (OR 10.55, 95% CI
+      6.06-19.89, P<.001) compared to those aged 18-34 years. Patients who were Black
+      or Hispanic were more concerned about privacy issues (OR 1.42, 1.09-1.84,
+      P=.007). CONCLUSIONS: Studies should consider social factors such as gender,
+      race/ethnicity, and age when monitoring trends in eHealth use to ensure that
+      eHealth use does not induce greater health status and health care disparities
+      between people with different backgrounds and demographic characteristics.
+CI  - (c)Safa Elkefi, Zhongyuan Yu, Onur Asan. Originally published in the Journal of
+      Medical Internet Research (http://www.jmir.org), 22.02.2021.
+FAU - Elkefi, Safa
+AU  - Elkefi S
+AUID- ORCID: 0000-0002-4293-0404
+AD  - School of Systems and Enterprises, Stevens Institute of Technology, Hoboken, NJ, 
+      United States.
+FAU - Yu, Zhongyuan
+AU  - Yu Z
+AUID- ORCID: 0000-0003-0346-6765
+AD  - School of Systems and Enterprises, Stevens Institute of Technology, Hoboken, NJ, 
+      United States.
+FAU - Asan, Onur
+AU  - Asan O
+AUID- ORCID: 0000-0002-9239-3723
+AD  - School of Systems and Enterprises, Stevens Institute of Technology, Hoboken, NJ, 
+      United States.
+LA  - eng
+GR  - R15 NR018965/NR/NINR NIH HHS/United States
+PT  - Historical Article
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20210222
+PL  - Canada
+TA  - J Med Internet Res
+JT  - Journal of medical Internet research
+JID - 100959882
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Data Analysis
+MH  - Electronic Health Records/*standards
+MH  - Female
+MH  - Health Information Exchange/*standards
+MH  - History, 21st Century
+MH  - Humans
+MH  - Internet Use
+MH  - Male
+MH  - Middle Aged
+MH  - Physician-Patient Relations
+MH  - Surveys and Questionnaires/*standards
+MH  - Telemedicine/statistics & numerical data
+MH  - Young Adult
+PMC - PMC7939938
+OTO - NOTNLM
+OT  - *cancer
+OT  - *communication
+OT  - *eHealth
+OT  - *health information
+OT  - *medical records
+OT  - *online medical records
+OT  - *patient portals
+EDAT- 2021/02/23 06:00
+MHDA- 2021/05/18 06:00
+CRDT- 2021/02/22 12:13
+PHST- 2020/10/04 00:00 [received]
+PHST- 2020/12/12 00:00 [accepted]
+PHST- 2020/11/19 00:00 [revised]
+PHST- 2021/02/22 12:13 [entrez]
+PHST- 2021/02/23 06:00 [pubmed]
+PHST- 2021/05/18 06:00 [medline]
+AID - v23i2e24767 [pii]
+AID - 10.2196/24767 [doi]
+PST - epublish
+SO  - J Med Internet Res. 2021 Feb 22;23(2):e24767. doi: 10.2196/24767.
+
+PMID- 32179256
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201023
+LR  - 20210502
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 137
+DP  - 2020 May
+TI  - Technology-facilitated care coordination in rural areas: What is needed?
+PG  - 104102
+LID - S1386-5056(19)30905-0 [pii]
+LID - 10.1016/j.ijmedinf.2020.104102 [doi]
+AB  - BACKGROUND: Health is poorer in rural areas and a major challenge is care
+      coordination for complex chronic conditions. The HITECH and 21(st) Century Cure
+      Acts emphasize health information exchange which underpins activities required to
+      improve care coordination. OBJECTIVE AND METHODS: Using semi-structured
+      interviews and surveys, we examined how providers experience electronic health
+      information exchange during care coordination since these Acts were implemented, 
+      with a focus on rural settings where health disparities exist. We used a
+      purposive sample that included primary care, acute care hospitals, and community 
+      health services in the United States. FINDINGS: We identified seven themes
+      related to care coordination and information exchange: 'insufficient trust of
+      data'; 'please respond'; 'just fax it'; 'care plans'; 'needle in the haystack';
+      're-documentation'; and 'rural reality'. These gaps were magnified when
+      information exchange was required between unaffiliated electronic health records 
+      (EHRs) about shared patients, which was more pronounced in rural settings.
+      CONCLUSION: Policy and incentive modifications are likely needed to overcome the 
+      observed health information technology (HIT) shortcomings. Rural settings in the 
+      United States accentuate problems that can be addressed through international
+      medical informatics policy makers and the implementation and evaluation of
+      interoperable HIT systems.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Gill, Emily
+AU  - Gill E
+AD  - Brigham and Women's Hospital and Harvard Medical School, Division of General
+      Internal Medicine and Primary Care, 1620 Tremont Street, 3rd Floor, Boston,
+      02120-1613, USA. Electronic address: emily.gill@auckland.ac.nz.
+FAU - Dykes, Patricia C
+AU  - Dykes PC
+AD  - Brigham and Women's Hospital and Harvard Medical School, Division of General
+      Internal Medicine and Primary Care, 1620 Tremont Street, 3rd Floor, Boston, MA
+      02120-1613, USA. Electronic address: pdykes@bwh.harvard.edu.
+FAU - Rudin, Robert S
+AU  - Rudin RS
+AD  - Boston Office RAND Corporation, 20 Park Plaza, 9th Floor, Suite 920, Boston, MA
+      02116, USA. Electronic address: Robert_Rudin@rand.org.
+FAU - Storm, Marianne
+AU  - Storm M
+AD  - Faculty of Health Sciences, Department of Public Health, The University of
+      Stavanger, P.O. Box 8600 Forus, N-4036 Stavanger, Norway. Electronic address:
+      marianne.storm@uis.no.
+FAU - McGrath, Kelly
+AU  - McGrath K
+AD  - Clearwater Valley Orofino Health Center, 1055 Riverside Ave, Orofino, ID 83544,
+      USA. Electronic address: kelly.mcgrath@smh-cvhc.org.
+FAU - Bates, David W
+AU  - Bates DW
+AD  - Brigham and Women's Hospital and Harvard Medical School, Division of General
+      Internal Medicine and Primary Care, 1620 Tremont Street, 3rd Floor, Boston, MA
+      02120-1613, USA. Electronic address: dbates@bwh.harvard.edu.
+LA  - eng
+GR  - UL1 TR002319/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20200219
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Delivery of Health Care, Integrated/*methods
+MH  - Documentation
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*standards
+MH  - Health Personnel/*standards
+MH  - Hospital Information Systems/*statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Primary Health Care/*standards
+MH  - Rural Population
+MH  - United States
+PMC - PMC7603425
+MID - NIHMS1628594
+OTO - NOTNLM
+OT  - *Continuity of patient care
+OT  - *Electronic health records
+OT  - *Health information Exchange
+OT  - *Health information technology
+OT  - *Primary health care
+OT  - *Rural health
+COIS- Declaration of Competing Interest None.
+EDAT- 2020/03/18 06:00
+MHDA- 2020/10/24 06:00
+CRDT- 2020/03/18 06:00
+PHST- 2019/08/30 00:00 [received]
+PHST- 2020/02/14 00:00 [revised]
+PHST- 2020/02/17 00:00 [accepted]
+PHST- 2020/03/18 06:00 [pubmed]
+PHST- 2020/10/24 06:00 [medline]
+PHST- 2020/03/18 06:00 [entrez]
+AID - S1386-5056(19)30905-0 [pii]
+AID - 10.1016/j.ijmedinf.2020.104102 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2020 May;137:104102. doi: 10.1016/j.ijmedinf.2020.104102. Epub 
+      2020 Feb 19.
+
+PMID- 34099826
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211108
+LR  - 20211108
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Jun 7
+TI  - The efficacy of public health information for encouraging radon gas awareness and
+      testing varies by audience age, sex and profession.
+PG  - 11906
+LID - 10.1038/s41598-021-91479-7 [doi]
+AB  - Radioactive radon inhalation is a leading cause of lung cancer and underlies an
+      ongoing public health crisis. Radon exposure prevention strategies typically
+      begin by informing populations about health effects, and their initial efficacy
+      is measured by how well and how fast information convinces individuals to test
+      properties. This communication process is rarely individualized, and there is
+      little understanding if messages impact diverse demographics equally. Here, we
+      explored how 2,390 people interested in radon testing differed in their reaction 
+      to radon's public health information and their subsequent decision to test. Only 
+      20% were prompted to radon test after 1 encounter with awareness information,
+      while 65% required 2-5 encounters over several months, and 15% needed 6 to > 10
+      encounters over many years. People who most delayed testing were more likely to
+      be men or involved in engineering, architecture, real estate and/or physical
+      science-related professions. Social pressures were not a major factor influencing
+      radon testing. People who were the least worried about radon health risks were
+      older and/or men, while negative emotional responses to awareness information
+      were reported more by younger people, women and/or parents. This highlights the
+      importance of developing targeted demographic messaging to create effective radon
+      exposure prevention strategies.
+FAU - Cholowsky, Natasha L
+AU  - Cholowsky NL
+AD  - Departments of Biochemistry and Molecular Biology and Oncology, Robson DNA
+      Science Centre, Charbonneau Cancer Institute, Cumming School of Medicine,
+      University of Calgary, Calgary, AB, Canada.
+FAU - Irvine, Jesse L
+AU  - Irvine JL
+AD  - Departments of Biochemistry and Molecular Biology and Oncology, Robson DNA
+      Science Centre, Charbonneau Cancer Institute, Cumming School of Medicine,
+      University of Calgary, Calgary, AB, Canada.
+FAU - Simms, Justin A
+AU  - Simms JA
+AD  - Faculty of Medicine, University of Saskatchewan, Saskatoon, SK, Canada.
+FAU - Pearson, Dustin D
+AU  - Pearson DD
+AD  - Departments of Biochemistry and Molecular Biology and Oncology, Robson DNA
+      Science Centre, Charbonneau Cancer Institute, Cumming School of Medicine,
+      University of Calgary, Calgary, AB, Canada.
+FAU - Jacques, Weston R
+AU  - Jacques WR
+AD  - Departments of Biochemistry and Molecular Biology and Oncology, Robson DNA
+      Science Centre, Charbonneau Cancer Institute, Cumming School of Medicine,
+      University of Calgary, Calgary, AB, Canada.
+FAU - Peters, Cheryl E
+AU  - Peters CE
+AD  - Cancer Epidemiology & Prevention Research, Alberta Health Services and
+      Departments of Oncology & Community Health Sciences, Cumming School of Medicine, 
+      University of Calgary, Calgary, AB, Canada.
+FAU - Goodarzi, Aaron A
+AU  - Goodarzi AA
+AD  - Departments of Biochemistry and Molecular Biology and Oncology, Robson DNA
+      Science Centre, Charbonneau Cancer Institute, Cumming School of Medicine,
+      University of Calgary, Calgary, AB, Canada. a.goodarzi@ucalgary.ca.
+FAU - Carlson, Linda E
+AU  - Carlson LE
+AD  - Division of Psychosocial Oncology, Department of Oncology, Charbonneau Cancer
+      Institute, Cumming School of Medicine, University of Calgary, Calgary, AB,
+      Canada. l.carlson@ucalgary.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210607
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Carcinogens, Environmental)
+RN  - Q74S4N8N1G (Radon)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Awareness
+MH  - Carcinogens, Environmental/poisoning
+MH  - Environmental Exposure/*adverse effects/prevention & control
+MH  - Female
+MH  - *Health Information Exchange
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Information Dissemination/*methods
+MH  - Lung Neoplasms/*diagnosis/etiology
+MH  - Male
+MH  - Middle Aged
+MH  - Public Health/*methods
+MH  - Radon/*poisoning
+MH  - Surveys and Questionnaires
+MH  - Young Adult
+PMC - PMC8185097
+EDAT- 2021/06/09 06:00
+MHDA- 2021/11/09 06:00
+CRDT- 2021/06/08 06:36
+PHST- 2021/04/14 00:00 [received]
+PHST- 2021/05/27 00:00 [accepted]
+PHST- 2021/06/08 06:36 [entrez]
+PHST- 2021/06/09 06:00 [pubmed]
+PHST- 2021/11/09 06:00 [medline]
+AID - 10.1038/s41598-021-91479-7 [doi]
+AID - 10.1038/s41598-021-91479-7 [pii]
+PST - epublish
+SO  - Sci Rep. 2021 Jun 7;11(1):11906. doi: 10.1038/s41598-021-91479-7.
+
+PMID- 31710155
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201007
+LR  - 20201007
+IS  - 1471-1842 (Electronic)
+IS  - 1471-1834 (Linking)
+VI  - 37
+IP  - 1
+DP  - 2020 Mar
+TI  - Potential of technology to improve the availability and use of health information
+      on cancer subjects for clergy from rural communities.
+PG  - 35-47
+LID - 10.1111/hir.12275 [doi]
+AB  - BACKGROUND: Cancer is a leading cause of death around the world and often is a
+      chronic long term disease. This calls for an expanded workforce to include
+      non-traditional health care providers. OBJECTIVE: To determine effectiveness of a
+      cancer information training project with clergy from selected rural Appalachian
+      areas to improve comfort and willingness to work as part of the cancer health
+      care team. METHODS: Clergy were trained in the consumer health database of the
+      National Library of Medicine MedlinePlus.gov. Exercises were required that were
+      done using an iPad tablet with an online curriculum. They were also taught how to
+      do a population health assessment of their particular area and develop a health
+      ministry for their church. RESULTS: Three key elements were confirmed that would 
+      enable replication of the pilot: access to medlineplus, programmed learning
+      modules using mobile technology such as iPads, and staff support including
+      librarians and medical staff. With these key elements, the cancer project is
+      potentially replicable with other groups beyond clergy. CONCLUSION: Knowledge
+      about population health, built on new awareness and topical health knowledge, and
+      using new skills to identify relevant information and library resources, could
+      open minds and enhance community support for preventive and medical
+      interventions.
+CI  - (c) 2019 Health Libraries Group.
+FAU - Wallace, Rick
+AU  - Wallace R
+AD  - Quillen College of Medicine Library, East Tennessee State University, Johnson
+      City, TN, USA.
+FAU - Behringer, Bruce
+AU  - Behringer B
+AD  - Office of Rural and Community Health and Community Partnerships.
+AD  - Clinical Faculty, Department of Family Medicine, James. H. Quillen College of
+      Medicine, East Tennessee State University, Johnson City, TN, USA.
+LA  - eng
+GR  - NO1-LM-6-3502/Express Mobile Technology Pilot Project Funded by National Library 
+      of Medicine/Southeast Atlantic Region, National Institutes of Health, Department 
+      of Health and Human Services
+PT  - Journal Article
+DEP - 20191111
+PL  - England
+TA  - Health Info Libr J
+JT  - Health information and libraries journal
+JID - 100970070
+MH  - Appalachian Region
+MH  - Clergy/education/*psychology/statistics & numerical data
+MH  - Curriculum/standards/trends
+MH  - Health Information Exchange/*standards/trends
+MH  - Health Services Accessibility/*standards/trends
+MH  - Humans
+MH  - Needs Assessment
+MH  - Neoplasms/diagnosis/*physiopathology/therapy
+MH  - Pilot Projects
+MH  - Program Evaluation/methods
+MH  - Rural Population/*statistics & numerical data
+MH  - Surveys and Questionnaires
+OTO - NOTNLM
+OT  - United States of America (USA)
+OT  - access to information
+OT  - collaboration
+OT  - computer-assisted instruction
+OT  - consumer health information
+OT  - health education
+OT  - information skills
+OT  - public health
+EDAT- 2019/11/12 06:00
+MHDA- 2020/10/08 06:00
+CRDT- 2019/11/12 06:00
+PHST- 2018/01/30 00:00 [received]
+PHST- 2019/07/09 00:00 [accepted]
+PHST- 2019/11/12 06:00 [pubmed]
+PHST- 2020/10/08 06:00 [medline]
+PHST- 2019/11/12 06:00 [entrez]
+AID - 10.1111/hir.12275 [doi]
+PST - ppublish
+SO  - Health Info Libr J. 2020 Mar;37(1):35-47. doi: 10.1111/hir.12275. Epub 2019 Nov
+      11.
+
+PMID- 30267913
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190204
+LR  - 20190215
+IS  - 1615-5947 (Electronic)
+IS  - 0890-5096 (Linking)
+VI  - 54
+DP  - 2019 Jan
+TI  - Scope, Themes, and Medical Accuracy of eHealth Peripheral Artery Disease
+      Community Forums.
+PG  - 92-102
+LID - S0890-5096(18)30769-6 [pii]
+LID - 10.1016/j.avsg.2018.09.004 [doi]
+AB  - BACKGROUND: The availability of electronic health (eHealth) information and
+      disease-related community forums has grown over the last decade. Although
+      patients and families frequently use these resources, their content has not been 
+      characterized in terms users, content, or reliability of information. eHealth
+      communities therefore represent a potentially valuable but uncharted source of
+      information about key patient issues, communication terminology, and unmet needs.
+      We hypothesized that eHealth forums would contain terminology, themes, and advice
+      inconsistent with resources from medical providers and references. To test this
+      hypothesis, we performed a qualitative analysis of posts and responses from an
+      open-access peripheral artery disease (PAD) eHealth community forum to
+      characterize the discussion, participants, and the information being exchanged.
+      METHODS: Posts were collected from an online PAD Medical Support Community forum 
+      (MedHelp), which is open access, does not require participants to identify
+      themselves, and is based in the United States. Posts were selected from threads
+      in which the main topic was PAD, including diagnosis, symptoms, and treatment.
+      Original posts and related responses were analyzed for thematic content, common
+      vernacular, and self-reported characteristics of the participants using a
+      qualitative analysis software program. Disease-specific comments and advice were 
+      evaluated for congruence with contemporary PAD treatment guidelines. RESULTS: A
+      total of 103 posts were collected and analyzed, including 40 original posts and
+      63 responses. Forty-five percent of the original posts and 19% of the responses
+      were authored by participants who self-identified as patients with PAD. The
+      remaining posts were authored by people with undeclared relationships to patients
+      with PAD, followed by children, spouses, and other relatives. The most common
+      themes among original posts included PAD diagnosis (and differential) (25%),
+      treatment (23%), epidemiology and pathophysiology (21%), disease symptoms and
+      impacts on activities of daily living (15%), and health-care provider
+      recommendations (13%). Themes of responses included medical advice (40.5%),
+      personal experiences with PAD (32.8%), and social support (12.6%). Negative
+      attitudes were identified in 10 of 18 (55.6%) posts related to experiences with
+      health-care providers. Of all medical advice, 15.1% was inconsistent with
+      clinical treatment guidelines. CONCLUSION: eHealth communities are a rich source 
+      of information related to the experiences of patients with PAD, their treatment
+      preferences, questions they consider important, and terminology that they use.
+      This information can be used to understand unmet patient needs, develop
+      educational resources, and improve communication.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Castaneda, Peris
+AU  - Castaneda P
+AD  - Department of Surgery, Section of Vascular Surgery, University of Michigan School
+      of Medicine, Ann Arbor, MI; Department of Learning Health Sciences, University of
+      Michigan School of Medicine, Ann Arbor, MI.
+FAU - Sales, Anne
+AU  - Sales A
+AD  - Department of Surgery, Section of Vascular Surgery, University of Michigan School
+      of Medicine, Ann Arbor, MI; Department of Learning Health Sciences, University of
+      Michigan School of Medicine, Ann Arbor, MI.
+FAU - Osborne, Nicholas H
+AU  - Osborne NH
+AD  - Department of Surgery, Section of Vascular Surgery, University of Michigan School
+      of Medicine, Ann Arbor, MI; Department of Learning Health Sciences, University of
+      Michigan School of Medicine, Ann Arbor, MI.
+FAU - Corriere, Matthew A
+AU  - Corriere MA
+AD  - Department of Surgery, Section of Vascular Surgery, University of Michigan School
+      of Medicine, Ann Arbor, MI; Department of Learning Health Sciences, University of
+      Michigan School of Medicine, Ann Arbor, MI. Electronic address:
+      matthewcorriere@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20180926
+PL  - Netherlands
+TA  - Ann Vasc Surg
+JT  - Annals of vascular surgery
+JID - 8703941
+SB  - IM
+MH  - *Consumer Health Information
+MH  - Cost of Illness
+MH  - *Health Information Exchange
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Health Literacy
+MH  - Humans
+MH  - *Internet
+MH  - Patient Education as Topic
+MH  - Patient Satisfaction
+MH  - *Peripheral Arterial Disease/diagnosis/epidemiology/physiopathology/therapy
+MH  - Practice Guidelines as Topic
+MH  - Qualitative Research
+MH  - Quality of Life
+MH  - Social Support
+MH  - Terminology as Topic
+EDAT- 2018/09/30 06:00
+MHDA- 2019/02/05 06:00
+CRDT- 2018/09/30 06:00
+PHST- 2018/03/05 00:00 [received]
+PHST- 2018/09/10 00:00 [revised]
+PHST- 2018/09/14 00:00 [accepted]
+PHST- 2018/09/30 06:00 [pubmed]
+PHST- 2019/02/05 06:00 [medline]
+PHST- 2018/09/30 06:00 [entrez]
+AID - S0890-5096(18)30769-6 [pii]
+AID - 10.1016/j.avsg.2018.09.004 [doi]
+PST - ppublish
+SO  - Ann Vasc Surg. 2019 Jan;54:92-102. doi: 10.1016/j.avsg.2018.09.004. Epub 2018 Sep
+      26.
+
+PMID- 31160006
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191108
+LR  - 20191108
+IS  - 1872-8243 (Electronic)
+IS  - 1386-5056 (Linking)
+VI  - 128
+DP  - 2019 Aug
+TI  - Local health department adoption of electronic health records and health
+      information exchanges and its impact on population health.
+PG  - 1-6
+LID - S1386-5056(18)31042-6 [pii]
+LID - 10.1016/j.ijmedinf.2019.04.011 [doi]
+AB  - OBJECTIVE: To determine the impact in the adoption of electronic health records
+      and health information exchanges by local health departments on population
+      health. METHODS: The study analyzed 433 local health departments population-based
+      data across 433 counties in the United States. Controlling for high school
+      graduation rate, percentage of adults with some post- secondary education, race, 
+      median household income, percentage rural, population size served, governance
+      structure of local health departments and revenue, the study used multiple linear
+      regression to analyze the impact in the adoption of health information technology
+      by local health departments on the population health of a county. RESULTS:
+      Electronic health records adoption was statistically significant at improving
+      population health at the county level. Health information exchange adoption was
+      not statistically significant. CONCLUSION: When local health departments adopt
+      electronic health records, it improves health- related quality of life and
+      reduces years of potential life lost. POLICY IMPLICATIONS: The value derived from
+      the adoption of electronic health records by local health departments deserves
+      attention because of its abilities to enhance the services provided at local
+      health departments. It is important for local health departments to use health
+      information technology to electronically capture patient information to improve
+      upon the services received at community health centers.
+CI  - Copyright (c) 2019 Elsevier B.V. All rights reserved.
+FAU - Yeung, Tina
+AU  - Yeung T
+AD  - Florida International University, 3000 NE 151st St, North Miami, FL, 33181,
+      United States. Electronic address: tyeung@fiu.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20190502
+PL  - Ireland
+TA  - Int J Med Inform
+JT  - International journal of medical informatics
+JID - 9711057
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Electronic Health Records/*statistics & numerical data
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - Humans
+MH  - Local Government
+MH  - Male
+MH  - Medical Informatics/*statistics & numerical data
+MH  - Middle Aged
+MH  - Population Health/*statistics & numerical data
+MH  - *Quality of Life
+MH  - Rural Population
+MH  - United States
+OTO - NOTNLM
+OT  - *Electronic health records
+OT  - *Health information exchanges
+OT  - *Health information technology
+OT  - *Local health department
+OT  - *Population health
+OT  - *Public health
+EDAT- 2019/06/05 06:00
+MHDA- 2019/11/09 06:00
+CRDT- 2019/06/05 06:00
+PHST- 2018/09/12 00:00 [received]
+PHST- 2019/02/21 00:00 [revised]
+PHST- 2019/04/15 00:00 [accepted]
+PHST- 2019/06/05 06:00 [entrez]
+PHST- 2019/06/05 06:00 [pubmed]
+PHST- 2019/11/09 06:00 [medline]
+AID - S1386-5056(18)31042-6 [pii]
+AID - 10.1016/j.ijmedinf.2019.04.011 [doi]
+PST - ppublish
+SO  - Int J Med Inform. 2019 Aug;128:1-6. doi: 10.1016/j.ijmedinf.2019.04.011. Epub
+      2019 May 2.
+
+PMID- 31069926
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200122
+LR  - 20200801
+IS  - 1545-5017 (Electronic)
+IS  - 1545-5009 (Linking)
+VI  - 66
+IP  - 8
+DP  - 2019 Aug
+TI  - Health-related Google searches performed by parents of pediatric oncology
+      patients.
+PG  - e27795
+LID - 10.1002/pbc.27795 [doi]
+AB  - BACKGROUND: Little is known about the specific information parents of children
+      with cancer search for online. Understanding the content of parents' searches
+      over time could offer insight into what matters most to parents and identify
+      knowledge gaps that could inform more comprehensive approaches to family
+      education and support. METHODS: We describe parents' health-related Google
+      searches starting six months before cancer diagnosis and extending through the
+      date of study enrollment, which was at least one month after initiating cancer
+      treatment. Searches were obtained retrospectively and grouped into health-related
+      and non-health-related categories. The median time to parent enrollment from date
+      of cancer diagnosis was 264 days. RESULTS: Parents searched for health-related
+      topics more frequently than the general population (13% vs 5%). Health-related
+      searches increased in the months preceding the child's cancer diagnosis and most 
+      commonly pertained to symptoms and logistics, "directions to hospital."
+      Health-related search volume peaked about a month after cancer diagnosis when
+      general health-related searches were present in addition to cancer-specific
+      searches. Eighteen percent of health-related searches were cancer specific, and
+      of these cancer-specific searches, 54% pertained to support, for example "cancer 
+      quote for son." CONCLUSIONS: Google search content offers insight into what
+      matters to parents of cancer patients. Understanding search content could inform 
+      more comprehensive approaches to family education and support initiatives.
+CI  - (c) 2019 Wiley Periodicals, Inc.
+FAU - Phillips, Charles A
+AU  - Phillips CA
+AUID- ORCID: 0000-0002-0391-1673
+AD  - Division of Oncology and Center for Applied Clinical Research, The Children's
+      Hospital of Philadelphia, Philadelphia, Pennsylvania.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Hunt, Alaina
+AU  - Hunt A
+AD  - University of Pennsylvania, Philadelphia, Pennsylvania.
+FAU - Salvesen-Quinn, Mikaela
+AU  - Salvesen-Quinn M
+AD  - University of Pennsylvania School of Nursing, Philadelphia, Pennsylvania.
+FAU - Guerra, Jorge
+AU  - Guerra J
+AD  - Enterprise Analytics and Reporting, The Children's Hospital of Philadelphia,
+      Philadelphia, Pennsylvania.
+FAU - Schapira, Marilyn M
+AU  - Schapira MM
+AUID- ORCID: 0000-0002-3775-9462
+AD  - Department of Internal Medicine, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania.
+AD  - Center for Health Equity Research and Promotion, Philadelphia VA Medical Center, 
+      Philadelphia, Pennsylvania.
+FAU - Bailey, L Charles
+AU  - Bailey LC
+AUID- ORCID: 0000-0002-8967-0662
+AD  - Division of Oncology and Center for Applied Clinical Research, The Children's
+      Hospital of Philadelphia, Philadelphia, Pennsylvania.
+AD  - Department of Pediatrics, Perelman School of Medicine at the University of
+      Pennsylvania, Philadelphia, Pennsylvania.
+AD  - Department of Biomedical and Health Informatics, Children's Hospital of
+      Philadelphia, Philadelphia, Pennsylvania.
+FAU - Merchant, Raina M
+AU  - Merchant RM
+AUID- ORCID: 0000-0002-9801-6881
+AD  - Department of Emergency Medicine, University of Pennsylvania, Philadelphia,
+      Pennsylvania.
+AD  - Penn Medicine Center for Digital Health, University of Pennsylvania,
+      Philadelphia, Pennsylvania.
+LA  - eng
+GR  - T32 HD060550/HD/NICHD NIH HHS/United States
+GR  - T32HD060550/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190509
+PL  - United States
+TA  - Pediatr Blood Cancer
+JT  - Pediatric blood & cancer
+JID - 101186624
+SB  - IM
+MH  - Adult
+MH  - Child
+MH  - Decision Making
+MH  - Female
+MH  - Health Information Exchange/*statistics & numerical data
+MH  - *Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Internet/*statistics & numerical data
+MH  - Male
+MH  - Medical Oncology/*statistics & numerical data
+MH  - Neoplasms/*diagnosis
+MH  - Parents/*education
+MH  - Retrospective Studies
+MH  - Surveys and Questionnaires
+PMC - PMC6588432
+MID - NIHMS1026130
+OTO - NOTNLM
+OT  - *Google
+OT  - *digital health
+OT  - *internet
+OT  - *pediatric oncology
+OT  - *quantified-self research
+OT  - *supportive care
+EDAT- 2019/05/10 06:00
+MHDA- 2020/01/23 06:00
+CRDT- 2019/05/10 06:00
+PHST- 2019/01/15 00:00 [received]
+PHST- 2019/04/19 00:00 [revised]
+PHST- 2019/04/22 00:00 [accepted]
+PHST- 2019/05/10 06:00 [pubmed]
+PHST- 2020/01/23 06:00 [medline]
+PHST- 2019/05/10 06:00 [entrez]
+AID - 10.1002/pbc.27795 [doi]
+PST - ppublish
+SO  - Pediatr Blood Cancer. 2019 Aug;66(8):e27795. doi: 10.1002/pbc.27795. Epub 2019
+      May 9.
