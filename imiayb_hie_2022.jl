@@ -180,34 +180,45 @@ function top_mesh(output_file_name, mesh_dict)
 
 end
 
-
+### **** MAIN FUNCTION ****
 function main()
 
+    # aesthetic spacing
     println()
 
+    # define start/end date for search query
     start_date = "2018/01/01"
     end_date   = "2021/12/01"
 
+    # define core search strategy - no date filter
     core_search_nodate = "(\"health information exchange\"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]" 
+
+    # refined search to only focus on systematic reviews using subset (SB) flag
     core_search_onlyReviews = "$core_search_nodate AND English[language] AND (Systematic[sb])"
 
+    # define health equity terms to include in search
     health_equity_terms = "(\"Health Knowledge, Attitudes, Practice\"[mh] or healthdisparities[sb])"
 
+    # remove COVID-19 (general) articles using LitCGeneral filter
     core_search_noCovid = "($core_search_nodate) NOT LitCGeneral[filter]"
+
+    # search with dates
     core_search_noCovid_datelimits = "($core_search_noCovid AND English[language] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat]))" 
+    
+    # Health Equity search
     core_search_noCovid_healthequity = "($core_search_noCovid AND English[language] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat])) AND $health_equity_terms"
     
+    # COVID-19 search
     core_search_yesCovid_datelimits = "($core_search_nodate) AND English[language] AND LitCGeneral[filter] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat]))"
     
-
+    # define minimum count for MeSH descriptor tabulations
     top_count = 5 
 
+    # create results directory
     result_dir = "results"
     if !isdir(result_dir)
         mkdir(result_dir)
     end
-
-    #query_term = "(\"health information exchange\"[majr] AND ($start_date:$end_date[pdat])) NOT Systematic[sb] NOT LitCGeneral[filter]"
 
     #***
     #*** only reviews (exclude COVID-19 papers)
@@ -237,7 +248,7 @@ function main()
 
 
     #***
-    #*** 
+    #*** Health Equity search
     #***
 
     search_results, search_mesh_dict = runsearch(core_search_noCovid_healthequity)
@@ -262,7 +273,6 @@ function main()
 
     close(output_file)
 
-    #println(search_results)
 
     #***
     #*** retrieve articles for top x occuring mesh descriptors
@@ -291,14 +301,12 @@ function main()
 
         println("$rank_count >> $count | $descriptor")
         subset_query = "$core_search_noCovid_datelimits AND \"$descriptor\"[mh:noexp]"
-        #println("  ==> $subset_query")
 
         search_results, search_mesh_dict = runsearch(subset_query)
         desc_spaced = replace(descriptor, " " => "_")
         output_file = open("$result_dir/hie_top$(rank_count)_$desc_spaced-medline.txt", "w")
         print(output_file, search_results)
         close(output_file)
-        
 
     end
 end
