@@ -158,11 +158,15 @@ function runsearch(query_term)
     return fetch_result, return_mesh_dict
 end
 
-
+### Function to report out MeSH counts to defined output file
+### Input: (1) Output file name
+###        (2) MeSH dictionary (descriptor -> count)
 function top_mesh(output_file_name, mesh_dict)
 
+    # instantiate output file handle
     output_file = open(output_file_name, "w")
 
+    # report counts in descending count order to output file
     for mesh_tuple in sort(collect(mesh_dict), by=tuple -> last(tuple), rev=true) #keys(mesh_dict)
 
         descriptor = mesh_tuple[1]
