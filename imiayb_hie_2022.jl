@@ -11,16 +11,18 @@
 
 using HTTP
 
+### Function to search based on submitted PubMed query
+### Input  : PubMed Search Query
+### Returns: (1) fetch results (in MEDLINE format)
+###          (2) MeSH descriptor counts (sans stop MeSH descriptors)
 function runsearch(query_term)
 
-
+    # indicate query to user
     println()
     println(query_term)
+
     # define base URL
     base_search_query = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-
-    # define query term
-    #query_term = "(\"health information exchange\"[majr] AND (2018/01/01:2021/12/01[pdat])) NOT Systematic[sb] NOT LitCGeneral[filter]"
 
     # define query dictionary to send to the URL
     query_dict = Dict()
@@ -37,11 +39,8 @@ function runsearch(query_term)
         search_result = String(HTTP.post(base_search_query, body=HTTP.escapeuri(query_dict)))
     end
 
-    #println(search_result)
-
     # retrieve search result count
     search_result_count = parse(Int64, match(r"<eSearchResult><Count>(\d+)</Count>", search_result)[1])
-    #println(search_result_count)
     query_dict["retmax"] = search_result_count
 
     # send base query to esearch
@@ -53,15 +52,12 @@ function runsearch(query_term)
         search_result = String(HTTP.post(base_search_query, body=HTTP.escapeuri(query_dict)))
     end
 
-
-
     # instantiate pmid_set
     pmid_set = Set()
 
     # parse through each result line
     for result_line in split(search_result, "\n")
-        #println("\$\$\$\$\$ $result_line")
-
+       
         # use a regular expression to capture the PMIDs from 
         # lines that match the pattern
         pmid_capture = match(r"<Id>(\d+)<\/Id>", result_line)
@@ -73,6 +69,7 @@ function runsearch(query_term)
 
     end
 
+    # indicate how many PMIDs are found
     println("==> $(length(pmid_set))")
 
     # convert set to a comma list
@@ -94,17 +91,13 @@ function runsearch(query_term)
         fetch_result = String(HTTP.post(base_fetch_query, body=HTTP.escapeuri(query_dict)))
     end 
 
-    #print(fetch_result)
-
-
-
-    # instantiate mesh dictionary
+    # instantiate MeSH dictionary
     mesh_dict = Dict()
 
     # pull out MeSH descriptors from efetch results
     for fetch_line in split(fetch_result, "\n")
         
-        # define the mesh capture RegEx
+        # define the MeSH capture RegEx
         mesh_capture = match(r"MH  - \*?([^/]+)", fetch_line)
 
         # if the line has the pattern, extract the MeSH descriptor
@@ -122,7 +115,7 @@ function runsearch(query_term)
 
     end
 
-    # define set of stop mesh descriptors to ignore
+    # define set of stop MeSH descriptors to ignore
     mesh_stop_words = Set()
     push!(mesh_stop_words, "Humans")
     push!(mesh_stop_words, "Female")
@@ -148,7 +141,7 @@ function runsearch(query_term)
     push!(mesh_stop_words, "Reproducibility of Results")
     push!(mesh_stop_words, "Child")
 
-    # print out counts of MeSH descriptors
+    # store counts of MeSH descriptors into return_mesh_dict
     return_mesh_dict = Dict()
     for mesh_tuple in sort(collect(mesh_dict), by=tuple -> last(tuple), rev=true) #keys(mesh_dict)
 
@@ -156,24 +149,24 @@ function runsearch(query_term)
         count      = mesh_tuple[2]
 
         if count > 1 && !in(descriptor, mesh_stop_words)
-            #println("$count | $descriptor ")
             return_mesh_dict[descriptor] = count
         end
 
-        # if mesh_dict[mesh_descriptor] > 1
-        #     println("$mesh_descriptor occurs $(mesh_dict[mesh_descriptor]) times")
-        # end
     end
 
-
+    # return the results of the search and MeSH counts
     return fetch_result, return_mesh_dict
 end
 
-
+### Function to report out MeSH counts to defined output file
+### Input: (1) Output file name
+###        (2) MeSH dictionary (descriptor -> count)
 function top_mesh(output_file_name, mesh_dict)
 
+    # instantiate output file handle
     output_file = open(output_file_name, "w")
 
+    # report counts in descending count order to output file
     for mesh_tuple in sort(collect(mesh_dict), by=tuple -> last(tuple), rev=true) #keys(mesh_dict)
 
         descriptor = mesh_tuple[1]
@@ -187,34 +180,45 @@ function top_mesh(output_file_name, mesh_dict)
 
 end 
 
-
+### **** MAIN FUNCTION ****
 function main()
 
+    # aesthetic spacing
     println()
 
+    # define start/end date for search query
     start_date = "2018/01/01"
     end_date   = "2021/12/01"
 
+    # define core search strategy - no date filter
     core_search_nodate = "(\"health information exchange\"[majr]) AND English[language] NOT Editorial[pt] NOT Letter[pt]" 
+
+    # refined search to only focus on systematic reviews using subset (SB) flag
     core_search_onlyReviews = "$core_search_nodate AND English[language] AND (Systematic[sb])"
 
+    # define health equity terms to include in search
     health_equity_terms = "(\"Health Knowledge, Attitudes, Practice\"[mh] or healthdisparities[sb])"
 
+    # remove COVID-19 (general) articles using LitCGeneral filter
     core_search_noCovid = "($core_search_nodate) NOT LitCGeneral[filter]"
+
+    # search with dates
     core_search_noCovid_datelimits = "($core_search_noCovid AND English[language] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat]))" 
+    
+    # Health Equity search
     core_search_noCovid_healthequity = "($core_search_noCovid AND English[language] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat])) AND $health_equity_terms"
     
+    # COVID-19 search
     core_search_yesCovid_datelimits = "($core_search_nodate) AND English[language] AND LitCGeneral[filter] NOT (Systematic[sb] OR Review[pt]) AND ($start_date:$end_date[pdat]))"
     
-
+    # define minimum count for MeSH descriptor tabulations
     top_count = 5 
 
+    # create results directory
     result_dir = "results"
     if !isdir(result_dir)
         mkdir(result_dir)
     end
-
-    #query_term = "(\"health information exchange\"[majr] AND ($start_date:$end_date[pdat])) NOT Systematic[sb] NOT LitCGeneral[filter]"
 
     #***
     #*** only reviews (exclude COVID-19 papers)
@@ -244,7 +248,7 @@ function main()
 
 
     #***
-    #*** 
+    #*** Health Equity search
     #***
 
     search_results, search_mesh_dict = runsearch(core_search_noCovid_healthequity)
@@ -269,7 +273,6 @@ function main()
 
     close(output_file)
 
-    #println(search_results)
 
     #***
     #*** retrieve articles for top x occuring mesh descriptors
@@ -298,14 +301,12 @@ function main()
 
         println("$rank_count >> $count | $descriptor")
         subset_query = "$core_search_noCovid_datelimits AND \"$descriptor\"[mh:noexp]"
-        #println("  ==> $subset_query")
 
         search_results, search_mesh_dict = runsearch(subset_query)
         desc_spaced = replace(descriptor, " " => "_")
         output_file = open("$result_dir/hie_top$(rank_count)_$desc_spaced-medline.txt", "w")
         print(output_file, search_results)
         close(output_file)
-        
 
     end
 end
